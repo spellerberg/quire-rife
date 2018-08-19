@@ -23,6 +23,3 @@ Rife married twice. He abandoned his first wife after only a few days of married
 Rife received several grants of land from the State of Texas but he quickly sold the land claims for small sums and when he died at the age of 71 he left his widow impoverished.
 
 Thomas Rife was a heroic figure who lived during the heroic period of Texas history but he did not attract the attention of historians. Only a handful of the hundreds of studies of the early history of Texas even mention his name and none detail his remarkable life or his influence on the Alamo myth. The authors, his great-great grandsons, hope that this short volume will remedy that.
-
-
-records, copies in Thomas Rife File, DRT Library at the Alamo, San Antonio, TX;  Affidavits, Mexican War Pension Application Files, 1887-1926.
