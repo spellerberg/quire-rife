@@ -4,9 +4,9 @@ weight: 100
 type: essay
 ---
 
-# South Carolina
+## South Carolina
 
-## Swiss Protestants immigrated to South Carolina.
+### Swiss Protestants immigrated to South Carolina.
 
 King Charles II of England granted the Province of Carolina to the Lords Proprietors in 1663 as a business enterprise. The eight English royalists founded Charles Town in 1680 as their new colony’s center of trade and culture and its port of entry. The colony attracted a number of settlers who farmed on the coastal plain in the vicinity of Charles Town. In 1733, the South Carolina General Assembly established eleven townships along major rivers of the coastal plain to encourage immigration to the interior of the province.[^1] Among these new townships were Orangeburg and Saxe-Gotha.[^2]
 
@@ -14,7 +14,7 @@ The first Swiss Protestants to arrive in South Carolina settled around Orangebur
 
 Partly as a result of the letter and the inducements offered by the British Crown, large numbers of Palatines (German-speaking Swiss Protestants) settled in Orangeburg, Congaree and Wateree Districts between 1740 and 1755.[^6] Between 1732 and 1744 at least eleven ships arrived in the Carolinas carrying Swiss immigrants. As late as 1765, six hundred refugee Protestants from two districts of south Germany and Switzerland (Palatine and Swabia) were sent from London to the townships in South Carolina set aside for them.[^7] It is likely that the ancestor of Thomas Rife settled in South Carolina during this period.[^8]
 
-## Saxe-Gotha Township was the frontier of European settlement.
+### Saxe-Gotha Township was the frontier of European settlement.
 
 During the Cherokee War of 1759-1761 many of the settlers in Saxe-Gotha Township fled for safety to the towns of Ebenezer and Savannah in the colony of Georgia and to Charles Town and Purrysburg (a settlement on the coast) in South Carolina 9(458, pp. 88, 231-236). Some of the Swiss settlers never returned to their homes in Saxe-Gotha. Some were killed during the war and others moved north to Pennsylvania where conditions were safer and there were established schools and churches 10(787, pg. 14).
 
