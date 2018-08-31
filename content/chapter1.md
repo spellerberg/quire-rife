@@ -34,12 +34,7 @@ After the capture of Charles Town, the British army and its Tory militia marched
 
 ###Peter Chambliss married the widow Rife.
 
-In the 1790-1792 Federal Census, Conrod Rife was listed as living alone with one slave on a farm near Sandy Run in Orangeburg District.[^25] Sandy Run is a stream about eleven miles south of the Fall Line on the Santee/Congaree River in the old Saxe-Gotha Township. The 1790 Census does not clearly show the location of Rife’s farm but its location was determined by comparing names in the 1790 and 1800 Federal Census. In 1800, the twenty families living along Sandy Run were a German-speaking community of 119 adult men, 101
-
-
-renumber sources
-
- adult women, 260 children and 107 slaves.[^26]
+In the 1790-1792 Federal Census, Conrod Rife was listed as living alone with one slave on a farm near Sandy Run in Orangeburg District.[^25] Sandy Run is a stream about eleven miles south of the Fall Line on the Santee/Congaree River in the old Saxe-Gotha Township. The 1790 Census does not clearly show the location of Rife’s farm but its location was determined by comparing names in the 1790 and 1800 Federal Census. In 1800, the twenty families living along Sandy Run were a German-speaking community of 119 adult men, 101 adult women, 260 children and 107 slaves.[^26]
 
 In the 1800 Federal Census, Mary Rife was enumerated as living on the farm near Sandy Run in Lexington County, Orangeburg District that Conrod Rife occupied in 1790. In that year, she was listed as a widow with four children and two slaves; two boys and a girl less than ten years of age and one girl described as 10-15 years old. Genealogies list the two boys as William, born in 1795, and Jacob, born in 1798. The authors found no record of Conrod Rife after 1790, so it is presumed that he died before 1800.
 
@@ -164,6 +159,7 @@ A June 15, 1858 newspaper story about Lavaca County mentioned that Dr. Chambliss
 
 In the Census of 1860 only Nathaniel, his wife and their 16-year-old son remained at home.[^143] His two daughters married in 1856 and 1858.[^144] While Nathaniel from all appearances was a wealthy man, he was in reality deeply in debt. On May 16, 1859 his financial condition worsened. He was forced to mortgage 751 acres, all cotton produced on the land and the fifteen slaves who worked the fields to Tarleton, Whiting and Tullis, a New Orleans firm of cotton buyers or factors.[^145] Two years later on March 19, 1861 he took out a second mortgage on one of these tracts (320 acres and 4 slaves) from Josiah Dowling, a local resident and acquaintance of Chambliss, for $2,218.47.[^146] The coming Civil War bankrupted most Southern planters and Nathaniel was unable to pay back the money he had borrowed.
 
+
 ##4. The Civil War
 
 ###Nathaniel Chambliss supported the Rebellion.
@@ -195,6 +191,7 @@ Thirty years after his service in the War of Independence of Texas, now impoveri
 In early July 1868 Nathaniel Chambliss died and on July 9, 1868 his son-in-law, Leonidas Hudspeth, (Martha’s husband) was named administrator of the estate. This was a period of great financial stress and many plantations were idle. The estate remained in the Probate Court of Lavaca County over four years because it was bankrupt.[^175] To pay the estate’s outstanding debts, all assets were sold except the widow’s homestead of 200 acres. The land-grant tract of 640 acres in Erath County was sold for $192 (30 cents per acre).[^176]
 
 In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician in charge of the City Hospital of Houston. He examined his wife’s uncle, old Samuel Lee Chambliss, and declared him to be disabled due to his war wounds.[^177] On July 2, 1874 Samuel L. Chambliss was granted a state pension for his service in the Texas War of Independence in 1836.[^178] A bill passed by the Legislature on July 28, 1876 for relief of Texas veteran pensioners, led Samuel Chambliss to swear that he was, on August 30, 1879, indigent and unable to support himself. He stated that he owned only his horse valued at $50 and a cow and calf valued at $20. In lieu of a pension he received a Republic Donation Voucher for 1280 acres for his service in the War for Texas Independence.[^179]
+
 
 ##Notes for Ancestors of Thomas Rife
 
