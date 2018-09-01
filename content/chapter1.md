@@ -349,7 +349,7 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^102]: Affidavits of Witness’, Mexican War Pension Application
 [^103]: Muir, Texas in 1837, 165; White, *First Settlers of Washington County, Texas,* (St. Louis, G. White, 1986), 2
 [^104]: John Lott, Land Grant, Montgomery County Clerk Returns, 1st Class Certificate #78, GLO
-[^105]: County Deed Records, Book D, 102, Washington County Clerks Office, Brenham, TX; (532) Washington County, Texas Deed Abstracts Vol. 1, Republic of Texas and the State of Coahuila and Texas (Mexico), 99
+[^105]: County Deed Records, Book D, 102, Washington County Clerks Office, Brenham, TX; Washington County, Texas Deed Abstracts Vol. 1, Republic of Texas and the State of Coahuila and Texas (Mexico), 99
 [^106]: Winfield, *All Our Yesterdays: A Brief History of Chappell Hill,* 2
 
 ####Nathaniel Chambliss was a man of means.
@@ -417,7 +417,7 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^157]: Lt. Col. Samuel Lee Chambliss Record, 13th Battalion, Louisiana, (Partisan Rangers), Compiled Service Records of Confederate Soldiers who served from the State of Louisiana, M320, RG 109, Roll 26
 [^158]: Samuel L. Chambliss, Republic Pension Files, Republic Pension Records, Texas Comptroller’s Office claims records. ARIS-TSLAC, 374-5; Samuel L. Chambliss, Republic Donation Voucher, file # 1319, GLO; Bearss, *The Campaign for Vicksburg,* 1200
 
-####After the War conditions in many parts of the Old South remained chaotic.
+####After the War conditions many parts of the Old South were in chaos. 
 
 [^159]: William L. Richter, *The Army in Texas During Reconstruction: 1865-1870,* (College Station: Texas A&M University Press, 1987), 34
 [^160]: Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* Vol. 1: 478
