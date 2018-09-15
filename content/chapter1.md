@@ -4,9 +4,9 @@ weight: 100
 type: essay
 ---
 
-##South Carolina
+## South Carolina
 
-###Swiss Protestants immigrated to South Carolina.
+### Swiss Protestants immigrated to South Carolina.
 
 King Charles II of England granted the Province of Carolina to the Lords Proprietors in 1663 as a business enterprise. The eight English royalists founded Charles Town in 1680 as their new colony’s center of trade and culture and its port of entry. The colony attracted a number of settlers who farmed on the coastal plain in the vicinity of Charles Town. In 1733, the South Carolina General Assembly established eleven townships along major rivers of the coastal plain to encourage immigration to the interior of the province.[^1] Among these new townships were Orangeburg and Saxe-Gotha.[^2]
 
@@ -14,13 +14,13 @@ The first Swiss Protestants to arrive in South Carolina settled around Orangebur
 
 Partly as a result of the letter and the inducements offered by the British Crown, large numbers of Palatines (German-speaking Swiss Protestants) settled in Orangeburg, Congaree and Wateree Districts between 1740 and 1755.[^6] Between 1732 and 1744 at least eleven ships arrived in the Carolinas carrying Swiss immigrants. As late as 1765, six hundred refugee Protestants from two districts of south Germany and Switzerland (Palatine and Swabia) were sent from London to the townships in South Carolina set aside for them.[^7] It is likely that the ancestor of Thomas Rife settled in South Carolina during this period.[^8]
 
-###Saxe-Gotha Township was the frontier of European settlement.
+### Saxe-Gotha Township was the frontier of European settlement.
 
 During the Cherokee War of 1759-1761 many of the settlers in Saxe-Gotha Township fled for safety to the towns of Ebenezer and Savannah in the colony of Georgia and to Charles Town and Purrysburg (a settlement on the coast) in South Carolina.[^9] Some of the Swiss settlers never returned to their homes in Saxe-Gotha. Some were killed during the war and others moved north to Pennsylvania where conditions were safer and there were established schools and churches.[^10]
 
 After their defeat, the Cherokee ceded some of their lands east of the Blue Ridge Mountains to the settlers and moved their towns further west.[^11] This opened a large area of land in the Piedmont Plateau and the adjacent low country that attracted land speculators and settlers from existing settlements to the north of South Carolina. During the French and Indian Wars settlers from Virginia began moving south looking for cheap and secure land.[^12] A fork on the Great Wagon Road crossed the northern part of Saxe-Gotha Township and Scots-Irish families from Virginia and Pennsylvania settled in the district in the generation just prior to the American Revolution.[^13]
 
-###Conrod Rife and Peter Chambliss fought in the Revolutionary War.
+### Conrod Rife and Peter Chambliss fought in the Revolutionary War.
 
 In 1775, as a result of conflicts over taxes and governance, a revolutionary government was established in Charles Town. Although many Carolinians still supported the British Crown, the Royal Governor left the colony and South Carolina declared itself an independent state on July 4, 1776. Events in the Northern colonies soon led to the American Revolution.[^14]
 
@@ -32,7 +32,7 @@ In 1780, Peter Chambliss lived in Camden District, South Carolina, upstream of S
 
 After the capture of Charles Town, the British army and its Tory militia marched towards Virginia where they launched an unsuccessful invasion of the middle Atlantic colonies. Eventually the British army surrendered at Yorktown, Virginia in October 1781 and the last British troops left Charles Town in December 1782.[^24]
 
-###Peter Chambliss married the widow Rife.
+### Peter Chambliss married the widow Rife.
 
 In the 1790-1792 Federal Census, Conrod Rife was listed as living alone with one slave on a farm near Sandy Run in Orangeburg District.[^25] Sandy Run is a stream about eleven miles south of the Fall Line on the Santee/Congaree River in the old Saxe-Gotha Township. The 1790 Census does not clearly show the location of Rife’s farm but its location was determined by comparing names in the 1790 and 1800 Federal Census. In 1800, the twenty families living along Sandy Run were a German-speaking community of 119 adult men, 101 adult women, 260 children and 107 slaves.[^26]
 
@@ -42,23 +42,23 @@ In March 23, 1801 Polly (Mary) Rife claimed 67 acres of land in the Congaree Swa
 
 In 1785, Peter Chambliss also received a land grant as a Revolutionary War veteran.[^29] In the 1800 Federal Census, he was enumerated in Lexington County on the Edisto River not far from the Rife farm on Sandy Run.[^30] He was married, had two sons (Peter Corbin, aged 10 and John, aged 8), a girl (Elizabeth, aged 4) and three slaves. His wife was probably Mary Elizabeth Corbin who was born in 1771 and died in 1798.[^31] By the date the census was taken he may have been courting his third wife, the widow Mary Rife.
 
-##2. Louisiana and Mississippi
+## Louisiana and Mississippi
 
-###Peter Chambliss joined the migration from the Carolinas to the Mississippi Territory.
+### Peter Chambliss joined the migration from the Carolinas to the Mississippi Territory.
 
 As more and more settlers cleared land in the Up Country (in the Piedmont above the Fall Line) the Santee, Congaree and Wateree Rivers began to flood in the spring and run low in the summer. Poor farming methods and spring floods caused extensive erosion in the Up Country of South Carolina and low water in the Low Country. The fluctuating river level damaged rice plantations on the lower Santee River where there was a large community of French-speaking planters. Typically the Upland settlers were not producing any crops for export; before 1800 they marketed beef, pork, staves and shingles.[^32] After the invention of the cotton gin in 1793, most farmers began to export cotton, although rice continued to be planted in the Low Country along the Atlantic coast.[^33] The success of cotton profoundly changed the South. Cotton became the dominant crop and its success encouraged many farmers to migrate westward to Mississippi Territory seeking better land.[^34]
 
 Peter Chambliss and his family were first enumerated in the Mississippi Territory in 1805. Eight children were living at home in addition to 10 slaves.[^35] Jefferson County Tax Records show that $11.90 in taxes was paid on 440 acres in 1807.[^36] The two Rife girls had already married and left their parent’s home. William Rife’s half-sister Elizabeth married in 1813 and his half-brother Peter C. married in 1815.[^37] These were the oldest of the Chambliss children and they were the first to marry and leave home.
 
-###The children of Peter Chambliss left Jefferson County.
+### The children of Peter Chambliss left Jefferson County.
 
 When Peter Chambliss moved to southwestern Mississippi, the First Choctaw Session was the only US-held territory west of Georgia that did not belong to one of the Indian Nations. Greenville City was a new American settlement and the county seat of Jefferson County. The nearest established market towns were Natchez to the south and Port Gibson to the north.[^38]
 
 Americans continued to arrive in such large numbers that by 1830 many planters came to believe that there was no longer enough available land in southwestern Mississippi to accommodate the next generation. Many left the area in groups of related families seeking new land elsewhere. After Peter Chambliss died in 1828, most of his sons and stepsons moved north up the Mississippi River to what was then a wilderness that became Carroll Parish, Louisiana. The oldest son, Peter Corbin Chambliss, inherited the family farm in Jefferson County and stayed in Mississippi. Another son, Samuel, returned to Jefferson County from Carroll Parish after 1836 and farmed in Jefferson County until at least 1850 when he returned to Carroll Parish.[^39] The younger sons of Peter Chambliss all moved to Lake Providence before 1834.
 
-###William Rife and his wife were the first of the Chambliss family to move to Lake Providence.
+### William Rife and his wife were the first of the Chambliss family to move to Lake Providence.
 
-When William Rife was 17-years old he left home briefly to serve with the Territorial Militia during the War of 1812 as a Private in Col. Peter Perkin’s 7th Regiment.[^40] He returned to his stepfather’s farm in Jefferson County after the war ended and appeared as an unmarried head of household with 2 slaves (and no land) on the tax rolls for 1817.[^41] On October 28, 1819, when he was 24-years old, William Rife married Martha Jane Collins (who was born ~1805 in Kentucky) in Jefferson County, Mississippi.[^42] In 1820 he and his wife were living near Greenville City with two slaves (a man and a woman). He was a farmer as were most of his neighbors.[^43]
+When William Rife was 17-years old he left home briefly to serve with the Territorial Militia during the War of 1812 as a Private in Col. Peter Perkin’s 7th Regiment.[^40] He returned to his stepfather’s farm in Jefferson County after the war ended and appeared as an unmarried head of household with 2 slaves (and no land) on the tax rolls for 1817.[^41] On October 28, 1819, when he was 24-years old, William Rife married Martha Jane Collins (who was born about 1805 in Kentucky) in Jefferson County, Mississippi.[^42] In 1820 he and his wife were living near Greenville City with two slaves (a man and a woman). He was a farmer as were most of his neighbors.[^43]
 
 William Rife did not appear on the tax rolls for 1821 because he had left Jefferson County and moved his family to Lake Providence in northeastern Louisiana. In 1823, William and Martha Jane Rife’s first child, Thomas, was born in Ouachita Parish, Louisiana.[^44] William Rife lived on this farm on Lake Providence for less than eight years. In the 1830 census, his family was enumerated in the Princeton neighborhood of Washington County, Mississippi, across the river from Ouachita Parish, Louisiana.[^45]
 
@@ -68,28 +68,28 @@ In January 1842 the older of the two daughters of William and Martha Rife, Mary 
 
 When William Rife Sr. passed away, he was buried near the present town of Greenville, Mississippi.[^51] His death left no adult white men on the farm. William’s brother, Jacob, had returned to South Carolina prior to 1840[^52] and the oldest son, Thomas, left home for Texas prior to 1838.[^53] William’s widow and her remaining unmarried daughter moved into her son-in-law’s home in Carroll Parish.
 
-###The children of William Rife moved to Issaquena County, Mississippi.
+### The children of William Rife moved to Issaquena County, Mississippi.
 
 Martha Jane Rife, William’s widow, died in Carroll Parish in 1853, probably in the home of Lawrence Wade, her son-in-law and guardian.[^54] In May 1853, her remaining unmarried daughter, Martha Ann, married William Sibley. He was a descendant of Richard Albritton of South Carolina and hailed from the locally famous Sibley family that had moved en masse to far western Louisiana between 1835 and 1837.
 
 Like the Sibley family, William Rife and his siblings left southwestern Mississippi because they believed there was not enough land for them.[^55] William W. Rife Jr. returned from school to the village of Providence in 1855[^56] and by 1860 was employed as the Deputy Court Recorder at the Carroll Parish Courthouse in the village of Floyd.[^57]
 
-###Nathaniel and Samuel Chambliss grew up in Louisiana and Mississippi.
+### Nathaniel and Samuel Chambliss grew up in Louisiana and Mississippi.
 
 In 1823 William Rife’s first son, Thomas Collins Rife, was born near the village of Lake Providence in what is today East Carroll Parish, Louisiana.[^58] The settlement at Lake Providence was located on the natural levee on the south bank of Lake Providence, an ox-bow lake,  about eight miles west of the Mississippi River. When William Rife moved his family there, it was new country and a wilderness but by 1848 there were as many as twenty-five large cotton plantations within three miles of the village.[^59] The flat, low-lying and often flooded land was ideally suited to growing cotton.[^60]
 
 Although most of the sons of Peter Chambliss eventually followed William Rife to what became Carroll Parish, William did not remain there. Driven again, perhaps by the haunting promise of new country, he moved his family back across the Mississippi River to the wilderness of the Mississippi Delta. The family’s new home was about thirty miles upstream of Lake Providence. Fast and easy transportation provided by Mississippi River steamboats enabled the family to maintain close connections with their relatives in Carroll Parish. Nathaniel and Samuel Chambliss had moved to Carroll Parish and they and most of their brothers established plantations there. These two men were half-brothers of Thomas Rife’s father.
 
 
-##3. The Republic of Texas
+## The Republic of Texas
 
-###Nathaniel and Samuel Chambliss influenced Thomas Rife to go to Texas.
+### Nathaniel and Samuel Chambliss influenced Thomas Rife to go to Texas.
 
 The westward movement of planters continued into the next generation when a number of Rife, Chambliss, Wade and Sibley descendants moved to Texas to the agricultural limits of the Cotton Kingdom.[^61] Two uncles of Thomas Rife (Nathaniel and Samuel Chambliss) and one aunt (Martha Bell) went to Texas. Another died in Texas in 1864 as a refugee during the Civil War. At least four children of Peter Chambliss moved to Texas. With the exception of Nathaniel Chambliss, these families moved to Texas after the Civil War when there was a general movement of impoverished planters from the Old South.[^62] Like most settlers of this period, they went to Texas as economic refugees and land speculators.
 
 The fifth child of Peter Chambliss was Nathaniel Chambliss, born in 1802 in South Carolina. Samuel Lee Chambliss was the tenth child in the family. He was a volunteer soldier in the Texas war for independence in 1836. After the Texas war, he lived in Louisiana and Mississippi for a time then returned to Texas in 1867 and died in Navarro County, Texas in 1876. His experience in Texas undoubtedly influenced his older brother Nathaniel and his young nephew, Thomas Rife, as well as other men, to move to Texas.
 
-###Samuel Chambliss joined the fight for Texas independence.
+### Samuel Chambliss joined the fight for Texas independence.
 
 After the Texas revolution began in 1836, hundreds of young men from the American states rushed to Texas to join the fight. American volunteers formed the majority of the Texas army[^63] and probably only twenty percent of the men of the Texas army that fought at San Jacinto were residents of Texas. The other soldiers were young men who came to Texas to “fight for their country”.[^64] One of these men was Tom Rife’s uncle, Samuel Lee Chambliss.
 
@@ -101,23 +101,23 @@ During the fight, Samuel was wounded in his right arm. His companions removed th
 
 While he was at Fort Jessup, a musket ball was removed from Chambliss’ thigh. He had been wounded in a fight on the Upper Colorado River a month or two before. He was then ordered by General Houston to go to Vicksburg, Mississippi to deliver messages and to raise a battalion of cavalry. Subsequently, Houston asked Chambliss to encourage men to come to Texas as settlers. Towards that end, in the late summer and fall of 1836, Chambliss delivered speeches before gatherings in Jefferson, Warren and Claiborne Counties in Mississippi to encourage farmers to move to Texas.[^70]
 
-###Samuel Chambliss returned to the United States after the Texas Revolution.
+### Samuel Chambliss returned to the United States after the Texas Revolution.
 
 Samuel was furloughed from the Texas army at Nacogdoches in October 1836[^71] along with the majority of the army.[^72] He received a discharge paper that he lost in 1862 or 1863 when, according to Chambliss, “our house in Louisiana was broken into by force by the Federal Army and said Discharge and letters with my library were destroyed”.[^73] In the fall of 1836, Samuel Chambliss returned to Carroll Parish where he recovered from his wounds.[^74] He then returned to Jefferson County, Mississippi where he may have inherited land.  He and Jane T. Scott had married in 1833. They settled down to raise a family and to operate a plantation, growing cotton with ten slave laborers.[^75] By 1860 he owned 116 slaves and was living in Carroll Parish.[^76]
 
 Samuel told war stories to friends and family upon his return home. His audience included his older brother, Nathaniel, and his nephew, Tom Rife. Samuel must have extolled the agricultural potential of Washington County, Texas; an area with which he was familiar. The availability of good, cheap land influenced his brother Nathaniel to move to Texas in 1838. Nathaniel had already outlived two wives and may have been seeking a healthier climate. Like many other farmers, he may have been escaping financial trouble caused by the Panic of 1837. Young Tom, who never wanted to be a farmer, may have been attracted by the prospect of war and Indian fights.
 
-###Farmers from the Old South immigrated to Texas after 1836.
+### Farmers from the Old South immigrated to Texas after 1836.
 
 There were three principal routes leading to Texas in 1838. Perhaps the most common was by ship from New Orleans via the Gulf of Mexico to Galveston or a landing on the Gulf coast.[^77] The usual overland route was by steamer up the Red River to Natchitoches and then along the Old Spanish or San Antonio Road (El Camino Real) through to Nacogdoches in Texas.[^78] Settlers traveling this road passed through the largely uninhabited Neutral Ground in western Louisiana, crossed the Sabine River at Gain’s Ferry and passed through the villages of San Augustine and Nacogdoches. There they bought corn from already established farmers.[^79]  The best route for wagons was said to be through San Augustine, Nacogdoches, Washington-on-the-Brazos, and Columbus and then on to the Lavaca River and Spring Hill.[^80] Samuel Chambliss was familiar with the Old Spanish Road and he probably recommended that route to Nathaniel as the safest and easiest way to reach Texas. A third, less commonly used route, the Opelousas Road, went overland through southwestern Louisiana.[^81]
 
 Large numbers of emigrants traveled overland to Texas after the battle of San Jacinto in ox-carts, in wagons, on foot and on horseback. Many were encouraged to immigrate to Texas between 1837 and 1841 with the promise of a 640-acre head-right. Prior to the American Revolution, some British colonies on the Atlantic coast offered a head-right of either fifty or 100 acres, either to the immigrant himself or the immigrant’s sponsor.[^82] After the American Revolution all land west of the thirteen original states became the property of the Federal government, which did not continue the practice of giving a head-right to new arrivals to its territories. Most prospective Texas settlers came from states or territories that offered settlers no free land other than soldier’s bounties.[^83]
 
-A growing number of farmers in the southern states were in search of better, cheaper land[^84] and Texas river bottomland was known to be fertile and suitable for cotton.[^85]  Men such as Samuel Chambliss, who had traveled to Texas during the Texas War for Independence, spoke impressively about the agricultural potential of the Republic. What attracted their attention were the board river valleys of the Sabine, Neches, Trinity, Brazos and the Colorado Rivers.[^86]
+A growing number of farmers in the southern states were in search of better, cheaper land[^84] and Texas river bottomland was known to be fertile and suitable for cotton.[^85]  Men such as Samuel Chambliss, who had traveled to Texas during the Texas War for Independence, spoke impressively of the agricultural potential of the Republic. What attracted their attention were the board river valleys of the Sabine, Neches, Trinity, Brazos and the Colorado Rivers.[^86]
 
 The Texas Congress levied few taxes and financed government operations by issuing government paper and land certificates.[^87] As a result, land certificates were cheap and plentiful.[^88] A land certificate, whether it was soldier’s scrip or a head-right, gave the holder the right to claim a given amount of vacant land anywhere in the public domain. Since the high cost of locating, surveying and patenting the land had to be paid by the prospective settler before he could receive title,[^89] many new emigrants found it advantageous to rent or to lease land from speculators rather than making a land claim based a land certificate.[^90]
 
-###Nathaniel Chambliss settled in Washington County in 1838.
+### Nathaniel Chambliss settled in Washington County in 1838.
 
 It is unclear when Thomas Rife came to Texas. He may have accompanied his uncle, Nathaniel Chambliss, when Nathaniel moved from Carroll Parish to Washington County, Texas in 1838.[^91] There was a great deal of migration to Texas immediately after becoming a republic although the pace of new arrivals slowed following the Panic of 1837.[^92]  The Panic was followed by a lengthy recession that affected Texas as well as the United States and cotton prices fell by 50%, bankrupting many businesses, including planters.
 
@@ -125,13 +125,13 @@ It was said that the same qualities of daring, bravery, reckless abandon and hea
 
 Many of the young men who came to Texas were simply looking for adventure and excitement.[^96] While young Thomas Rife fit this description, Nathaniel Chambliss did not. He was an older man accustomed to owning and managing property. He was married and well established in his community.[^97] He was a planter who was drawn to the opportunities presented by the opening of Texas to American settlement. The land in Washington County that bordered the creeks was considered among the best agricultural land in Texas[^98] and that is where Nathanial Chambliss settled.
 
-###Thomas Rife arrived in east Texas before 1842.
+### Thomas Rife arrived in east Texas before 1842.
 
 Before leaving Louisiana, Nathaniel, on May 13, 1838, married his third wife, Caroline Hale, who was twenty years his junior.[^99] Between June 1838 and May 23, 1839, Nathaniel and his entourage arrived in Washington County.[^100] William Lytle, a blacksmith, arrived in Washington-on-the-Brazos from Tennessee with his wife and son Samuel on December 15, 1838[^101] and eleven-year-old Samuel Lytle met Tom Rife in 1842.[^102] Their paths crossed many times over the course of their long lives in southwest Texas.
 
 Nathaniel probably rented land for his first two years in Texas. New arrivals to Texas after March 2, 1836 rented land because “original Texians” (those who resided in the Republic on the date of the Declaration of Independence) had preference in the matter of locating their head-rights.[^103]  On February 11, 1840 Nathaniel bought 840 acres for the sum of $2,000 from John Lott, an early settler.[^104] This land, on New Years Creek in Washington County, was part of the Mexican land grant of Samuel R. Miller.[^105] Nathaniel paid $2.38 per acre for what must have been a working farm. It was in the Brazos watershed and was considered some of the richest agricultural land in the State.[^106] The farm was a mix of undeveloped woodland and prairie with a small cleared field and a cabin.
 
-###Nathaniel Chambliss was a man of means.
+### Nathaniel Chambliss was a man of means.
 
 Nathaniel and Caroline’s new home was two miles from Chappell Hill and six miles from both Washington and Independence.[^107] The village of Washington was, at that time, the seat of government of the Republic. His oldest daughter, Mary Rutledge, stated that she often rode behind her father in 1843 into Washington on horseback.[^108] Chambliss was a man who shouldered his responsibilities to his neighbors and served wherever he was needed to maintain a civil society in Texas.[^109] Mary, in 1919, wrote, “Our home was the rendezvous of many of our great men. Among the number were Houston, Rusk, Burleson, Wharton, Lamar and others well known at that time…”.[^110] As time would tell, Nathaniel was not a successful land speculator.
 
@@ -139,9 +139,9 @@ A provision of an act of the Congress of the Republic of Texas on January 4, 183
 
 The tax rolls of 1840 suggest that Nathaniel was a man of means. He owned a carriage, a clock and four slaves, all taxable luxuries at that time.[^113] Although the records are incomplete, tax rolls from 1840 show only forty carriages in the Republic with twenty-two owned by individuals in Washington County.[^114] Chambliss paid a tax of  $4 for his carriage as well as the tax on four slaves.[^115]
 
-###The war with Mexico began again in 1842.
+### The war with Mexico began again in 1842.
 
-In March of 1842 the Republic of Texas was again at war with Mexico.[^116] Texas President Mirabeau Lamar, despite the opposition of Congress, sent a military expedition to Santa Fé in Mexican-held New Mexico.[^117]  Mexican President Antonio López de Santa Anna responded by sending a similar expedition to west Texas.[^118] On March 5-7, 700 Mexican soldiers under General Rafael Vásquez occupied San Antonio.[^119] In response to this invasion, Nathaniel Chambliss joined Capt. Samuel Bogart’s Company of the Southwestern Army of the Republic of Texas, 1st Regiment.[^120]
+In March of 1842 the Republic of Texas was again at war with Mexico.[^116] Texas President Sam Houston, despite the opposition of Congress, sent a military expedition to Santa Fé in Mexican-held New Mexico.[^117]  Mexican President Antonio López de Santa Anna responded by sending a similar expedition to west Texas.[^118] On March 5-7, 700 Mexican soldiers under General Rafael Vásquez occupied San Antonio.[^119] In response to this invasion, Nathaniel Chambliss joined Capt. Samuel Bogart’s Company of the Southwestern Army of the Republic of Texas, 1st Regiment.[^120]
 
 On June 3, 1843, Moses Park was given a Power-of-Attorney to act as Nathaniel’s agent at the county seat of Mt. Vernon during Nathaniel’s absence from the Republic.[^121] Many prudent Texans left the region west of the Colorado River during this period. East Texas, including Washington County, was considered quite safe from any Mexican invasion force.[^122] Nathaniel may have returned to the neighborhood of Lake Providence to manage his affairs there since he patented land at the Ouachita Land Office as late as 1846, ten years after he moved to Texas.
 
@@ -149,7 +149,7 @@ Nathaniel Chambliss served as a trustee for his church and road overseer for the
 
 A bill enacted in 1841 laid out procedures to swear, with witnesses, to the continued residence of conditional land certificate holders for the purpose of converting conditional certificates to unconditional certificates.[^129] Nathaniel’s Class 3 Certificate granted on May 23, 1838 required a three-year residence in Texas before it could be deemed unconditional. Nathaniel Chambliss completed the residence requirement and was issued an Unconditional Certificate in Washington County for 640 acres of land on February 26, 1849.[^130]
 
-###Nathaniel Chambliss moved his family to Lavaca County.
+### Nathaniel Chambliss moved his family to Lavaca County.
 
 Before 1850 Nathaniel Chambliss sold his farm in Washington County and moved to Lavaca County.[^131] He continued to serve in public office and prospered after his move to Lavaca County. In 1851 he received his long delayed pay for military service during the Vásquez campaign of 1842[^132] and in the spring of 1853 he registered a cattle brand and purchased a cotton gin.[^133] The following year he used his head-right certificate to patent 640 acres in Erath County 250 miles from his home.[^134] He probably never visited the land[^135] and it was sold at auction after his death.[^136]
 
@@ -160,9 +160,9 @@ A June 15, 1858 newspaper story about Lavaca County mentioned that Dr. Chambliss
 In the Census of 1860 only Nathaniel, his wife and their 16-year-old son remained at home.[^143] His two daughters married in 1856 and 1858.[^144] While Nathaniel from all appearances was a wealthy man, he was in reality deeply in debt. On May 16, 1859 his financial condition worsened. He was forced to mortgage 751 acres, all cotton produced on the land and the fifteen slaves who worked the fields to Tarleton, Whiting and Tullis, a New Orleans firm of cotton buyers or factors.[^145] Two years later on March 19, 1861 he took out a second mortgage on one of these tracts (320 acres and 4 slaves) from Josiah Dowling, a local resident and acquaintance of Chambliss, for $2,218.47.[^146] The coming Civil War bankrupted most Southern planters and Nathaniel was unable to pay back the money he had borrowed.
 
 
-##4. The Civil War
+## The Civil War
 
-###Nathaniel Chambliss supported the Rebellion.
+### Nathaniel Chambliss supported the Rebellion.
 
 In response to a call for a County Convention, a meeting was called on November 21, 1860 in Hallettsville to vote on the issue of secession from the Union. Abraham Lincoln, a man who many southerners suspected was an abolitionist, had just become President-Elect of the United States. Five hundred people attended the convention and heard speeches by six men including Nathaniel’s son-in-law, Benjamin F. Fly, an attorney. A resolution supporting secession was read and unanimously adopted.[^147] Delegates were elected to a Secession Convention in Austin and on February 1, 1861 Texas seceded from the Union. Two state military units were organized in Lavaca County on June 6, 1861. Oliver Searcy’s company included Samuel. L. Chambliss (Nathaniel’s only son) and S. Hudspeth (probably the brother of Nathaniel’s son-in-law) as privates.[^148]
 
@@ -176,13 +176,13 @@ As the Federal blockade of the Southern ports became more effective, manufacture
 
 In Carroll Parish, Louisiana, Nathaniel’s brother, Samuel Lee Chambliss, was appointed Lieutenant Colonel of the 13th Battalion, Louisiana Partisan Rangers in October 1862.[^156] He resigned his commission in April 1863 due to infirmity and “advanced age” although he was only 48 years old. He was examined by a physician and found to be suffering from emaciation and debility due to “exposure during the past winter.”[^157] Most of the plantations around Lake Providence were abandoned by the spring of 1863. In the spring of 1863 Confederate or Federal troops broke into Samuel’s house in Carroll Parish and destroyed his library.[^158]
 
-###After the War many parts of the Old South were in chaos.
+### After the War many parts of the Old South were in chaos.
 
 The Civil War completely disrupted life in Carroll Parish. Conflict between the US Army, freedmen and unrepentant ex-Confederates made life increasingly dangerous and troublesome in parts of Louisiana and Texas.[^159] The Mississippi River levee was breached and the whole region was flooded.[^160] The Parish was overrun by both Federal and Confederate troops[^161] and later became a training base for freedmen who enlisted in the US Army.[^162] The Army confiscated farms and placed them in the hands of freedmen under the supervision of Federal officials.[^163]
 
-Taxes increased[^164] and the price of the region’s main commodity, cotton, began a slow decline that continued for the next fifty years.[^165] In a letter to his uncle Jacob Rife (William Rife’s brother in South Carolina), stated “I have lost all the money I had at the close of the war experimenting with freedman labor...We are the poorest people you ever saw and getting worse every day”.[^166] Most white families fled the area either during or after the War[^167] and by 1866 the three younger Rife children had all moved from Louisiana to Issaquena County in the Mississippi Delta.[^168] William Sibley and his wife and family also moved to Issaquena County. Martha Ann died there in 1865.
+Taxes increased[^164] and the price of the region’s main commodity, cotton, began a slow decline that continued for the next fifty years.[^165] In a letter to his uncle Jacob Rife (William Rife’s brother in South Carolina), Lawrence Wade stated “I have lost all the money I had at the close of the war experimenting with freedman labor...We are the poorest people you ever saw and getting worse every day”.[^166] Most white families fled the area either during or after the War[^167] and by 1866 the three younger Rife children had all moved from Louisiana to Issaquena County in the Mississippi Delta.[^168] William Sibley and his wife and family also moved to Issaquena County where  Martha Ann died in 1865.
 
-In 1869 William Rife J.r moved fifty miles north to Bolivar County and purchased part of the former plantation of General Vick near the village of Bolivar. In 1870 Lawrence Wade, his wife and four children were still in Issaquena County but by 1873 he had moved to the 500-acre former Vick plantation where he partnered with his brother-in-law, William Rife, Junior.[^169]
+In 1869 William Rife Jr. moved fifty miles north to Bolivar County and purchased part of the former plantation of General Vick near the village of Bolivar. In 1870 Lawrence Wade, his wife and four children were still in Issaquena County but by 1873 he had moved to the 500-acre former Vick plantation where he partnered with his brother-in-law, William Rife, Junior.[^169]
 
 Lawrence Wade died in 1875 and his widow died in 1888. Both are buried in Bolivar Mississippi on the former Vick plantation, which they called “Wadelawn”.[^170] Her younger brother, William Rife Jr. never married. He became a wealthy planter and respected businessman who maintained a close relationship with his sister Martha Ann and her husband.[^171] He also stayed in contact with his older brother, Thomas, who lived in Texas.[^172] William Rife Jr. died on April 14, 1908 and is buried in the Burrus Cemetery in Benoit, Mississippi.[^173]
 
@@ -193,11 +193,10 @@ In early July 1868 Nathaniel Chambliss died and on July 9, 1868 his son-in-law, 
 In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician in charge of the City Hospital of Houston. He examined his wife’s uncle, old Samuel Lee Chambliss, and declared him to be disabled due to his war wounds.[^177] On July 2, 1874 Samuel L. Chambliss was granted a state pension for his service in the Texas War of Independence in 1836.[^178] A bill passed by the Legislature on July 28, 1876 for relief of Texas veteran pensioners, led Samuel Chambliss to swear that he was, on August 30, 1879, indigent and unable to support himself. He stated that he owned only his horse valued at $50 and a cow and calf valued at $20. In lieu of a pension he received a Republic Donation Voucher for 1280 acres for his service in the War for Texas Independence.[^179]
 
 
-##Notes for Ancestors of Thomas Rife
 
-###1. South Carolina
 
-####Swiss Protestants immigrated to South Carolina.
+
+
 
 [^1]: A. S. Salley, Jr., *The History of Orangeburg, South Carolina,* (Baltimore: Regional   Publishing Company, 1969), 69-70
 [^2]: Daniel Marchant Culler, *Orangeburg District, 1768-1868: History and Records,* (Spartanburg, South Carolina: The Reprint Company Publishers, 1995), 7
@@ -207,17 +206,11 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^6]: I. Daniel Rupp, *A Collection of upwards of Thirty Thousand Names of German, Swiss, Dutch and French and other Immigrants in Pennsylvania from 1727 to 1776,* (Baltimore: Genealogical Publishing Company, 1965), 15; Salley, *The History of Orangeburg, South Carolina,* 43
 [^7]: Rupp, *A Collection of upwards of Thirty Thousand Names,* 15
 [^8]: J. H. Easterby, *Index to Wills of Charleston County, South Carolina: 1671-1868,* (Charleston: Charleston Free Library, 1950), Vol. 26: 527; Johannes Schombert Memorial, Memorials Vol. 7: 190, Roll ST 91, South Carolina Department of Archives and History, Columbia, SC
-
-####Saxe-Gotha Township was the frontier of European settlement.
-
 [^9]: Salley, *The History of Orangeburg, South Carolina,* 88, 231-6
 [^10]: Rupp, *A Collection of upwards of Thirty Thousand Names,* 14
 [^11]: Moreland Jones and Mary Bondurant Warren, abstractors, *South Carolina Immigrants, 1760 to 1770,* (Danielsville, GA: Heritage Papers, 1988), iii; Philip Mullins, *The Ancestors of George and Hazel Mullins,* (Austin: Privately Published, 1994), 7
 [^12]: Salley, *The History of Orangeburg, South Carolina,* 219
 [^13]: Culler, *Orangeburg District, 1768-1868: History and Records,* 3
-
-####Conrod Rife and Peter Chambliss fought in the Revolutionary War.
-
 [^14]: Salley, *The History of Orangeburg, South Carolina,* 255, 262
 [^15]: Bobby Gilmer Moss, *Roster of South Carolina Patriots in the American Revolution,* (Baltimore: Genealogical Publishing Co., Inc., 1983), 815; Conrod Rife’s Record, Revolutionary War Rolls 1775-1783, M246, Roll 89, War Department Collection of Revolutionary War Records, 1709-39, RG 93 NARA
 [^16]: Murtie June Clark, Compiler, *The Pension Lists of 1792-1795 with other Revolutionary War Pension Records,* (Baltimore: Genealogical Publishing Co. Inc., 1991), 147; Revolutionary War Rolls, 1775-1783, NARA, M246, Roll 89, War Dept. Collection of Revolutionary War Records, 1709-39, RG 93, NARA, Washington, DC
@@ -229,9 +222,6 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^22]: Compiled Service Records of Soldiers Who Served in the American Army During the Revolutionary War, M881, Roll 0884, NARA.
 [^23]: Moss, *Roster of South Carolina Patriots in the American Revolution,* 161
 [^24]: Salley, *The History of Orangeburg, South Carolina,* 526
-
-####Peter Chambliss married the widow Rife.
-
 [^25]: Conrad Rife, United States First Census (1790), Orangeburg, SC, Series M637, Roll 11
 [^26]: Mary Rife, United States Second Census (1800), Sandy Run, Orangeburg, SC, Series M32, Roll 49.
 [^27]: Polly Rife Plat, State Plats (Columbia series), Vol. 38: 295, Roll ST 586, South Carolina Department of Archives and History, Columbia, SC
@@ -239,62 +229,37 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^29]: Jackson, *Index to South Carolina Land Grants,* 1784-1800, 25
 [^30]: Peter Chambliss, United States Second Census (1800), Lexington County, Orangeburg District, South Carolina, Series M32, Roll 49; Peter Chambley, United States First Census (1790), Richland County, SC, Series M637, Roll 11
 [^31]: “Mississippi Court Records 1799-1835,”, 155, Peter Corbin Chambliss, www.ancestry.com, accessed December 22, 2013
-
-###2. Louisiana and Mississippi
-
-####Peter Chambliss joined Great Migration from the Carolinas to Mississippi Territory.
-
 [^32]: Salley, *The History of Orangeburg, South Carolina,* 220
 [^33]: Culler, *Orangeburg District, 1768-1868,* 14
-[^34]: Charles Lowery, “The Great Migration to the Mississippi Territory, 1798-1819”, Mississippi History Now, Mississippi Historical Society, www.mskhistorynow.mdakh.state.ms.us, accessed September 16, 2021
+[^34]: Charles Lowery, “The Great Migration to the Mississippi Territory, 1798-1819”, Mississippi History Now, Mississippi Historical Society, www.mskhistorynow.mdakh.state.ms.us, accessed September 16, 2012
 [^35]: Peter Chambliss, Mississippi, State and Territorial Census Collection, (1805), Jefferson County, Mississippi, V229.
 [^36]: Territorial Tax Rolls, 1807, Mississippi State Archives, Various Records, 1820-1951, Jefferson County, Box 138
 [^37]: Peter Corbin Chambliss, Mississippi1816 Territorial Census (1816), Jefferson County, Mississippi, V229, Roll 2; Peter Corbin Chambliss, United States Fourth Census (1820), Jefferson County, Mississippi, NARA Roll M33. Roll 58
-
-####The children of Peter Chambliss left Jefferson County.
-
 [^38]: Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton: Morningside House, 1985), Vol. 1: 481
 [^39]: Joseph Karl Menn, *The Large Slaveholders of Louisiana-1860,* (New Orleans: Pelican Publishing Co., 1964), 175
-
-####William Rife and his wife were the first of the Chambliss family to move to Lake Providence.
-
 [^40]: William Rife Service Record, War of 1812 Service Records, Index to Compiled Military Service Records for Volunteer Soldiers, M602, Roll 175, NARA
 [^41]: Territory Tax Rolls, 1817, Mississippi State Archives, Jackson, Mississippi, Box 139
-[^42]: Richard S. Lackey and Etolie Hopkins, Editors, “Jefferson County Marriage Book A”, Mississippi Genealogical Exchange 20, No. 3, (Fall 1974), 83
+[^42]: Richard S. Lackey and Etolie Hopkins, Editors, “Jefferson County Marriage Book A,” Mississippi Genealogical Exchange 20, No. 3, (Fall 1974), 83
 [^43]: William Rife, United States Fourth Census (1820), Jefferson County, Mississippi, M33, Roll 58
 [^44]: Francis R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, STIRPES 35, No. 3, (September 1995), 46; Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15 NARA
 [^45]: William Rife, United States Fifth Census (1830), Princeton, Washington County, Mississippi, M19, Roll 71; US Bureau of Land Management, General Land Office Records, Federal Land Patients, State Volumes, Eastern States
-[^46]: Goodspeed Publishing Co., creator, *Biographical and Historical Memoirs of Mississippi, Vol II, 1891,* repr. (Spartanburg: Reprint Company, 1978), 681
+[^46]: Goodspeed Publishing Co., creator, *Biographical and Historical Memoirs of Mississippi, Vol II, 1891,* reprint, (Spartanburg: Reprint Company, 1978), 681
 [^47]: US Bureau of Land Management, Mississippi Pre-1908 Patients, Homesteads, Cash Entry, Choctaw Indian Scrip and Chickasaw Cession Lands
 [^48]: Martha J. Rife, Martha A. Rife, United States Seventh Census (1850), Western District, Carroll, LA, M432, Roll 230
 [^49]: Evelyn M. Carrington, editor, *Women in Early Texas,* (Austin: Jenkins Publishing Company, 1975), 164
 [^50]: Secession Files for Tutorship of William Rife’s children, Drawer 55, East Carrol Parrish, Lake Providence, LA
-[^51]: Anonymous, *Biographical and Historical Memoirs of Mississippi,* 681
+[^51]: Goodspeed, *Biographical and Historical Memoirs of Mississippi,* 681
 [^52]: Jacob Rife, United States Sixth Census (1840), Columbia, Richland County, South Carolina, M704, Roll 514; Brent Howard Holcomb, *Record of Deaths in Columbia, South Carolina and elsewhere as recorded by John Glass, 1859-1877,* (Columbia: March, 1986), 97
 [^53]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 44, 47
-
-####The children of William Rife moved to Issaquena County, Mississippi.
-
 [^54]: Goodspeed, *Biographical and Historical Memoirs of Mississippi,* 681
 [^55]: Mullins, *The Ancestors of George and Hazel Mullins,* 51, 152
 [^56]: Mrs. Charles H. Pitcher, submitter, "Centenary College of Louisiana Catalogue of the Officers and Students for the Academic Year 1852-1853”, *The Louisiana Genealogical Register* 15, No. 3, (September 1968), 83
 [^57]: W. W. Rife, United States Eighth Census (1860), Town of Floyd, Carroll, Louisiana, M653, Roll 409
-
-####Nathaniel and Samuel Chambliss grew up in Carroll Parish and Jefferson County.
-
 [^58]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 46; Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15
 [^59]: John Tourette, Plantation Map of Carroll Parrish, LA, 1848, www.usgwarchives.org/maps/louisiana/parishmap/carrolllatourette1848.jpg, accessed Nov 12, 2012
 [^60]: Bearss, *The Campaign for Vicksburg,* 481; Charles Lowery, “The Great Migration to the Mississippi Territory, 1798-1819”, Mississippi History Now, Mississippi Historical Society, www.mskhistorynow.mdakh.state.ms.us, accessed September 16, 2012
-
-###3. The Republic of Texas
-
-####Nathaniel and Samuel Chambliss influenced Thomas Rife to go to Texas.
-
 [^61]: Andrew Forest Muir, Editor, *Texas in 1837: An Anonymous, Contemporary Narrative,* (Austin: University of Texas Press, 1958), 98
 [^62]: Steven D. Smith, *A Good Home for a Poor Man: Fork Polk and Vernon Parish, 1800-1940,* (Columbia: University of South Carolina, 1999), 81-2
-
-####Samuel Chambliss joined the fight for Texas independence.
-
 [^63]: Muir, *Texas in 1837,* 135
 [^64]: J. Frank Dobie, *The Flavor of Texas,** (Dallas: Dealey and Lowe, 1936), 94
 [^65]: Samuel L. Chambliss, Republic Pension Files, Republic Pension Records, Texas Comptroller’s Office claims records. Archives and Information Services Division, Texas State Library and Archives Commission, Austin, TX, 364, 384
@@ -303,18 +268,12 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^68]: Samuel L. Chambliss, Republic Donation Voucher, file # 1319, GLO
 [^69]: David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX: Texas State Historical Association, 2010), 52
 [^70]: Samuel L. Chambliss, Republic Donation Voucher, file # 1319, GLO
-
-####Samuel Chambliss returned to the United States after the Texas Revolution.
-
 [^71]: Samuel L. Chambliss, Republic Pension Files, Republic Pension Records, Texas Comptroller’s Office claims records. ARIS-TSLAC, 377
 [^72]: Mrs. Anna J. Hardwicker Pennybacker, *A History of Texas for Schools,* (Austin: Mrs. Percy V. Pennybacker, Publisher, 1912), 212
 [^73]: Samuel L. Chambliss, Republic Pension Files, Republic Pension Records, Texas Comptroller’s Office claims records. ARIS-TSLAC, 374; Samuel L. Chambliss, Republic Donation Voucher, file # 1319, GLO
 [^74]: Samuel L. Chambliss, Republic Pension Files, Republic Pension Records, Texas    Comptroller’s Office claims records. ARIS-TSLAC, 384
 [^75]: Samuel L. Chambliss, John S. Chambliss, United States Sixth Census (1840), Jefferson County, Mississippi, M707, Roll 214
 [^76]: Menn, *The Large Slaveholders of Louisiana-1860,* 175
-
-####Farmers from the Old South immigrated to Texas after 1836.
-
 [^77]: Carrington, *Women in Early Texas,* 73
 [^78]: Muir, *Texas in 1837,* 171-2; Frederick Law Olmsted, *A Journey Through Texas or a Saddle-Trip on the Southwestern Frontier,* 43
 [^79]: Joseph William Schmitz, *Thus They Lived: Social Life in the Republic of Texas,* (San Antonio: The Naylor Company, 1936), 38
@@ -329,20 +288,14 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^88]: Muir, *Texas in 1837,* 14-5
 [^89]: McDonald, *Jose Antonio Navarro,* 141
 [^90]: McDonald, *Jose Antonio Navarro,* 93, 107, 142; Carrington, *Women in Early Texas,* 197
-
-####Nathaniel Chambliss settled in Washington County in 1838.
-
 [^91]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 44
 [^92]: Rena Maverick Green, Editor, *Samuel Maverick, Texan: 1803-1870, A Collection of Letters, Journals and Memoirs,* (San Antonio: Privately Published, 1952), 90; McDonald, *Jose Antonio Navarro,* 162
 [^93]: Dobie, *The Flavor of Texas,* 66
 [^94]: Noah Smithwick, *The Evolution of a State or Recollections of Old Texas Days,* (Austin: University of Texas Press, 1900), 81-3
 [^95]: Dobie, *The Flavor of Texas,* 57, 64
 [^96]: Jimmy L. Bryan, Jr., *More Zeal Than Discretion: The Westward Adventures of Walter P. Lane,* (College Station: Texas A&M University Press, 2008) 9, 11-2; Green, *Samuel Maverick, Texan,* 103; S.C. Gwyenne, *Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanche’s, the Most Powerful Indian Tribe in American History,* Scribner, New York, 2011, 139
-[^97]: Homer S. Thrall, *History of Methodism in Texas,* (1872, repr, n.p.: Walsworth Publishing, 1976), 9
+[^97]: Homer S. Thrall, *History of Methodism in Texas,* (1872, reprint, n.p.: Walsworth Publishing, 1976), 9
 [^98]: Winfield, *All Our Yesterdays, A Brief History of Chappell Hill,* 2
-
-####Thomas Rife arrived in east Texas before 1842.
-
 [^99]: Louisiana Marriages, 1718-1925, Book E, East Carroll Parish, Nathaniel Chambliss, Caroline Hale, www.ancestry.com, accessed December 22, 2013
 [^100]: Nathaniel Chambliss 2nd Class Headright Certificate #104, Washington County Commissioners May 22, 1839, GLO
 [^101]: Samuel Lytle and Nathaniel Chambliss, Land Grants, Washington County Clerk Returns, 1838, file #000013, GLO; Ellis A Davis and Edwin H. Grobe, compilers, *New Encyclopedia of Texas* Vol. III, (Dallas: Texas Development Bureau, 1929), 2205; Anonymous, *A Twentieth Century History of Southwest Texas,* Vol. 1, Chicago, New York and Los Angeles: The Lewis Publishing Co., 1907), 285
@@ -351,8 +304,6 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^104]: John Lott, Land Grant, Montgomery County Clerk Returns, 1st Class Certificate #78, GLO
 [^105]: County Deed Records, Book D, 102, Washington County Clerks Office, Brenham, TX; Washington County, Texas Deed Abstracts Vol. 1, Republic of Texas and the State of Coahuila and Texas (Mexico), 99
 [^106]: Winfield, *All Our Yesterdays: A Brief History of Chappell Hill,* 2
-
-####Nathaniel Chambliss was a man of means.
 [^107]: *San Antonio Express,* March 30, 1919
 [^108]: The Daughters of the Republic of Teas, *Real Daughters,* (Dallas: Daughters of the Republic of Texas, Inc., 2007), 18; Application for Membership of Mary R. Fly, Daughters of the Republic of Texas
 [^109]: Paul C. Boethel, *Colonel Amasa Turner, The Gentleman From Lavaca and Other Captains at San Jacinto,* (Austin: Von Boeckman-Jones, 1963), 64; Paul C. Boethel, *History of Lavaca County,* (Austin: Von Boeckman-Jones, 1959), 85
@@ -362,9 +313,6 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^113]: *Texas National Register* (Washington, Texas), June 05, 1845; Gifford White, *1840 Citizens of Texas: Vol. 2, Tax Rolls,* (St. Louis: Ingmire Publications, 1984), 260
 [^114]: Hugh Best, *Debrett’s Texas Peerage,* (New York: Coward-McCann, Inc., 1983), 360
 [^115]: White, 1840 *Citizens of Texas Vol. 2,* Tax Rolls, 260
-
-####The War with Mexico began again in 1842.
-
 [^116]: Gerald S. Pierce, *Texas Under Arms: The Camps, Posts, Forts & Military Towns of the Republic of Texas 1836-1846,* (Austin: The Encino Press, 1969), 143
 [^117]: Green, *Samuel Maverick, Texan,* 150; McDonald, *Jose Antonio Navarro,* 161
 [^118]: McDonald, *Jose Antonio Navarro,* 180; James Kinnen Greer, *Colonel Jack Hays: Texas Frontier Leader and California Builder,* (New York: E.P. Dutton and Co., 1952), 63
@@ -380,12 +328,9 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^128]: Robert A. Divine, T. H. Breen, George M. Fredrickson and R. Hal Williams, *America Past and Present,* (New York: 4th Edition, Harpers-Collins College Publishers, 1995), Vol. 1: 317
 [^129]: White, *First Settlers of Washington County, Texas* 45
 [^130]: White, *First Settlers of Washington County, Texas,* 54; Nathaniel Chambliss, Unconditional Headright Certificate # 543, Bounty Land Commissioners for Washington County, file # 893, GLO
-
-####Nathaniel Chambliss moved his family to Lavaca County.
-
 [^131]: Nathaniel Chambliss, United States Seventh Census (1850), Lavaca County, Texas, M432; Bill of sale, County Deed Records, County Clerks Office, Lavaca County, Book C, 33-4, Hallettsville, TX
 [^132]: Republic Claims, Republic of Texas, Comptrollers Records, Public Debt, Reel #143, ARIS-TSLAC, Austin, 314
-[^133]: Register of Brands, County Clerks Office, Lavaca County, Texas, 39, 74 and 152, Hallettsville, Texas; (551) Deed Records of Lavaca County, County Clerks Office, Book B, 325, Hallettsville, Texas; Paul C. Boethel, *The Free State of Lavaca,* (Austin: Weddle Publications, 1977), 163
+[^133]: Register of Brands, County Clerks Office, Lavaca County, Texas, 39, 74, 152, Hallettsville, Texas; (551) Deed Records of Lavaca County, County Clerks Office, Book B, 325, Hallettsville, Texas; Paul C. Boethel, *The Free State of Lavaca,* (Austin: Weddle Publications, 1977), 163
 [^134]: Surveyors notes for the Bounty Land Grant of Nathaniel Chambliss in Erath County, Abstract 155, File # 000983, GLO
 [^135]: T. R. Fehrenbach, *Seven Keys to Texas,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1983), 17
 [^136]: Probate Court of Lavaca County, County Clerks Office, No. 320, 634-48, Hallettsville, Texas
@@ -399,11 +344,6 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^144]: Brenda Lincke Fisseler, Compiler, *We Are Gathered Here: Lavaca County Marriage Records 1846-1869,* (Hallettsville, TX: Old Homestead Publishing Co., 2000)
 [^145]: Deed Records of Lavaca County, County Clerks Office, Book F, 77
 [^146]: Deed Records of Lavaca County, County Clerks Office, Book G, 724-9
-
-###The Civil War
-
-####Nathaniel Chambliss supported the Rebellion.
-
 [^147]: Paul C. Boethel, *History of Lavaca County,* (San Antonio: The Naylor Co., 1936), 43
 [^148]: Paul C. Boethel, *On the Headwaters of the Lavaca and the Navidad,* (Austin: Von Boeckmann-Jones, 1967), 53
 [^149]: Pvt. Samuel L. Chambliss Record, 24th Regiment, Texas Cavalry, Compiled Service of Confederate Soldiers who served in Organizations from the State of Texas, M323, RG 109, NARA; Allan C. Richard, Jr. and Mary Margaret Higginbotham Richard, *The Defense of Vicksburg: A Louisiana Chronicle,* (College Station: Texas A & M University Press, 2003), 229, 263
@@ -416,9 +356,6 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^156]: Anonymous, *A Memorial and Biographical History of Navarro, Henderson, Anderson, Limestone, Freestone and Leo Counties, Texas,* (Chicago: Lewis Publishing Co. 1893), 821
 [^157]: Lt. Col. Samuel Lee Chambliss Record, 13th Battalion, Louisiana, (Partisan Rangers), Compiled Service Records of Confederate Soldiers who served from the State of Louisiana, M320, RG 109, Roll 26
 [^158]: Samuel L. Chambliss, Republic Pension Files, Republic Pension Records, Texas Comptroller’s Office claims records. ARIS-TSLAC, 374-5; Samuel L. Chambliss, Republic Donation Voucher, file # 1319, GLO; Bearss, *The Campaign for Vicksburg,* 1200
-
-####After the War conditions many parts of the Old South were in chaos.
-
 [^159]: William L. Richter, *The Army in Texas During Reconstruction: 1865-1870,* (College Station: Texas A&M University Press, 1987), 34
 [^160]: Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* Vol. 1: 478
 [^161]: William L. Shea and Terrence J. Winschel, *Vicksberg is the Key: Struggle for the Mississippi River,* (Lincoln and London: University of Nebraska Press, 2003), 60
@@ -427,7 +364,7 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^164]: W. C. Nunn, *Texas Under The Carpetbaggers,* (Austin: University of Texas Press, 1962, 167
 [^165]: Nunn, *Texas Under The Carpetbaggers,* 137
 [^166]: South Carolina, Probate Records, Loose Papers, 1732-1964, Richland Probate Court, Estate Papers, 1870-1909, Richland, SC
-[^167]: Bearss, *The Campaign for Vicksburg: Vicksburg is the Key, Vol. 1:* 468
+[^167]: Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* Vol. 1: 468
 [^168]: L. T. Wade, W. W. Rife, Mississippi State Census (1866), Microfilm V229, Roll 2
 [^169]: Florence Warfield Sillers, *History of Bolivar County, Mississippi,* (Spartanburg, SC: Reprint Company Publishers, 1976), 129; Goodspeed, *Biographical and Historical Memoirs of Mississippi,* 681
 [^170]: George M. Mullins, Graves of Lawrence and Mary Jane Wade, Bolivar, Mississippi, Photo, September 26, 2014
