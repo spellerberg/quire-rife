@@ -16,11 +16,15 @@ John Coffee (Jack) Hays, the commander of the minutemen of Bexar County,[^12] be
 
 Hays received his first commission as a ranger captain shortly after the battle of Plum Creek in August of 1840[^17] and continued in military service until about 1848. The young men who served in Jack Hays’ ranging companies in 1841-1842 formed the nucleus of his Mexican War regiments in 1846.[^18] Other young adventure-seeking young men, such as Walter P. Lane, who never formally served in Hays’ ranger companies, joined Hays’ command, on occasion, as amateurs to learn how to pursue and defeat Comanche raiders.[^19]
 
-Jack Hays built his rangers into a creditable military organization. Most men who applied to join Hays’ rangers could not meet the requirements for enlistment set by Hays. His caution in selecting recruits enabled him to create what is considered to be the best set of Indian fighters that Texas ever produced. Hays’ rangers patrolled an area of 40 to 50 miles and in later years lived in a camp on the Medina River. They patrolled continually in groups of three men led by a sergeant. Few of Hays’ rangers were over 22 years old.[^20]
+## Jack Hays built his rangers into a creditable military organization.
+
+Most men who applied to join Hays’ rangers could not meet the requirements for enlistment set by Hays. His caution in selecting recruits enabled him to create what is considered to be the best set of Indian fighters that Texas ever produced. Hays’ rangers patrolled an area of 40 to 50 miles and in later years lived in a camp on the Medina River. They patrolled continually in groups of three men led by a sergeant. Few of Hays’ rangers were over 22 years old.[^20]
 
 Hays initially established a camp at Leon Creek seven miles west of San Antonio.[^21] By 1844, he had moved the camp to the Medina River several miles above the site of Castroville.[^22] Between June 1 and September 30, 1843, Hays and 25 to 37 men ranged the region south of San Antonio.[^23] After 1844 the rangers provided security for the outlying settlements at Castroville, Quihi Lake, Vanderburg and D’Hanis.[^24] These settlements were on the Indian frontier and were protected by a squad of rangers stationed at a camp on Seco Creek, two miles from D’Hanis.[^25] In 1844, there were 30 rangers stationed in Béxar County, 15 in Travis County and 15 each in Refugio and Goliad.[^26] The rangers were charged with patrolling their assigned areas searching for and pursuing raiders who, in the 1840s, were usually Comanche Indians or their allies.[^27]
 
-The rangers eventually found a way to defeat Horse Indians. On March 19, 1840, Texas soldiers killed, at the Council House Fight, a number of Comanche chiefs who had come to San Antonio to negotiate the return of captives.[^28] This was the third attempt to sign a treaty with the Comanche.[^29] The hope of peaceful relations between the Texans and the Comanche Indians that had been promoted by Sam Houston[^30] was extinguished and not revived until 1853.[^31]
+## The rangers eventually found a way to defeat Horse Indians.
+
+On March 19, 1840, Texas soldiers killed, at the Council House Fight, a number of Comanche chiefs who had come to San Antonio to negotiate the return of captives.[^28] This was the third attempt to sign a treaty with the Comanche.[^29] The hope of peaceful relations between the Texans and the Comanche Indians that had been promoted by Sam Houston[^30] was extinguished and not revived until 1853.[^31]
 
 Most encounters between Anglos, Mexicans and the Comanche Indians were the result of horse-stealing raids.[^32] By 1840, stealing livestock from Mexico and Texas during the winter months was a tradition of the Southern Comanche.[^33] After each raid, the settlers pursued the Indians and attempted to recover their horses and kidnapped women and children. However, Indians raiders mounted on horses usually escaped the pursuing settlers.[^34]
 
@@ -28,19 +32,21 @@ Even when the settlers managed to catch an Indian raiding party the outcome was 
 
 Jack Hays and his ranging company were the first to employ repeating pistols in a fight with Comanche raiders.[^38] During a fight on Walker Creek on June 1844, Jack Hays and 15 men used, for the first time, newly acquired Colt Paterson five-shot revolvers. These guns were bought for the Texas Navy and acquired by the rangers when President Sam Houston disbanded the Texas Navy in 1843.[^39] The ability to reload while galloping on horseback revolutionized the ranger’s fighting style and finally gave them the upper hand over mounted Comanche Indians.[^40] After the introduction of the six-shooters, the settlers gained an even greater advantage and Indian fights became simply chases.[^41]
 
-The war between Texas and Mexico began again in 1842. The United Mexican States did not recognize the independence of the Republic of Texas despite the agreement signed by President López de Santa Anna in 1836.[^42] In 1842, Santa Anna was once again President of Mexico and the republics of Texas and Mexico were once again at war.[^43] Texas President Mirabeau Lamar sent 270 armed men on a trading mission called the Santa Fé Expedition in June 1841. The expedition was meant to be a joint political, military and commercial enterprise[^44] but the Mexican government interpreted it as an armed invasion.[^45] The participants in the expedition were captured and imprisoned.[^46]
+## The war between Texas and Mexico began again in 1842.
+
+ The United Mexican States did not recognize the independence of the Republic of Texas despite the agreement signed by President López de Santa Anna in 1836.[^42] In 1842, Santa Anna was once again President of Mexico and the republics of Texas and Mexico were once again at war.[^43] Texas President Mirabeau Lamar sent 270 armed men on a trading mission called the Santa Fé Expedition in June 1841. The expedition was meant to be a joint political, military and commercial enterprise[^44] but the Mexican government interpreted it as an armed invasion.[^45] The participants in the expedition were captured and imprisoned.[^46]
 
 To revenge the invasion of New Mexico by the Santa Fé Expedition, President Santa Anna sent troops to invade Texas.[^47] Seven hundred Mexican soldiers under Gen. Rafael Vásquez briefly occupied San Antonio in early March, 1842.[^48] In response to the Vásquez invasion, the President of Texas called out the militia.
 
-In July 1842, Mexican soldiers under Colonel Antonio Canales approached Corpus Christi. In September 1842, Mexican troops under General Adrian Woll, once again occupied San Antonio.[^49] Gen. Woll’s army of 1,600 men cut a new road from Presidio de Río Grande to San Antonio that crossed the Leona River at Woll’s Crossing, four miles south of Mt. Inge.[^50] In this way, the army escaped detection by scouts sent out by Jack Hays and arrived unobserved at San Antonio in the morning of September 11, 1842.[^51]
+In July 1842, Mexican soldiers under Colonel Antonio Canales approached Corpus Christi. In September 1842, Mexican troops under General Adrian Woll, once again occupied San Antonio.[^49] General Woll’s army of 1,600 men cut a new road from Presidio de Río Grande to San Antonio that crossed the Leona River at Woll’s Crossing, four miles south of Mt. Inge.[^50] In this way, the army escaped detection by scouts sent out by Jack Hays and arrived unobserved at San Antonio in the morning of September 11, 1842.[^51]
 
 Hays, who had been out on a scout when the city was taken, quickly assembled a body of volunteer soldiers to prevent the Mexican army from proceeding north towards Austin, the Republic’s capital.[^52] On September 17, 1842, the two forces met near where the city of New Braunfels is today and, after the Battle of Salado Creek, General Woll and his army retreated back to San Antonio.[^53] The Mexican army left San Antonio on September 20 and returned to Mexico.[^54]
 
 ## President Houston authorized an invasion of Mexico in 1842.
 
-In October 1842, following the earlier assault on San Antonio, Gen. Alexander Somervell (commander of the western militia brigade) was authorized by Texas President Sam Houston to invade Mexico.[^55] On November 18, 1842, Somervell’s Texans, led by Jack Hays and his scouts, left San Antonio with 750 men. On December 8, Somervell’s forces captured the town of Laredo on the northern bank of the Rio Grande. On December 19, General Somervell ordered his remaining volunteers to return to his base camp at Gonzales.[^56] Two hundred men, including Hays’ company of rangers, thinking the expedition was over,[^57]returned to San Antonio[^58] but other men refused to abandon the invasion; instead they reorganized their forces and began what became known as the Mier Expedition. They crossed the Rio Grande and attempted to capture the town of Mier. On December 26, 1842, the Mexican Army captured 260 Texans at Mier after a long gun battle.[^59]
+In October 1842, following the earlier assault on San Antonio, General Alexander Somervell (commander of the western militia brigade) was authorized by Texas President Sam Houston to invade Mexico.[^55] On November 18, 1842, Somervell’s Texans, led by Jack Hays and his scouts, left San Antonio with 750 men. On December 8, Somervell’s forces captured the town of Laredo on the northern bank of the Rio Grande. On December 19, General Somervell ordered his remaining volunteers to return to his base camp at Gonzales.[^56] Two hundred men, including Hays’ company of rangers, thinking the expedition was over,[^57]returned to San Antonio[^58] but other men refused to abandon the invasion; instead they reorganized their forces and began what became known as the Mier Expedition. They crossed the Rio Grande and attempted to capture the town of Mier. On December 26, 1842, the Mexican Army captured 260 Texans at Mier after a long battle.[^59]
 
-In negotiations that followed,[^60] Mexico was willing to give the State of Texas autonomy if it would remain in the Mexican republic.[^61] They continued to consider Texas a Mexican state until 1847.[^62] Texan and American politicians, however, refused to acknowledge Mexico’s claim to Texas and in December of 1844 a bill annexing Texas to the USA passed the US Senate.[^63] A Texas Constitutional Convention agreed that the Republic would be come part of the United States on July 7, 1845.[^64]
+In negotiations that followed,[^60] Mexico was willing to give the State of Texas autonomy if it would remain in the Mexican republic.[^61] They continued to consider Texas a Mexican state until 1847.[^62] Texan and American politicians, however, refused to acknowledge Mexico’s claim to Texas and in December of 1844 a bill annexing Texas to the United States passed the US Senate.[^63] A Texas Constitutional Convention agreed that the Republic would be come part of the United States on July 7, 1845.[^64]
 
 ## The United States Started the Mexican War after annexation of Texas.
 
@@ -50,21 +56,21 @@ One reason Texas sought annexation to the United States was the expectation that
 
 The Rio Grande del Norte was the border claimed by the Republic of Texas;[^71] US President Polk had campaigned for election on a promise to occupy the Nueces Strip.[^72] Accordingly on March 8, 1846, General Taylor began to move his army from the Nueces River to the Rio Grande. On March 27, the American troops arrived at the north bank of the Rio Grande and constructed Fort Texas (later renamed Fort Brown) opposite the Mexican town of Matamoros.[^73] It was this advance from the Nueces River to the Rio Grande that finally provoked the start of the Mexican War.
 
-On April 24, 1846, General Mariano Arista from Mexico, in command at Matamoros, announced that hostilities had begun.[^74] In a letter to Governor Henderson on April 26, 1846, General Taylor stated that “hostilities have actually commenced” and requested that four regiments of Texas volunteers be called into service. Two regiments were to be mounted and two were to be infantry.[^75]
+On April 24, 1846, General Mariano Arista, in command at Matamoros, announced that hostilities had begun.[^74] In a letter to Governor Henderson on April 26, 1846, General Taylor stated that “hostilities have actually commenced” and requested that four regiments of Texas volunteers be called into service. Two regiments were to be mounted and two were to be infantry.[^75]
 
-In May 1846 Mexican and American troops clashed at Palo Alto Prairie between the US Army’s supply base at Port Isabel and Fort Brown. After the Battle of Resaca de la Palma the following day, the Mexican army retreated to Matamoros and Taylor followed them as far as Fort Brown.[^76] During this campaign, a company of US Army Dragoons was captured while on a scout and Samuel Walker’s company of Texas mounted irregulars proved valuable as scouts and messengers.[^77] The combination of events convinced General Taylor to accept Texas rangers into Federal service. Reporters from American newspapers accompanied the troops and their stories about Walker’s company contributed to the growing mythology of the Texas Rangers.[^78]  
+In May 1846 Mexican and American troops clashed at Palo Alto Prairie between the US Army’s supply base at Port Isabel and Fort Brown. After the Battle of Resaca de la Palma the following day, the Mexican army retreated to Matamoros and Taylor followed them as far as Fort Brown.[^76] During this campaign, a company of US Army Dragoons was captured while on a scout and Samuel Walker’s company of Texas mounted irregulars proved valuable as scouts and messengers.[^77] The combination of events convinced General Taylor to accept Texas Rangers into Federal service. Reporters from American newspapers accompanied the troops and their stories about Walker’s company contributed to the growing mythology of the Texas Rangers.[^78]  
 
 ## Tom Rife enlisted in the First Texas Mounted Rifles.
 
-On May 4, 1846, even before General Taylor called for volunteers, Jack Hays visited Austin to ask permission to recruit a regiment of volunteers for the war.[^79] Texas Governor James Pinckney Henderson approved and Hays with Samuel Walker left for Washington-on-the-Brazos to recruit men who had experience as rangers, their preferred recruits. While in Brenham, Washington County, Hays and Walker called for volunteers at a public meeting sponsored by John B. Wilkins, Sr., a local merchant. The gathering concluded with a barbeque and dance. The next day the two men proceeded east to visit other towns.[^80] Between May 15 and May 19, 1846, as a result of Hays’ visit, sixty-four men in Brenham enrolled in a company headed by Frank S. Early.[^81] Among the men who enrolled was 23-year-old Thomas Rife.[^82]
+On May 4, 1846, even before General Taylor called for volunteers, Jack Hays visited Austin to ask permission to recruit a regiment of volunteers for the war.[^79] Texas Governor James Pinckney Henderson approved and Hays, with Samuel Walker, left for Washington-on-the-Brazos to recruit men who had experience as rangers, their preferred recruits. While in Brenham, Washington County, Hays and Walker called for volunteers at a public meeting sponsored by John B. Wilkins, Sr., a local merchant. The gathering concluded with a barbeque and dance. The next day the two men proceeded east to visit other towns.[^80] Between May 15 and May 19, 1846, as a result of Hays’ visit, sixty-four men in Brenham enrolled in a company headed by Frank S. Early.[^81] Among the men who enrolled was 23-year-old Thomas Rife.[^82]
 
 Thanks in part to the “Narrative of the Texan Santa Fé Expedition” written by George W Kendall of the New Orleans Picayune newspaper,[^83] the response to the call for volunteers was overwhelming.[^84] Volunteers from the States as well as Texas responded in large numbers.[^85] Colonel George Wood was appointed by the governor to lead a regiment of mounted troops from east Texas.[^86] General Albert Sydney Johnston commanded a regiment of infantry and Governor James Henderson with the Legislature’s permission,[^87] commanded the two other Texas regiments.[^88] All of the Texas troops were riflemen.[^89]
 
-In June 1846, the headquarters of Col Jack Hays’ Regiment of First Texas Mounted Rifles was located at Point Isabel (near the mouth of the Rio Grande). This was the rendezvous for the four Texas regiments.[^90] Most of these men enlisted for six months.[^91] On June 7, 1846 Thomas Rife mustered into Company F as a 2nd Corporal, indicating that he must have had previous military experience. Company F, commanded by Captain Frank S. Early, was assigned to the 1st Regiment, Texas Mounted Rifles, commanded by Colonel Jack Hays.[^92]
+In June 1846, the headquarters of Colonel Jack Hays’ Regiment of First Texas Mounted Rifles was located at Point Isabel (near the mouth of the Rio Grande). This was the rendezvous for the four Texas regiments.[^90] Most of these men enlisted for six months.[^91] On June 7, 1846 Thomas Rife mustered into Company F as a 2nd Corporal, indicating that he must have had previous military experience. Company F, commanded by Captain Frank S. Early, was assigned to the 1st Regiment, Texas Mounted Rifles, commanded by Colonel Jack Hays.[^92]
 
 On June 11, 1846, Rife was still with Frank Early’s Company F[^93]at Point Isabel but on July 11 he was detached from Company F and assigned to Captain Samuel L. S. Ballowe’s Company D.[^94] He remained on the roll of Company F as absent on detached service.[^95] Both Companies were stationed around Point Isabel. Samuel Ballowe’s Company D was recruited in Brazonia and Matagorda counties[^96] with only twenty-five men when they arrived at the rendezvous at Point Isabel on June 19. They were finally mustered into service on July 14[^97] but only after inducing men, such as Tom Rife, to transfer in from other companies.
 
-Some of Hay’s former rangers traveled long distances to sign up for service. The Texas captains selected their recruits carefully and rejected those who did not meet their standards.[^98] As a result, the regiment spent the entire month of June getting the required ten companies organized and staffed.[^99] Regimental officers were elected on June 22.[^100] Jack Hays was elected colonel, Samuel Walker was elected lieutenant colonel and Michael H. Chevallie was elected major. The men were issued army wagons and camp equipage but they refused army uniforms.[^101] The Texans dressed as they did in civilian life with woolen shirts dyed with hickory nuts, buckskin leather pants, slouched hats, moccasins and knives and pistols in their belts.[^102] Many sported full beards and handlebar mustaches.[^103]
+Some of Hay’s former rangers traveled long distances to sign up for service. The Texas captains selected their recruits carefully and rejected those who did not meet their standards.[^98] As a result, the regiment spent the entire month of June getting the required ten companies organized and staffed.[^99] Regimental officers were elected on June 22.[^100] Jack Hays was elected colonel, Samuel Walker was elected lieutenant colonel and Michael H. Chevallie was elected major. The men were issued army wagons and camp equipage but they refused army uniforms.[^101] The Texans dressed as they did in civilian life with woolen shirts dyed with hickory nuts, buckskin leather pants, slouch hats, moccasins and knives and pistols in their belts.[^102] Many sported full beards and handlebar mustaches.[^103]
 
 ## The US Army invaded Mexico in 1846.
 
@@ -94,13 +100,13 @@ Following the capture of Monterrey, all Texas volunteer troops were mustered out
 
 On February 1, 1847, Walter P. Lane (who had served as a lieutenant in Hays’ first regiment) and his friend Governeur Nelson traveled from San Antonio to Fayette County to recruit a company of rangers for the duration of the war. Few men were willing to make such an indefinite commitment.[^135] Rife, on the other hand, did not hesitate. He enrolled in Lane’s Company that same day and was enlisted for three months or the duration of the war.[^136]
 
-On February 13, 1847, Lane’s company gathered at San Antonio, the announced rendezvous. The company included 12 men who had served in Jack Hays’s regiment at the battle at Monterrey, four former Mier prisoners and 15 volunteers from Mississippi. It was grouped with two other companies to form a battalion commanded by Mike Chevallié,[^137] a stalwart of Jack Hay’s rangers during the 1840s. Rife mustered in as 3rd Sergeant.[^138]
+On February 13, 1847, Lane’s company gathered at San Antonio, the announced rendezvous. The company included 12 men who had served in Jack Hays’s regiment at the battle at Monterrey, four former Mier prisoners and fifteen volunteers from Mississippi. It was grouped with two other companies to form a battalion commanded by Mike Chevallié,[^137] a stalwart of Jack Hay’s rangers during the 1840s. Rife mustered in as 3rd Sergeant.[^138]
 
 In the meantime the war in Mexico continued. On February 15, 1847, General Winfield Scott, with most of General Taylor’s regular troops, sailed from Brazos de Santiago for Tampico to begin the Mexico City campaign.[^139] On February 23, 1847, General Taylor’s remaining force met and defeated a much larger force of Mexicans south of Saltillo in what became known as the Battle of Buena Vista.[^140]
 
 The 1st Battalion was assigned to General Taylor’s army in northern Mexico. Its ranging district was to be Saltillo to Camargo.[^141] The volunteers provided their own mounts and at the time of Rife’s enlistment, his horse was an 8-year old sorrel gelding measuring 14½ hands(58”), valued at $35.[^142]
 
-Chevallie’s Battalion of 300 men left San Antonio on March 8, 1847, and reached Camargo City on March 23, 1847. The day after Chevallie’s battalion left San Antonio, General Winfield Scott’s army landed near Vera Cruz and launched the campaign that ended in the capture of Mexico City.[^143] Two days after arriving in Camargo, the three companies of Chevallie’s battalion officially organized as a battalion and elected Chevallie its commander with the rank of major. The men remained in the vicinity of Camargo for a few weeks and then started for Monterrey to join Gen. Taylor’s army.[^144]
+Chevallie’s Battalion of 300 men left San Antonio on March 8, 1847, and reached Camargo City on March 23, 1847. The day after Chevallie’s battalion left San Antonio, General Winfield Scott’s army landed near Vera Cruz and launched the campaign that ended with the capture of Mexico City.[^143] Two days after arriving in Camargo, the three companies of Chevallie’s battalion officially organized as a battalion and elected Chevallie its commander with the rank of major. The men remained in the vicinity of Camargo for a few weeks and then started for Monterrey to join General Taylor’s army.[^144]
 
 On April 4, 1847, Chevallie’s command left Camargo and arrived at China, Mexico on April 9 and camped on the outskirts of the town for a week. On April 15, 1847 the men with the battalion’s best and healthiest horses were selected to continue up the south fork of the San Juan River to Montemorelos, a town in the foothills about 55 miles south of China. The rest of the battalion, led by Lt. G.H. Nelson escorted a regiment of Virginia infantry and its supply train to Monterrey along the main road.
 
@@ -152,12 +158,12 @@ On May 2, 1848 Lt. William H. Francis, John E. Dusenberry and nine other rangers
 
 On June 12, 1848, General Wool announced to his troops that the war was over; the US Army began preparations to withdraw from northern Mexico.[^195] The soldiers stationed in Saltillo and points west returned to Monterrey, General Wool's headquarters. Lane’s battalion camped at Walnut Springs, two miles distant from town[^196] in the same place that they had camped prior to the Battle of Monterrey in 1846. Most of the soldiers were given leave to visit the city. When the US Army of Occupation left Monterrey for Camargo, Lane’s battalion formed the rearguard, considered as a position of honor.[^197]
 
-On June 30, 1848, the army was disbanded at Camargo City[^198] and the men mustered out of Federal service.[^199] Clay Davis, the owner of the growing town of Rio Grande City (across the river from Camargo city), invited Major Lane and his discharged rangers to attend a 4th of July public dinner at the Rio Grande Hotel.[^200] Most of the volunteer infantry then went to Matamoros where vessels waited to take them to New Orleans or Galveston while the Texas mounted troops returned to Texas on horseback.[^201]
+On June 30, 1848, the army was disbanded at Camargo City[^198] and the men mustered out of Federal service.[^199] Clay Davis, the owner of the growing town of Rio Grande City (across the river from Camargo city), invited Major Lane and his discharged rangers to attend a fourth of July public dinner at the Rio Grande Hotel.[^200] Most of the volunteer infantry then went to Matamoros where vessels waited to take them to New Orleans or Galveston while the Texas mounted troops returned to Texas on horseback.[^201]
 
 
 [^1]: Joseph William Schmitz, *Thus They Lived: Social Life in the Republic of Texas,* (San Antonio: The Naylor Company, 1936), 1
 [^2]: Jimmy L. Bryan, Jr., *More Zeal Than Discretion: The Westward Adventures of Walter P. Lane,* (College Station, TX: Texas A&M University Press, 2008), 15
-[^3]: Bryan, Jr.,* More Zeal Than Discretion,* 42-3; (636) David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX:  State Historical Association, 2010), 69
+[^3]: Bryan, Jr.,*More Zeal Than Discretion,* 42-3; (636) David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX:  State Historical Association, 2010), 69
 [^4]: Schmitz, *Thus They Lived,* 5; (475) Victor Bracht, *Texas in 1848,* (San Antonio: Naylor Printing Company, 1931), 68; (558) Noah Smithwick, *The Evolution of a State or Recollections of Old Texas Days,* 1900, reprint, Austin: University of Texas Press, 1983), 32; (563) J. Frank Dobie, *The Flavor of Texas,* (Dallas: Dealey and Lowe, 1936), 53
 [^5]: James Kimmins Greer, *Colonel Jack Hays: Texas Frontier Leader and California Builder,* (New York: E. P. Dutton & Company, 1952), 25
 [^6]: Prescott Webb, *The Texas Rangers,* (Austin: University of Texas Press, 1993), 23
@@ -167,23 +173,23 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^10]: Gerald S. Pierce, *Texas Under Arms: The Camps, Posts, Forts & Military Towns of the Republic of Texas 1836-1846,* (Austin: The Encino Press, 1969), 143
 [^11]: Webb, *The Texas Rangers,* 78
 [^12]: Pierce, *Texas Under Arms,* 141
-[^13]: Webb, *The Texas Rangers,* 33, 67; (716) S. C. Gwynne,* Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History,* (New York: Scribner, 2011), 139
+[^13]: Webb, *The Texas Rangers,* 33, 67; (716) S. C. Gwynne,*Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History,* (New York: Scribner, 2011), 139
 [^14]: Greer, *Colonel Jack Hays,* 22
 [^15]: Webb, *The Texas Rangers,* 69
-[^16]: Greer,*Colonel Jack Hays,* (College Station, TX: Texas A&M University Press, 1993), 119; (654) Fehrenbach, *Seven Keys to Texas,* 28
+[^16]: Greer, *Colonel Jack Hays,* (College Station, TX: Texas A&M University Press, 1993), 119; (654) Fehrenbach, *Seven Keys to Texas,* 28
 [^17]: Webb, *The Texas Rangers,* 69; (638) Greer, *Colonel Jack Hays,* 40
 [^18]: Webb, *The Texas Rangers,* 86; (153) A. J. Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* (Abilene, TX: State House Press, McMurry University, 1986), 60
 [^19]: *Texas Presbyterian,* (Victoria, Tex.), February 13, 1847
 [^20]: Greer, *Colonel Jack Hays,* 24, 34
 [^21]: Miss Mattie Jackson, *The Rising and Setting of the Lone Star Republic,* (San Antonio: n.p, 1926), 179
-[^22]: Darren L. Ivey, The Texas Rangers: A Registry and History, (Jefferson, NC: McFarland & Company Inc, 2010), 57
+[^22]: Darren L. Ivey, *The Texas Rangers: A Registry and History,* (Jefferson, NC: McFarland & Company Inc, 2010), 57
 [^23]: Pierce, *Texas Under Arms,* 147-8
 [^24]: Middle Rio Grand Development Council, Uvalde County, www.mrgdc.org/cog/cog_region/uvaldecounty.php#inge, accessed Aug 26, 2012
 [^25]: Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 447
 [^26]: Webb, *The Texas Rangers,* 33
 [^27]: Webb, *The Texas Rangers,* 30
 [^28]: Webb, *The Texas Rangers,* 55
-[^29]: Smithwick,*The Evolution of a State,* 249
+[^29]: Smithwick, *The Evolution of a State,* 249
 [^30]: Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 161; (153) Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 341; (555) Wright, *San Antonio de Bexar,* 46
 [^31]: J. C. Duval, *Early Times in Texas,* (1892, reprint, Austin: The Steck Co., 1935), 69
 [^32]: Fehrenbach, *Seven Keys to Texas,* 21; (463) Schmitz, *Thus They Lived,* 101; (224) Jackson, *The Rising and Setting of the Lone Star Republic,* 118, 155
@@ -201,7 +207,7 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^44]: Green, *Samuel Maverick, Texan,* 150
 [^45]: McDonald, *Jose Antonio Navarro,* 182
 [^46]: McDonald, *Jose Antonio Navarro,* 180; (193) James T. De Shields,*Border Wars of Texas,* (Waco, TX: Texian Press, 1976), 362180
-[^47]: Greer, Colonel Jack Hays, 63; (636) McDonald, Jose Antonio Navarro, 180
+[^47]: Greer, *Colonel Jack Hays,* 63; (636) McDonald, *Jose Antonio Navarro,* 180
 [^48]: Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 343; (635) Green, *Samuel Maverick, Texan,* 156; (638) Greer, *Colonel Jack Hays,* 64
 [^49]: Webb, *The Texas Rangers,* 73
 [^50]: Middle Rio Grand Development Council, Uvalde County, accessed Aug 26, 2012, 6
@@ -211,7 +217,7 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^54]: Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 60; (207) Pierce, *Texas Under Arms,* 146; (635) Green,*Samuel Maverick, Texan,* 170
 [^55]: Webb, *The Texas Rangers,* 74
 [^56]: Greer, *Colonel Jack Hays,* 87
-[^57]: Ivey, The Texas Rangers, 56
+[^57]: Ivey, *The Texas Rangers,* 56
 [^58]: Pierce, *Texas Under Arms,* 147
 [^59]: Webb, *The Texas Rangers,* 76; (153) Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 65
 [^60]: Greer, *Colonel Jack Hays,* 90
@@ -229,13 +235,13 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^72]: McDonald, *Jose Antonio Navarro,* 220; (635) Green, *Samuel Maverick, Texan,* 294; (193) De Shields, *Border Wars of Texas,* 365
 [^73]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 89; (156) Ivey, *The Texas Rangers,* 59
 [^74]: Greer, *Colonel Jack Hays,* 126
-[^75]: *Democratic Telegraph and Texas Register (Houston),* June 3 1846; (638) Greer, *Colonel Jack Hays,* 118, 126; (559) Smith, *The War with Mexico,* 526
+[^75]: *Democratic Telegraph and Texas Register* (Houston), June 3 1846; (638) Greer, *Colonel Jack Hays,* 118, 126; (559) Smith, *The War with Mexico,* 526
 [^76]: Webb, *The Texas Rangers,* 94; (154) Brooks, *A Complete History of the Mexican War, 1846-1848,* 138
 [^77]: Wharton, *Texas Under Many Flags,* 8
 [^78]: Greer, *Colonel Jack Hays,* 156
-[^79]: *The Texas Democrat (Austin, Texas),* May 6, 1846; (402) James Kimmins Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* (College Station, TX: Texas A&M University Press, 1993), 126
+[^79]: *The Texas Democrat* (Austin, Texas), May 6, 1846; (402) James Kimmins Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* (College Station, TX: Texas A&M University Press, 1993), 126
 [^80]: Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* 127; (404) Mike Cox, *The Texas Rangers, Vol. 1, Wearing the Cinco Peso, 1821-1900,* (New York: A Tom Doherty Associates Book, 2008), 104-5; 638, Greer, *Colonel Jack Hays,* 126
-[^81]: Charles D Spurlin, Compiler,* Texas Veterans in the Mexican War,* (Victoria, TX: C.D. Spurlin, 1984), 26
+[^81]: Charles D Spurlin, Compiler,*Texas Veterans in the Mexican War,* (Victoria, TX: C.D. Spurlin, 1984), 26
 [^82]: Francis R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, No. 3, (September 1995),* 44; (148) Mexican War pension records, Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, Texas; (435) Thomas Rife’s Record, Early’s Company, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 1, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94
 [^83]: Dobie, *The Flavor of Texas,* 127  
 [^84]: Smith, *The War with Mexico,* 227; (558) Smithwick, *The Evolution of a State,* 284
@@ -243,12 +249,12 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^86]: Webb, *The Texas Rangers,* 94
 [^87]: Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* 127
 [^88]: Scott, *Old Rough and Ready on the Rio Grande,* 78; (559) Smith, *The War with Mexico,* 564
-[^89]: Smith, The War with Mexico, 583
+[^89]: Smith, *The War with Mexico,* 583
 [^90]: Smith, *The War with Mexico,* 221
 [^91]: Smith, *The War with Mexico,* 235, 563
 [^92]: *San Antonio Light,* February 23, 1887; (435) Thomas Rife Record, Early’s Company, 1st Texas Mounted Rifles
 [^93]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 44
-[^94]: Thomas Rife Record, Early’s Company, 1st Texas Mounted Rifles; (76) Spurlin, Texas Veterans in the Mexican War, 23
+[^94]: Thomas Rife Record, Early’s Company, 1st Texas Mounted Rifles; (76) Spurlin, *Texas Veterans in the Mexican War,* 23
 [^95]: Austin Genealogical Society, “Texas Volunteer Units in the Mexican War 1846-1848-Part 4, 1st Texas Mounted Rifles,” *Austin Genealogical Society Quarterly 20, No. 3,* (September 1979), 94; (89) Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 44
 [^96]: Samuel Ballowe, United States Eighth Census (1860), Brazoria, Texas, M653
 [^97]: Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* 32
@@ -259,7 +265,7 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^102]: Richardson, *Beyond the Mississippi,* 178
 [^103]: Webb, *The Texas Rangers,* 100; (638) Greer, *Colonel Jack Hays,* 137, 152
 [^104]: Webb, *The Texas Rangers,* 98
-[^105]: Scott,*Old Rough and Ready on the Rio Grande,* 81, 164
+[^105]: Scott, *Old Rough and Ready on the Rio Grande,* 81, 164
 [^106]: Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque, NM: University of New Mexico Press, 2001), 222
 [^107]: James K. Greer, Editor, *Buck Barry Texas Ranger and Frontiersman,* (Lincoln, Nebraska: University of Nebraska Press, 1978), 33
 [^108]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 45
@@ -274,7 +280,7 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^117]: Reid Jr., *The Scouting Expeditions of McCulloch’s Texas Rangers,* 155
 [^118]: Greer, *Colonel Jack Hays,* 137
 [^119]: Reid Jr., *The Scouting Expeditions of McCulloch’s Texas Rangers,* 155; (638) Greer, *Colonel Jack Hays,* 138
-[^120]: Brooks,*A Complete History of the Mexican War, 1846-1848,* 176
+[^120]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 176
 [^121]: Greer, *Colonel Jack Hays,* 139
 [^122]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 182
 [^123]: Reid Jr., *The Scouting Expeditions of McCulloch’s Texas Rangers,* 181
@@ -286,7 +292,7 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^129]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 189, 191
 [^130]: Webb, *The Texas Rangers,* 110; (80) Wharton, *Texas Under Many Flags,* 8; (156) Ivey, *The Texas Rangers,* 62
 [^131]: Greer, *Colonel Jack Hays,* 153
-[^132]: Spurlin, Texas Veterans in the Mexican War, 25; (435) Thomas Rife’s Record, Early’s Company, 1st Texas Mounted Rifles
+[^132]: Spurlin, *Texas Veterans in the Mexican War,* 25; (435) Thomas Rife’s Record, Early’s Company, 1st Texas Mounted Rifles
 [^133]: Thomas Rife Records, Ballowe’s Company, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 1, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94
 [^134]: James K. Holland, “Dairy of a Texan Volunteer in the Mexican War,” *Southwestern Historical Quarterly, Vol. 30,*  (July 1926): 33
 [^135]: Bryan, Jr., *More Zeal Than Discretion,* 59
@@ -311,7 +317,7 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^154]: Bryan, Jr., *More Zeal Than Discretion,* 66
 [^155]: Clayton Williams, *Never Again, Texas 1848-1861 Volume 3,* (San Antonio: The Naylor Co., 1969), 20-1; (638), Greer, *Colonel Jack Hays,* 237
 [^156]: Lane, *The Adventures and Recollections of General Walter P Lane,* 59
-[^157]: Bryan, Jr.,* More Zeal Than Discretion,* 66
+[^157]: Bryan, Jr.,*More Zeal Than Discretion,* 66
 [^158]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; (89) Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; (437) Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles; (438) W. P. Lane and G. K. Lewis Record, Chevallie’s Battalion, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 14
 [^159]: Ivey, *The Texas Rangers,* 70
 [^160]: Wharton, *Texas Under Many Flags,* 13; (159) Oates, *Rip Ford’s Texas,* 61
@@ -319,7 +325,7 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^162]: Ivey, *The Texas Rangers,* 71
 [^163]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles; (533) Bryan, Jr., *More Zeal Than Discretion,* 66-7
 [^164]: Utley, *Lone Star Justice,* 78
-[^165]: Bryan, Jr.,* More Zeal Than Discretion,* 67
+[^165]: Bryan, Jr.,*More Zeal Than Discretion,* 67
 [^166]: Ivey, *The Texas Rangers,* 68; (438) W. P. Lane and G. K. Lewis Record, Chevallie’s Battalion, 1st Texas Mounted Rifles
 [^167]: Spurlin, *Texas Veterans in the Mexican War,* 151
 [^168]: Webb, *The Texas Rangers,* 118
@@ -329,9 +335,9 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^172]: W. P. Lane and G. K. Lewis Record, Chevallie’s Battalion, 1st Texas Mounted Rifles
 [^173]: Webb, *The Texas Rangers,* 98, 110
 [^174]: Declaration of Survivor for Pension, Records of the Bureau of Pensions
-[^175]: Democratic Telegraph and Texas Register (Houston, Texas), December 30, 1847
+[^175]: *Democratic Telegraph and Texas Register* (Houston, Texas), December 30, 1847
 [^176]: Lane, *The Adventures and Recollections of General Walter P Lane,* 61- 2
-[^177]: *Democratic Telegraph and Texas Register (Houston, Texas),* December 30, 1847
+[^177]: *Democratic Telegraph and Texas Register* (Houston, Texas), December 30, 1847
 [^178]: Bryan, Jr., *More Zeal Than Discretion,* 70
 [^179]: Thomas Rife Record, Lane/Lewis’ Company, 1st Texas Mounted Rifles
 [^180]: Declaration of Survivor for Pension, Records of the Bureau of Pensions
@@ -345,7 +351,7 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^188]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles
 [^189]: Lane, *The Adventures and Recollections of General Walter P Lane,* 64
 [^190]: Lane, *The Adventures and Recollections of General Walter P Lane,* 66
-[^191]: Bryan, Jr.,* More Zeal Than Discretion,* 72
+[^191]: Bryan, Jr.,*More Zeal Than Discretion,* 72
 [^192]: Bryan, Jr., *More Zeal Than Discretion,* 73
 [^193]: *Galveston Daily News,* September 10, 1885
 [^194]: Bryan, Jr.,*More Zeal Than Discretion,* 176
