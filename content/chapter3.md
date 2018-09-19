@@ -174,15 +174,15 @@ Despite the military’s best efforts to control the Indians, on July 26, 1850 t
 
 General Brooks found it almost impossible to procure sufficient horses in Texas and he had been able to mount only one-half of the regular infantry. For this reason, he felt compelled to continue the service of the four mounted companies of volunteer rangers despite the problems they caused him. The Adjutant General R. Jones observed that, “great negligence was observed in the volunteers (rangers) in Texas in respect to muster rolls and returns required by the regulations, etc.”[^155] Only Captain John S. Ford, whose company was assigned to Fort McIntosh, submitted reports of combat actions. While the Texas ranging companies were organized as military units, their outlandish dress, long beards and errant behavior clearly distinguished them from federal soldiers.[^156] Despite General Brooks’ initial high opinion of the rangers,[^157] their refusal to act responsibly ultimately led to their dismissal from Federal Service. His experience with the Texas rangers mirrored that of General Zachary Taylor who ended the Mexican War very disenchanted with them. Their refusal to wear uniforms and salute officers and their tendency to prey upon on Mexican civilians had been very upsetting to General Taylor.[^158]
 
-Despite General Brooks’ increasingly dim view of the rangers, on approximately August 23, 1850, Wallace’s company was mustered into service for a second term. In total, this company served for almost 1½ years in three consecutive 6-months terms. The enlistment term of Ford’s, Grumble’s and McCown’s companies also expired between August 23 and September 23, 1850. All four companies were mustered in for another term.[^159] Captain Grumble’s company mustered in on September with a new captain, James D. Bagby, after Captain Grumble died.[^160] Not all the men re-enlisted, some were killed or wounded and new men were constantly being recruited to keep the companies fully manned.[^161] When the Federal population census was taken on October 14, 1850, Thomas Rife was at Fort Inge in Bexar County on the Leona River with Wallace’s ranging company.[^162] He, or someone representing him, wrongly listed his age as 25 and stated that he was born in Mississippi.[^163]
+Despite General Brooks’ increasingly dim view of the rangers, on approximately August 23, 1850, Wallace’s company was mustered into service for a second term. In total, this company served for almost 1½ years in three consecutive 6-months terms. The enlistment term of Ford’s, Grumble’s and McCown’s companies also expired between August 23 and September 23, 1850. All four companies were mustered in for another term.[^159] Captain Grumble’s company mustered in on September with a new captain, James D. Bagby, after Captain Grumble died.[^160] Not all the men re-enlisted, some were killed or wounded and new men were constantly being recruited to keep the companies fully manned.[^161] When the Federal population census was taken on October 14, 1850, Thomas Rife was at Fort Inge in Bexar County on the Leona River with Wallace’s ranging company. He, or someone representing him, wrongly listed his age as 25 and stated that he was born in Mississippi.[^162]
 
-Late in 1850, General Brooke added one more ranging company to his command for a total of five companies. On November 4, 1850, Henry McCulloch organized a company to be mustered into federal service to serve for 12 months. An article in a newspaper on October 26, 1850, announced the details. All desiring to join were to meet at Austin on November 4th with his own horse; saddle, bridle, blanket and clothing.[^164] Lieutenant Thomas J. Wood of the US Army then mustered the company into Federal service. Henry McCulloch was elected Captain with John R. King as his First Lieutenant and Calvin S. Turner, Second Lieutenant. The company was stationed in Refugio County on the Gulf coast in the neighborhood of the port town of Lamar on Aransas Bay.[^165]
+Late in 1850, General Brooke added one more ranging company to his command for a total of five companies. On November 4, 1850, Henry McCulloch organized a company to be mustered into federal service to serve for 12 months. An article in a newspaper on October 26, 1850, announced the details. All desiring to join were to meet at Austin on November 4th with his own horse; saddle, bridle, blanket and clothing.[^163] Lieutenant Thomas J. Wood of the US Army then mustered the company into Federal service. Henry McCulloch was elected Captain with John R. King as his First Lieutenant and Calvin S. Turner, Second Lieutenant. The company was stationed in Refugio County on the Gulf coast in the neighborhood of the port town of Lamar on Aransas Bay.[^164]
 
-On March 23, 1851, the second six-month term of enlistment of Wallace’s company expired. General Brooke requested, on February 7, 1851, that the Governor allow him to muster this company into Federal service for another six-month term if the men were agreeable to doing so. He made the same request of the companies commanded by Bagby, Ford, McCown, and McCullough, all of whose enlistments were to expire between March 5 and May 5, 1851.[^166]
+On March 23, 1851, the second six-month term of enlistment of Wallace’s company expired. General Brooke requested, on February 7, 1851, that the Governor allow him to muster this company into Federal service for another six-month term if the men were agreeable to doing so. He made the same request of the companies commanded by Bagby, Ford, McCown, and McCullough, all of whose enlistments were to expire between March 5 and May 5, 1851.[^165]
 
 ### General Brooke dismissed the ranging companies in 1851.
 
-In the fall of 1851, General Brooke decided to end the experiment with State troops. He may have felt that he had achieved his goal of pushing the Indians west of the line of forts or he may have realized the impossibility of doing so. Two other factors may have prompted General Brooke to change his strategy. After Congress voted to pay Texas to settle its land claims in New Mexico Territory in 1850, every appropriation involving Texas came under intense scrutiny. Congress would have denied further funding for the employment of State troops if Congress believed Federal infantry troops could do the same job at half the cost.[^167] Another factor involved the often erratic and unprofessional behavior of the rangers.[^168] The ranging company stationed near Rio Grande City (opposite Camargo) became involved as mercenaries in the so-called Merchant War. Their actions angered the Governor[^169] and General Brooke dismissed all five companies of Texas rangers in federal service after that incident. On September 23, 1851, after the third six-month term of service expired, the experiment ended and Wallace’s Company was mustered out after a year and a half of service.[^170]
+In the fall of 1851, General Brooke decided to end the experiment with State troops. He may have felt that he had achieved his goal of pushing the Indians west of the line of forts or he may have realized the impossibility of doing so. Two other factors may have prompted General Brooke to change his strategy. After Congress voted to pay Texas to settle its land claims in New Mexico Territory in 1850, every appropriation involving Texas came under intense scrutiny. Congress would have denied further funding for the employment of State troops if Congress believed Federal infantry troops could do the same job at half the cost.[^166] Another factor involved the often erratic and unprofessional behavior of the rangers.[^167] The ranging company stationed near Rio Grande City (opposite Camargo) became involved as mercenaries in the so-called Merchant War. Their actions angered the Governor[^168] and General Brooke dismissed all five companies of Texas rangers in federal service after that incident. On September 23, 1851, after the third six-month term of service expired, the experiment ended and Wallace’s Company was mustered out after a year and a half of service.[^169]
 
 
 [^1]: Carlysle Graham Raht, *The Romance of Davis Mountains and Big Bend Country: A History,* (El Paso, Texas: The Rahtbooks Company, 1919), 49-51
@@ -201,14 +201,14 @@ In the fall of 1851, General Brooke decided to end the experiment with State tro
 [^14]: James Kimmins Greer, *Colonel Jack Hays: Texas Frontier Leader and California Builder,* (New York: E. P. Dutton & Company, 1952), 159
 [^15]: Ivey, *The Texas Rangers: A Registry and History,* 73
 [^16]: Weaver, *Castro’s Colony,* 107
-[^17]: *The Corpus Christi Star,* (Corpus Christi, Tex.), November 14, 1848; (426) *Texas Democrat* (Austin, Tex.), November 4, 1848
-[^18]: Mexican War pension records, Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, Texas; (76, p. 151) Spurlin, *[Texas Veterans in the Mexican War,* (Victoria, TX: C.D. Spurlin, 1984), 151
-[^19]: Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, Quarterly Publication of the Texas State Genealogical Society, No. 3, (September 1995),* 44; (569) Statement of Service, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15, National Achieves and Records Administration, Washington,
-[^20]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; (156, p. 73) Ivey, *The Texas Rangers: A Registry and History,* 73; (440) Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 17, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94, NARA
+[^17]: *The Corpus Christi Star,* (Corpus Christi, Tex.), November 14, 1848; *Texas Democrat* (Austin, Tex.), November 4, 1848
+[^18]: Mexican War pension records, Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, Texas; Spurlin, *[Texas Veterans in the Mexican War,* (Victoria, TX: C.D. Spurlin, 1984), 151
+[^19]: Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, Quarterly Publication of the Texas State Genealogical Society, No. 3, (September 1995),* 44; Statement of Service, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15, National Achieves and Records Administration, Washington,
+[^20]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; Ivey, *The Texas Rangers: A Registry and History,* 73; Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 17, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94, NARA
 [^21]: Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848.
-[^22]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas;(89, p. 45) Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; (440) Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848.
+[^22]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848.
 [^23]: Spurlin, *Texas Veterans in the Mexican War,* 125
-[^24]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; (440) Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848.
+[^24]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848.
 [^25]: Greer, *Colonel Jack Hays,* 24.
 [^26]: *Dallas Morning News,* October 8, 1933.
 [^27]: A. J. Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* (Abilene, Texas: State House Press, McMurry University, 1986), 447.
@@ -220,16 +220,16 @@ In the fall of 1851, General Brooke decided to end the experiment with State tro
 [^33]: *The Corpus Christi Star,* (Corpus Christi, Tex.), November 28, 1848
 [^34]: *The Texas Democrat* (Austin, Tex.), December 9, 1848
 [^35]: Weaver, *Castro’s Colony,* 107
-[^36]: Ivey, *The Texas Rangers: A Registry and History,* 73; (76, p. 125) Spurlin, *Texas Veterans in the Mexican War,* 125
+[^36]: Ivey, *The Texas Rangers: A Registry and History,* 73; Spurlin, *Texas Veterans in the Mexican War,* 125
 [^37]: Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848.
 [^38]: *The Western Texan*, (San Antonio, Tex.), December 29, 1848
 [^39]: Thomas Rife Application, Military Bounty Land Application Files, Records of the Bureau of Land Management, RG 49, NARA
 [^40]: Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veterans Affairs RG15, NARA
 [^41]: A. B. Bender, “Opening Routes Across West Texas, 1848-1850”, *Southwestern Historical Quarterly 37, No. 2,* (October 1933), 117
-[^42]: Walter Prescott Webb, *The Great Plains,* (Boston and New York: Houghton Mifflin Company, 1936), 86; (716, p. 61) S. C. Gwynne, *Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History,* (New York: Scribner, 2011), 61
+[^42]: Walter Prescott Webb, *The Great Plains,* (Boston and New York: Houghton Mifflin Company, 1936), 86; S. C. Gwynne, *Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History,* (New York: Scribner, 2011), 61
 [^43]: Bender, “Opening Routes Across West Texas, 1848-1850”, 123
 [^44]: Donald E. Everett, *San Antonio Legacy,* (San Antonio: Trinity University Press, 1979), 14
-[^45]: Webb, *The Great Plains,* 51; (467, p. 88) Raht, *The Romance of Davis Mountains*, 88
+[^45]: Webb, *The Great Plains,* 51; Raht, *The Romance of Davis Mountains*, 88
 [^46]: Raht, *The Romance of Davis Mountains* map
 [^47]: Gwynne, *Empire of the Summer Moon,* 61
 [^48]: Raht, *The Romance of Davis Mountains,* 91
@@ -239,13 +239,13 @@ In the fall of 1851, General Brooke decided to end the experiment with State tro
 [^52]: Raht, The Romance of Davis Mountains, 85
 [^53]: Bender, “Opening Routes Across West Texas, 1848-1850”, 118-9
 [^54]: Bender, “Opening Routes Across West Texas, 1848-1850”, 119
-[^55]: *The Texas Democrat* (Austin, Tex.), June 23, 1849; (486) *The Corpus Christi Star,* June 30, 1849; (489) *The Texas Democrat* (Austin, Tex.), August 4, 1849; (197, p. 125) Bender, “Opening Routes Across West Texas, 1848-1850”, 125
+[^55]: *The Texas Democrat* (Austin, Tex.), June 23, 1849; (486) *The Corpus Christi Star,* June 30, 1849; *The Texas Democrat* (Austin, Tex.), August 4, 1849;  Bender, “Opening Routes Across West Texas, 1848-1850”, 125
 [^56]: Bender, “Opening Routes Across West Texas, 1848-1850”, 121
 [^57]: Bender, “Opening Routes Across West Texas, 1848-1850”, 122
 [^58]: Bender, “Opening Routes Across West Texas, 1848-1850”, 123
 [^59]: Jack C. Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 1850-1861”, 116
 [^60]: Jerry Thompson, editor, *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque, NM: University of New Mexico Press, 2001), 8
-[^61]: Charles G. Downing and Roy L. Swift, “Howard, Richard Austin”, Handbook of Texas Online, http://www.tshaonline.org/handbook/online/articles/fho90, accessed October 07, 2012; (487) *Democratic Telegraph and Texas Register* (Houston, Tex.), June 21, 1849; (492, p. 34) Williams, *Never Again, Texas: 1848-1861,* 34
+[^61]: Charles G. Downing and Roy L. Swift, “Howard, Richard Austin”, Handbook of Texas Online, http://www.tshaonline.org/handbook/online/articles/fho90, accessed October 07, 2012; *Democratic Telegraph and Texas Register* (Houston, Tex.), June 21, 1849; Williams, *Never Again, Texas: 1848-1861,* 34
 [^62]: *Dallas Morning News,* October 3, 1937
 [^63]: “Texas Pioneers,” *Dallas Morning News,* February, 1898
 [^64]: Bender, “Opening Routes Across West Texas, 1848-1850”, 123
@@ -259,7 +259,7 @@ In the fall of 1851, General Brooke decided to end the experiment with State tro
 [^72]: Bender, “Opening Routes Across West Texas, 1848-1850”, 124
 [^73]: Anonymous, Texas Almanac, 1859, 139-140
 [^74]: Jack Lowery, “Guarding the Westward Trail”, *Texas Highways Magazine 39, No. 9,* (September 1992), 46
-[^75]: Webb, *The Great Plains,* 30-1; (492, p. 15) Williams, *Never Again, Texas: 1848-1861,* 15
+[^75]: Webb, *The Great Plains,* 30-1; Williams, *Never Again, Texas: 1848-1861,* 15
 [^76]: Raht, *The Romance of Davis Mountains,* 23
 [^77]: Raht, *The Romance of Davis Mountains,* 86
 [^78]: Raht, *The Romance of Davis Mountains,* 86
@@ -268,9 +268,9 @@ In the fall of 1851, General Brooke decided to end the experiment with State tro
 [^81]: Rick Henricks and W. H. Timmons, *San Elizario: Spanish Presidio to Texas County Seat,* (El Paso, Texas: Texas Western Press, The University of Texas at El Paso, 1998), 71
 [^82]: Greer, *Colonel Jack Hays,* 236, 244
 [^83]: Williams, *Never Again, Texas: 1848-1861,* 7
-[^84]: *The Texas Democrat* (Austin, Tex.), August 4, 1849; (285, p. 34) Nancy Lee Hammons, *A History of El Paso County, Texas, to 1900,* (El Paso, TX: The University of Texas at El Paso, 1983), 34
+[^84]: *The Texas Democrat* (Austin), August 4, 1849; Nancy Lee Hammons, *A History of El Paso County, Texas, to 1900,* (El Paso, TX: The University of Texas at El Paso, 1983), 34
 [^85]: *The San Antonio Light,* February 23, 1887
-[^86]: *Galveston Daily News,* December 28, 1894; *San Antonio Daily Light,* December 27, 1894; (682) *The San Antonio Daily Express,* December 28, 1894
+[^86]: *Galveston Daily News,* December 28, 1894; *San Antonio Daily Light,* December 27, 1894; *The San Antonio Daily Express,* December 28, 1894
 [^87]: C. D. and H. Castellaw, editors, “Fort Inge, Uvalde County, Texas”, *Branches and Acorns 8, Southwest Texas Genealogical Society, No. 4,* (June 1993), 29-30
 [^88]: Walter Prescott Webb, *The Texas Rangers: A Century of Frontier Defense,* (Austin: University of Texas at Austin, 1965), 144
 [^89]: David P. Smith, *Frontier Defense in Texas: 1861-1865,* (Denton, TX: North Texas State University, 1987), 283
@@ -280,7 +280,7 @@ In the fall of 1851, General Brooke decided to end the experiment with State tro
 [^93]: Smith, *The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas,* 15
 [^94]: Smith, *The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas,* 98-9
 [^95]: Indian Papers: Geo. M. Brooke to PHB (June 6, 1850), Records of P. Hansborough Bell, Texas Office of the Governor, Archives and Information Services Division, Texas State Library and Archives Commission
-[^96]: T. R. Fehrenback, *Comanches: The Destruction of a People,* (New York: Alfred A. Knopf, 1974), 306; (716, p. 74) Gwynne, *Empire of the Summer Moon,* 74
+[^96]: T. R. Fehrenback, *Comanches: The Destruction of a People,* (New York: Alfred A. Knopf, 1974), 306; Gwynne, *Empire of the Summer Moon,* 74
 [^97]: Bender, “Opening Routes Across West Texas, 1848-1850”, 129
 [^98]: Thomas T. Smith, ”Fort Inge,” Handbook of Texas Online (http//www.tshaonline.org/handbook.online/articles/qbf27), accessed December 05, 2010.
 [^99]: Smith, “Fort Inge,” Handbook of Texas Online
@@ -294,28 +294,28 @@ In the fall of 1851, General Brooke decided to end the experiment with State tro
 [^107]: *Texas State Gazette,* (Austin, Texas), August 25, 1849
 [^108]: Smith, *The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas,* 21
 [^109]: *Texas State Gazette,* (Austin, Texas), August 25, 1849
-[^110]: Geo. M. Brook to GTW (August 11, 1849), Records of George T. Wood, Texas Office of the Governor, ARIS-TSLAC; (156, p. 75) Ivey, The Texas Rangers: A Registry and History, 75; (405) *Texas State Gazette,* (Austin, Texas), August 25, 1849
-[^111]: *Texas State Gazette,* (Austin, Texas), August 25, 1849
+[^110]: Geo. M. Brook to GTW (August 11, 1849), Records of George T. Wood, Texas Office of the Governor, ARIS-TSLAC; Ivey, The Texas Rangers: A Registry and History, 75; (405) *Texas State Gazette,* (Austin, Texas), August 25, 1849
+[^111]: *Texas State Gazette,* (Austin), August 25, 1849
 [^112]: Order #57 from General George Deas (August 19, 1849), Records of George T. Wood, Texas Office of the Governor, ARIS-TSLAC
 [^113]: Webb, *The Texas Rangers,* 141
-[^114]: *Texas State Gazette,* (Austin, Tex.), October 26, 1850
+[^114]: *Texas State Gazette,* (Austin), October 26, 1850
 [^115]: Order #57 from General George Deas (August 19, 1849)
-[^116]: *Texas State Gazette,* (Austin, Tex.), October 26, 1850
+[^116]: *Texas State Gazette,* (Austin), October 26, 1850
 [^117]: Order #57 from General George Deas (August 19, 1849)
-[^118]: Indian Papers: S.M. Plummer to Maj. Geo. Deas, Governors Papers, (September 5, 1850) ARIS-TSLAC; (780, p. 69) James Farber, *Texas, C.S.A.: A Spotlight on Disaster,* (New York and Texas: The Jackson Co., 1947), 69
-[^119]: *Texas State Gazette,* (Austin, Tex.), October 26, 1850
+[^118]: Indian Papers: S.M. Plummer to Maj. Geo. Deas, Governors Papers, (September 5, 1850) ARIS-TSLAC; James Farber, *Texas, C.S.A.: A Spotlight on Disaster,* (New York and Texas: The Jackson Co., 1947), 69
+[^119]: *Texas State Gazette,* (Austin), October 26, 1850
 [^120]: Order #57 from General George Deas (August 19, 1849)
 [^121]: Order #57 from General George Deas (August 19, 1849)
 [^122]: Geo. M. Brooke to PHB, (March 6, 1850), Records of P. Hansborough Bell, Texas Office of the Governor, ARIS-TSLAC
 [^123]: Geo. M. Brook to GTW (August 11, 1849)
-[^124]: Order #57 from General George Deas (August 19, 1849); (413) *Texas State Gazette,* (Austin, Tex.), October 26, 1850
+[^124]: Order #57 from General George Deas (August 19, 1849); *Texas State Gazette,* (Austin), October 26, 1850
 [^125]: Smith, *Frontier Defense in Texas: 1861-1865,* 6
 [^126]: Order #57 from General George Deas (August 19, 1849)
 [^127]: Oates, editor, *Rip Ford’s Texas,* 143
 [^128]: Geo. M. Brooke to PHB, (March 6, 1850)
-[^129]: Webb, *The Texas Rangers,* 141; (228) *Texas State Gazette,* (Austin) March 9, 1850
+[^129]: Webb, *The Texas Rangers,* 141; *Texas State Gazette,* (Austin) March 9, 1850
 [^130]: Gen. Hamey, Special Orders #3 (March 23, 1850), Records of P. Hansborough Bell, Texas Office of the Governor, ARIS-TSLAC
-[^131]: Geo. M. Brooke to PHB, (March 6, 1850); (44, p. 141) Webb, The Texas Rangers, 141
+[^131]: Geo. M. Brooke to PHB, (March 6, 1850); Webb, The Texas Rangers, 141
 [^132]: Gen. Hamey, Special Orders #3 (March 23, 1850)
 [^133]: Frederick Wilkens, *Defending the Borders, The Texas Rangers, 1848-1861,* (Austin: State House Press, 2001), 16
 [^134]: James Pike, *Scout and Ranger being the Personal Adventures of James Pike,* (Princeton, NJ: Princeton University Press, 1932), 22
@@ -329,32 +329,31 @@ In the fall of 1851, General Brooke decided to end the experiment with State tro
 [^142]: Williams, *Never Again, Texas: 1848-1861,* 58
 [^143]: Williams, *Never Again, Texas: 1848-1861,* 155
 [^144]: J.W. Wilbarger, *Indian Depredations in Texas, Reliable Accounts,* (Austin: Hutchings Printing House, 1889), 671
-[^145]: Wilbarger, *Indian Depredations in Texas, Reliable Accounts,* 671; (181, p. 138) Smith, *The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas,* 138; (257) *Texas State Gazette,* (Austin), August 31 1850; (339, pp. 155-162) A.J. Sowell, *Life of “Big Foot” Wallace, The Great Ranger Captain,* (Austin: State House Press, 1989), 155-162; (499, p. 16) Wilkens, *Defending the Borders, The Texas Rangers, 1848-1861,* 16
+[^145]: Wilbarger, *Indian Depredations in Texas, Reliable Accounts,* 671; Smith, *The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas,* 138; (257) *Texas State Gazette,* (Austin), August 31 1850; A.J. Sowell, *Life of “Big Foot” Wallace, The Great Ranger Captain,* (Austin: State House Press, 1989), 155-162; Wilkens, *Defending the Borders, The Texas Rangers, 1848-1861,* 16
 [^146]: Williams, *Never Again, Texas: 1848-1861,* 58
 [^147]: Williams, *Never Again, Texas: 1848-1861,* 162
 [^148]: Fenley, “Events in the Early History of Uvalde County,” 110
 [^149]: Williams, *Never Again, Texas: 1848-1861,* 162
 [^150]: Wilbarger, *Indian Depredations in Texas,* 671
 [^151]: *The Kerrville Mountain Sun,* May 6, 1926
-[^152]: Charles Merritt Barnes, *Combats and Conquests of Immortal Heroes,* (San Antonio: Guessaz & Ferlet Company, 1910), 187; (224, p. 189) Miss Mattie Jackson, *The Rising and Setting of the Lone Star Republic,* (San Antonio: unknown publisher, 1926), 189
+[^152]: Charles Merritt Barnes, *Combats and Conquests of Immortal Heroes,* (San Antonio: Guessaz & Ferlet Company, 1910), 187; Miss Mattie Jackson, *The Rising and Setting of the Lone Star Republic,* (San Antonio: unknown publisher, 1926), 189
 [^153]: Williams, *Never Again, Texas: 1848-1861,* 58
 [^154]: Geo. M. Brook to GTW (August 11, 1849)
 [^155]: Williams,* Never Again, Texas: 1848-1861,* 59;
-[^156]: Ivey, *The Texas Rangers: A Registry and History,* 59; (716, 138); (716, p. 138) Gwynne, *Empire of the Summer Moon,* 138
+[^156]: Ivey, *The Texas Rangers: A Registry and History,* 59; Gwynne, *Empire of the Summer Moon,* 138
 [^157]: Order #57 from General George Deas (August 19, 1849)
 [^158]: Seymour V. Connor, *Adventures in Glory: The Saga of Texas, 1836-1849,* (Austin, Texas: Steck-Vaughn, 1965), 250
 [^159]: Indian Papers: Geo. M. Brooke to PHB (August 10, 1850), Records of P. Hansborough Bell
 [^160]: Indian Papers: S.M. Plummer to Maj. Geo. Deas (September 5, 1850)
 [^161]: Indian Papers: S.M. Plummer to Maj. Geo. Deas (September 5, 1850); (638, p. 42) Greer, *Colonel Jack Hays,* 42
-[^162]: Mrs. Lauretta Russell, *1850 Census of Bexar County, TX,* (San Antonio: 1966), 77
-[^163]: Thomas Rife, US Seventh Census (1850), Bexar County, TX; (141) Mrs. Lauretta Russell, *1850 Census of Bexar County, TX,* 77
-[^164]: *Texas State Gazette,* (Austin, Tex.), October 26, 1850
-[^165]: *Texas State Gazette,* (Austin, Tex.), November 9, 1850
-[^166]: Indian Papers: Geo. M. Brooke to PHB (February 7, 1851), Records of P. Hansborough Bell
-[^167]: Smith, *The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas,* 19
-[^168]: *The Western Texan*, (San Antonio, Texas), July 31, 1851
-[^169]: Webb, *The Texas Rangers,* 141-2
-[^170]: *Texas State Gazette,* (Austin), September 20, 1851
+[^162]: Thomas Rife, US Seventh Census (1850), Bexar County, TX; Mrs. Lauretta Russell, *1850 Census of Bexar County, TX,* 77
+[^163]: *Texas State Gazette,* (Austin, Tex.), October 26, 1850
+[^164]: *Texas State Gazette,* (Austin, Tex.), November 9, 1850
+[^165]: Indian Papers: Geo. M. Brooke to PHB (February 7, 1851), Records of P. Hansborough Bell
+[^166]: Smith, *The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas,* 19
+[^167]: *The Western Texan*, (San Antonio, Texas), July 31, 1851
+[^168]: Webb, *The Texas Rangers,* 141-2
+[^169]: *Texas State Gazette,* (Austin), September 20, 1851
 
 
 
