@@ -1,415 +1,283 @@
 ---
-title: Ancestors of Thomas Rife, 1780-1864
-weight: 300
+title: Skillman's Mail Service, 1851 - 1854
+weight: 400
 type: essay
 ---
 
-## Thomas Rife in West Texas, 1848-1851
+## Rife began a career as a stage conductor
 
-### Frontier Defense, 1848
+*“...he was mustered out to form captain of one of the parties carrying the first mail from San Antonio to Santa Fe. Big Foot Wallace was captain of the other party, and for nearly three years he was so engaged. In those days there was no house nor settlement between Joe Ney’s ranch (70 miles west of San Antonio, editor) and San Elizario, a distance of 800 miles, and the party was an armed force on a road that was beset by Indians, and much could be written of the dangers and vicissitudes of his position.” “Custodian of the Alamo,” San Antonio Light, February 23, 1887.*
 
-*“At the close of the Mexican war he was honorably discharged, but he did not seek rest, although he had nearly six years of service, for in 1848 he joined Ben Hill’s frontier company”, “Custodian of the Alamo,” San Antonio Light, February 23, 1887.*
+### Henry Skillman was a legendary figure in West Texas.
 
-Indian raids into Texas and northern Mexico continued during the Mexican War. The frequency and intensity of Indian raids into Texas and northern Mexico seemed to increase during the Mexican War. Northern Comanche raiders stole an estimated 10,000 horses and mules from the states of Durango and Chihuahua during the winter of 1845-1846.[^1] In 1849 when a survey party led by Captain Whiting reached the Pecos River, they were surprised to find a heavily used trail between Buffalo Gap and Comanche Springs. They surmised that it was, “a large Comanche war path-which filled us with much astonishment, close together, 25 deep worn and much used trails made a great road, which told us that this was a highway by which each year the Comanche of the North desolate Durango and Chihuahua.”[^2]
+Henry Skillman was born in New Jersey in 1814, spent his youth in Kentucky, and came to Texas before 1839. He worked as a courier on the Santa Fé Trail and as a wagon master. He was a scout for Colonel Alexander Doniphan when the United States was at war with Mexico in 1846 and accompanied Colonel Doniphan’s expedition to Chihuahua as it followed the Santa Fé Trail south from El Paso del Norte. Skillman was at the February 28, 1847 battle at Sacramento, Chihuahua as captain of a company of wagon masters and teamsters.[^1] A year later he was again serving as a scout and fought at the Battle of Santa Cruz de Rosales on March 16, 1848. After the Mexican War he settled in Franklin, one of the villages that became El Paso, Texas, and operated a freight line between there and San Antonio.
 
-During this turbulent period the line of settlement in south Texas continued to move westward. Prior to February 1843 there were no settlements west of San Pedro Creek (on San Antonio’s west side today) but between 1844 and 1852 fifteen small settlements were established west of the Medina River. All were in constant conflict with hostile Indians. 3(431, p. 258) Indian incursions south and east of Indian trails between Las Moras Creek and the Leona River were frequent until about 1857. 4(156, p. 75) Until 1846 Hays and his company of rangers provided protection for Castro’s Colony. However when the Mexican War began Hays and most other Indian fighters left to for the War and their departure left the frontier unprotected. 5(431, p. 256)
+Henry Skillman was described as “a great blond giant with flowing beard and hair - — the Kit Carson of Big Bend.”[^2] A reporter for the San Antonio Ledger wrote in October 1853, "Prominent in uncouthness was the Captain himself, with his beard descending some foot and a half below his countenance.""[^3] Skillman was dangerous when drunk. On rare occasions while under the influence of “strong drink” he would “shoot up the town.” After he was sober, he would “return to the scene of his exuberance, pay the damages, and apologize to everyone for his actions.”[^4] This behavior cost Skillman $25 and court costs in San Antonio in February 1853. He was fined in the Mayor's Court for "Assault and Battery, Furious Riding, Riding on the Sidewalk and Obstructing an Officer.”[^5]
 
-Settlers west of Castroville had troubles with Indians. The European settlers at Quihi Lake were not armed and did nothing to threaten the Indians. However they did occupy land around Quihi Lake that was previously used as an Indian campground. 6(340, pp. 77-8) Luckily the immigrants were extremely poor and had no horses or mules to tempt Indian raiders. 7(431, p. 9) Nevertheless a week after the settlers arrived at Quihi Lake, Lipan Apache men killed the Brinkhoff family and kidnapped two boys. 8(340, p. 77) Henri Castro, the impresario (land contractor), had an agreement with the Southern Comanche that provided a basis for peaceful relations between his settlers and the Indians. Unfortunately in 1846 Texan freighters killed several Comanche Indians at Quihi Lake and the Indians retaliated by attacking Castro’s settlers. To prevent further incidents Captain John Conner’s ranging company was stationed on the Medina River above Castroville on July 31, 1846.
+### Skillman helped layout the San Antonio to El Paso Road.
 
-In September 1846 fifty families settled at Vandenburgh on Verde Creek, about 5 miles west of Quihi 9(340, p. 80) and in February 1847 twenty-nine families settled at D’Hanis, 25 miles west of Castroville. 10(340, p. 81) As early as October 1846 the Federal government recognized the need to provide some protection to settlers west of Castroville but nothing was done that year. 11(156, p. 61) On August 11, 1847 Lieutenant-Colonel P. H. Bell and two companies 12(156, p. 71) were detached from Colonel Hays’ 13(159, p. 60) regiment of 1st Texas Mounted Volunteers with orders to protect settlers from Indian raids. 14(638, p. 159) These units were mustered into service as US volunteers and operated jointly under the supervision of Headquarters, US Army Post of San Antonio and under the personal orders of Governors J. P. Henderson and G. T. Wood. 15(156, p. 73)
+After the war with Mexico ended, the U.S. Army began locating and mapping roads to the newly acquired territories in the Southwest. Lieutenant William Whiting led an expedition that left San Antonio in February 1849 and reached the American settlements across from El Paso del Norte two months later. In April 1849 Lt. Whiting hired Henry Skillman at San Elizario to purchase supplies for the expedition’s return trip to San Antonio. Skillman located and purchased the necessary supplies in the village of Doña Ana, then in Texas, and in the small Mexican town of Presidio del Norte (now Ojinaga, Chihuahua). Skillman then caught up with the Whiting party near what became the Lancaster Crossing of the Pecos River and accompanied the soldiers and their guides back to San Antonio.[^6]
 
-In March 1848 Lipan and Kickapoo Indians raided the settlement at Quihi. They briefly kidnapped Mrs. Francesca Charobiny and killed her brother, Blas Meyer. That same month Charles DeMontel’s ranging company was sent to the area and established their camp on Seco Creek, two miles from D’Hanis and Captain John Conner’s company was returned to the Medina River above Castroville. 16(340, pg. 107) In the fall of 1848 the Governor authorized the formation of four other ranging companies. 17(425) (426)
+Stage service to south Texas from San Antonio had begun the year before;[^7] There were, however, no stages running west of San Antonio. The Comanche and Mescalero Apache Indians and the lack of an established route made travel west of San Antonio extremely dangerous.[^8] Nevertheless, by the time California was admitted as the thirty-first state on July 9, 1850, US Army surveyors had located and improved the best routes for roads through the Trans-Pecos region of west Texas.[^9] The road investigated in 1849 by Lieutenants S.G. French and William Whiting became known as the Military or Lower San Antonio to El Paso road. The route was an all season road, over a natural surface, rough in places but free of snow in the winter.[^10] For the most part, this was the route used by the first mail service to west Texas.
 
-Rife enlisted in a ranging company operating west of Castroville in the fall of 1848. Thomas Rife and the men of Major Lane’s battalion serving with the Army of Occupation in northern Mexico were mustered out of Federal service on June 30, 1848 18(148) (76 p. 151) at Ciudad Camargo. 19(89, p. 44) (569) Rife probably returned to his uncle’s farm in Washington County for a few months. He was now 25-years old and had been a soldier for much of the last six years. However he apparently decided that he was not yet ready to settle down to life on a farm. Like many other young men in his situation, he was restless.
+### Skillman’s first contract for mail service was from 1851 to December 1852.
 
-Rife traveled to San Antonio and on October 27, 1848 was mustered into Benjamin F. Hill’s Company of P. Hansbrough Bell’s Regiment of Texas Mounted Volunteers. 20(148) (156 p. 73) (440) The mission of the company was to protect the frontier. He enlisted as a Sergeant. His horse was valued at 80 dollars and his horse equipment was worth 15 dollars. 21(440) The company was composed of men recruited in Bastrop and San Antonio but was mustered into Federal service at San Antonio 22(148) (89, p. 45) (440) and served less than two months. It was mustered out of Federal service on December 17, 1848 23(76, p. 125) at San Antonio. 24(89, p. 45) (440)
+Prior to 1851, mail to points west of San Antonio was carried by either US Army express riders or by private couriers such as Henry Skillman.[^11] US citizens living in the cluster of settlements on the east bank of the Rio Grande across from El Paso del Norte signed a petition dated September 10, 1850, urging the establishment of postal service between there and San Antonio, possibly following a route through Fort Inge and Presidio del Norte. The newspaper editor who published the petition notice somewhat optimistically predicted that the trip could be made in 16 days without relay stations. He calculated that with “some few posts upon the road, so as to furnish relays of horses” the trip could be made in half that time.[^12] While the far-sighted editor was correct in some respects, it would be three years before any relay stations existed on this road.[^13] He also underestimated the length of the journey; even after relay stations were built, the trip by stagecoach took 16 days.[^14]
 
-After receiving supplies, the company left San Antonio for the settlements to the west. In November 1848 a squad of probably three rangers 25(638, p. 24) led by Sgt. Rife (A.J. Sowell mistakenly gave his rank as Captain) arrived at the settlement of D’Hanis to protect the isolated settlers living there. The rangers camped on Seco Creek (then called Arroyo Seco) two miles from the settlement at what was already called Ranger’s Camp. 26(743) They provided game for the Alsatian-born settlers in addition to protection from Indians. 27(153, p. 447)
+Congress passed a bill that made mail service more practicable on March 3, 1851. On that date, Congress authorized the US Mint to produce a 3-cent coin for the express purpose of purchasing postage stamps.[^15] Congress also lowered postage fees dramatically[^16] and by the summer of 1851 the prerequisites for mail service to west Texas were in place. The Topographical Engineers had made a suitable road west of San Antonio and also Congress had made postage affordable. The California gold rush increased the volume of trade between the eastern states and the Pacific coast and created a demand for passenger and mail service to California.[^17] In response to the growing public need, the Post Office Department placed notices in newspapers seeking bids for mail service on Route #6336. This semi-monthly route was to run from San Antonio through Eagle Pass, Presidio del Norte and El Paso County, Texas to Doña Ana in New Mexico Territory.[^18]
 
-Rife’s unit killed Delaware Bob. After their arrival at D’Hanis, the rangers under Sgt. Rife arrested an Indian man for kidnapping Mrs. Charobiny and killing her brother earlier that year. 28(340. p. 107) The rangers understood that this man was a Lipan Apache. They took their captive to Mrs. Charobiny, who was fourteen and newlywed, to see if she recognized him as the man who had kidnapped her eight months earlier. She replied that all Indians looked the same to her and that she could not identify him.
+### Prior to receiving the mail contract, Skillman ran a courier service.
 
-Instead of returning to their camp, the rangers went to a house in the settlement where whiskey was sold from a barrel. They ended up staying in the settlement all night drinking whiskey and during the night their captive was killed. Some of the settlers said he was Old Delaware Bob, a harmless and friendly Indian. In the morning, the Rangers dragged his body to an empty field near the settlement and left him there for hogs to eat. 29(153, pp. 321, 372, 447) (The two rangers with Rife may have been named Allen and West. 30(153, pp. 372, 447)
+Before September 1851, Henry Skillman, along with William “Big Foot” Wallace and his friend Edward Westfall, was operating a private courier service based in San Antonio. It was an irregular service for private subscribers.[^19] Wallace and a partner submitted a bid for the new mail route but their bid was rejected as too costly.[^20] Henry Skillman saw the mail service as an opportunity to continue his courier service on a sounder basis and with a guaranteed income large enough to buy coaches and to hire help. He was determined to get the contract that had been denied to Wallace and Howard earlier in the year. In September 1851, Skillman traveled by steamship from New Orleans to Washington, D.C. where he negotiated directly with the Postmaster General.
 
-Residents of South Texas remarked that, while the Lipan Apaches were friendly prior to 1847, they “went on the war path” after the young chief Flacco was killed and their camping grounds west of San Antonio were occupied by settlers. 31(555, p. 94) Others said that the Lipan Indians “became bitter foes of the white race” after a drunken ranger killed a Lipan. 32(431, p. 256) They may have been referring to the murder of Rife’s captive at D’Hanis.
+Skillman successfully negotiated the stagecoach contract; on September 20, 1851 he signed Contract #6401 with Postmaster General Nathan K. Hall to carry mail between San Antonio and Santa Fé via Franklin in El Paso County, Texas. The contract was to begin on November 1, 1851 and to expire on June 30, 1854. Skillman was to be paid $12,500 per year for carrying the mail in his own coaches.[^21]
 
-The ranging companies were disbanded in December 1848. Shortly thereafter General Twiggs ordered that all ranging companies still in Federal service be disbanded. 33(430) Before December 9, 1848 a company of US Dragoons replaced Hill’s Company on the Medina River. US Army Dragoons also replaced the ranging companies commanded by Captains Ross, Conner and McCulloch. 34(428) In July 1849 the US Army built Fort Lincoln at the site of Rangers Camp on Seco Creek and two companies of US Army troops were stationed there. 35(340, p. 107)
+Notice of the contract appeared in The National Intelligencer, a Washington, D.C. newspaper. The reporter prophesized that the contractor would lose money on the route. He stated that, “the transportation of mails through a vast unsettled wilderness, infested by roaming bands of rude and often hostile Indians, must, to afford them (the mail carriers) the proper protection, be attended with an expense far beyond any possible receipts.”[^22] A decade of mail service would prove the reporter to be correct. It was always a dangerous undertaking to travel across the Texas wilderness but it was especially dangerous for a lone courier or a small party even if they were heavily armed and riding fresh horses. The problem was that every traveler, whether Anglo, Mexican or Indian, had to stop at the same watering places and therefore encounters with Indians were inevitable.[^23]
 
-On December 17, 1848 Rife was mustered out of Federal service along with the rest of Benjamin Hill’s Company. 36(156, p. 73) (76, p. 125) He was due all his pay accrued since enrolment. The ordinance officer deducted $2.50 from his pay for lost equipment i.e. one dollar for a cartridge box, 75 cents for a carbine sling and 75 cents for a sling swivel. 37(440) Nine days later, on December 26, 1848 Benjamin F. Hill was elected without opposition as Sheriff of Bexar County. 38(427) Perhaps as a result of his service in the Mexican War, Rife received a bounty from the State of Texas.39(597) He promptly sold his bounty land claim for an unknown sum to Vance and Bros., a large San Antonio merchant and banking firm.40(574)
+### The first mail to Santa Fé left San Antonio in November 1851.
 
-2.	Topographic Engineers, 1848
+After Skillman returned to San Antonio from Washington, D. C., the first westbound mail coach left San Antonio on either the first or the third of November 1851. The trip took three weeks and the mail arrived in Santa Fé on November 24.[^24]
 
- “Some time he was engaged with Colonel Joseph E. Johnson and Lieutenant Bryan in hunting out and opening the El Paso roads.” “Custodian of the Alamo,” San Antonio Light, February 23, 1887.
+The first southbound coach left Santa Fé on January 2, 1852, and arrived safely in San Antonio. The same coach was dispatched on the second westbound trip to Santa Fé but failed to reach its destination. A search party discovered the charred remains of the mail coach in the mountains downriver of El Paso. The driver was assumed to be dead since nothing was found of him but his hat.[^25] This would be the first of many similar attacks on Skillman’s coaches.
 
-In 1848 the US Army built roads linking San Antonio and California. When the United States and Mexico signed the Treaty of Guadalupe Hidalgo, the US was given sovereignty over what became the States of New Mexico, Arizona and California. At that time, the only road linking the United States with the newly acquired Territory of New Mexico was the Santa Fé Trail. 41(197, p. 117)
+Skillman ordered some “good comfortable spring carriages for the accommodation of passengers” while in Santa Fé[^26] and in December 6, 1851, a newspaper advertisement announced the start of passenger service. According to Skillman’s advertisement, “The mail will leave Santa Fé on the second of each month… and arrive in San Antonio on the last day of the same month.” The westbound coach will “leave San Antonio on the first of each month ... and arrive in Santa Fé on the last day of the same month.” Skillman stated that the greatest distance between watering places was forty miles and that, ”he will also have on the line a small train of light wagons.” The passenger fare for the full trip between Santa Fé and San Antonio was $125.[^27] In addition to mail and passengers, the coaches brought newspapers and gossip between the civilized world and the west.[^28] In September 1853, the train led by Captain Wallace brought “some fine specimens of the El Paso grape, upon which those of our citizens, who were favored with ‘bunches’, were luxuriating with infinate satisfaction.”[^29]
 
-	Until 1849 there was no direct route between San Antonio and the upper Rio Grande valley. In the Spanish period a trail between San Antonio and Santa Fé existed but it was suitable only for pack animals. It was also dangerous and rarely used. Before the Mexican War the only usable road between San Antonio and El Paso del Norte ran through Saltillo, Hidalgo del Parral and Chihuahua City in order to avoid the Despoblado area of West Texas and northern Mexico. 42(478, p. 86) (716, p. 61)
+Skillman built at least two relay stations along the mail route. One was at San Elizario and the other at the Leona River, near present-day Uvalde.[^30] On the night of January 25, 1852, Indians stole mules and horses (numbering between 30 and 40) from the corral at the Leona Station, the first relay station west of San Antonio. The mules belonged to San Antonio merchant George Giddings (who was camped there) and Henry Skillman’s mail service.[^31] Some of the horses escaped from the Indians during the night and returned to the corral.
 
-Not only was the Despoblado an unexplored desert 43(197, p. 123) without a single Mexican or Anglo resident 44(640, p. 14), it was also the traditional territory of Mescalero Apache Indians. 45(478, p. 51) (467, p. 88) In addition to the menace from Apaches, Comanche trails from what is now Oklahoma and north-central Texas ran through the Despoblado to Mexico. 46(467, map) It was the presence of Comanche raiders that prevented settlement in the Despoblado. 47(716, p. 61)
+Thomas Rife and Edward Westfall, both employees of the mail service, and a few other men who lived in the area started on the trail of the Indians the next morning.[^32] They caught up with the raiders, killed one and let the others flee. All the stolen horses and mules were recovered.[^33] On that same day, Apaches attacked the coach running between Santa Fé and El Paso and killed three men. The coach was being escorted by soldiers from the US Army Second Dragoons and was abandoned and later destroyed by the Indians.[^34]
 
-The 11th Article of the Treaty of Guadalupe Hidalgo guaranteed that the US would prevent Indians from raiding into Mexico 48(467, p. 91) although neither the Spanish nor the Mexicans had ever been able to accomplish this. The treaty required the US to build military posts to block movement of Indians across the border. The border itself had to be surveyed and marked. The merchants of San Antonio hoped also to secure some share of the lucrative trade with northern Mexico that passed through St. Louis and Santa Fé. 49(638, pp. 216-7) For these and other reasons 50(411, p. 115), the US Secretary of War sent Brevet Major General William Worth to Texas with instructions to examine the country on the north bank of the Rio Grande from San Antonio to Santa Fé 51(197, p. 119) and to construct a road to connect San Antonio with New Mexico and California. 52(467, p. 85)
+### Thomas Rife was an employee of the mail service.
 
-Upper and Lower Military Roads were built to El Paso del Norte. The first effort after the Mexican War to open a road to New Mexico Territory was made by Colonel John C. Hays and Ranger Captain Samuel Highsmith leading a thirty-five-man escort of Texas Rangers. This expedition left San Antonio August 27, 1848 and returned on December 20. While unsuccessful in finding a route to El Paso, they did happen upon a good route to Presidio. 53(197, pp. 118-9)
+On September 23, 1851 the 100 or so men remaining in Wallace’s ranger company were mustered out of Federal Service. Rife had left the service sometime prior to September 1851. He and several men from Wallace’s company continued living along the Leona River in the vicinity of the ranger camp where they had lived while in Federal service.
 
-Two months after the Hays expedition returned, General Worth and the citizens of San Antonio sent out a second exploring expedition. Major Robert Neighbors and John S. Ford were charged with finding a route for the movement of troops as well as for commercial purposes. 54(197, p. 119) This expedition mapped out what became known as the Upper El Paso-San Antonio Road. 55(359) (486) (489) (197, p. 125)  
+In the first few months after having been awarded the mail contract in the spring of 1852, Skillman hired William “Big Foot” Wallace, Edward Westfall, Thomas Rife, Louis Oge, Bradford Daily, Benjamin Sanford, Adolph Fry and others to carry the mail.[^35] Rife continued in this service for eighteen months. Initially there was only one coach making the two month-long round trips between San Antonio and Santa Fé. Big Foot Wallace and Rife worked together manning the coach until January 1853, when the frequency of the trips was increased and Rife and Wallace each led a team going in opposite directions.[^36]
 
-On February 12, 1849 another group of 16 men led by US Army engineers Captain William Whiting and Lieutenant William Smith left San Antonio to reconnoiter the entire region between San Antonio and west Texas. Their instructions were to find a suitable road for military and commercial purposes and to select suitable sites for military posts. 56(197, p. 121) This group followed the Upper Road between Fredericksburg and the upper Rio Grande valley but returned along the more southern route that was followed by the Hays Expedition. 57(197, p. 122) On the return trip to San Antonio they mapped out the southern or Lower El Paso-San Antonio Road. 58(197, p. 123)  
+The Texas State Gazette reported that on September 9, Comanche Indians attacked Big Foot Wallace, Thomas Rife, Adolph Fry and three other men carrying the mail to El Paso. The three wagons, outfitted to carry passengers and referred to as “ambulances” were attacked at Big Bluff, between California Springs and Painted Caves. This area is located between the first and second crossing of the Devils River. The coachmen had just finished their mid-day siesta and were harnessing the mules for the afternoon march when the Indians attacked. Twenty-seven Comanche shot at the wagons from a nearby bluff. The fight continued all afternoon. The guards used long-range rifles to kill five of the attacking Indians but fearing that the Indians would attack again, the mail party returned to Fort Clark to obtain a military escort. After failing to get an escort, Wallace hired three extra men at Leona Station and continued the effort to get the mail through.[^37]
 
-The Lower Military Road was chosen as the preferred route. Both John Ford and Captain Whiting recommended the southern route (the Lower road) because they found too few waterholes along the northern route (the Upper road) to support the large number of animals needed to haul freight wagons. 59(411, p. 116) The Army engineers agreed that the Lower road was the preferred route.
+### The second contract for mail service ran from 1853 to June 1854.
 
-In June 1849 General Worth dispatched a much larger military party with civilian laborers 60(583, p. 8) to test and improve the lower route located by the Whiting-Smith Expedition. 61(69) (487) (492, p. 34) Major Jefferson Van Horne commanded six companies of the 3rd Regiment of US Infantry and their support personnel. The men of Company E, 3rd Regiment, 3rd US Infantry and a small group of civilian employees constructed the road to US Government specifications. It was better and wider than most roads of the day. 62(744)
-The fatigue party of soldiers and civilian workers cleared the road of boulders and widened it for use by wagons. “Two weeks were spent at Devil’s River cutting down the bank before wagons could get down into the channel” stated John L. Mann in the February 20, 1898, edition of the Dallas Morning News. 63 (1408) They also cleared and enlarged the waterholes located by Captain Whiting. 64(197, p. 123)
+For the first year of the two and a half year contract, the mail was to be transported each way every other month. Soon the volume of mail was great enough to require monthly service. On October 2, 1852, Skillman left El Paso County for Washington, D. C. to upgrade his contract, arriving in Washington City by December 2; a few days later a new contract was signed. It specified that a mail train was to leave both San Antonio and Santa Fé on the middle of each month.[^38]
 
- Over 1,000 oxen, a large number of mules and several emigrant trains, each with large herds of cattle, followed the military’s train of 275 wagons. 65(197, p. 123) The wagon train also included individuals seeking their fortune in the West. 66(492, p. 33) Captain Jack Hays had been appointed Indian Sub-Agent on the Gila River also accompanied the train. 67(638, p. 228) The huge wagon trains of civilians trailed along behind, waiting for the army to open each stretch of road before proceeding. 68(717, p. 31)
+While on the trip to see the Postmaster General, Skillman visited the Sharps Rifle Manufacturing Company in Hartford, Connecticut. When the American Boundary Survey Commission passed through the El Paso area in 1850, Skillman saw and admired the 1849 model of the Sharps Beech-loading Rifle.[^39] A new model (most likely the model 1852 carbine) was now available and Skillman bought a case of ten rifles.[^40] Often, this new weapon gave the mail carriers the upper hand over Indian raiders.[^41] The Sharps Rifle helped to speed the advance of the white men into land that had once been the Indian’s domain.
 
-The train left San Antonio in late May of 1849 and traveled from León Springs through the settlements of Castroville, Quihi and Vandenburg. It reached the Leona River (present-day Uvalde) on June 3 and San Felipe Springs (present-day Del Rio) on June 8, 1849.) There the large train was broken up into smaller segments preparatory to entering the desert where both water and forage were scarce. 69(492, p. 34)
+### Monthly service began in 1853.
 
-Instead of following the obvious route up the Rio Grande the road left the river at Devil’s River to its headwaters at Beaver Lake before turning northwest across tableland to Howard’s Well and the Pecos River. This detour was necessitated by a plateau cut by deep canyons west of the Pecos River and north of the Rio Grande. The canyons run in a general southeasterly direction and empty into either the Pecos River or the Rio Grande. A traveler heading west or east would have to ascend and descend these ridges making the route too difficult to cross with loaded wagons. 70(638, p. 221)
+On January 20, 1853, Skillman announced mail service with monthly passenger service. Four-horse coaches would leave both Santa Fé and San Antonio on the fifteenth of every month. Bigfoot Wallace was placed in command of one of the mail trains and Rife was in charge of the other. For the remainder of 1853, the two men maintained this schedule with each man making the round trip every two months.
 
-After crossing the Pecos the road turned west and reached Comanche Springs, present-day Fort Stockton. Beyond Comanche Spring the train crossed the timber-covered Davis Mountains and then another stretch of desert. It went from waterhole to waterhole until it crossed the Quitman Mountains and came to the Rio Grande 100 miles south of El Paso del Norte. The train then followed the Rio Grande upstream to San Elizario, Socorro and Ysleta and reached an American- owned ranch across the river from El Paso del Norte 71(492, p. 36) on September 8. 72(197, p. 124)
+January and February 1853 were quiet months and the mail carriers frequently set new time records.[^42] In short order, the speed record was broken again on April 14, 1853, when Thomas Rife arrived in San Antonio from San Elizario in 13½ days.[^43] The distance between San Elizario and San Antonio was about 628 miles so the coach averaged 46½ miles per day.
 
-This 600-mile road became the main route to the west from San Antonio 73(184, pp. 139-40) until 1883 when the southern transcontinental railroad (now the Southern Pacific RR) opened for service.
+In those days there were no relay stations between Fort Clark and San Elizario, a distance of about 500 miles. A large remuda (herd) of relief mules was driven along and teams were changed frequently. The mules traveled the entire distance with only short stops for rest and feeding. The team pulling the wagon was also changed frequently to give the mules some relief. However the men driving them worked straight through, traveling day and night to meet the schedule. The day was divided up into three equal parts. The mail train would “travel fifteen or more miles in each division, thus averaging about fifty miles a day.”[^44] The San Antonio Light edition of August 2, 1902, described a typical trip. “Along this weary stretch of country the party camped where night overtook them.” It “usually took twenty to twenty-four days. Indian fights were common and the passengers had to take their turn on guard and in doing camp chores.”[^45] The Indian raiding parties were looking for horses and mules, so the large numbers of relief mules being herded behind the mail trains were an enormous temptation to them.
 
-The route of the Lower Military road was determined by availability of water. The route of the road was chosen largely because of the availability of water and grass along the route.74(114, p. 46) The terrain and the location of river crossings ultimately determined the exact route chosen for these wagon roads. The road led from one water source to the next; sometimes it was a river, sometimes a spring. As new sources of water were discovered the route of the road changed to shorten the distance between waterholes. When the overland mail ran on the Lower Road, stage stations were placed at intervals of about 25 or 30 miles apart where water was  found and where forage could be stored.
+Rife's mail train left San Antonio on April 15, 1853, and camped at Van Horn's Well on April 28. He passed Wallace's coach making the eastbound trip to San Antonio a little while before arriving at the Well. Wallace's train was ambushed twelve miles south of Van Horn's Well; the mules stampeded and Benjamin Sanford was shot in the side by an arrow. His comrades broke off the shaft of the arrow, rounded up all but four of the mules and returned to Van Horn's Well to deliver the wounded man to Rife who took him to El Paso. Sanford "succeeded in reaching the settlements at San Elizario before he breathed his last. He died among friends and comrades.”[^46]
 
-The availability of forage for mules and horses was of paramount important. Between San Antonio and the Pecos River the grass vegetation was either prairie grassland (tall grass) or desert grassland (mesquite grass), both of which were suitable for horses and mules.75(478, p. 30-1) (492, p. 15) Between the Pecos River and the Davis Mountains desert vegetation (creosote bush) dominated and both water and forage were scarce. While both were available in the Davis Mountains, to the west another long stretch of dry desert had to be crossed until the road met the Rio Grande River at Quitman Pass.
+Wallace arrived in San Antonio on May 9, 1853 in less than 14 days and reported a second night attack at the Pecos River.[^47] A war-chief known as Yellow Wolf was “in the neighborhood,” so it was supposed that a portion of his band had attacked the mail train.
 
-There were many rivers to cross and finding a suitable crossing was imperative. The Pecos was particularly difficult as it was a rapidly flowing stream for three hundred miles upstream of the Rio Grande. It was 65’to 100’ wide, 7’ to 10’ deep and usually the color of red mud. 76(467, p. 23) The river ran between steep banks making it difficult for animals to get close enough to the river to drink 77(467, p. 86) and quick-sand was common. The crossings at Live Oak Creek and Horsehead were two of the few and both were old Indian raiding trails to Mexico. 78(467, p. 86) The El Paso-San Antonio Road utilized these same crossings.
+### Working in the mail service was extremely dangerous.
 
-Americans settled east of the Rio Grande near El Paso del Norte. The first settlement encountered after reaching the Rio Grande was San Elizario (San Elceario prior to 1852), the most populous town in the trans-Pecos region and the eastern-most town in the upper Rio Grande valley. 79(467, pp. 121, 132, 143) Between San Elizario and El Paso Del Norte Mexicans and Suma and Piro Indian farmers inhabited the river valley. 80(467, p. 121) The American settlement was the three houses comprising Coonz or Coontz Ranch. On September 8, 1849 the US Army built the “Post Opposite El Paso” on Coontz’ Ranch and manned it with six companies of US infantry. Two companies of US troops were also quartered in the town of San Elizario. 81(603, p. 71)
+John G. Walker, captain of a company of US Mounted Rifles stationed along the mail route, testified in later years that, “Predatory bands of Indians were constantly making incursions into the country, crossing these roads, and taking occasion to kill and scalp and to plunder either the mails or anybody else that might be within their reach.” He also said that he “always wondered that anybody would undertake to carry the mail, considering the danger of the employment. It was always a mystery to me that he (Giddings) could employ men who would take their lives in their hands to carry out that contract.”[^48]
 
-In 1848 migrants to the California gold rush were already traveling through San Antonio along the Lower Road rather than traveling through Mexico or over the Isthmus of Panama. The older route through Parras and northern Mexico to Mazatlán was still in use and would continue to be used for many years. It was much shorter than the overland route to California and avoided the Arizona desert. The route through Mazatlán also avoided contact with the Apache Indians who, after 1849, no longer considered Americans their allies. 82(638, p. 244) Routes through Parras rather than El Paso 83(492, p. 7) had an additional advantage; Comanche raiders rarely ventured that far south.
+William W. Mills, a prominent citizen of El Paso, described the typical stage driver after Mills had made a trip from El Paso to San Antonio. According to Mills, the stage driver “possessed the courage of the soldier and something more. The soldier goes where he is told to go, and fights when he is told to fight, but he has little anxiety or responsibility. The stage driver, on the other hand, had to be as alert and thoughtful as a general. There was not only his duty to his employers, but his responsibility for the mails (he was a sworn officer of the Government); and the lives of passengers often depended upon his knowledge of the country and the Indian character, as well as his quick and correct judgment as to what to do in emergencies. Like the sailor, he was something of a fatalist; but he believed in using all possible means to protect himself and those under his charge.”[^49]
 
- A San Antonio newspaper reported on August 4, 1849 that upwards of 4,000 emigrants with 1,200 to 1,500 wagons were camped on the Rio Grande near Coontz’ ranch on their way to California. 84(489) (285, p. 34)
+Rife arrived at San Antonio on June 9, 1853, leading a train consisting of "two ambulances, twenty-two mules and eight men, the latter of which are all noted for their valor and frontier exploits." He left for Santa Fé on the fifteenth of June.[^50] The San Antonio Ledger published a letter from a regular contributor in El Paso that included a glowing and verbose testimonial to Tom Rife's work as a coach conductor. It read, "Tom Rife arrived here with the last mail from your place (San Antonio) on the evening of June 29th, being six days ahead of his time. I know of no one in whose character is combined to so full an extent all those elements necessary to ensure a successful prosecution of this hazardous and tedious business than Tom; his speed on this route is as yet unexcelled, and his care and vigilance while on the road unquestioned.”[^51] Rife's return trip to San Antonio was made in twelve days and nine hours, "fast time, you will acknowledge" in the words of the New Orleans Picayune correspondent.[^52]
 
-The Upper Presidio Road went to Eagle Pass. During the summer of 1849 Colonel Joseph E. Johnston and Lieutenant Bryan engaged Tom Rife to hunt out and open roads in west Texas 85(14). He may have accompanied the Topographic Engineers on the road-building expedition to Coontz’ Ranch from June until October 1849 but there is no evidence of that. However he did escort Army surveyors laying out the Upper Presidio Road between San Antonio and Eagle Pass 86(18) (682). This road began at Uvalde on the Lower San Antonio-El Paso Road and followed the route of Woll’s Road to Eagle Pass on the Rio Grande 87(103). Rife was among the first men to live in the vicinity of Uvalde and may have served as a guide or a guard for the surveying party. The following year Rife once again joined a ranging company.
+Rife returned to San Antonio on August 7 and then had seven days off. The faster the trip, the more time in San Antonio the stage crew was allowed. This may have been what motivated the mail carriers to shorten the time on the trail.[^53]
 
+By August 1853, Skillman was back in Washington City to get his contract extended through June 30, 1854.[^54] Apparently, he successfully renegotiated the contract as the mail trains kept running.
 
-3.	Wallace’s Ranger Company, 1850-1851
+### Thomas Rife married Mary Ann Arnold in 1853.
 
- “Two years later he joined Big Foot Wallace’s frontier company and one year afterwards he was mustered out...” “Custodian of the Alamo,” San Antonio Light, February 23, 1887.
+Rife carried the mail from El Paso to San Antonio on October 11, 1853, after a trip of 16 days.[^55] Three days after Tom’s arrival, on October 14, Tom Rife and Mrs. Mary Ann Arnold Brothers were married. The mail, scheduled to leave San Antonio on the 15th, was delayed due to the late arrival of the mail from the coast.[^56] This delay allowed Tom and Mary a two-day honeymoon before he left with the mail train for El Paso.
 
-After the Mexican War the US Army again took Texas rangers into Federal service. When the United States Congress annexed the Republic of Texas the expectation was that the US Army would provide for the defense of the frontier and that Texas troops would be called into State service only at the request and expense of Federal authorities. 88(44, p. 144) By 1849 it became apparent that the US Army by itself was unable to prevent Indian depredations in Texas. Thomas Rife participated in an experiment that for a year and a half, beginning in 1850, tested whether a mixture of US and State troops could keep Indians from raiding into the settled areas of Texas.
+Tom Rife brought the mail and eight passengers into San Antonio from Santa Fe on December 10, 1853. He required 15 days to make the trip reported to be "a very pleasant one for this season of the year."[^57] This is the last mention of Rife as a mail conductor until December 8, 1858; a span of almost five years.[^58] Mary Ann Arnold said in her petition for a divorce dated February 4, 1860, that he left for California on December 27, 1853 and was gone for more than three years.[^59]
 
-In the 1850s the line of settlement in Texas advanced 10 miles per year to the west. 89(580, p. 283) By the end of the decade the Texas frontier was 500 miles long and 125 miles deep. To prevent Indians from raiding along this frontier and into the settled parts of Texas and Mexico, the US Army built a line of outposts or forts west of the line of settlement. In 1849 the line of seven posts extended from the Red River in the north to the Nueces River in the south. An additional six posts were located along the Rio Grande River. 90(181, p. 5) By 1854 six military posts north of Fort Inge were abandoned and eight new posts were constructed further west.
-After 1856 the US Army manned two defensive lines on the frontier. 91(156, p. 77) Infantry manned the outer line and mounted troops manned the inner line. 92(580, p. 5) In theory the infantry formed a picket line to warn the mounted troops of the approach of Indian raiding parties. 93(181, p. 15) The mounted troops then blocked the Indian’s advance into the settlements. The mounted troops consisted of dragoons, Mounted Rifles and, after 1856, cavalry. 94(181, pp. 98-9)
+Skillman was having trouble making up for constant financial losses due to Indian depredations. On February 4, 1854, he mortgaged “100 mules and four coaches which are now being used in the conveying of the mail...” to James “Don Santiago” Magoffin, a merchant with a store at Magoffinsville (now El Paso). Skillman sold his house and lot in Concordia (now part of El Paso) and consigned a draft due from the Post Office worth $7,000.[^60] As the reporter had predicted two years earlier, the mail route was a losing proposition for the contractor.  
 
-It was the strategy of the US military to force the Indians to “retire beyond the line of Posts.” 95(396) Only in this way, the government reasoned, could the two people, Anglos and Mexicans on one hand and free Indians on the other, hope to live in peace. Most Indians also believed this. The Comanche chiefs, in their negotiations with Sam Houston, repeatedly asked for a fixed border between themselves and the settlers. 96(632, p. 306) (716, p. 74) However the steady westward movement of the line of settlement and the Comanche tradition of stealing horses from south Texas and Mexico made such a solution impossible.
+Skillman’s losses continued on February 27, 1854 when Indians stole mules belonging to Skillman from the corral at Leona Station at Uvalde. Three days later, the party sent to recover the mules returned to Uvalde, having recovered ten mules from the Indians.[^61] Horses were also taken from the stable-yard at the army post at nearby Ft. Inge.[^62]
 
-Fort Inge was built to guard the frontier. Fort Lincoln (two miles from D’Hanis) and Fort Inge (thirty miles to the west) were important forts in the first chain of military posts built after the Mexican War. 97(197, p. 129) On March 13, 1849 Company I commanded by Captain Seth Eastman of the 1st US Infantry, established a camp called Camp Leona (or Post on the Leona) on the east bank of Leona River, four miles north of Woll’s Crossing. 98(104) The site is one mile south of the present town of Uvalde in southern Uvalde County between a 140-foot volcanic plug called Mt. Inge and the Leona River. 99(104) On March 24 Company D, 1st Infantry, arrived 100(88, p. 7) and in December 1849 the encampment on the Leona was renamed Fort Inge.
+In 1854, US Army General Persifor Smith, commander of the Department of Texas, selected sites for a string of forts as recommended by the Army inspector the previous year.[^63] The new forts were intended to provide escorts for the mail haulers and protection for freighters and travelers on the San Antonio to El Paso Road. These forts, including Fort Davis and Fort Lancaster, were staffed with infantry mounted on mules. In October 1854, troops of the 8th Infantry arrived from Ringgold Barracks on the lower Rio Grande to build the post at Fort Davis.[^64] While these forts came too late to benefit Henry Skillman, the mail contractor at that time, they would be of great importance to the next mail contractor.
 
-Fort Inge was typical of the one-company US Army bases of the period. 101(104) The soldiers built the fort themselves. 102(116, p. 7) Most buildings at Fort Inge were of jacal (post and mud) construction and were considered to be temporary. 103(195, p. 74) A hospital, added later, and a stone wall, built during the Civil War, was the only permanent structures at the fort.104(104)
+William Wallace and Bradford Daily (who replaced Tom Rife) were conductors for Skillman during the final months of his contract.[^65] Wallace brought the mail into San Antonio during March, 1854, and Daily did the same during April.[^66]
 
-In 1849, when US Army Major General George M. Brooke assumed command of the 8th Military Department (the Department of Texas), it had a total roster of 1,500 infantry, artillery and dragoons. 105(580, pp. 3, 7) Nevertheless Comanche raiders continued to cross into Mexico in great numbers. In 1849 Ben McCulloch, who traveled through northern Mexico on his way to California, reported that, “The Indians are breaking up the frontier settlements all along the route we came, being worse than they were ever known.” 106(406) Indians were raiding into Texas as well and in May 1849 the Army took steps to reinforce the Texas line. 107(405)
+June 30, 1854, was the last day of Henry Skillman’s contract. In an effort to continue the service, he bid on a new contract for route \#12900 for either two-horse or four-horse service to begin on July 1st and run monthly each way between Santa Fé and San Antonio. His bid of $24,900 was rejected. Other bidders were Jacob Hall, McGraw and Reeside and David Wasson from Lewistown, Pennsylvania. The Postmaster General accepted Wasson’s bid for two-horse service on April 22, 1854. His bid of $16,750[^67] would prove to be too low for the service expected[^68] and would lead to much grief for George H. Giddings over the next three years as eventual mail contractor.
 
-General Brooke called for Texas volunteers in 1849. Realizing that his regular soldiers could not prevent Indian raids into Texas by themselves, the US Army general commanding the Department of Texas determined to employ State troops to assist them. 108(181, p. 21) On August 11, 1849 General Brooke, in Orders No. 53, notified his command that, “In consequence of the repeated and continued depredations of the Indians, the commanding general has determined to make a requisition on his Excellency Governor George T. Wood of Texas for three mounted companies of Rangers.109(405)
+James Magoffin, who had loaned Skillman money, shared in Skillman’s losses. As early as November 1854, Isaac Lightner, a merchant in El Paso County, had urged Magoffin to seize Skillman’s mules[^69] in payment of the debt but Magoffin, perhaps realizing how important the mail service was to El Paso or perhaps out of fear of Skillman,[^70] delayed any action. In 1858, Magoffin finally agreed to sue Skillman but was advised that it was too late and besides, “I can’t even get $32...out of him (Skillman).”[^71] As George Giddings said and as the Washington, D. C. newspaper reporter had predicted, Henry Skillman was financially ruined by the mail service.
 
-On that same day General Brooke wrote to the Governor of Texas saying that he had been authorized by the President of the U.S. to request that the Governor authorize three companies of 78 rangers each for Federal Service. 110(392) (156, p. 75) (405) The ranging area of the three companies would be in the vicinity of Goliad, Corpus Christi, Bexar County and other places that the Indians had recently raided. 111(405)
+## Mary Ann Arnold
 
-In Order No. 57, written on August 19, 1849, George Deas, Assistant Adjunct to General Brooke, wrote that, “The Commanding General in thus calling for the services of volunteers, in preference to making a requisition for an additional number of regular troops, pays a just tribute to the favorable consideration in which the Texas Ranger is held, for the performance of the harassing and arduous duties of a frontier soldier. The General feels confident that the well-earned fame of the hardy sons of Texas will, in their coming sphere of action, be well sustained, by a vigorous prosecution of their campaign, and hopes, that long ere their term of service shall have expired, we shall no longer be annoyed by the presence, within our settlements, of the audacious and marauding savage.” 112 (393)
+On October 14, 1853, when Thomas Rife married Mary Ann Brothers, a San Antonio-born widow, he was 30 years old and she was 20. They were a mixed race couple; Mary Ann’s father was an American man of color and her mother was a Mexicana from New Mexico. Rife was an Anglo American and the son and grandson of slave owners.
 
-The Governor responded quickly to General Brooke’s request and commissioned John S. Ford, J.B. McCown, and R.E. Sutton to organize the three companies. 113(44 p. 141) At the call of the three captains, prospective rangers arrived at the appointed rendezvous 114(413) with their horse, saddle, saddle blanket, bridle, halter and lariat 115(393) as well as personal items such as clothing and bedding (blankets). 116(413) The following day the captains selected 78 men to form a company as specified in General Brooks’ Order.117(393) After each company was organized the company elected a Captain, a 1st Lieutenant and a 2nd Lieutenant.118(386) (780, p. 69) The Governor had previously informed the Army when and where the troops would be available to be mustered into Federal Service119(413) so on the appointed day an officer of the Army mustered the company into Federal Service using instructions provided by the War Department.120(393)
+The couple was mismatched in many ways. Rife was employed as the conductor of a mail train, an extremely dangerous occupation. He was on the road most of the time, usually for weeks at a time. (The round trip between San Antonio and El Paso County took a month). Many of his friends were coachmen, hard-bitten bachelors, some of whom never married at all or did so only in their old age. Many of Rife’s friends were gunmen who died with their boots on. Mary Ann had inherited a ranch and she probably expected her husband to run it.
 
-After being mustered in, the company left the rendezvous site and traveled to a designated Army post where the captain reported to the commanding officer for instructions. 121(393) The Army ordinance officer issued the men arms consisting of a percussion rifle 122(388) and a pistol with its holster.123(392) The men were also issued ammunition and camp and garrison equipment.124(393) (413)
+### Mary Ann’s father was Hendrick Arnold.
 
-The companies organized by John Ford and J. B. McCown were ready to muster in on August 23, 1849. 125(580, p. 6) Each company consisted of one captain, one 1st lieutenant, one 2nd lieutenant, four sergeants, four corporals, two buglers, two farriers and blacksmiths, and 64 privates. After being mustered into service the company proceeded to Corpus Christi to report to the Commanding General for special instructions.126(393) John S. (Rip) Ford’s company was assigned to the area around Corpus Christi.127(159 p. 143)
+Mary Ann’s father, Hendrick Arnold, immigrated to Texas with his parents in March of 1826 from Mississippi. Hendrick’s father was Daniel Arnold and his mother, Rachel, was apparently a woman of mixed race. Daniel and Rachel Arnold may have been forced by peer pressure to leave Mississippi for Texas where they must have hoped to find a more tolerant and diverse population. Hendrick was referred to as a Negro but his brother or half-brother, Holly, was not. There is no evidence that the children were legally freed by their father, as required by law, but they “acted in all capacities as free persons.”[^72] The family settled in Stephen F. Austin’s colony on the Brazos River.[^73]
 
-Rife enlisted in Wallace’s ranging company in 1850. On March 06, 1850 General Brooke called on Texas Governor P.H. Bell for a fourth company to be placed in Federal Service. This company, like the previous three, would consist of 78 men: one captain, one 1st lieutenant, one 2nd lieutenant, four sergeants, four corporals, two buglers, two farriers and blacksmiths and 64 privates. General Brooke candidly stated to Governor Bell that, “there is, at present, no money in the Treasury for the payment of volunteers, but from assurances which I have received from the Honorable Secretary of War, I feel confident that an early appropriation to that effect, will be made by Congress.” 128(388)
-A few days later, William “Big Foot” Wallace was commissioned to raise a company of rangers in Bexar County for an enlistment of six months.129(44, p.141) (228) On March 23, 1850 Captain William Steele of the 2nd Dragoons mustered the company into Federal service at 2pm at the Federal Arsenal in Austin.130(397) Captain Steele was required to “inspect closely each man and horse, and to reject both, or either, unless they appear sufficiently strong and capable of bearing the arduous duties and fatigues of an Indian campaign.” As was the custom, each man furnished his own horse, saddle, saddle blanket, bridle, halter and lariat and the government supplied a percussion rifle, pistol and ammunition.131(388) (44 p. 141) Afterwards the company reported to the Commanding General in San Antonio for instructions.132(397)
+When Hendrick first came to Texas, he impregnated one of his father’s slaves, a girl named Dolly, and produced a daughter named Harriet whom he held as a slave.[^74] So began a series of events that would end in a trial in the Texas Supreme Court and an act of the Legislature. The issue that interested the Court was that on August 9, 1846, Hendrick indentured Harriet for five years to James Newcomb of San Antonio for the sum of $750. At the end of the period, she was to be freed but both Hendrick and Newcomb died in the cholera epidemic of 1849. Several members of Hendrick’s family attempted to gain possession of Harriet from the administrator of Newcomb’s estate and finally filed a lawsuit to that end. The Supreme Court found that the Mexican Constitution in effect when Harriet was born in 1827 outlawed placing children born in Texas into slavery. The effect was to “declare free all children born of slave parents after May 29, 1827 and previous to the adoption of the constitution of the Republic” of Texas in 1836. Although this decision must have affected many people, Anglo Texans were in no mood to free any slave and Harriet may have been the only person to benefit from the ruling.[^75]
 
-This unit was paired with Colonel Hardee’s US Infantry stationed at Fort Inge.133(499, p. 16) Wallace’s ranging company and Capt. William Hardee’s Company C, Second Dragoons both used Camp Leona as their base camp. The rangers camped on the west side of the river134(72, p. 22) and the soldiers occupied two crude barracks on the east side of the river at Fort Inge. Both the US soldiers and the rangers were mounted riflemen. Regular soldiers at Fort Inge from 1849 to 1852 were Dragoons, who were trained to fight on horseback or on foot. Mounted infantry (who fought on foot) occupied the fort from 1852 to 1855. Between 1856 and 1861 the soldiers at Fort Inge were cavalry. Mounted infantry were mounted on horses when these were available but sometime used mules because horses were scarce in Texas. Rangers were always well mounted, entered the service with their own horses and could fight either mounted or on foot.   
+By the fall of 1835 Hendrick had married María Ygnacia Durán (who was Erastus “Deaf” Smith’s step-daughter) and settled in Béxar.[^76] María Durán was born in New Mexico. The couple’s first child, Mary Ann, was born in the village of Béxar on May 07, 1833, before her parents married, not unusual at that time.[^77]
 
-The area of operation of Wallace’s company was between Seco Creek and the Guadalupe River from Bandera Pass to the coast. 135(387) This area was sometimes called the Nueces Strip. 136(156, p. 86). As a result of the addition of Wallace’s company, Ford’s company took a new position at San Antonio Viejo in the lower Rio Grande valley to protect the vicinity of Ringgold Barracks at Rio Grande City and Fort McIntosh at Laredo. Capt. McGown’s company was moved to an area between Ft. Inge on the Leona River and Fort Duncan on the Rio Grande. 137(387) at Eagle Pass
+When Mexican forces under General Martin de Cos occupied Béxar, Hendrick and his father-in-law Erastus “Deaf” Smith were out hunting buffalo. They encountered Stephen F. Austin’s camp of Texas volunteers headed to Béxar and volunteered to act as guides. Hendrick participated in the fight at Mission Concepción in December, 1835, and was the guide for Ben Milam’s division during the capture of Béxar.[^78] He later served in Deaf Smith’s spy company at the battle of San Jacinto.[^79] Mary Ann Arnold may have lived on her father’s ranch, although, like many Bexar County ranchers, the family also had a house in San Antonio.[^80]
 
-A joint military campaign against Indians was launched in 1850. By June 04, 1850 General Brooke felt that he was ready to move against the numerous and bold Comanche and Lipan Indian raiders in south Texas. On June 4 he issued order No. 27 to all available Dragoon and Mounted Infantry at Forts McIntosh, Inge, Merrill, and Lincoln together with the ranging companies of Ford, Grumbles, McCown and Wallace. The troops were ordered to prepare to take the field, ”at an early date” against the Indians. The campaign would last at least two months or “until the country is cleared of those hostile Indians.” A detachment of Dragoons was left to protect Fort Inge on the Leona River and Fort Lincoln on Seco Creek, both of which were exposed to attacks by Lipan Apache Indians. 138(377, p. 111) Apparently the entire garrisons of Forts McIntosh and Merrill were to take the field in this scout, leaving as few as four men to guard the forts.139(377, p. 110).
+### Mary Ann’s first marriage was to John Brothers.
 
-Major Babbitt, Chief Assistant Quartermaster, was directed to establish depots of forage at Fort Merrill on the Nueces River where the Corpus Christi-San Antonio Road crossed the river. Major Longstreet, Chief of the Subsistence Department, was directed to place supplies for the troops at Forts Merrill, Inge and Lincoln 140(395) and Brevet Lt. Colonel Hardee of the 2nd Dragoons was assigned to lead the scout.141(396) Wallace and his company were to proceed towards Corpus Christi.142(492, p. 58)
+On June 25, 1848, Mary Ann married an Anglo-American, John Brothers, in Bexar County. By October 1850, she and her husband were living on a farm near Castroville in Medina County.[^81] Theirs was one of 41 families enumerated in and around Castroville that year. When Mary Ann married John Brothers she was 15 years old. In 1848, it was common for girls to marry at the age of 12 or 13 and for 12-year-old boys to leave home.[^82]
 
-Rife participated in the fight at Black Hills. Nineteen men were on this scout including Edward Westfall 143(339, p. 155) and Tom Rife.144(144, p. 671) On July 18, 1850 the rangers were returning northwest to their camp on the Leona River. As Wallace and his company examined the country from the Nueces to Espantosa Lake they encountered hostile Comanche Indians at Black Hills, a summit sixteen miles from Cotulla in present-day La Salle County. 145 (144, pg. 671) (257) (339, pp. 155-162) In the ensuing fight three rangers were wounded and seven Indians killed.
+John Brothers was born about 1824 in Virginia and came to Texas on September 22, 1837, qualifying for a Second Class Head-right Certificate for 640-acres.[^83] He appeared on the muster rolls of David C. Cady’s ranging company and on July 5, 1846, he was elected lieutenant of Cady’s Company in San Antonio for a six-month term.[^84] After his discharge from the ranging service in early 1847, he married Mary Ann Arnold in 1848 and settled on the farm near Castroville.
 
-As the rangers approached a waterhole on Todos Santos Creek, about eighty mounted Comanche Indians, camped at the waterhole, came out to meet them. The rangers dismounted and prepared for an assault. The Indians stopped just out of gunshot range. Their leader repeatedly charged close to the rangers, encouraging his men to follow. On the third charge Wallace ordered three of his men to shot the Indian leader’s horse while Wallace, with a large caliber rifle, shot the man through both hips. The rest of the Indians then charged forward to rescue their wounded leader. Some of the rangers mounted their horses and fought the Indians at close quarters, using their pistols.
+Within a few months after their marriage, (in April or May of 1849) Mary Ann’s father, Hendrick Arnold, died in the cholera epidemic that swept through San Antonio.[^85] The epidemic lasted six weeks and killed more than 500 people[^86] out of a population of 3,480.[^87] John Brothers was called upon to act as administrator of Hendrick Arnold’s estate.[^88] He did not finish the task before he himself died before September 1851.[^89]
 
-With their leader wounded, the Indians retreated back to the waterhole with the rangers following close behind them. The Indians continued to retreat up the creek and left the rangers in possession of the waterhole. The Indians had been camped for a week or more making lariats and other items from rawhide. They were soaking the rawhide in the pool that was already low due to dry weather. The rangers, who were had been searching for water for some time, were horrified to find that the water was a seething mass of hair, maggots and rotting flesh. Wallace, Westfall and ten of their men rode to the upper waterhole only to find the Indians waiting to give battle.
+Since there were no surviving adult males in the family, Mary Ann became the administrator of her deceased husband’s estate. Mary Ann paid off the remaining debt on 369 acres and immediately sold 150 acres to two different persons.[^90] She apparently retained title to her parent’s farm and ranch. She and John Brothers had no known children.
 
-Wallace returned to the first water hole, gathered his men and left. He waited for the Indians to retreat from the camp that afternoon before moving back in to get water for his horses and men. This fight resulted in three wounded rangers and seven Indians killed including the old chief. 146(492, p. 58) The wounded rangers were taken to the hospital at Fort Inge and the other men returned to the ranger camp at Edward Westfall’s ranch, twenty-seven miles below Fort Inge 147 (339, p. 162) on the Leona River. 148(377, p. 110) Among the sick and wounded men were Linden Jackson, Rufus Halyard 149(339, p. 162), Ephraim Rose and Louis Oget. 150(144, p. 671)
-
-The fight at Black Hills and the story of the Mier Expedition were two of Wallace’s most famous stories. Newspaper reporter A. J. Sowell recorded one version of the fight at Black Hills in his book, “Life of “Big Foot” Wallace.” The Kerrville Mountain News edition of May 6, 1926 reprinted another long version of the fight “in Wallace’s own words.” 151(97)
-
-Two weeks after the fight at Black Hills, on August 5, 1850, Wallace and 23 rangers fought and vanquished 125 Indians on the Laredo road. The fight lasted seven hours and resumed the next day resulting in 20 Indians killed and 65 captured. 152(152, p. 187) (224, p. 189)
-
-The results of the 1850 campaign were unsatisfactory. Despite the military’s best efforts to control the Indians, on July 26, 1850 the citizens of San Antonio met and passed a resolution declaring that the area between the Guadalupe River and the Rio Grande was infested and overrun with hostile savages.153(492, p. 58) A similar petition was sent to General Brooks from Corpus Christi on August 15. Reports also came in of Indian attacks near Corpus Christi 154(392), Laredo and Eagle Pass.
-
-General Brooks found it almost impossible to procure sufficient horses in Texas and he had been able to mount only one-half of the regular infantry. For this reason, he felt compelled to continue the service of the four mounted companies of volunteer rangers despite the problems they caused him. The Adjutant General R. Jones observed that, “great negligence was observed in the volunteers (rangers) in Texas in respect to muster rolls and returns required by the regulations, etc.” 155(492, p. 59) Only Captain John S. Ford, whose company was assigned to Fort McIntosh, submitted reports of combat actions. While the Texas ranging companies were organized as military units, their outlandish dress, long beards and errant behavior clearly distinguished them from federal soldiers.156(156, p. 59) (716, p. 138) Despite General Brooks’ initial high opinion of the rangers 157(393), their refusal to act responsibly ultimately led to their dismissal from Federal Service. His experience with the Texas rangers mirrored that of General Zachary Taylor who ended the Mexican War very disenchanted with them. Their refusal to wear uniforms and salute officers and their tendency to depredate on Mexican civilians had been very upsetting to General Taylor. 158(799, p. 250)
-
-Despite General Brooks’ increasingly dim view of the rangers, on approximately August 23, 1850 Wallace’s company was mustered into service for a second term. In total, this company served for almost 1½ years in three consecutive 6-months terms. The enlistment term of Ford’s, Grumble’s and McCown’s companies also expired between August 23 and September 23, 1850 and all four companies were mustered in for another term.159(394) Capt. Grumble’s company mustered in on September with a new captain, James D. Bagby, after Captain Grumble died.160(386) Not all the men re-enlisted, some were killed or wounded and new men were constantly being recruited to keep the companies fully manned.161(386) (638, p. 42) When the Federal population census was taken on October 14, 1850 Thomas Rife was at Fort Inge in Bexar County on the Leona River with Wallace’s ranging company.162(141, p. 77) He, or someone representing him,  listed his age as 25 and stated that he was born in Mississippi.163(32) (141, p. 77)
-
-Late in 1850 General Brooke added one more ranging company to his command for a total of five companies. On November 4, 1850 Henry McCulloch organized a company to be mustered into federal service to serve for 12 months. An article in a newspaper on October 26, 1850 announced the details. All desiring to join were to meet at Austin on November 4th with his own horse; saddle, bridle, blanket and clothing.164(413) Lieutenant Thomas J. Wood of the US Army mustered the company into Federal service. Henry McCulloch was elected Captain with John R. King as his First Lieutenant and Calvin S. Turner, Second Lieutenant. The company was stationed in Refugio County on the Gulf coast in the neighborhood of the port town of Lamar on Aransas Bay. 165(414)
-
-On March 23, 1851 the second six-month term of enlistment of Wallace’s company expired. General Brooke requested, on February 7, 1851, that the Governor allow him to muster this company into Federal service for another six-month term if the men were agreeable to doing so. He made the same request of the companies commanded by Bagby, Ford, McCown, and McCullough, all of whose enlistments were to expire between March 5 and May 5, 1851. 166(390)
-
-General Brooke dismissed the ranging companies in 1851. In the fall of 1851 General Brooke decided to end the experiment with State troops. He may have felt that he had achieved his goal of pushing the Indians west of the line of forts or he may have realized the impossibility of doing so. Two other factors may have prompted General Brooke to change his strategy. After Congress voted to pay Texas to settle its land claims in New Mexico Territory in 1850, every appropriation involving Texas came under intense scrutiny. Congress would have denied further funding for the employment of State troops if Congress believed Federal infantry troops could do the same job at half the cost.167(181, p. 19) Another factor involved the often erratic and unprofessional behavior of the rangers.168(312) The ranging company stationed near Rio Grande City (opposite Camargo) became involved as mercenaries in the so-called Merchant War. Their actions angered the Governor169(44, p. 141-2) and General Brooke dismissed all five companies of Texas rangers in federal service after that incident. On September 23, 1851, after the third six-month term of service expired, the experiment ended and Wallace’s Company was mustered out after a year and a half of service.170(279)
-
-Superscripts in order
-
-Notes Chapter 3
-
-1. Frontier defense, 1848        
-
-Indians raids into Texas and northern Mexico continued during the Mexican War.
-
-1   (467, pp. 49-51), Carlysle Graham Raht, The Romance of Davis Mountains and Big Bend Country: A History, (El Paso, Texas: The Rahtbooks Company, 1919), 49-51
-2   (492, pp. 9, 39) Clayton Williams, Never Again, Texas: 1848-1861, (San Antonio, TX: The Naylor Co., 1969), 9,39; (562, p. 233) Albert D. Richardson, Beyond the Mississippi: From the Great River to the Great Ocean, 1857-1867, (Hartford, Conn: American Publishing Co., 1867), 233
-3   (431, p. 258) August Santleben, A Texas Pioneer, (New York and Washington: The Neale Publishing Co, 1910), 258
-4   (156, p. 75) Darren L. Ivey, The Texas Rangers: A Registry and History, (Jefferson, NC: McFarland & Company Inc., 2010), 75
-5   (431, p. 256) Santleben, A Texas Pioneer, 256
-
-Settlers west of Castroville had troubles with Indians.
-
-6   (340, pp. 77-8) Bobby D. Weaver, Castro’s Colony: Empresario Development in Texas, 1842-1865, (College Station, Texas: Texas A&M Press, 1985), 77-8
-7   (431, p. 9) Santleben, A Texas Pioneer, 9
-8   (340, p. 77) Weaver, Castro’s Colony, 77
-9   (340, p. 80) Weaver, Castro’s Colony, 80
-10  (340, p. 81) Weaver, Castro’s Colony, 81
-11  (156, p. 61) Ivey, The Texas Rangers: A Registry and History, 61
-12  (156, p. 71) Ivey, The Texas Rangers: A Registry and History, 71
-13  (159, p. 60) Stephen B. Oates, editor, Rip Ford’s Texas by John Salmon Ford, (Austin: University of Texas Press, Austin, 1963), 60
-14  (638, p. 159) James Kimmins Greer, Colonel Jack Hays: Texas Frontier Leader and California Builder, (New York: E. P. Dutton & Company, 1952), 159
-15  (156, p. 73) Ivey, The Texas Rangers: A Registry and History, 73
-16  (340, p. 107) Weaver, Castro’s Colony, 107
-17  (425) The Corpus Christi Star, (Corpus Christi, Tex.), November 14, 1848; (426) Texas Democrat (Austin, Tex.), November 4, 1848
-
-Rife enlisted in a ranging company operating west of Castroville in the fall of 1848.
-
-18  (148) Mexican War pension records, Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, Texas; (76, p. 151) Spurlin, Texas Veterans in the Mexican War, Victoria, TX: C.D. Spurlin, 1984, 151
-19  (89, p. 44) Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, STIRPES 35, Quarterly Publication of the Texas State Genealogical Society, No. 3, (September 1995), 44; (569) Statement of Service, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15, National Achieves and Records Administration, Washington,
-20  (148) Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; (156, p. 73) Ivey, The Texas Rangers: A Registry and History, 73; (440) Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 17, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94, NARA
-21  (440) Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848.
-22  (148) Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas;(89, p. 45) Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; (440) Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848.
-23  (76, p. 125) Spurlin, Texas Veterans in the Mexican War
-24  89, p. 45) Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; (440) Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848.
-25  (638, p. 24) Greer, Colonel Jack Hays, 24.
-26  (743) Dallas Morning News, October 8, 1933.
-27  (153, p. 447) A. J. Sowell, Early Settlers and Indian Fighters of Southwest Texas, (Abilene, Texas: State House Press, McMurry University, 1986), 447.
-
-Rife’s unit killed Delaware Bob
-
-28  (340, p. 107) Dallas Morning News, October 8, 1933.
-29  (153, pp. 321,372, 447) Sowell, Early Settlers and Indian Fighters, 321,372,447.
-30  (153, p. 372, 447) Sowell, Early Settlers and Indian Fighters, 372, 447.
-31  (555, p. 94) Mrs. S. J. Wright, San Antonio de Bexar: An Epitome of Early Texas History, (Austin: Morgan Printing, 1916), 94.
-32  (431, p. 256) Santleben, A Texas Pioneer, 256.
-
-The ranging companies were disbanded in December 1848.
-
-33  (430) The Corpus Christi Star, (Corpus Christi, Tex.), November 28, 1848
-34  (428) The Texas Democrat (Austin, Tex.), December 9, 1848
-35  (340, p. 107) Weaver, Castro’s Colony, 107
-36  (156, p. 73) Ivey, The Texas Rangers: A Registry and History, 73; (76, p. 125) Spurlin, Texas Veterans in the Mexican War, 125
-37  (440) Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848.
-38  (427) The Western Texan (San Antonio, Tex.), December 29, 1848
-39  (597) Thomas Rife Application, Military Bounty Land Application Files, Records of the Bureau of Land Management, RG 49, NARA
-40  (574) Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veterans Affairs RG15, NARA
-
-2. Topographic Engineers, 1848
-
-In 1848 the US Army built roads linking San Antonio and California.
-
-41  (197, p 117) A. B. Bender, “Opening Routes Across West Texas, 1848-1850”, Southwestern Historical Quarterly 37, No. 2, (October 1933), 117
-42  (478, p. 86) Walter Prescott Webb, The Great Plains, (Boston and New York: Houghton Mifflin Company, 1936), 86; (716, p. 61) S. C. Gwynne, Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History, (New York: Scribner, 2011), 61
-43  (197, p. 123) Bender, “Opening Routes Across West Texas, 1848-1850”, 123
-44  (640, p. 14) Donald E. Everett, San Antonio Legacy, (San Antonio: Trinity University Press, 1979), 14
-45  (478, p. 51) Webb, The Great Plains, 51; (467, p. 88) Raht, The Romance of Davis Mountains
-46  (467, map) Raht, The Romance of Davis Mountains
-47  (716, p. 61) Gwynne, Empire of the Summer Moon, 61
-48  (467, p. 91) Raht, The Romance of Davis Mountains, 91
-49  (638, pp. 216-17) Greer, Colonel Jack Hays, 216-7
-50  (411, p. 115) Jack C. Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 1850-1861”, West Texas Historical Association Year Book 47, (1971), 115
-51  (197, p. 119) Bender, “Opening Routes Across West Texas, 1848-1850”, 119
-52  (467, p. 85) Raht, The Romance of Davis Mountains, 85
-
-Upper and Lower Military Roads were built to El Paso del Norte.
-
-53  (197, pp. 118-19) Bender, “Opening Routes Across West Texas, 1848-1850”, 118-9
-54  (197, p. 119) Bender, “Opening Routes Across West Texas, 1848-1850”, 119
-55  (359) The Texas Democrat (Austin, Tex.), June 23, 1849; (486) The Corpus Christi Star, June 30, 1849; (489) The Texas Democrat (Austin, Tex.), August 4, 1849; (197, p. 125) Bender, “Opening Routes Across West Texas, 1848-1850”, 125
-56  (197, p. 121) Bender, “Opening Routes Across West Texas, 1848-1850”, 121
-57  (197, p. 122) Bender, “Opening Routes Across West Texas, 1848-1850”, 122
-58  (197, p. 123) Bender, “Opening Routes Across West Texas, 1848-1850”, 123
-59  (197, p. 120) Bender, “Opening Routes Across West Texas, 1848-1850”, 120
-
-The Lower Military Road was chosen as the preferred route.
-
-59  (411, p. 116) Jack C. Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 1850-1861”, 116
-60  (583, p. 8) Jerry Thompson, editor, Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861, (Albuquerque, NM: University of New Mexico Press, 2001), 8
-61  (69) Charles G. Downing and Roy L. Swift, “Howard, Richard Austin”, Handbook of Texas Online, http://www.tshaonline.org/handbook/online/articles/fho90, accessed October 07, 2012; (487) Democratic Telegraph and Texas Register (Houston, Tex.), June 21, 1849; (492, p. 34) Williams, Never Again, Texas: 1848-1861, 34
-62  (744) Dallas Morning News, October 3, 1937
-63 (140) “Texas Pioneers,” Dallas Morning News, February, 1898
-64  (197, p. 123) Bender, “Opening Routes Across West Texas, 1848-1850”, 123
-65  (197, p. 123) Bender, “Opening Routes Across West Texas, 1848-1850”, 123
-66  (492, p. 33) Williams, Never Again, Texas: 1848-1861, 33
-67  (638, p. 228) Greer, Colonel Jack Hays, 228
-68  (717, p. 31) Patrick Dearen. Devils River: Treacherous Twin to the Pecos, 1535-1900, (Ft. Worth, TX: Texas Christian University Press, 2011), 31
-69  (492, p. 34) Williams, Never Again, Texas: 1848-1861, 34
-70  (638, p.221) Greer, Colonel Jack Hays, 221
-71  (492, p. 36) Williams, Never Again, Texas: 1848-1861, 36
-72  (197, p. 124) Bender, “Opening Routes Across West Texas, 1848-1850”, 124
-73  (184, pp. 139-40) Anonymous, Texas Almanac, 1859, 139-140
-
-The route of the Lower Military road was determined by availability of water.
-
-74  (114, p. 46) Jack Lowery, “Guarding the Westward Trail”, Texas Highways Magazine 39, No. 9, (September 1992), 46
-75  (478, pp. 30-1) Webb, The Great Plains, 30-1; (492, p. 15) Williams, Never Again, Texas: 1848-1861, 15
-76  (467, p. 23) Raht, The Romance of Davis Mountains, 23
-77  (467, p. 86) Raht, The Romance of Davis Mountains, 86
-78  (467, p. 86) Raht, The Romance of Davis Mountains, 86
-
-Americans settled east of the Rio Grande near El Paso del Norte
-
-79  (467, pp. 121, 132, 143) Raht, The Romance of Davis Mountains, 121, 132,143
-80  (467, p. 121) Raht, The Romance of Davis Mountains, 121
-81  (603, p. 71) Rick Henricks and W. H. Timmons, San Elizario: Spanish Presidio to Texas County Seat, (El Paso, Texas: Texas Western Press, The University of Texas at El Paso, 1998), 71
-82  (638, p. 244) Greer, Colonel Jack Hays, 236, 244
-83  (492, p. 7) Williams, Never Again, Texas: 1848-1861, 7
-84  (489) The Texas Democrat (Austin, Tex.), August 4, 1849; (285, p. 34) Nancy Lee Hammons, A History of El Paso County, Texas, to 1900, (El Paso, TX: The University of Texas at El Paso, 1983), 34
-
-The Upper Presidio Road went to Eagle Pass.
-
-85  (14) The San Antonio Light, February 23, 1887
-86  (18) Galveston Daily News, December 28, 1894; San Antonio Daily Light, December 27, 1894; (682) The San Antonio Daily Express, December 28, 1894
-87  (103) C. D. and H. Castellaw, editors, “Fort Inge, Uvalde County, Texas”, Branches and Acorns 8, Southwest Texas Genealogical Society, No. 4, (June 1993), 29-30
-
-3. Wallace’s Ranger Company, 1850-1851
-
-After the Mexican War the US Army again took Texas rangers into Federal service.
-
- 88  (44, p. 144) Walter Prescott Webb, The Texas Rangers: A Century of Frontier Defense, (Austin: University of Texas at Austin, 1965), 144
-89   (580, p. 283) David P. Smith, Frontier Defense in Texas: 1861-1865, (Denton, TX: North Texas State University, 1987), 283
-90  (181, p. 5) Thomas T. Smith, The Old Army in Texas: A Research Guide to the US Army in Nineteenth-Century Texas, (Austin, TX: Texas State Historical Association, 2000), 5
-91  (156, p. 77) Ivey, The Texas Rangers: A Registry and History, 77
-92  (580, p. 5) David P. Smith, Frontier Defense in Texas: 1861-1865, 5
-93  (181, p. 15) Smith, The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas, 15
-94  (181, pp. 98-9) Smith, The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas, 98-9
-95  (396) Indian Papers: Geo. M. Brooke to PHB (June 6, 1850), Records of P. Hansborough Bell, Texas Office of the Governor, Archives and Information Services Division, Texas State Library and Archives Commission
-96  (632, p. 306) T. R. Fehrenback, Comanches: The Destruction of a People, (New York: Alfred A. Knopf, 1974), 306; (716, p. 74) Gwynne, Empire of the Summer Moon, 74
-
-Fort Inge was built to guard the frontier.
-
-97  (197, p. 129) Bender, “Opening Routes Across West Texas, 1848-1850”, 129
-98  (104) Thomas T. Smith, ”Fort Inge,” Handbook of Texas Online (http//www.tshaonline.org/handbook.online/articles/qbf27), accessed December 05, 2010.
-99 (104) Smith, “Fort Inge,” Handbook of Texas Online
-100 (88, p. 7) Middle Rio Grand Development Council, Uvalde County, www.mrgdc.org/cog/cog_region/uvaldecounty.php#inge, accessed Aug 26, 2012, 7
-101 (104) Smith, “Fort Inge,” Handbook of Texas Online
-102 (116, p. 7) Dick Whipple, “Fort Inge, A History, A Soldier’s Life in Frontier Texas, The Fort Today”,, Branches and Acorns 18, Southwest Texas Genealogical Society, No.  4, (June 2003), 7
-103 (195, p. 74) L. Crimmins, editor, “W. G. Freeman’s Report on the Eighth Military Department,” Southwestern Historical Quarterly 53, No. 1 (July 1949), 75
-104 (104) Smith, “Fort Inge,” Handbook of Texas Online
-105 (580, pp. 3, 7) Smith, Frontier Defense in Texas: 1861-1865, 3, 7
-106 (406) Texas State Gazette, (Austin, Texas), November 24, 1849
-107 (405) Texas State Gazette, (Austin, Texas), August 25, 1849
-
-General Brooke called for Texas volunteers in 1849.
-
-108 (181, p. 21) Smith, The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas, 21
-109 (405) Texas State Gazette, (Austin, Texas), August 25, 1849
-110 (392) Geo. M. Brook to GTW (August 11, 1849), Records of George T. Wood, Texas Office of the Governor, ARIS-TSLAC; (156, p. 75) Ivey, The Texas Rangers: A Registry and History, 75; (405) Texas State Gazette, (Austin, Texas), August 25, 1849
-111 (405) Texas State Gazette, (Austin, Texas), August 25, 1849
-112 (393) Order #57 from General George Deas (August 19, 1849), Records of George T. Wood, Texas Office of the Governor, ARIS-TSLAC
-113 (44, p. 141) Webb, The Texas Rangers, 141
-114 (413) Texas State Gazette, (Austin, Tex.), October 26, 1850
-115 (393) Order #57 from General George Deas (August 19, 1849)
-116 (413) Texas State Gazette, (Austin, Tex.), October 26, 1850
-117 (393) Order #57 from General George Deas (August 19, 1849)
-118 (386) Indian Papers: S.M. Plummer to Maj. Geo. Deas, Governors Papers, (September 5, 1850) ARIS-TSLAC; (780, p. 69) James Farber, Texas, C.S.A.: A Spotlight on Disaster, (New York and Texas: The Jackson Co., 1947), 69
-119 (413) Texas State Gazette, (Austin, Tex.), October 26, 1850
-120 (393) Order #57 from General George Deas (August 19, 1849)
-121 (393) Order #57 from General George Deas (August 19, 1849)
-122 (388) Geo. M. Brooke to PHB, (March 6, 1850), Records of P. Hansborough Bell, Texas Office of the Governor, ARIS-TSLAC
-123 (392) Geo. M. Brook to GTW (August 11, 1849)
-124 (393) Order #57 from General George Deas (August 19, 1849); (413) Texas State Gazette, (Austin, Tex.), October 26, 1850
-125 (580, p. 6) Smith, Frontier Defense in Texas: 1861-1865, 6
-126 (393) Order #57 from General George Deas (August 19, 1849)
-127 (159, p. 143) Oates, editor, Rip Ford’s Texas, 143
-
-Rife enlisted in Wallace’s ranging company in 1850.
-
-128 (388) Geo. M. Brooke to PHB, (March 6, 1850)
-129 (44, p. 141) Webb, The Texas Rangers, 141; (228) Texas State Gazette, (Austin) March 9, 1850
-130 (397) Gen. Hamey, Special Orders #3 (March 23, 1850), Records of P. Hansborough Bell, Texas Office of the Governor, ARIS-TSLAC
-131 (388) Geo. M. Brooke to PHB, (March 6, 1850); (44, p. 141) Webb, The Texas Rangers, 141
-132 (397) Gen. Hamey, Special Orders #3 (March 23, 1850)
-133 (499, p. 16) Frederick Wilkens, Defending the Borders, The Texas Rangers, 1848-1861, (Austin: State House Press, 2001), 16
-134 (72, p. 22) James Pike, Scout and Ranger being the Personal Adventures of James Pike, (Princeton, NJ: Princeton University Press, 1932), 22
-135 (387) Geo. M. Brooke to PHB (March 6. 1850)
-136 (156, p. 86) Ivey, The Texas Rangers: A Registry and History, 86
-137 (387) Geo. M. Brooke to PHB (March 6. 1850)
-
-A joint military campaign against Indians was launched in 1850.
-
-138 (377, p. 111) Florence Fenley, “Events in the Early History of Uvalde County”, The Uvalde Leader News, (Uvalde, Texas), May 06, 1956 Centennial Edition, 111
-139 (377, p. 110) Fenley, “Events in the Early History of Uvalde County,” 110
-140 (395) Indian Papers: Gen.. Brooke, military order #27 (June 1, 1850) typescript, Records of P. Hansborough Bell, Texas Office of the Governor, ARIS-TSLAC
-141 (396) Indian Papers: Gen.. Brooke, military order #27 (June 1, 1850) typescript, Records of P. Hansborough Bell
-142 (492, p. 58) Williams, Never Again, Texas: 1848-1861, 58
-
-Rife participated in the fight at Black Hills.
-
-143 (339, p. 155) Williams, Never Again, Texas: 1848-1861, 155
-144 (144, p. 671) J.W. Wilbarger, Indian Depredations in Texas, Reliable Accounts, (Austin: Hutchings Printing House, 1889), 671
-145  (144, p. 671); Wilbarger, Indian Depredations in Texas, Reliable Accounts, 671; (181, p. 138) Smith, The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas, 138; (257) Texas State Gazette, (Austin), August 31 1850; (339, pp. 155-162) A.J. Sowell, Life of “Big Foot” Wallace, The Great Ranger Captain, (Austin: State House Press, 1989), 155-162; (499, p. 16) Wilkens, Defending the Borders, The Texas Rangers, 1848-1861, 16
-146 (492, p. 58) Williams, Never Again, Texas: 1848-1861, 58
-147 (339, p. 162) Williams, Never Again, Texas: 1848-1861, 162
-148 (377, p. 110) Fenley, “Events in the Early History of Uvalde County,” 110
-149 (339, p. 162) Williams, Never Again, Texas: 1848-1861, 162
-150 (144, p. 671) Wilbarger, Indian Depredations in Texas, 671
-151 (97) The Kerrville Mountain Sun, May 6, 1926
-152 (152, p. 187) Charles Merritt Barnes, Combats and Conquests of Immortal Heroes, (San Antonio: Guessaz & Ferlet Company, 1910), 187; (224, p. 189) Miss Mattie Jackson, The Rising and Setting of the Lone Star Republic, (San Antonio: unknown publisher, 1926), 189
-
-The results of the 1850 campaign were unsatisfactory.
-
-153 (492, p. 58) Williams, Never Again, Texas: 1848-1861, 58
-154 (392) Geo. M. Brook to GTW (August 11, 1849)
-155 (492, p. 59) Williams, Never Again, Texas: 1848-1861, 59;
-156 (156, p. 59), Ivey, The Texas Rangers: A Registry and History, 59; (716, 138) Gwynne, Empire of the Summer Moon, 138
-157 (393) Order #57 from General George Deas (August 19, 1849)
-158 (799, p. 250) Seymour V. Connor, Adventures in Glory: The Saga of Texas, 1836-1849, (Austin, Texas: Steck-Vaughn, 1965), 250
-159 (394) Indian Papers: Geo. M. Brooke to PHB (August 10, 1850), Records of P. Hansborough Bell
-160 (386) Indian Papers: S.M. Plummer to Maj. Geo. Deas (September 5, 1850)
-161 (386) Indian Papers: S.M. Plummer to Maj. Geo. Deas (September 5, 1850); (638, p. 42) Greer, Colonel Jack Hays, 42
-162 (141) Mrs. Lauretta Russell, 1850 Census of Bexar County, TX, (San Antonio: 1966), 77
-163 (32) Thomas Rife, US Seventh Census (1850), Bexar County, TX; (141) Mrs. Lauretta Russell, 1850 Census of Bexar County, TX, 77
-164 (413) Texas State Gazette, (Austin, Tex.), October 26, 1850
-165 (414) Texas State Gazette, (Austin, Tex.), November 9, 1850
-166 (390) Indian Papers: Geo. M. Brooke to PHB (February 7, 1851), Records of P. Hansborough Bell
-
-General Brooke dismissed the ranging companies in 1851.
-
-167 (181, p. 19) Smith, The Old Army in Texas, A Research Guide to the US Army in Nineteenth-Century Texas, 19
-168 (312) The Western Texan (San Antonio, Texas), July 31, 1851
-169 (44, p. 141-2) Webb, The Texas Rangers, 141-2
-170 (279) Texas State Gazette, (Austin), September 20, 1851
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----------------------------------
+### Mary Ann’s second marriage was to Tom Rife.
+
+While Mary Ann and John Brothers were farming in Castroville, Thomas Rife was stationed about fifty miles away on the Leona River near Fort Inge.[^91] While in the ranging service, Thomas Rife occasionally visited San Antonio and received his mail there[^92] but no evidence has been found showing that he was acquainted with either John Brothers or his wife.
+
+When US Army General Brooke dismissed all Texas rangers in Federal service in the fall of 1851,[^93] Rife had already left the ranging service after his year of fighting Indians. He and several other men from Wallace’s ranger company remained around Fort Inge in a settlement they called Inge, close to present-day Uvalde. These men included William W. Arnett,[^94] Ed Westfall, Sam Everett, Clem Howard, Cave Nelson, Howard/Henry Levering,[^95] Louis Oge, William Smith and George Ware.
+
+In the spring of 1852, Tom Rife and many of his friends were hired by Henry Skillman to drive or guard coaches for the new mail route.[^96] For the next eighteen months, Rife was almost constantly on the road and was only briefly in Bexar between trips. Despite this hectic schedule, he successfully courted Mary Ann Arnold who also lived in Uvalde. The circumstances of their courtship and marriage are not known. The Chief Justice of Medina County (John Hoffman) performed the marriage ceremony on October 14, 1853. The license was issued by Bexar County and the ceremony witnessed by two brothers, Charley D. Lytle and Samuel Lytle, William Smith and Gideon Scallions.[^97]
+
+### Rife left his wife after two and a half months of marriage.
+
+Three days after his marriage, Rife again left San Antonio with the mail train. He returned to San Antonio on December 10.[^98] According to Mary Ann, he then abandoned her after these short few months of marriage. When Rife left for the last time in December 1853 he may have felt that Mary Ann was trying to “fence him in.” Rife earned his living as a wagon master and a gunman and never seemed interested in either farming or ranching. Now he had to choose whether to settle down with his new wife to life as a rancher or to continue his life on the road. While many men would not have hesitated to settle down to a more stable life, this was the third chance for Rife to choose a career as a rancher or farmer. He had already rejected such a life twice before. Rife found a life-style he liked and he may have decided to stick with it, even though it meant leaving his wife.
+
+Mary Ann later said that Rife left her on December 27, just 73 days after their wedding, and never returned. She swore in her petition for divorce in 1860 that Rife abandoned her “voluntarily, without any cause or provocation, with the intention of wholely abandoning” her and “continued to abandon her for more than three years.”[^99] Rife’s side of the story is not known but apparently he made no attempt at reconciliation with his wife. Mary Ann did not want to divorce Tom Rife; she did so only a few months before she married her third and last husband in 1860.[^100] She and Tom had no children together.
+
+Rife did not stay with the mail service very long after leaving his wife. The mail from Santa Fé that arrived in San Antonio on February 11, 1854, was, at first, attributed to Tom Rife but was, in the same edition, corrected and Capt. Bradford Daily was identified as the conductor.[^101]
+
+In 1853, everyone who could afford the trip was heading to California to look for gold.[^102] There were many men from Texas in California in the 1850’s.[^103] Perhaps Rife conducted the mail coach to El Paso in late December of 1853 and proceeded from there to California. We know from Rife’s Application for a Pension for his Mexican War Service, that he had “resided in Arizona, California, Nevada and Texas.”[^104] The San Antonio Daily Light edition of March 17, 1893, stated that Rife “celebrated St. Patrick’s day in 1854 in San Francisco.”[^105] The only other evidence of Rife’s residence in California is an “Information Wanted” advertisement placed in the Sacramento Union in August, 1857. It stated that Rife “came to California in 1853." A letter addressed to R.F. Johnson, Campo Seco, Calaveras County, asked him to relieve the anxiety of his family and friends.[^106] Campo Seco was a promising mining community in 1856. Perhaps Mary Arnold Rife was preparing to begin divorce proceedings.
+
+Mary Ann owned real property in her own right and did not look to Rife for help. The Marital Rights Act of 1840 allowed a woman to sell property to support herself if her husband failed to do so.[^107] She sold 50 acres for $150 on March 2, 1855.[^108] She also applied to sell a building lot in San Antonio that she had inherited. She told the Court that Tom Rife had been in California for 12 months and left her with no means of support. The Court allowed her to keep the proceeds.[^109] Mary Ann continued to live in Uvalde County and was teaching school on the Sabinal River in the fall of 1857.[^110]
+
+By 1860, Rife had been absent for more than six years and Mary Ann had given up hope that he would return. In a notice in the February 4, 1860 newspaper, a Sheriff’s writ ordered Thomas Rife to appear before the District Court of Bexar County on the first Monday in March to answer Mary Ann Rife’s suit for a decree of divorce and for costs and relief generally. The notice was published in the San Antonio Ledger and Texan  for four consecutive weeks as required by law but Rife failed to appear for the divorce proceeding.[^111]
+
+### Mary Ann’s third marriage was to William C. Adams.
+
+Less than seven months after the divorce, on April 7, 1861, Mary Ann Rife married her third and last husband, William Carroll Adams, in Uvalde County.[^112] In the 1860 census Adams was enumerated as a stock raiser who lived at the former military post at Fort Inge. His parents moved from England to Corpus Christi in 1852 and entered the stock business. William Adams’ brother, Robert, served as a ranger in Wallace’s Company in 1850 and Mary Ann’s husband probably knew Rife, at least by reputation, before their marriage. In 1860 life as a single woman was difficult and, although she had inherited her father’s ranch on the Medina River she would not have wanted to be dependent on her few remaining relatives for help and support.
+
+Mary Ann’s husband left for West Texas soon after their marriage to participate in the Confederate invasion of New Mexico.[^133] He returned the following year and enlisted in the Confederate army. After the Civil War, William Adams entered into a partnership with his brother Robert to raise sheep, continuing in that business until 1890. Adams became “one of the wealthiest and most prominent citizens of this (Uvalde County.”[^114]
+
+In 1870 Mary Ann and William were stock raisers in San Felipe, Kinney County[^115] but by 1880, like the families of most wealthy ranchers in the region, Mary Ann and her two daughters and two sons were living in San Antonio.[^116]
+
+William apparently died before 1900; Mary Ann was living in San Antonio with two of her children at the time of the 1900 Census. In 1920, she was still living in San Antonio with her daughters, one of whom was widowed and the other single.[^117] She died at age 92 in San Antonio on August 3, 1925, and is buried in Adartis Family Cemetery near Macdona, Texas.[^118]
+
+
+
+
+[^1]: Wayne R. Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881,* (College Station, TX: Texas A & M University Press, 1985), 20
+[^2]: Carlysle Graham Raht, *Romance of Davis Mountains and Big Bend Country, A History,* (El Paso, TX: The Rahtbooks Company, 1919), 150
+[^3]: *The San Antonio Ledger* November 4, 1852
+[^4]: Raht, *Romance of Davis Mountains and Big Bend Country, A History,* 151
+[^5]: *San Antonio Ledger* February 10, 1853
+[^6]: Clayton Williams, *Never Again, Texas 1848-1861 Vol.* 3, (San Antonio: The Naylor Co., 1969), 21; (456, p. 339) Ralph P. Bieber, editor, *Exploring Southwestern Trails 1846-1854, Journal of William Henry Chase Whiting, 1849,* (Glendale, CA: The Arthur H. Clark Company, 1938), 339
+[^7]: Robert H. Thonhoff, *San Antonio Stage Lines: 1847-1881,* (El Paso, TX: Texas Western Press, 1971), 8, figure 3
+[^8]: Robert H. Thonhoff, *San Antonio Stage Lines: 1847-1881,* 9
+[^9]: Jack C. Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 1850-1861”, *West Texas Historical Association Year Book 47,* (1971), 117
+[^10]: Letter from General P. F. Smith, George H. Giddings vs. the United States. Comanche, Kiowa and Apache Indians, case #3873, Indian Depredation Case Records, 1891-1918, Records of the Court of Claims, 1835-1966, RG123, National Archives and Records Administration
+[^11]: Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881,* 22
+[^12]: *The Western Texan* (San Antonio), September 19, 1850
+[^13]: Letter from General P. F. Smith, George H. Giddings vs. the United States.
+[^14]: *The Western Texan* (San Antonio), October 13, 1853
+[^15]: *Texas State Gazette* (Austin), March 1, 1851; (362) Silver Three Cents: 1851-1873, Type Set Coin Collecting,  (http://typesets.wikidot.com/silver-3-cents), accessed June 3, 2011.
+[^16]: *Texas State Gazette* (Austin), December 8, 1849
+[^17]: Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 115
+[^18]: *The Northern Standard, (Clarksville, Tex.), March 8, 1851.
+[^19]: *Sacramento Daily Union,* January 25, 1853
+[^20]: Austerman, *Sharps Rifles and Spanish Mules,* 21
+[^21]: Austerman, *Sharps Rifles and Spanish Mules,* 23
+[^22]: Austerman, *Sharps Rifles and Spanish Mules,* 23
+[^23]: Austerman, *Sharps Rifles and Spanish Mules,* 22
+[^24]: Austerman, *Sharps Rifles and Spanish Mules,* 25-6
+[^25]: Austerman, *Sharps Rifles and Spanish Mules,* 28
+[^26]: Austerman, *Sharps Rifles and Spanish Mules,* 26
+[^27]: *The Western Texan* (San Antonio, Texas), November 4, 1852; (138, p. 26). Austerman, *Sharps Rifles and Spanish Mules,* 26; (500, p. 10, fig. 5) Thonhoff, *San Antonio Stage Lines,* 10, fig. 5
+[^28]: The *Zanesville Courier* (Zanesville, OH), July 12, 1853
+[^29]: *The Gonzales Inquirer* (Gonzales, TX), September 24, 1853
+[^30]: Florence Fenley, *Oldtimers, Their Own Stories,* (Austin, TX: State House Press, 1991), 213
+[^31]: Austerman, *Sharps Rifles and Spanish Mules,* 29
+[^32]: Fenley, *Oldtimers,* 213
+[^33]: Fenley, *Oldtimers,* 213
+[^34]: Austerman, *Sharps Rifles and Spanish Mules,* 29
+[^35]: Austerman, *Sharps Rifles and Spanish Mules,* 28; (410, p. 74) James M. Day, “Big Foot Wallace in Trans-Pecos Texas,” *West Texas Historical Association Year Book,* 1979) Vol: LV 74; (117) *San Antonio Light,* March 9, 1892
+[^36]: *San Antonio Light,* February 23, 1887
+[^37]: Austerman, *Sharps Rifles and Spanish Mules,* 30-31; (198) *Texas State Gazette* (Austin), September 25, 1852
+[^38]: Austerman, *Sharps Rifles and Spanish Mules,* 31; (755) *Charleston Courier,* (Charleston, SC.), December 14, 1852
+[^39]: Austerman, *Sharps Rifles and Spanish Mules,* 32
+[^40]: *Sacramento Daily News,* April 12, 1854
+[^41]: Austerman, *Sharps Rifles and Spanish Mules,* 33
+[^42]: Austerman, *Sharps Rifles and Spanish Mules,* 33
+[^43]: *Texas State Gazette* (Austin), April 16, 1853; (138, p. 34) Austerman, *Sharps Rifles and Spanish Mules,* 34
+[^44]: Austerman, *Sharps Rifles and Spanish Mules,* 38-39; (750) *Augusta Chronicle* (Augusta, GA), July 12, 1853
+[^45]: *San Antonio Sunday Light,* August 2, 1902
+[^46]: *San Antonio Ledger and Texan,* May 12, 1853; (766) *San Antonio Ledger and Texan,* June 16, 1853
+[^47]: *San Antonio Ledger and Texan,* May 12, 1853; (766) *San Antonio Ledger and Texan,* June 16, 1853
+[^48]: U .S. Court of Claims, Deposition of John G. Walker, Giddings vs. The United States.
+[^49]: Raht, *Romance of Davis Mountains,* 191
+[^50]: *San Antonio Ledger and Texan,* June 16, 1853
+[^51]: *San Antonio Ledger and Texan,* June 16, 1853
+[^52]: *Weekly Herald,* (New York, NY), September 9, 1853
+[^53]: *San Antonio Ledger and Texan,* August 11, 1853; (723) *San Antonio Ledger and Texan,* October 10, 1853; *San Antonio Ledger and Texan,* October 13, 1853
+[^54]: Austerman, *Sharps Rifles and Spanish Mules,* 43-4
+[^55]: *The Western Texan* (San Antonio), October 13, 1853; (724) *San Antonio Ledger and Texan,* October 13, 1853
+[^56]: *San Antonio Ledger and Texan,* October 20, 1853
+[^57]: *San Antonio Ledger and Texan,* December 15, 1853
+[^58]: Deposition of Thomas Rife, George H. Giddings vs. The United States.
+[^59]: *The San Antonio Ledger and Texan,* March 10, 1860
+[^60]: Austerman, *Sharps Rifles and Spanish Mules,* 50
+[^61]:  Ike Moore, arranger, *The Life and Diary of Reading W Black: A History of Early Uvalde,* (Uvalde, TX: The El Progreso Club, 1934), 41
+[^62]:  Frederick Law Olmsted, *A Journey Through Texas or a Saddle-Trip on the Southwestern Frontier,* (Austin: University of Texas Press, 1978), 299
+[^63]: Austerman, *Sharps Rifles and Spanish Mules,* 48
+[^64]: Jack Lowery, “Guarding the Westward Trail’, *Texas Highways Magazine 39, No. 9,* (September 1992), 46-7
+[^65]: *The Western Texan* (San Antonio, Texas), February 16, 1854; (771) *Houston Telegraph,*  October 20, 1858
+[^66]: *San Antonio Ledger and Texan,* March 30, 1854; (749) *Texas State Gazette,* (Austin), April 29, 1854
+[^67]: Letter from Postmaster General to Senator Rusk, George H. Giddings vs. The United States.
+[^68]: Memorial of George Giddings, George H. Giddings vs. The United States; (M-13) Statement from Giddings, George H. Giddings vs. The United States.
+[^69]: Letter from Isaac Lightner to James Magoffin, November 25, 1854, James Magoffin File, The Dolph Briscoe Center for American History, The University of Texas at Austin.
+[^70]: Letter from John Crosby to James Magoffin, August 6, 1855, James Magoffin File.
+[^71]: Letter from Isaac Lightner to James Magoffin, May 18, 1858, James Magoffin File.
+[^72]: Harold Schoen, “The Free Negro in the Republic of Texas,” *Southwestern Historical Quarterly 40, (July, 1937),* 95
+[^73]: Nolan Thompson, ”Arnold, Hendrick,” Handbook of Texas Online, (http://www.tshaonline.org/handbook/online/articles/far15, accessed November 07, 2011), Published by the Texas State Historical Association.
+[^74]: Schoen, “The Free Negro in the Republic of Texas,” 95
+[^75]: Schoen, “The Free Negro in the Republic of Texas,” 98
+[^76]: Thompson, ”Arnold, Hendrick,” Handbook of Texas Online.
+[^77]: Jesus De La Teja, *San Antonio de Bexar: a community on New Spain’s Northern Frontier,* (Albuquerque, NM: University of New Mexico Press, 1996), 23
+[^78]: Stephen L. Hardin, *Texian Iliad, A Military History of the Texas Revolution, 1835-1836,* (Austin: University of Texas Press, 1994), 79
+[^79]: ”Arnold, Hendrick”, Nolan Thompson, Handbook of Texas Online.
+[^80]: Rena Maverick Green, editor, *Samuel Maverick, Texan: 1803-1870, A Collection of Letters, Journals and Memoirs,* (San Antonio: Privately Published, 1952), 74; (636, p. 126) David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX: Texas State Historical Association, 2010), 126
+[^81]: John Brothers, Maryann Brothers, United States Seventh Census (1850), M432, Dwelling #38, Castroville, Medina County, Texas.
+[^82]: Victor Bracht, *Texas in 1848,* (San Antonio: Naylor Printing Company, 1931), 72
+[^83]: John Brothers, Montgomery County Clerk Returns, August 1838, 2nd class certificate #78, GLO; (612) John Brothers, Audited Republic claims, Texas Comptroller’s Office claims records. Archives and Information Services Division, Texas State Library and Archives Commission
+[^84]: Henry W. Barton, *Texas Volunteers In the Mexican War,* (Waco, TX:  Texian Press, 1970), 67
+[^85]: Schoen, “The Free Negro in the Republic of Texas”, 95
+[^86]: Pearson Newcomb, *The Alamo City, (San Antonio: Standard Printing Company,* 1926), 37
+[^87]: Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 103
+[^88]: Bill of sale, Historical Records, County Clerks Office, Bexar County, Book I1, p. 572, San Antonio, TX.
+[^89]: Schoen, “The Free Negro in the Republic of Texas”, 96
+[^90]: Bill of sale, Historical Records, County Clerks Office, Bexar County, Book M2, pp. 578-79; (424) Bill Of sale, Historical Records, County Clerks Office, Bexar County, Book K2, p. 185
+[^91]: Walter Prescott Webb, *The Texas Rangers,* (Austin: University of Texas Press, 1993), 141; (156, p. 86) Darren L. Ivey, *The Texas Rangers: A Registry and History,* (Jefferson, North Carolina: McFarland & Company Inc., 2010), 86
+[^92]: *The Western Texan,* (San Antonio), June 12, 1851; (311) *The Western Texan,* (San Antonio), August 28, 1851
+[^93]: Webb, *The Texas Rangers,* 143; (279) *Texas State Gazette,* (Austin) September 20, 1851
+[^94]: Thomas Tyree Smith, *Fort Inge: Sharps, Spurs, and Sabers on the Texas Frontier,* (Austin: Eakin Press, 1993), 57; (88) Middle Rio Grand Development Council, Uvalde County, www.mrgdc.org/cog/cog_region/uvaldecounty.php#inge, accessed Aug 26, 2012.
+[^95]: Fenley, *Oldtimers,* 213; (88) Middle Rio Grand Development Council, Uvalde County.
+[^96]: Austerman, *Sharps Rifles and Spanish Mules,* 28; (205, p. 74) Day, “Big Foot Wallace in Trans-Pecos Texas,” 73; (14) *San Antonio Light,* February 23, 1887
+[^97]: Marriage Licenses, Bexar County Clerks Records, Book C, p. 118, (Oct. 14, 1853)
+[^98]: *San Antonio Ledger and Texan,* December 15, 1853
+[^99]: *The San Antonio Ledger and Texan,* March 10, 1860
+[^100]: *The San Antonio Ledger and Texan,* March 10, 1860
+[^101]: *The Western Texan* (San Antonio), February 16, 1854
+[^102]: George Wythe Baylor, *Into the Far, Wild Country: True Tales of the Old Southwest,* (El Paso, TX: Texas Western Press, The University of Texas at El Paso, 1996), 93
+[^103]: Baylor, *Into the Far, Wild Country,* 107-17
+[^104]: Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veterans Affairs, RG15, NARA
+[^105]: *San Antonio Daily Light,* March 17, 1893
+[^106]: *Sacramento Union,* August 12-18, 1857
+[^107]: *Brazos Courier,* (Brazoria, TX), March 10, 1840; (617) Bills of sale. Historical Records, County Clerks Office, Bexar County, Book 128, p. 169, Book O2, p. 144, and Book M2, p. 426
+[^108]: Bill of sale. Historical Records, County Clerks Office, Bexar County, Book M2, pp. 578-9
+[^109]: Mary Ann Rife vs. Thomas Rife. Bexar County Probate minutes (1851-1857), Vol. C, p. 439, Reel # 1019295, ARIS-TSLAC
+[^110]: Smith, *Fort Inge: Sharps, Spurs, and Sabers on the Texas Frontier,* 116
+[^111]: Thirty seventh District Court, Bexar County. Civil Minutes, (1860-1868), Vol. F, p. 4, Microfilm Reel # 1019987, San Antonio; (570) Court Record of District Court, Clerk of District Court, Bexar County, (Fall term, 1860), Vol. F, p. 5, San Antonio
+[^112]: William C. Adams (April 7, 1861), Texas Marriages, 1837-1973, https://familysearch.org/pal:MM9.1.1FXSJ-4NB: accessed19 Oct 2012
+[^113]: *The Daily Ledger and Texan,* (San Antonio), April 2, 1861; (147, pp. 21-22) Clayton W. Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895,* (College Station, TX: Texas A & M University Press, 1982), 21-2
+[^114]: *The Daily Ledger and Texan,* (San Antonio), April 2, 1861; (465, p. 213) George Wythe Baylor, *Into the Far, Wild Country,* 213  
+[^115]: Mary A. Adams, United States Ninth Census (1870), San Felipe, Kinney County, Texas.
+[^116]: Mary E. Adams, United States Tenth Census (1880), San Antonio, Bexar County, Texas.
+[^117]: Mary A. Adams, United States Twelfth Census (1900), San Antonio, Bexar County, Texas.
+[^118]: Mary Ann Adams (Aug 3, 1925), Certificate of Death, Department of Health-Bureau of Vital Statistics, State of Texas
