@@ -288,221 +288,143 @@ Giddings activities as a mail contractor were confined entirely to Texas after 1
 [^28]: Letter to Senator, Giddings vs. The United States
 [^29]: Memorial to the Postmaster General, George H. Giddings vs. the United States
 [^30]: Affidavit of Castroville Postmaster, Giddings vs. The United States
-31  (M-9) Affidavit, Giddings vs. The United States
-32  (M-1) Memorial to the Postmaster General, George H. Giddings vs. the United States
-
-The spring and summer of 1855 were trying times for Giddings’ mail service
-
-33  (M-39) Petition from Giddings, Giddings vs. The United States; (M-23) Deposition of William M. Ford, Giddings vs. The United States
-34  (M-29, p. 21) Deposition of George H. Giddings, Giddings vs. The United States.
-35  (138, pp. 71-2) Austerman, *Sharps Rifles and Spanish Mules,* 71-2
-36  (157, pp. 74, 77) Ike Moore, Ed. *The Life and Diary of Reading W Black: A History of Early Uvalde,*  (Uvalde, TX: The El Progresso Club, 1934), 74, 77
-37  (138, p. 72) Austerman, *Sharps Rifles and Spanish Mules,* 72
-
-The winter of 1855 was difficult for travelers.
-
-38  (138, p. 77) Austerman, *Sharps Rifles and Spanish Mules,* 77
-39  (M-7) Letter to Senator, Giddings vs. The United States.
-40  (138, pp. 76-7) Austerman, *Sharps Rifles and Spanish Mules,* 76-7
-41  (M-22) Deposition of James R. Cloud, Giddings vs. The United States; (M-25) Deposition of John C. Monier, Giddings vs. The United States
-
-            42  (M-19) Deposition of William A. Wallace, Giddings vs. The United States; (M-23) Deposition of William M. Ford, Giddings vs. The United States; (M-24) Deposition of Archibald C. Hyde, Giddings vs. The United States; (M-29, p. 31) Deposition of George H. Giddings, Giddings vs. The United States
-43  (M-5) Memorial to the Senate and House of Representatives, Giddings vs. The United States
-44  (138, p. 78) Austerman, *Sharps Rifles and Spanish Mules,* 78
-45  (138, p. 79) Austerman, *Sharps Rifles and Spanish Mules,* 79
-
-The arrival of warmer weather brought out more horse-stealing Indians.
-
-46 (1412) Albert J. Myers, “Letters from Texas, 1854-1856”, *Southwest Historical Quarterly, Texas State Historical Association, Vol 82:1,* July 1978
-47  (M-39) Petition from Giddings, Giddings vs. The United States.
-48  (M-23) Deposition of William M. Ford, Giddings vs. The United States; (M-24) Deposition of Archibald C. Hyde, Giddings vs. The United States; (138, p. 70) Austerman, *Sharps Rifles and Spanish Mules,* 70
-49  (M-39, p. 5) Petition from Giddings, Giddings vs. The United States.
-50  (M-19) Deposition of William A. Wallace, Giddings vs. The United States
-51  (M-29, p. 8) Deposition of George H. Giddings, Giddings vs. The United States.
-52  (M-39, p. 5) Petition from Giddings, Giddings vs. The United States; (M-29, pp. 39-40) Deposition of John G. Walker, Giddings vs. The United States
-
-In 1856 Giddings began to build more relay stations.
-
-53  (M-12) Letter from General P. Smith, Giddings vs. The United States
-54  (138, p. 85) Austerman, *Sharps Rifles and Spanish Mules,* 85; (M-39, p. 5) Petition from Giddings, Giddings vs. The United States
-55  (138, p. 85) Austerman, *Sharps Rifles and Spanish Mules,* 85
-56  (138, p. 86) Austerman, *Sharps Rifles and Spanish Mules,* 86
-57  (761) *San Antonio Ledger and Texan,* February 2, 1857
-
-2. George Giddings’ second mail contract, July 1857-February 1962
-
-58  (M-28) Deposition of John G. Walker, Giddings vs. The United States
-
-Mail service between San Antonio and San Diego was set to begin in 1857.
-
-59  (492, p. 154) Clayton Williams, *Never Again, Texas 1848-1861 Vol. 3,*  (San Antonio, Texas: The Naylor Co. 1969), 154  
-60  (80, p. 45) Clarence R. Wharton, *Texas Under Many Flags,* (Chicago: The American Historical Society, Inc., 1930), 45
-61  (361) Stuart N. Lake,  “Birch’s Overland Mail in San Diego County”, *The Journal of San Diego History, San Diego Historical Society Quarterly 3,* (April 1957)
-
-The first mail to California left San Antonio on July 9, 1857.
-
-               62  (500, p. 15) Robert H. Thornhoff, *San Antonio Stage Lines 1847-1881,* (El Paso: Texas Western Press, 1971), 15; (184, pp. 139-40) Anonymous, *The Texas Almanac for 1859,* (Galveston, TX: The Galveston News, 1859), pp. 139-40
-63  (770) *San Francisco Bulletin,* September 9, 12, 1857
-
-The second mail to California left San Antonio on July 24, 1857.
-
-64 (770) *San Francisco Bulletin,* September 9, 12, 1857
-
-65  (184, p. 139) Anonymous, *The Texas Almanac for 1859,* 139; (361) Lake, “Birch’s Overland Mail in San Diego County”; (764) *The Southern Intelligencer,* (Austin), October 21, 1857
-66  (500, p. 15) Thornhoff, *San Antonio Stage Lines,* 1847-1881, 15
-67  (138, p. 94) Austerman, *Sharps Rifles and Spanish Mules,* 94
-68  (763) *The Weekly Independent* (Belton, Tex.), August 15, 1857
-79  (M-19) Deposition of William A. Wallace, Giddings vs. The United States; (M-39, p. 5) Petition from Giddings, Giddings vs. The United States; (M-29, p. 53) Deposition of George H. Giddings, Giddings vs. The United States
-70  (138, p. 96) Austerman, *Sharps Rifles and Spanish Mules,* 96; (1410) *Civilian and Gazette* (Galveston), September 1, 1857
-
-George Giddings and the Birch line merged.
-
-71  (M-30) Records of the War Department, Giddings vs. The United States
-72  (M-42) Special order # 91 ordering Post commanders to supply escorts to mail parties, Giddings vs. The United States
-
-Transcontinental passenger service commenced October 1857.
-
-73  (138, p. 106) Austerman, *Sharps Rifles and Spanish Mules,* 106
-74  (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States; (184, p. 139) Anonymous, *The Texas Almanac for 1859,* 139
-75  (138, p. 112) Austerman, *Sharps Rifles and Spanish Mules,* 112; (184, p. 139) Anonymous, *The Texas Almanac for 1859,* 139
-76(184, p. 139) Anonymous, *The Texas Almanac for 1859,* 139
-77  (138, p. 115) Austerman, *Sharps Rifles and Spanish Mules,* 115; (794) *San Antonio Daily Herald,* December 31, 1857
-78  (M-39, p. 6) Petition from Giddings, Giddings vs. The United States.
-79  (M-23) Deposition of William M. Ford, Giddings vs. The United States
-80  (M-39, p. 5) Petition from Giddings, Giddings vs. The United States
-81  (M-20) Deposition of Tom Rife, Giddings vs. The United States
-82  (M-20) Deposition of Tom Rife, Giddings vs. The United States; (138, pp. 117-9) Austerman, *Sharps Rifles and Spanish Mules,* 117-9
-
-
-Giddings went to Washington, DC to make his case before Postmaster General Brown.
-
-83  (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States
-84 (1411) *Civilian and Gazette* (Columbus, TX), March 30, 1858
-85  (138, p. 121) Austerman, *Sharps Rifles and Spanish Mules,* 121
-86  (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States.
-
-The Butterfield Company prepared to begin service in October 1858.
-
-87  (138, p. 134) Austerman, *Sharps Rifles and Spanish Mules,* 133
-88 (138, p. 143) Austerman, *Sharps Rifles and Spanish Mules,* 143
-89 (138. P. 143) Austerman, *Sharps Rifles and Spanish Mules,* 143
-90 (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States.
-
-Giddings offered passenger service to San Diego
-
-               91  (500, p. 16) Thornhoff, *San Antonio Stage Lines, 1847-1881,* 16; (779) The Galveston News, *The Texas Almanac, for 1860, with Statistics, Historical and Biographical Sketches, Etc., Relating to Texas,* (1860): University of North Texas Libraries, The Portal to Texas History, http://www.texashistory.unt.edu/ark:/67531/metapth123766/ (accessed June 30, 2012)
-92  (173) *San Antonio Sunday Light,* July 16, 1939
-943 (173) *San Antonio Sunday Light,* July 16, 1939
-94 (138, p. 142) Austerman, *Sharps Rifles and Spanish Mules,* 142
-95  (796) *Sacramento Union,* March 5, 1859
-96  (173) *San Antonio Sunday Light,* July 16, 1939
-97  (138, p. 138) Austerman, *Sharps Rifles and Spanish Mules,* 138
-98  (797, p. 178) Thomas T. Smith, et al, Ed, *The Reminiscences of Major General Zenas R. Bliss 1854-1876,* (Austin, TX: Texas State Historical Assoc., 2007) 178
-
-The US military provided protection for the mail service.
-
-99 (M-31) Records of the War Department, Giddings vs. The United States
-100  (583, p. 107) Jerry Thompson, ed., *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque, NM: University of New Mexico Press, 2001), 107
-101  (583, p. 69) Thompson, *Texas and New Mexico on the Eve of the Civil War,* 69.
-102  (765) *The Belton Independent* (Belton, TX), October 16, 1858
-
-Travel by stagecoach in 1857 was dangerous and unpleasant.
-
-103  (762) *The San Antonio Ledger,* Saturday, May 22, 1858
-104 (138, p. 122) Austerman, *Sharps Rifles and Spanish Mules,* 122
-105 (138, pp. 124-7) Austerman, *Sharps Rifles and Spanish Mules,* 124-7
-106 (408 pp., 382-3) George G. Smith, *The Life and Times of George Foster Pierce, D.D., LL.D,* (Sparta, GA: Hancock Publishing Co., 1888), 382-3
-
-Tom Rife encounters escaped slaves and more Indian attacks.
-
-107 (138, p. 142) Austerman, *Sharps Rifles and Spanish Mules,* 142
-108 (M-20) Deposition of Tom Rife, Giddings vs. The United States
-109 (M-29, p. 6) Deposition of George H. Giddings, Giddings vs. The United States
-110 (158, pp.38-40) Jerry Thompson, *From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick,* (El Paso, TX: University of Texas at El Paso, 1991), 38-40; (222, pp. 326-7) Olmstead, *A Journey Through Texas or a Saddle Trip on the Southwestern Frontier,* 326-7
-
-The Butterfield Company began service in October 1858.
-
- 111 (138, p. 141) Austerman, *Sharps Rifles and Spanish Mules,* 141
-112 (771) *Houston Telegraph,* October 20, 1858
-113 (138, p. 146) Austerman, *Sharps Rifles and Spanish Mules,* 146
-114 (138, p. 145) Austerman, *Sharps Rifles and Spanish Mules,* 145
-113 (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States
-114 (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States; (138, p. 148) Austerman, *Sharps Rifles and Spanish Mules,* 148
-
-Giddings’ California mail service was discontinued in April 1860.
-
-115 (138, P146) Austerman, *Sharps Rifles and Spanish Mule,* 146
-116 (138, p. 145) Austerman, *Sharps Rifles and Spanish Mules,* 145
-119 (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States
-120 (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States; (138, p. 148) Austerman, *Sharps Rifles and Spanish Mules, 148
-121 (138, pp. 154-5) Austerman, *Sharps Rifles and Spanish Mules,* 154-5
-118  (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States.
-119 (800, p. 11) Patrick Dearen, *Crossing Rio Pecos,* (Fort Worth: Texas Christian Press, 1996), 11
-120 (84, pp. 206-14) Kathryn Smith Mcmillen, “A Descriptive Bibliography on the San Antonio-San Diego Mail Line,” *The Southwest Historical Quarterly 59,* (October 1955): 206-14; (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States.
-121 (138, p. 157) Austerman, *Sharps Rifles and Spanish Mules,* 157
-122 (497) *The Daily Ledger and Texan* (San Antonio), Monday, October 29, 1860
-123 (138, p. 158) Austerman, *Sharps Rifles and Spanish Mules,* 158.
-124 (364) *The Daily Ledger and Texan* (San Antonio), July 26, 1860
-125 (315) *The Daily Ledger and Texan* (San Antonio), July 5, 1860
-126 (331) *The Daily Ledger and Texan* (San Antonio), October 6,1860
-127 (M-20) Deposition of Tom Rife, Giddings vs. The United States
-
-Abraham Lincoln’s election led to secession.
-
-128 (601, p. 4) Mark Swanson, *Atlas of the Civil War Month by Month: Major Battles and Troop Movements,* (Athens, GA: The University of Georgia Press, 2004), 4
-129 (138, p. 161) Austerman, *Sharps Rifles and Spanish Mules,* 161; (303) *The Daily Ledger and Texan* (San Antonio), June 4, 1861
-130 (138, p. 163) Austerman, *Sharps Rifles and Spanish Mules,* 163.
-131 (138, p. 164) Austerman, *Sharps Rifles and Spanish Mules,* 164; (M-39, p. 7) Petition from Giddings, Giddings vs. The United States
-132 (M-19) Deposition of William A. Wallace, Giddings vs. The United States
-133 (M-21) Deposition of Joseph Hetler, Giddings vs. The United States
-134 (M-20) Deposition of Tom Rife, Giddings vs. The United States; (M-39, p. 7) Petition from Giddings, Giddings vs. The United States.
-135 (327) *The Daily Ledger and Texan* (San Antonio), February 25, 1861
-136 (138, p. 164) Austerman, *Sharps Rifles and Spanish Mules,* 164.
-
-The Butterfield Company shifted its route north to avoid Texas in 1861.
-
-137 (138, p. 165) Austerman, *Sharps Rifles and Spanish Mules,* 165.
-138 (558, p. 254) Noah Smithwick, *The Evolution of a State or Recollections of Old Texas Days by Noah Smithwick,* (Austin: University of Texas Press, 19830, 254
-139 (147, p. 12) Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895,* 12
-140 (206, p. 79) Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,”*West Texas Historical Association Year Book 58, (1980),* 79
-141  (583, p. 225) Thompson, *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* 225;  (147 p. 64) Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895,* 64
-142 (138, p. 166-7) Austerman, *Sharps Rifles and Spanish Mules,* 166-7.
-
-Apache’s attacked the mail trains in response to the Bascom Affair.
-
-143 (M-21) Deposition of Joseph Hetler, Giddings vs. The United States; (M-29, pp. 12, 68) Deposition of George H. Giddings, Giddings vs. The United States
-144 (173) *San Antonio Sunday Light,* July 16, 1939
-145 (138, p. 168) Austerman, *Sharps Rifles and Spanish Mules,* 168.
-146 (M-39, p. 7) Petition from Giddings, Giddings vs. The United States
-147 (M-29, p. 12) Deposition of George H. Giddings, Giddings vs. The United States
-148 (206, p. 80) Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 80
-149 (804) *Times-Picayune* (New Orleans), June 7, 1861; (M-21) Deposition of Joseph Hetler, Giddings vs. The United States; (M-39, p. 8) Petition from Giddings, Giddings vs. The United States
-150 (206, p. 80) Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 80
-151 (M-29) Deposition of George H. Giddings, Giddings vs. The United States
-152(138, p. 170) Austerman, *Sharps Rifles and Spanish Mules,* 170.
-153 (303) *The Daily Ledger and Texan* (San Antonio), June 4, 1861
-
-The first Confederate troops arrived in west Texas in July 1861.
-
-154 (158, p. 19) Thompson, *From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick,* 19
-155 (158, p. 23) Thompson, *From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick,* 23
-156 (138, p. 176) Austerman, *Sharps Rifles and Spanish Mules,* 176.
-157 (206, p. 86) Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 86
-158 (775) *The Charleston Mercury* (SC), January 16, 1862.
-159 (958) Henry Skillman, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, NARA, Roll 941
-160 (138, p. 180) Austerman, *Sharps Rifles and Spanish Mules,* 180.
-
-The Confederate invasion of New Mexico was a failure.
-
-161 (206, p. 94) Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 94
-162 (285, p. 49) Nancy Lee Hammons, Thesis 1942,*A History of El Paso County, Texas, to 1900,* (El Paso, TX: The University of Texas at El Paso, 1983), 49
-163 (206, pp. 87-8) Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 87-8
-164 (206, p. 88) Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 88; (138, p. 181) Austerman, *Sharps Rifles and Spanish Mules,* 181
-
-Fort Clark became the western terminus of the mail service.
-
-165 (206, p. 96) Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 96
-166 (M-29, p. 5) Deposition of George H. Giddings, Giddings vs. The United States
-167 (M-19) Deposition of William A. Wallace, Giddings vs. The United States
-168 (206, p. 97) Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 97iii
-169 (781, pp. i-iii) Anonymous, *Special Presidential Pardons for Confederate Soldiers: A Listing of Former Confederate soldiers requesting full pardon from President Andrew Jackson,* (Signal Mountain, TN: Mountain Press, 1999,) i-iii
+[^31]: Affidavit, Giddings vs. The United States
+[^32]: Memorial to the Postmaster General, George H. Giddings vs. the United States
+[^33]: Petition from Giddings, Giddings vs. The United States; (M-23) Deposition of William M. Ford, Giddings vs. The United States
+[^34]: Deposition of George H. Giddings, Giddings vs. The United States.
+[^35]: Austerman, *Sharps Rifles and Spanish Mules,* 71-2
+[^36]: Ike Moore, Ed. *The Life and Diary of Reading W Black: A History of Early Uvalde,*  (Uvalde, TX: The El Progresso Club, 1934), 74, 77
+[^37]: Austerman, *Sharps Rifles and Spanish Mules,* 72
+[^38]: Austerman, *Sharps Rifles and Spanish Mules,* 77
+[^39]: Letter to Senator, Giddings vs. The United States.
+[^40]: Austerman, *Sharps Rifles and Spanish Mules,* 76-7
+[^41]: Deposition of James R. Cloud, Giddings vs. The United States; (M-25) Deposition of John C. Monier, Giddings vs. The United States
+[^42]: Deposition of William A. Wallace, Giddings vs. The United States; Deposition of William M. Ford, Giddings vs. The United States; Deposition of Archibald C. Hyde, Giddings vs. The United States; Deposition of George H. Giddings, Giddings vs. The United States
+[^43]: Memorial to the Senate and House of Representatives, Giddings vs. The United States
+[^44]: Austerman, *Sharps Rifles and Spanish Mules,* 78
+[^45]: Austerman, *Sharps Rifles and Spanish Mules,* 79
+[^46]: Albert J. Myers, “Letters from Texas, 1854-1856”, *Southwest Historical Quarterly, Texas State Historical Association, Vol 82:1,* July 1978
+[^47]: Petition from Giddings, Giddings vs. The United States.
+[^48]: Deposition of William M. Ford, Giddings vs. The United States; (M-24) Deposition of Archibald C. Hyde, Giddings vs. The United States; (138, p. 70) Austerman, *Sharps Rifles and Spanish Mules,* 70
+[^49]: Petition from Giddings, Giddings vs. The United States.
+[^50]: Deposition of William A. Wallace, Giddings vs. The United States
+[^51]: Deposition of George H. Giddings, Giddings vs. The United States.
+[^52]: Petition from Giddings, Giddings vs. The United States; Deposition of John G. Walker, Giddings vs. The United States
+[^53]: Letter from General P. Smith, Giddings vs. The United States
+[^54]: Austerman, *Sharps Rifles and Spanish Mules,* 85; (M-39, p. 5) Petition from Giddings, Giddings vs. The United States
+[^55]: Austerman, *Sharps Rifles and Spanish Mules,* 85
+[^56]: Austerman, *Sharps Rifles and Spanish Mules,* 86
+[^57]: *San Antonio Ledger and Texan,* February 2, 1857
+[^58]: Deposition of John G. Walker, Giddings vs. The United States
+[^59]: Clayton Williams, *Never Again, Texas 1848-1861 Vol. 3,*  (San Antonio, Texas: The Naylor Co. 1969), 154  
+[^60]: Clarence R. Wharton, *Texas Under Many Flags,* (Chicago: The American Historical Society, Inc., 1930), 45
+[^61]: Stuart N. Lake,  “Birch’s Overland Mail in San Diego County”, *The Journal of San Diego History, San Diego Historical Society Quarterly 3,* (April 1957)
+[^62]: Robert H. Thornhoff, *San Antonio Stage Lines 1847-1881,* (El Paso: Texas Western Press, 1971), 15; (184, pp. 139-40) Anonymous, *The Texas Almanac for 1859,* (Galveston, TX: The Galveston News, 1859), pp. 139-40
+[^63]: *San Francisco Bulletin,* September 9, 12, 1857
+[^64]: *San Francisco Bulletin,* September 9, 12, 1857
+[^65]: Anonymous, *The Texas Almanac for 1859,* 139; (361) Lake, “Birch’s Overland Mail in San Diego County”; (764) *The Southern Intelligencer,* (Austin), October 21, 1857
+[^66]: Thornhoff, *San Antonio Stage Lines,* 1847-1881, 15
+[^67]: Austerman, *Sharps Rifles and Spanish Mules,* 94
+[^68]: *The Weekly Independent* (Belton, Tex.), August 15, 1857
+[^69]: Deposition of William A. Wallace, Giddings vs. The United States; Petition from Giddings, Giddings vs. The United States; Deposition of George H. Giddings, Giddings vs. The United States
+[^70]: Austerman, *Sharps Rifles and Spanish Mules,* 96; (1410) *Civilian and Gazette* (Galveston), September 1, 1857
+[^71]: Records of the War Department, Giddings vs. The United States
+[^72]: Special order /#91 ordering Post commanders to supply escorts to mail parties, Giddings vs. The United States
+[^73]: Austerman, *Sharps Rifles and Spanish Mules,* 106
+[^74]: Statement to the Senate and the House of Representatives, Giddings vs. The United States; (184, p. 139) Anonymous, *The Texas Almanac for 1859,* 139
+[^75]: Austerman, *Sharps Rifles and Spanish Mules,* 112; (184, p. 139) Anonymous, *The Texas Almanac for 1859,* 139
+[^76]: Anonymous, *The Texas Almanac for 1859,* 139
+[^77]: Austerman, *Sharps Rifles and Spanish Mules,* 115; (794) *San Antonio Daily Herald,* December 31, 1857
+[^78]: Petition from Giddings, Giddings vs. The United States.
+[^79]: Deposition of William M. Ford, Giddings vs. The United States
+[^80]: Petition from Giddings, Giddings vs. The United States
+[^81]: Deposition of Tom Rife, Giddings vs. The United States
+[^82]: Deposition of Tom Rife, Giddings vs. The United States; (138, pp. 117-9) Austerman, *Sharps Rifles and Spanish Mules,* 117-9
+[^83]: Statement to the Senate and the House of Representatives, Giddings vs. The United States
+[^84]: *Civilian and Gazette* (Columbus, TX), March 30, 1858
+[^85]: Austerman, *Sharps Rifles and Spanish Mules,* 121
+[^86]: Statement to the Senate and the House of Representatives, Giddings vs. The United States.
+[^87]: Austerman, *Sharps Rifles and Spanish Mules,* 133
+[^88]: Austerman, *Sharps Rifles and Spanish Mules,* 143
+[^89]: Austerman, *Sharps Rifles and Spanish Mules,* 143
+[^90]: Statement to the Senate and the House of Representatives, Giddings vs. The United States.
+[^91]: Thornhoff, *San Antonio Stage Lines, 1847-1881,* 16; (779) The Galveston News, *The Texas Almanac, for 1860, with Statistics, Historical and Biographical Sketches, Etc., Relating to Texas,* (1860): University of North Texas Libraries, The Portal to Texas History, http://www.texashistory.unt.edu/ark:/67531/metapth123766/ (accessed June 30, 2012)
+[^92]: *San Antonio Sunday Light,* July 16, 1939
+[^93]: *San Antonio Sunday Light,* July 16, 1939
+[^94]: Austerman, *Sharps Rifles and Spanish Mules,* 142
+[^95]: *Sacramento Union,* March 5, 1859
+[^96]: *San Antonio Sunday Light,* July 16, 1939
+[^97]: Austerman, *Sharps Rifles and Spanish Mules,* 138
+[^98]: Thomas T. Smith, et al, Ed, *The Reminiscences of Major General Zenas R. Bliss 1854-1876,* (Austin, TX: Texas State Historical Assoc., 2007) 178
+[^99]: Records of the War Department, Giddings vs. The United States
+[^100]: Jerry Thompson, ed., *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque, NM: University of New Mexico Press, 2001), 107
+[^101]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 69.
+[^102]: *The Belton Independent* (Belton, TX), October 16, 1858
+[^103]: *The San Antonio Ledger,* Saturday, May 22, 1858
+[^104]: Austerman, *Sharps Rifles and Spanish Mules,* 122
+[^105]: Austerman, *Sharps Rifles and Spanish Mules,* 124-7
+[^106]: George G. Smith, *The Life and Times of George Foster Pierce, D.D., LL.D,* (Sparta, GA: Hancock Publishing Co., 1888), 382-3
+[^107]: Austerman, *Sharps Rifles and Spanish Mules,* 142
+[^108]: Deposition of Tom Rife, Giddings vs. The United States
+[^109]: Deposition of George H. Giddings, Giddings vs. The United States
+[^110]: Jerry Thompson, *From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick,* (El Paso, TX: University of Texas at El Paso, 1991), 38-40; (222, pp. 326-7) Olmstead, *A Journey Through Texas or a Saddle Trip on the Southwestern Frontier,* 326-7
+[^111]: Austerman, *Sharps Rifles and Spanish Mules,* 141
+[^112]: *Houston Telegraph,* October 20, 1858
+[^113]: Statement to the Senate and the House of Representatives, Giddings vs. The United States
+[^114]: Statement to the Senate and the House of Representatives, Giddings vs. The United States; Austerman, *Sharps Rifles and Spanish Mules,* 146
+[^115]: Austerman, *Sharps Rifles and Spanish Mules,* 146
+[^116]: Austerman, Sharps Rifles and Spanish Mules, 145  
+[^117]: Austerman, Sharps Rifles and Spanish Mules, pp. 154-5
+  113 (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States
+[^118]: Statement to the Senate and the House of Representatives, Giddings vs. The United States
+[^119]: Patrick Dearen, Crossing Rio Pecos, (Fort Worth: Texas Christian Press, 1996), 11  
+[^120]: Kathryn Smith Mcmillen, “A Descriptive Bibliography on the San Antonio-San Diego Mail Line,” The Southwest Historical Quarterly 59, (October 1955): 206-14; (M-17) Statement to the Senate and the House of Representatives, Giddings vs. The United States.
+[^121]: Austerman, Sharps Rifles and Spanish Mules, 157
+[^122]: The Daily Ledger and Texan (San Antonio), October 29, 1860
+[^123]: Austerman, Sharps Rifles and Spanish Mules, 158.
+[^124]: The Daily Ledger and Texan (San Antonio), July 26, 1860
+[^125]: The Daily Ledger and Texan (San Antonio), July 5, 1860
+[^126]: The Daily Ledger and Texan (San Antonio), October 6,1860
+[^127]: Deposition of Tom Rife, Giddings vs. The United States
+[^128]: Mark Swanson, Atlas of the Civil War Month by Month: Major Battles and Troop Movements, (Athens, GA: The University of Georgia Press, 2004), 4
+[^129]: Austerman, Sharps Rifles and Spanish Mules, 161; (303) The Daily Ledger and Texan (San Antonio), June 4, 1861
+[^130]: Austerman, Sharps Rifles and Spanish Mules, 163.
+[^131]: Austerman, Sharps Rifles and Spanish Mules, 164; (M-39, p. 7) Petition from Giddings, Giddings vs. The United States
+[^132]: Deposition of William A. Wallace, Giddings vs. The United States
+[^133]: Deposition of Joseph Hetler, Giddings vs. The United States
+[^134]: Deposition of Tom Rife, Giddings vs. The United States; (M-39, p. 7) Petition from Giddings, Giddings vs. The United States.
+[^135]: The Daily Ledger and Texan, (San Antonio), February 25, 1861
+[^136]: Austerman, Sharps Rifles and Spanish Mules, 164.
+[^137]: Austerman, Sharps Rifles and Spanish Mules, 165.
+[^138]: Noah Smithwick, The Evolution of a State or Recollections of Old Texas Days by Noah Smithwick, (Austin: University of Texas Press, 19830, 254
+[^139]: Williams, Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895, 12
+[^140]: Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” West Texas Historical Association Year Book 58, (1980), 79
+[^141]:    141  (583, p. 225) Thompson, Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861, 225;  (147, p. 64) Williams, Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895, 64
+[^142]: Austerman, Sharps Rifles and Spanish Mules, 166-7.
+[^143]: Deposition of Joseph Hetler, Giddings vs. The United States; Deposition of George H. Giddings, Giddings vs. The United States
+[^144]: San Antonio Sunday Light, July 16, 1939
+[^145]: Austerman, Sharps Rifles and Spanish Mules, 168.
+[^146]: Petition from Giddings, Giddings vs. The United States
+[^147]: Deposition of George H. Giddings, Giddings vs. The United States
+[^148]: Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 80
+[^149]: Times-Picayune (New Orleans), June 7, 1861; (M-21) Deposition of Joseph Hetler, Giddings vs. The United States; (M-39, p. 8) Petition from Giddings, Giddings vs. The United States
+[^150]: Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 80
+[^151]: Deposition of George H. Giddings, Giddings vs. The United States
+[^152]: Austerman, Sharps Rifles and Spanish Mules, 170.
+[^153]: The Daily Ledger and Texan (San Antonio), June 4, 1861
+[^154]: Thompson, From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick, 19
+[^155]: Thompson, From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick, 23
+[^156]: Austerman, Sharps Rifles and Spanish Mules, 176.
+[^157]: Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 86
+[^158]: The Charleston Mercury (SC), January 16, 1862.
+[^159]: Henry Skillman, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, NARA, Roll 941
+[^160]: Austerman, Sharps Rifles and Spanish Mules, 180.
+[^161]: Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 94
+[^162]: Nancy Lee Hammons, Thesis 1942, A History of El Paso County, Texas, to 1900, (El Paso, TX: The University of Texas at El Paso, 1983), 49
+[^163]: Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 87-8
+[^164]: Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 88; (138, p. 181) Austerman, Sharps Rifles and Spanish Mules, 181
+[^165]: Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 96
+[^166]: Deposition of George H. Giddings, Giddings vs. The United States
+[^167]: Deposition of William A. Wallace, Giddings vs. The United States
+[^168]: Wayne R. Austerman, “The San Antonio-El Paso Mail, CSA,” 97
+[^169]: Anonymous, Special Presidential Pardons for Confederate Soldiers: A Listing of Former Confederate soldiers requesting full pardon from President Andrew Jackson, (Signal Mountain, TN: Mountain Press, 1999), i-iii
