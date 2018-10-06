@@ -4,7 +4,7 @@ weight: 50
 type: essay
 ---
 
-Thomas Rife came to Texas from Mississippi when Texas was a Republic. Beginning in 1842 he was actively engaged in the fight against Texas’ enemies whether they were Santa Anna’s Mexicans, Native Americans, Union soldiers or citizens who broke the law. As the first “Alamo Keeper” he was charged with protecting the Alamo from vandalism.
+Thomas Rife came to Texas from Mississippi when Texas was a Republic. Beginning in 1842 he was actively engaged in the fight against Texas’ enemies whether they were Santa Ana’s Mexicans, Native Americans, Union soldiers or citizens who broke the law. As the first “Alamo Keeper,” he was charged with protecting the Alamo from vandalism.
 
 He was a soldier in the War with Mexico, a Texas Ranger, a Confederate Army scout, a San Antonio policeman and a custodian of the Alamo. He was deemed to be brave and fearless in the face of danger and was for many years a Conductor of mail coaches, one of the most dangerous jobs in Texas during the 1850’s.
 
@@ -18,8 +18,8 @@ He was frequently placed in leadership roles and was known as Captain Rife “ye
 
 Even though Tejanos suffered discrimination and oppression at the hands of Anglo residents and politicians, Rife’s bilingual family lived in the Mexican part of town, attended Mass at the Mexican church and associated with Mexican politicians.
 
-Rife married twice. He abandoned his first wife after only a few days of married life. She owned a ranch and may have expected him to take up the life of a rancher. When he was fifty years old he settled in San Antonio with his second wife and raised a dozen children. He and his wife appeared to be happily married but Rife may not have been a good parent and his older sons were repeatedly in trouble with the law.
+Rife married twice. He abandoned his first wife after only a few days of married life. She owned a ranch and may have expected him to take up the life of a rancher. When he was fifty years old he settled in San Antonio with his second wife and raised a dozen children. He and his Chihuahan-born wife appeared to be happily married but Rife may not have been a good parent; his older sons were repeatedly in trouble with the law.
 
-Rife received several grants of land from the State of Texas but he quickly sold the land claims for small sums and when he died at the age of 71 he left his widow impoverished.
+Rife received several grants of land from the State of Texas but he quickly sold the land claims for small sums.  When he died at the age of 71, he left his widow impoverished.
 
 Thomas Rife was a heroic figure who lived during the heroic period of Texas history but he did not attract the attention of historians. Only a handful of the hundreds of studies of the early history of Texas even mention his name and none detail his remarkable life or his influence on the Alamo myth. The authors, his great-great grandsons, hope that this short volume will remedy that.
