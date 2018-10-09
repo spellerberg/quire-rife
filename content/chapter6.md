@@ -10,50 +10,45 @@ type: essay
 
 ### After Abraham Lincoln was elected, the South seceded.
 
-Less than a month after the National Elections of November 1860, citizens of San Antonio held a public meeting at 10 o’clock on Saturday morning, December 1 in Military Plaza. The assembly drew up a petition calling for a secession convention.[^1]
+Less than a month after the national elections of November 1860, citizens of San Antonio held a public meeting at 10 o’clock on Saturday morning, December 1, in Military Plaza. The assembly drew up a petition calling for a secession convention.[^1]
 
-On January 28, 1861, the Secession Convention met in Austin and approved an ordinance of secession to be submitted to the State’s voters for their approval.[^2] The voters approved the ordinance on February 23; 46,129 voted for secession and 14,697 voted against it.[^3] Texas seceded from the Union despite the opposition of Governor Houston and other leading men.[^4]
+On January 28, 1861, the Secession Convention met in Austin and approved an ordinance of secession to be submitted to the State’s voters for their approval.[^2] The voters approved the ordinance a month later; 46,129 voted for secession and 14,697 voted against it.[^3] Texas seceded from the Union despite the opposition of Governor Houston and other leading men.[^4]
 
 The Secession Convention also passed Ordinance number one relating to the removal of Federal troops from Texas. It provided that transports, vessels, etc. necessary to facilitate the removal of troops from the state could not be seized or interfered with by citizens or state authorities.[^5] The Convention appointed a 15-man Committee of Public Safety to oversee the removal of Federal troops and to manage frontier defense. The committee in turn, sent a delegation to 8th Military District in San Antonio to make arrangements for the removal of Federal troops and the transfer of Federal property to the State.[^6]
 
 Expecting resistance from the US Army, Ben McCullough and John Baylor raised a company of 250 volunteers to occupy the rooftops of buildings used by the US Army in San Antonio.[^7] After ten days of negotiation with Commissioners from the Committee of Public Safety, US General David M. Twiggs, commander of the 8th US Military District, ordered the 8th Infantry to abandon Fort Davis and all 19 U.S. army posts in Texas.[^8] General Twiggs agreed that all US troops would leave Texas and turn over surplus supplies and equipment to State officials.[^9]
 
-Texas affiliated itself with the Confederate States on March 16, 1861. 10(305) The Governor and Secretary of State refused to swear the oath to the Confederate Constitution and the Legislature declared their offices to be vacant. 11(80, p. 87) Two days later, on March 18, 1861 District Judge Devine led the citizens of San Antonio as they took the Oath of Allegiance to the Confederacy. 12(555, p. 105) A few days later delegates to the Succession Convention passed an ordinance that ratified the Constitution of the Confederate States of America. 13(305)
+Texas affiliated itself with the Confederate States on March 16, 1861.[^10] The governor and secretary of state refused to swear an oath to the Confederate Constitution; the Legislature declared their offices to be vacant.[^11] Two days later, District Judge Devine led the citizens of San Antonio as they took the Oath of Allegiance to the Confederacy.[^12] Delegates to the Succession Convention then passed an ordinance to ratify the Constitution of the Confederate States of America.[^13]
 
 ### All Federal troops left the State or were captured.
 
-By mid-April all the military posts in West Texas had been evacuated by Federal troops. 14(147, p. 8) (322) After the attack on Fort Sumter in South Carolina, Confederate Colonel Earl Van Dorn was instructed  “to intercept and prevent the movement of the US troops from the State of Texas” because hostilities had begun. 15(147, pp. 8-9) (149, p. 46) (447) On April 24 Texas military commanders also called for the surrender of Federal troops who had already reached the Gulf Coast. The Federal troops who had garrisoned Fort McIntosh at Laredo first went to Fort Brown at Brownsville and then to the port at Indianola. They camped at Indianola expecting to board ships for the North. On April 25, after some confusion, they surrendered to State officers. 16(583, p. 183) (601, p. 14)
+By mid-April, all the military posts in West Texas had been evacuated by Federal troops.[^14] After the attack on Fort Sumter in South Carolina, Confederate Colonel Earl Van Dorn was instructed “to intercept and prevent the movement of the US troops from the State of Texas” because hostilities had begun.[^15] Texas military commanders also called for the surrender of Federal troops who had reached the Gulf Coast. The Federal troops garrisoned at Fort McIntosh in Laredo, first went to Fort Brown in Brownsville and then to the port at Indianola, expecting to board ships for the North. On April 25, 1861, after some confusion, they surrendered to Texas officers.[^16]
 
-In the meantime, Federal troops abandoned Fort Bliss and Fort Quitman and marched at intervals to Fort Davis. 17(147, p. 7) The combined battalion then proceeded to Fort Stockton and then marched towards the Gulf coast to be transported to the US as per the agreement between General Twiggs and the State commissioners. 18(158, p. 105 note 31) (138, p. 164) On May 6 the combined garrisons of the frontier forts (six companies) all under the command of Lieutenant Colonel Isaac V.D. Reeves 19(416) arrived at San Lucas Spring, 15 miles west of San Antonio 20(158 p. 105) and camped on Allen’s Hill.
+In the meantime, Federal troops abandoned Fort Bliss and Fort Quitman and marched to Fort Davis.[^17] The combined battalion proceeded to Fort Stockton and then marched towards the Gulf coast to be transported to the North as per the agreement between General Twiggs and the State commissioners.[^18]
 
-While camped at San Lucas Spring the Federal troops were surrounded by an overwhelming force of 1,370 Confederate, State and volunteer troops led by Colonel Earl Van Dorn. 21(601, p. 14) There were 270 Federal soldiers in Colonel Reeves’ command. The Confederates threatened to attack if the US soldiers refused to surrender and on May 9 Colonel Reeve surrendered to the Confederates. The Union troops were permitted to march to San Antonio where they were held as prisoners of war. 22(415) (416) (417) The Union officers were paroled. Some of the enlisted men were kept at San Pedro Park near San Antonio for 22 months as prisoners of war before being exchanged. 23(602, p. 15) (583, p. 183) (147, p. 8)
+On May 6, the combined garrisons of the frontier forts, all under the command of Lieutenant Colonel Isaac V.D. Reeves,[^19] arrived at San Lucas Spring, 15 miles west of San Antonio, and camped on Allen’s Hill.[^20] The 270 Federal troops were surrounded by an overwhelming force of 1,370 Confederate, state and volunteer troops led by Colonel Earl Van Dorn.[^21] The Confederates threatened to attack; on May 9, Colonel Reeve surrendered to the Confederates. The Union troops were permitted to march to San Antonio where they were held as prisoners of war.[^22] The Union officers were paroled. Some of the enlisted men were kept at San Pedro Park near San Antonio for 22 months as prisoners of war before being exchanged.[^23]
 
 ### Commissioners were appointed to safeguard government property.
 
-The Committee of Public Safety appointed Confederate commissioners to take custody of and to safeguard all US property in the State. 24(147, p. 43) (158, p. 11) (555, p. 105) The Committee appointed James Magoffin as commissioner for Forts Bliss and Quitman. Before Federal troops left Forts Bliss and Quitman, he and his son, Samuel Magoffin, accepted custody of the supplies and equipment at those two posts. 25(332, p. 45)
+The Texas Committee of Public Safety appointed Confederate commissioners to take custody of and to safeguard all Union property in the state.[^24] The Committee appointed James Magoffin as commissioner for Forts Bliss and Quitman. Before Federal troops left Forts Bliss and Quitman, James and his son, Samuel Magoffin, accepted custody of the supplies and equipment at the posts.[^25] Colonel Reeve then abandoned the fort.[^26] On April 4, 1861, Samuel Magoffin and his brother-in-law, Gabriel Valdez, received the Federal property at Fort Quitman from First Lieutenant Zenas Bliss.[^27] The contents of both forts were inventoried for transfer to the state.[^28]
 
-Colonel Reeve turned Fort Bliss and its public property over to Samuel Magoffin and abandoned the fort. 26(583, p. 183) On April 4, 1861 James Magoffin’s son, Samuel, and his brother-in-law, Gabriel Valdez, received the Federal property at Fort Quitman from First Lieutenant Zenas Bliss. 27(147, p. 8) The contents of both forts were inventoried for transfer to the State. 28(580, p. 61) (401)
-
-On April 25, 1861 a volunteer company of Confederate partisans from San Antonio (members of a secret society called the Knights of the Golden Circle) occupied Fort Davis. 29(158 pp. 8, 10) Noah Smithwick wrote that in April, when he passed by Fort Quitman on his way to California, four men were guarding the fort. They were waiting for the arrival of John Baylor’s Texas troops. 30(558, p. 340) Fort Stockton, in a partially dismantled state, was also occupied by state troops.31(147, p. 12) California-bound emigrants seeking firewood damaged both Fort Stockton and the relay stations belonging to the Overland Mail. They were ignorant of the fact that the ground was “full of mesquite grubs” (roots) that could be used for firewood. 32(445, p. 254)
+On April 25, 1861, a volunteer company of Confederate partisans from San Antonio (members of a secret society called the Knights of the Golden Circle) occupied Fort Davis.[^29] Noah Smithwick wrote that in April, when he passed by Fort Quitman on his way to California, four men were guarding the fort. They were waiting for the arrival of John Baylor’s Texas troops.[^30] Fort Stockton, in a partially dismantled state, was also occupied by state troops.[^31] California-bound emigrants seeking firewood damaged both Fort Stockton and the relay stations belonging to the Overland Mail. They were ignorant of the fact that the ground was “full of mesquite grubs” (roots) that could be used for firewood.[^32]
 
 ### Thomas Rife and other men took custody of Fort Bliss.
 
-By order of Confederate Commissioner General James Magoffin, a prominent El Paso merchant and political figure, Thomas Rife and a few other men, including S. W. Merchant, took custody of Fort Bliss. 33(14) (816, p. 9) During this time Rife was employed by Giddings’ stagecoach line, perhaps as a station agent near El Paso. Thirty-two years later, Tom Rife, in telling a story, claimed to have been at Fort Bliss on St. Patrick’s Day, March 17, 1861. 34(1413)
+By order of Confederate Commissioner General James Magoffin, a prominent El Paso merchant and political figure, Thomas Rife and a few other men, including S. W. Merchant, took custody of Fort Bliss.[^33] During this time, Rife was employed by Giddings’ stagecoach line, perhaps as a station agent near El Paso. Thirty-two years later, Tom Rife, in telling a story, claimed to have been at Fort Bliss on St. Patrick’s Day, March 17, 1861.[^34]
 
-In a letter to the Texas Governor in May 1861 Josiah F. Crosby urged the Governor to raise a company or more of militia to protect the property at Fort Bliss. He recommended that Captain H. Clay Cook be authorized to raise this company. James Magoffin agreed to take the responsibility of rationing and arming the company. 35(385) In a report dated June 3, 1861 Colonel Earl Van Dorn, the senior Confederate officer in Texas, stated that he “has mustered into service a company of foot artillery, composed of old soldiers, under a good officer, and put them at Fort Bliss with instructions to throw up a small field-work, and to defend it with the six pieces of artillery now there.” 36(415) Rife must have passed his responsibility as the fort’s custodian to this force because soon afterward he was seen driving the mail coach.37 (158, pp. 19, 23)
+In a letter to the Texas Governor in May 1861, Josiah F. Crosby urged the Governor to raise a company or more of militia to protect the property at Fort Bliss. He recommended that Captain H. Clay Cook be authorized to raise this company. James Magoffin agreed to take the responsibility of rationing and arming the company.[^35] In a report, Colonel Earl Van Dorn, the senior Confederate officer in Texas, stated that he “has mustered into service a company of foot artillery, composed of old soldiers, under a good officer, and put them at Fort Bliss with instructions to throw up a small field-work, and to defend it with the six pieces of artillery now there.”[^36] Rife must have passed his responsibility as the fort’s custodian to this force because soon afterward he was seen driving the mail coach.[^37]
 
-The mail service continued to run semi-weekly 38(285, p. 46) and mail stations continued to be manned. 39(445, p. 254) On July 10, 1861 Rife was seen leading a mail party near El Muerto (Dead Man’s Hole) west of Van Horn’s Well. The mail coach was headed to El Paso, Texas. 40(158, p. 19) Three days later, Rife and his party were seen 30 miles west of San Elizario and headed in the direction of San Antonio. 41(158, p. 23) The final mail coach from San Diego arrived in Mesilla on July 20. 42(206, p. 86)
+The mail service continued to run on a semi-weekly basis[^38] and mail stations continued to be manned.[^39] On July 10, 1861, Rife led a mail party near El Muerto (Dead Man’s Hole) west of Van Horn’s Well. The mail coach was headed to El Paso, Texas.[^40] Three days later, Rife and his party were reported 30 miles west of San Elizario and headed in the direction of San Antonio.[^41] The final mail coach from San Diego arrived in Mesilla on July 20.[^42]
 
 ### Confederate troops occupied the abandoned forts.
 
-On May 7, 1861 Lt. Colonel John R. Baylor arrived in San Antonio to organize a regiment of mounted volunteers for frontier defense. 43(321) This regiment, the 2nd Regiment, Texas Mounted Rifles, was detailed to occupy the vacated US military forts from Fort Brown to Fort Bliss along the Rio Grande frontier. 44(580, p. 106) (415) The following month units of Baylor’s regiment began to move west from San Antonio to occupy the forts along the San Antonio-El Paso Road.
+On May 7, 1861, Lt. Colonel John R. Baylor arrived in San Antonio to organize a regiment of mounted volunteers for frontier defense.[^43] This regiment, the 2nd Regiment, Texas Mounted Rifles, was detailed to occupy the vacated US military forts from Fort Brown to Fort Bliss along the Rio Grande frontier.[^44] The following month, units of Baylor’s regiment began to move west from San Antonio to occupy the forts along the San Antonio-El Paso Road. Colonel Baylor arrived at Fort Bliss in the stagecoach on July 13,[^45] and by the end of the month, Confederate troops occupied most of the abandoned military posts in West Texas.
 
-Colonel Baylor arrived at Fort Bliss in the stagecoach on July 13, 45(470, p. 19) and by the end of July Confederate troops had occupied most of the abandoned military posts in West Texas.
+Fort Bliss, located three miles east of Franklin (or Coontz’) ranch, was the western-most military post in Texas. Franklin's ranch was on the east bank of the Rio Grande River opposite El Paso del Norte, Mexico.[^46] In 1858, Franklin had a population of about 300 persons, three-fourths of whom were Mexicans. Irrigation ditches provided water for vineyards, fruit trees, wheat, corn and vegetable gardens. There was a saloon and a US post office (both in the same room), an outdoor market and a ferry that crossed the river to El Paso del Norte. The town was described as picturesque with ash and cottonwood trees lining the river.[^47]
 
-
-Fort Bliss was located near Magoffinsville, three miles east of Franklin or Coontz’ ranch and was the western-most military post in Texas. Franklin or Coontz’ ranch was on the east bank of the Rio Grande opposite El Paso del Norte, Mexico. 46(583, p. 15) (158, p. 24) In 1858 Franklin had a population of about 300 persons, three-fourths of whom were Mexicans. Irrigation ditches provided water for vineyards, fruit trees, wheat, corn and vegetable gardens. There was a saloon and a US post office (both in the same room), an outdoor market and a ferry that crossed the river to El Paso del Norte. The town was picturesque with ash and cottonwood trees lining the river. 47(285, p. 43) (562, p. 238)
-
-However Baylor had not traveled to Franklin merely to garrison Fort Bliss. 48(285, p. 46) (206 p. 86) He had a larger mission. On July 23, 1861 Baylor left his base at Fort Bliss and invaded New Mexico Territory, still under the control of the United States Army. Companies A and E, the San Elizario Spy Company and part of Teel’s Artillery Company left Fort Bliss and traveled upstream for 44 miles to attack the US force at Fort Fillmore, New Mexico. The Confederate troops by-passed the fort and occupied Mesilla, a large town just north of Fort Fillmore. 49(147, p. 18) The US Army garrison of Fort Fillmore marshaled in front of the town but then retreated back to the fort after a brief skirmish. On July 27 the Union garrison of Fort Fillmore abandoned the fort and began to march to Fort Stanton, 140 miles to the northeast. Baylor’s command, with some civilians from Mesilla, pursued and overtook the US troops. 50(470, p. 21) The Federal soldiers surrendered at San Augustine Springs without a fight. This was the first victory for the Confederates in the New Mexico campaign. 51(285, p. 46) (445, p. 257)
+However, Baylor had not traveled to Franklin merely to garrison Fort Bliss; he had a larger mission.[^48] On July 23, 1861, Baylor left his base at Fort Bliss and invaded New Mexico Territory, still under the control of the United States Army. Companies A and E, the San Elizario Spy Company and part of Teel’s Artillery Company left Fort Bliss and traveled upstream for 44 miles to attack the US force at Fort Fillmore, New Mexico. The Confederate troops by-passed the fort and occupied Mesilla, a large town just north of Fort Fillmore.[^49] The US Army garrison of Fort Fillmore marshaled in front of the town but then retreated back to the fort after a brief skirmish. On July 27, the Union garrison of Fort Fillmore abandoned the fort and began to march to Fort Stanton, 140 miles to the northeast. Baylor’s command, with some civilians from Mesilla, pursued and overtook the US troops.[^50] The Federal soldiers surrendered at San Augustine Springs without a fight. This was the first victory for the Confederates in the New Mexico campaign.[^51]
 
 ## The New Mexico Campaign, 1861-1862
 
@@ -280,7 +275,7 @@ In his report, Captain French listed the other members of Skillman’s unit. The
 Rife survived and was taken to Presidio del Norte and cared for by Confederate sympathizers. He was shot in the chest and suffered two broken ribs. According to Rife, the Confederates in Presidio del Norte later nominated him to take Skillman’s place, perhaps as a courier between them and San Antonio or as a spy 216(14). Rife apparently remained in Presidio del Norte while his wounds healed. He never fully recovered from this wound and was unable to do physical work thereafter. 217(681) Almost a year later, on March 1865, Rife was still on the rolls of Company H, 32th Regiment, Texas Cavalry and listed as on detached service with Major Skillman’s scout company. It is not known whether or not the spy company was rebuilt after Skillman’s death and what role, if any, Rife played in it.
 Over 100 years later gravediggers at the Catholic Church in Presidio, found “a huge skeleton …with blond hair and a long blond beard” Locals believe that these were the remains of Henry Skillman. 218(262, p. 356, note 60)
 
-### Confederate soldiers in Texas were paroled after the surrender. 
+### Confederate soldiers in Texas were paroled after the surrender.
 
 In March 1865 word of the surrender of Confederate General Robert E. Lee and other Confederate units east of the Mississippi reached Confederate troops in Texas. The soldiers began to leave their camps for home in late May. On the 26th of May Confederate military commanders traveled to Galveston to sign a paper providing “for acts of war on the part of the troops to cease” 219(582, p. 13). Most of the men of the Confederate army in Texas did not wait for surrender papers to be signed and were no longer with their units at the time of surrender. Consequently they were not paroled. To remedy this deficiency, places were appointed where Confederate soldiers could be paroled, superintended by Federal Officers. 220(149, p. 140)
 
@@ -306,292 +301,296 @@ After Abraham Lincoln was elected, the South seceded.
 
 1 (302) Citizens of Bexar County to convene the legislature, Records of the Legislature: Constitutional Conventions, Secession Convention 1861, Memorials and Petitions (March 1861), Archives and Information Services-Texas State Library and Archives Commission
 2 (409) Records of the Legislature: Constitutional Conventions, Secession Convention 1861 (March 1861), ARIS-TSLAC
-3 (583, p. 181) Jerry Thompson, Editor, Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861, (Albuquerque, NM: University of New Mexico Press, 2001), 181; (601, p. 10) Mark Swanson, Atlas of the Civil War Month by Month: Major Battles and Troop Movements, (Athens & London: The University of Georgia Press, 2004), 10
-4 (80, p. 85) Clarence R. Wharton, Texas Under Many Flags, (Chicago and New York: The American Historical Society, Inc., 1930), 85; (558, p. 331) Noah Smithwick, The Evolution of a State or Recollections of Old Texas Days, (Austin: Gammel Books Co., 1900), 331
+3 (583, p. 181) Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque, NM: University of New Mexico Press, 2001), 181; (601, p. 10) Mark Swanson, *Atlas of the Civil War Month by Month: Major Battles and Troop Movements,* (Athens & London: The University of Georgia Press, 2004), 10
+4 (80, p. 85) Clarence R. Wharton, *Texas Under Many Flags,* (Chicago and New York: The American Historical Society, Inc., 1930), 85; (558, p. 331) Noah Smithwick, *The Evolution of a State or Recollections of Old Texas Days,* (Austin: Gammel Books Co., 1900), 331
 5 (304) Records of the Legislature: Constitutional Conventions, Secession Convention 1861 (March 1861), ARIS-TSLAC
 6 (401) J. W. Magoffin to EC (April 28, 1861), Records of Edward Clark, Texas Office of the Governor, ARIS-TSLAC
-7 (80, p. 89) Wharton, Texas Under Many Flags, 89; (158, p. 6) Jerry Thompson, From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick, (El Paso: The University of Texas at El Paso, 1991), 6
-8 (580, pp. 55-7) David P. Smith, Frontier Defense in Texas: 1861-1865, (Denton, TX: North Texas State University, 1987), 55-7; (555, p. 89) Mrs. S. J. Wright, San Antonio de Bexar: An Epitome of Early Texas History, (Austin: Morgan Printing, 1916), 89
-9 (583, p. 182) Jerry Thompson, Editor, Texas and New Mexico on the Eve of the Civil War, p. 182
+7 (80, p. 89) Wharton, *Texas Under Many Flags,* 89; (158, p. 6) Jerry Thompson, *From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick,* (El Paso: The University of Texas at El Paso, 1991), 6
+8 (580, pp. 55-7) David P. Smith, *Frontier Defense in Texas: 1861-1865,* (Denton, TX: North Texas State University, 1987), 55-7; (555, p. 89) Mrs. S. J. Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* (Austin: Morgan Printing, 1916), 89
+9 (583, p. 182) Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War,* p. 182
 10 (305) Records of the Legislature: Constitutional Conventions, Secession Convention 1861 (March 1861), ARIS-TSLAC
-11 (80, p. 87) Wharton, Texas Under Many Flags, 87
-12 (555, p. 105) Wright, San Antonio de Bexar, 105
+11 (80, p. 87) Wharton, *Texas Under Many Flags,* 87
+12 (555, p. 105) Wright, *San Antonio de Bexar,* 105
 13 (305) Records of the Legislature: Constitutional Conventions, Secession Convention 1961, ARIS-TSLAC
 
 All Federal troops left the State or were captured.
 
-14 (147, p. 8) Clayton W. Williams, Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895, (College Station, TX: Texas A&M University Press, 1982), 8; (322) The Daily Ledger and Texan (San Antonio, Texas), April 2, 1861
-15 (147, p. 8-9) Williams, Texas’ Last Frontier, 8-9; (149, p. 46) Clement A Evans, editor, Confederate Military History, Thomas Yoseloff, New York, 1962, Vol. XI: 46; (447) United States War Department, The War of the Rebellion: a compilation of the official records of the Union and Confederate Armies, (Washington, DC: Government Printing Office), Series 1-Volume 1: 627
-16 (583, p. 183) Thompson, Texas and New Mexico on the Eve of the Civil War, 183; (601, p. 14) Mark Swanson, Atlas of the Civil War Month by Month, 14
-17 (147, p. 7) Williams, Texas’ Last Frontier, 7
-18 (158, p. 105, note 31) Thompson, From Desert to Bayou, 105, note 31; (138, p. 164) Wayne R. Austerman, Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881, (College Station, TX: Texas A & M University Press, 1985), 164
-19 (416) United States War Department, The War of the Rebellion: a compilation of the official records of the Union and Confederate armies, Series 1-Volume 1, 567-570
-20 (158) Thompson, From Desert to Bayou, 105
-21 (601, p. 14) Swanson, Atlas of the Civil War Month by Month, 14
-22 (415) United States War Department, The War of the Rebellion: a compilation of the official records of the Union and Confederate armies, Series 1-Volume 1, 573-4; (416) United States War Department, The War of the Rebellion: a compilation of the official records of the Union and Confederate armies, Series 1-Volume 1, 567-570; (417) United States War Department, The War of the Rebellion: a compilation of the official records of the Union and Confederate armies, Series 1-Volume 1, 572-3
-23 (602, p. 15) Frank S. Faulkner, Jr., Historic Photos of San Antonio, (Nashville and Paducah, KY: Turner Publishing Company, 2007), 15; (583, p. 183) Thompson, Texas and New Mexico on the Eve of the Civil War, 183; (147, p. 8) Williams, Texas’ Last Frontier, 8
+14 (147, p. 8) Clayton W. Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895,* (College Station, TX: Texas A&M University Press, 1982), 8; (322) *The Daily Ledger and Texan* (San Antonio, Texas), April 2, 1861
+15 (147, p. 8-9) Williams, *Texas’ Last Frontier,* 8-9; (149, p. 46) Clement A Evans, editor, *Confederate Military History,* (Thomas Yoseloff, New York, 1962,) Vol. XI: 46; (447) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate Armies,* (Washington, DC: Government Printing Office), Series 1-Volume 1: 627
+16 (583, p. 183) Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183; (601, p. 14) Mark Swanson, *Atlas of the Civil War Month by Month,* 14
+17 (147, p. 7) Williams, *Texas’ Last Frontier,* 7
+18 (158, p. 105, note 31) Thompson, *From Desert to Bayou,* 105, note 31; (138, p. 164) Wayne R. Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881,* (College Station, TX: Texas A & M University Press, 1985), 164
+19 (416) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 567-70
+20 (158) Thompson, *From Desert to Bayou,* 105
+21 (601, p. 14) Swanson, *Atlas of the Civil War Month by Month,* 14
+22 (415) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4; (416) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 567-70; (417) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 572-3
+23 (602, p. 15) Frank S. Faulkner, Jr., *Historic Photos of San Antonio,* (Nashville and Paducah, KY: Turner Publishing Company, 2007), 15; (583, p. 183) Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183; (147, p. 8) Williams, *Texas’ Last Frontier,* 8
 
 Commissioners were appointed to safeguard government property.
 
-24 (147, p. 43) Williams, Texas’ Last Frontier, 43; (158, p. 11) Thompson, From Desert to Bayou, 11; (555, p. 105) Wright, San Antonio de Bexar, 105
-25 (332, p. 45) Marsha Lea Daggett, Editor, Pecos County History, (Fort Stockton, TX: Pecos County Historical Commission, 1973-1983), 45
-26 (583, p. 183) Thompson, Texas and New Mexico on the Eve of the Civil War, 183
-27 (147, p. 8) Williams, Texas’ Last Frontier, 8
-28 (580, p. 61) Smith, Frontier Defense in Texas, 61; (401) J. W. Magoffin to EC (April 28, 1861), Records of Edward Clark, Texas Office of the Governor. ARIS-TSLAC.
-29 (158, pp. 8, 10) Thompson, From Desert to Bayou, 8, 10
-30 (558, p. 340) Smithwick, The Evolution of a State, 340
-31 (147, p. 12) Williams, Texas’ Last Frontier, 12
-32 (445, p. 254) Smithwick, The Evolution of a State or Recollections of Old Texas Days, 254
+24 (147, p. 43) Williams, *Texas’ Last Frontier,* 43; (158, p. 11) Thompson, *From Desert to Bayou,* 11; (555, p. 105) Wright, *San Antonio de Bexar,* 105
+25 (332, p. 45) Marsha Lea Daggett, Editor, *Pecos County History,* (Fort Stockton, TX: Pecos County Historical Commission, 1973-1983), 45
+26 (583, p. 183) Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183
+27 (147, p. 8) Williams, *Texas’ Last Frontier,* 8
+28 (580, p. 61) Smith, *Frontier Defense in Texas,* 61; (401) J. W. Magoffin to EC (April 28, 1861), Records of Edward Clark, Texas Office of the Governor. ARIS-TSLAC.
+29 (158, pp. 8, 10) Thompson, *From Desert to Bayou,* 8, 10
+30 (558, p. 340) Smithwick, *The Evolution of a State,* 340
+31 (147, p. 12) Williams, *Texas’ Last Frontier,* 12
+32 (445, p. 254) Smithwick, *The Evolution of a State,* 254
 
 Thomas Rife and other men took custody of Fort Bliss.
 
-33 (14) The San Antonio Light, February 23, 1887; (816, p. 9) John W. Hunter, “Fighting with Sibley in New Mexico,” Frontier Times, Vol. 3, Number 12, (September 1926): 9
-34 (1413) San Antonio Daily Light, March 25, 1893
+33 (14) *The San Antonio Light,* February 23, 1887; (816, p. 9) John W. Hunter, “Fighting with Sibley in New Mexico,” *Frontier Times,* Vol. 3, Number 12, (September 1926): 9
+34 (1413) *San Antonio Daily Light,* March 25, 1893
 35 (385) J.F. Crosby to (Gov.) (May 9, 1861), Records of Edward Clark, Texas Office of the Governor, ARIS-TSLAC
-36 (415, p. 573-4) United States War Department, The War of the Rebellion: a compilation of the official records of the Union and Confederate armies, Series 1-Volume 1, 573-4
-37 (158, pp. 19, 23) Thompson, From Desert to Bayou, 19, 23
-38 (285, p. 46) Nancy Lee Hammons, A History of El Paso County, Texas, to 1900, (El Paso: The University of Texas at El Paso, 1983), 46
-39 (445, p. 254) Smithwick, The Evolution of a State, 254
-40 (158, p. 19) Thompson, From Desert to Bayou, 19
-41 (158, p. 23) Thompson, From Desert to Bayou, 23
-42 (206, p. 86) Wayne R Austerman, “The San Antonio-El Paso Mail, CSA,” West Texas Historical Association Year Book, Vol. 58 (1980): 86
+36 (415, p. 573-4) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4
+37 (158, pp. 19, 23) Thompson, *From Desert to Bayou,* 19, 23
+38 (285, p. 46) Nancy Lee Hammons, *A History of El Paso County, Texas, to 1900,* (El Paso: The University of Texas at El Paso, 1983), 46
+39 (445, p. 254) Smithwick, *The Evolution of a State,* 254
+40 (158, p. 19) Thompson, *From Desert to Bayou,* 19
+41 (158, p. 23) Thompson, *From Desert to Bayou,* 23
+42 (206, p. 86) Wayne R Austerman, “The San Antonio-El Paso Mail, CSA,” *West Texas Historical Association Year Book,* Vol. 58 (1980): 86
 
 Confederate troops occupied the abandoned forts.
 
-43 (321) The Daily Ledger and Texan (San Antonio, Texas), May 8,1861
-44 (580, p. 106) Smith, Frontier Defense in Texas, 106; (415) United States War Department, The War of the Rebellion: a compilation of the official records of the Union and Confederate armies, Series 1-Volume 1, 573-4
-45 (470, p. 19) Martin Hardwick Hall, The Confederate Army of New Mexico, (Austin: Presidial Press, 1978), 19
-46 (583, p. 15) Thompson, Texas and New Mexico on the Eve of the Civil War, 15; (158, p. 24) Thompson, From Desert to Bayou, 24
-47 (285, p. 43) Hammons, A History of El Paso County, Texas, to 1900, 43; (562, p. 238) Albert D Richardson, Beyond the Mississippi: From the Great River to the Great Ocean, 1857-1867, (American Publishing Company, Hartford, Conn 1867), 238
-48 (285, p. 46) Hammons, A History of El Paso County, Texas, to 1900, 46; (206, p. 86) Wayne R Austerman, “The San Antonio-El Paso Mail, CSA,” 86
-49 (147, p. 18) Williams, Texas’ Last Frontier, 18
-50 (470, p. 21) Hall, The Confederate Army of New Mexico, 21
-51 (285, p. 46) Hammons, A History of El Paso County, Texas, to 1900, 46; (445, p. 257) Smithwick, The Evolution of a State, 257
-
+43 (321) *The Daily Ledger and Texan*, May 8,1861
+44 (580, p. 106) Smith, *Frontier Defense in Texas,* 106; (415) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4
+45 (470, p. 19) Martin Hardwick Hall, *The Confederate Army of New Mexico,* (Austin: Presidial Press, 1978), 19
+46 (583, p. 15) Thompson, *Texas and New Mexico on the Eve of the Civil War,* 15; (158, p. 24) Thompson, *From Desert to Bayou,* 24
+47 (285, p. 43) Hammons,* A History of El Paso County, Texas, to 1900,* 43; (562, p. 238) Albert D Richardson, *Beyond the Mississippi: From the Great River to the Great Ocean, 1857-1867,* (American Publishing Company, Hartford, Conn 1867), 238
+48 (285, p. 46) Hammons, *A History of El Paso County, Texas, to 1900,* 46; (206, p. 86) Wayne R Austerman, “The San Antonio-El Paso Mail, CSA,” 86
+49 (147, p. 18) Williams, *Texas’ Last Frontier,* 18
+50 (470, p. 21) Hall, *The Confederate Army of New Mexico,* 21
+51 (285, p. 46) Hammons, *A History of El Paso County, Texas, to 1900,* 46; (445, p. 257) Smithwick, *The Evolution of a State,*
 The New Mexico Campaign, 1861-1862
 
 Gen. Henry Sibley organized a brigade to invade New Mexico.
 
-52 (470, p. 354) Hall, The Confederate Army of New Mexico, 354
-53 (470, p. 21) Hall, The Confederate Army of New Mexico, 21
-54 (147, p. 17) Williams, Texas’ Last Frontier, 17
-55 (149, p. 54) Evans, Editor, Confederate Military History, Vol. XI: 54; (152, p. 143) Charles Merritt Barnes, Combats and Conquests of Immortal Heroes, (San Antonio: Guessaz & Ferlet Company, 1910), 143
-56 (147, p. 38) Williams, Texas’ Last Frontier, 38; (470, p. 15) Hall, The Confederate Army of New Mexico, 15
+52 (470, p. 354) Hall, *The Confederate Army of New Mexico,* 354
+53 (470, p. 21) Hall, *The Confederate Army of New Mexico,* 21
+54 (147, p. 17) Williams, *Texas’ Last Frontier,* 17
+55 (149, p. 54) Evans, *Confederate Military History,* Vol. XI: 54; (152, p. 143) Charles Merritt Barnes, *Combats and Conquests of Immortal Heroes,* (San Antonio: Guessaz & Ferlet Company, 1910), 143
+56 (147, p. 38) Williams, *Texas’ Last Frontier,* 38; (470, p. 15) Hall, *The Confederate Army of New Mexico,* 15
 57 (206, p. 97) Austerman, “The San Antonio-El Paso Mail, CSA,” 97
 
 Mail coaches continued to carry the mail.
 
-58 (14) The San Antonio Light, February 23, 1887
-59 (158, pp. 19, 28) Thompson, From Desert to Bayou, 19, 23
-60 (84, p. 206-14) Kathryn Smith McMilllen, “A descriptive bibliography on the San Antonio-San Diego Mail Line,” The Southwestern Historical Quarterly 59, No. 2, (October 1955), 206-14; (206, p. 85) Austerman, “The San Antonio-El Paso Mail, CSA,” 85
-61 (82) San Antonio-El Paso Mail by Wayne R Austerman, Handbook of Texas Online
+58 (14) *The San Antonio Light,* February 23, 1887
+59 (158, pp. 19, 28) Thompson, *From Desert to Bayou,* 19, 23
+60 (84, p. 206-14) Kathryn Smith McMilllen, “A descriptive bibliography on the San Antonio-San Diego Mail Line,” *The Southwestern Historical Quarterly 59, No. 2,* (October 1955), 206-14; (206, p. 85) Austerman, “The San Antonio-El Paso Mail, CSA,” 85
+61 (82) Wayne R. Austerman, San Antonio-El Paso Mail by, *Handbook of Texas Online,* http://www.tshaonline.org/handbook/online/articles/eus01, accessed November 21, 2010
 62 (206, p. 95) Austerman, “The San Antonio-El Paso Mail, CSA,” 95
 
 The Confederates invaded New Mexico Territory.
 
-63 (465, p. 186) George Wythe Baylor, Into the Far, Wild Country: True Tales of the Old Southwest, (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 186; (470, p. 21) Hall, The Confederate Army of New Mexico, 21
-64 (285, p. 48) Hammons, A History of El Paso County, Texas, to 1900, 48; (470, p. 23) Hall, The Confederate Army of New Mexico, 23
-65 (149, p. 55) Evans, Confederate Military History, Vol. XI, 55
-66 (581, p. 87) Jay Wertz and Edwin C. Bearss, Smithsonian’s Great Battles and Battlefields of the Civil War, (New York: William Morrow and Company, Inc, 1997), 87; (472, p. 52) Jerry Thompson, Editor, Civil War in the Southwest: Recollections of the Sibley Brigade, (College Station, TX: Texas A&M University Press, 2001), 52
-67 (581, p. 89) Wertz, Smithsonian’s Great Battles and Battlefields of the Civil War, 89
-68 (470, p. 31) Hall, The Confederate Army of New Mexico, 31; (581, p. 89) Wertz, Smithsonian’s Great Battles and Battlefields of the Civil War, 89
-69 (472, p. xiv) Thompson, Civil War in the Southwest, xiv
-70 (581, p. 92) Wertz, Smithsonian’s Great Battles and Battlefields of the Civil War, 92
-71 (472, p. 85) Thompson, Civil War in the Southwest, 85
-72 (472, p. xviii) Thompson, Civil War in the Southwest, xviii; (470, p. 32) Hall, The Confederate Army of New Mexico, 32
-73 (285, p. 48) Hammons, A History of El Paso County, Texas, to 1900, 48
-74 (581, p. 94) Wertz, Smithsonian’s Great Battles and Battlefields of the Civil War, 94
+63 (465, p. 186) George Wythe Baylor, *Into the Far, Wild Country: True Tales of the Old Southwest,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 186; (470, p. 21) Hall, *The Confederate Army of New Mexico,* 21
+64 (285, p. 48) Hammons, (A History of El Paso County, Texas, to 1900,* 48; (470, p. 23) Hall, *The Confederate Army of New Mexico,* 23
+65 (149, p. 55) Evans, *Confederate Military History,* Vol. XI, 55
+66 (581, p. 87) Jay Wertz and Edwin C. Bearss, *Smithsonian’s Great Battles and Battlefields of the Civil War,* (New York: William Morrow and Company, Inc, 1997), 87; (472, p. 52) Jerry Thompson, Editor, *Civil War in the Southwest: Recollections of the Sibley Brigade,* (College Station, TX: Texas A&M University Press, 2001), 52
+67 (581, p. 89) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 89
+68 (470, p. 31) Hall, *The Confederate Army of New Mexico,* 31; (581, p. 89) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 89
+69 (472, p. xiv) Thompson, *Civil War in the Southwest,* xiv
+70 (581, p. 92) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 92
+71 (472, p. 85) Thompson, *Civil War in the Southwest,* 85
+72 (472, p. xviii) Thompson, *Civil War in the Southwest,* xviii; (470, p. 32) Hall, *The Confederate Army of New Mexico,* 32
+73 (285, p. 48) Hammons,*A History of El Paso County, Texas, to 1900,* 48
+74 (581, p. 94) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 94
 
 After the fight at Glorieta Pass the Confederates retreated.
 
-75 (470, p. 33) Hall, The Confederate Army of New Mexico, 33
-76 (472, pp. xix, 119) Thompson, Civil War in the Southwest, xix, 119
-77 (470, p. 362) Hall, The Confederate Army of New Mexico, 362
-78 (581, pp. 78-9) Wertz, Smithsonian’s Great Battles and Battlefields of the Civil War, 78-9
+75 (470, p. 33) Hall, *The Confederate Army of New Mexico,* 33
+76 (472, pp. xix, 119) Thompson, *Civil War in the Southwest,* xix, 119
+77 (470, p. 362) Hall, *The Confederate Army of New Mexico,* 362
+78 (581, pp. 78-9) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 78-9
 
 The Confederates evacuated west Texas in 1862.
 
-79 (285, p. 49) Hammons, A History of El Paso County, Texas, to 1900, 49
-80 (224, p. 107) Miss Mattie Jackson, The Rising and Setting of the Lone Star Republic, (San Antonio: n. p., 1926), 107; (470, p. 39) Hall, The Confederate Army of New Mexico, 39; (472, p. 125) Thompson, Civil War in the Southwest, 125
-81 (581, p. 98) Wertz, Smithsonian’s Great Battles and Battlefields of the Civil War, 98; (470, p. 39) Hall, The Confederate Army of New Mexico, 39; (285, p. 49) Hammons, A History of El Paso County, Texas, to 1900, 49
+79 (285, p. 49) Hammons, *A History of El Paso County, Texas, to 1900,* 49
+80 (224, p. 107) Miss Mattie Jackson, *The Rising and Setting of the Lone Star Republic,* (San Antonio: n. p., 1926), 107; (470, p. 39) Hall, *The Confederate Army of New Mexico,* 39; (472, p. 125) Thompson, *Civil War in the Southwest,* 125
+81 (581, p. 98) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 98; (470, p. 39) Hall, *The Confederate Army of New Mexico,* 39; (285, p. 49) Hammons, *A History of El Paso County, Texas, to 1900,* 49
 82 (206, p. 94) Austerman, “The San Antonio-El Paso Mail, CSA,” 94
-83 (147, p. 46) Williams, Texas’ Last Frontier, 46
-84 (147, p. 48) Williams, Texas’ Last Frontier, 48; (206, pp. 95-6) Austerman, “The San Antonio-El Paso Mail, CSA,” 95-6
-85 (206, p. 93) Austerman, “The San Antonio-El Paso Mail, CSA,” 93; (80, p. 92) Wharton, Texas Under Many Flags, 92; (147, p. 41) Williams, Texas’ Last Frontier, 41
-86 (149, p. 55) Evans, Confederate Military History, Vol. XI: 55
-87 (80, p. 92) Wharton, Texas Under Many Flags, 92
-88 (158, p. 41) Thompson, From Desert to Bayou, 41; (149, p. 131) Evans, Confederate Military History, Vol. XI: 131
+83 (147, p. 46) Williams, *Texas’ Last Frontier,* 46
+84 (147, p. 48) Williams, *Texas’ Last Frontier,* 48; (206, pp. 95-6) Austerman, “The San Antonio-El Paso Mail, CSA,” 95-6
+85 (206, p. 93) Austerman, “The San Antonio-El Paso Mail, CSA,” 93; (80, p. 92) Wharton, *Texas Under Many Flags,* 92; (147, p. 41) Williams, *Texas’ Last Frontier,* 41
+86 (149, p. 55) Evans, *Confederate Military History,* Vol. XI: 55
+87 (80, p. 92) Wharton, *Texas Under Many Flags,* 92
+88 (158, p. 41) Thompson, *From Desert to Bayou,* 41; (149, p. 131) Evans, *Confederate Military History,* Vol. XI: 131
 
 West Texas remained a no-man’s land until 1866.
 
 89 (206, p. 95) Austerman, “The San Antonio-El Paso Mail, CSA,” 95
-90 (147, p. 49) Williams, Texas’ Last Frontier, 49
+90 (147, p. 49) Williams, *Texas’ Last Frontier,* 49
 91 (206, p. 95) Austerman, “The San Antonio-El Paso Mail, CSA,” 95
-92 (159, p. 349) Stephen B. Oates, Editor, Rip Ford’s Texas by John Salmon Ford, (Austin: University of Texas Press, 1963), 349; (224, p. 156) Jackson, The Rising and Setting of the Lone Star Republic, 156
-93 (582, p. 13) William L. Richter, The Army in Texas During Reconstruction: 1865-1870, (College Station, TX: Texas A&M University Press, 1987), 13
-94 (581, p. 84) Wertz, Smithsonian’s Great Battles and Battlefields of the Civil War, 84
-95 (260, p. 110) Jerry D. Thompson, “Drama the Desert: The Hunt for Henry Skillman in the Trans-Pecos, 1862-1864”, Password 37, (Fall 1992): 110
+92 (159, p. 349) Stephen B. Oates, Editor, *Rip Ford’s Texas by John Salmon Ford,* (Austin: University of Texas Press, 1963), 349; (224, p. 156) Jackson, *The Rising and Setting of the Lone Star Republic,* 156
+93 (582, p. 13) William L. Richter, *The Army in Texas During Reconstruction: 1865-1870,* (College Station, TX: Texas A&M University Press, 1987), 13
+94 (581, p. 84) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 84
+95 (260, p. 110) Jerry D. Thompson, “Drama the Desert: The Hunt for Henry Skillman in the Trans-Pecos, 1862-1864”, *Password 37,* (Fall 1992): 110
 
 Vicksburg Campaign, 1862-1963
 
 Vicksburg was the key to control of the Mississippi River.
 
-96 (807, p. 93) Douglas B. Ball, Financial Failure and Confederate Defeat, (Urbana and Chicago: University of Illinois Press, 1991), 93; (644, pp. 12, 39) William L. Shea and Terrence J. Winschel, Vicksburg Is the Key: The Struggle for the Mississippi River, (Lincoln and London: University of Nebraska Press, 2003), 12, 39
-97 (647, p. 118) Earl Schenck Miers, The Web of Victory: Grant at Vicksburg, (New York: Alfred A. Knopf, 1955), 118; (644, p. 60) Shea, Vicksburg Is the Key, 60
-98 (646, p. 479) Edwin Cole Bearss, The Campaign for Vicksburg: Vicksburg is the Key, (Dayton, Ohio: Morningside House, 1985), Vol. 1: 479
-99 (643, p. 184) Edwin Cole Bearss, The Campaign for Vicksburg: Vicksburg is the Key, (Dayton, Ohio: Morningside House, 1985), Vol. 1: 479
-100 (80, p. 90) Wharton, Texas Under Many Flags, 90; (341, p. 590) Alex Sweet and J. A. Knox, On a Mexican Mustang through Texas from the Gulf to the Rio Grande, (Hartford, Conn: SS Scranton & Co, 1883), 590
-101 (149), pp. 65, 131 Evans, Confederate Military History, Vol. XI: 65, 131
-102 (14) San Antonio Light, February 23, 1887
+96 (807, p. 93) Douglas B. Ball, *Financial Failure and Confederate Defeat,* (Urbana and Chicago: University of Illinois Press, 1991), 93; (644, pp. 12, 39) William L. Shea and Terrence J. Winschel, *Vicksburg Is the Key: The Struggle for the Mississippi River,* (Lincoln and London: University of Nebraska Press, 2003), 12, 39
+97 (647, p. 118) Earl Schenck Miers, *The Web of Victory: Grant at Vicksburg,* (New York: Alfred A. Knopf, 1955), 118; (644, p. 60) Shea, *Vicksburg Is the Key,* 60
+98 (646, p. 479) Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton, Ohio: Morningside House, 1985), Vol. 1: 479
+99 (643, p. 184) Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton, Ohio: Morningside House, 1985), Vol. 1: 479
+100 (80, p. 90) Wharton, *Texas Under Many Flags,* 90; (341, p. 590) Alex Sweet and J. A. Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* (Hartford, Conn: SS Scranton & Co, 1883), 590
+101 (149), pp. 65, 131 Evans, *Confederate Military History,* Vol. XI: 65, 131
+102 (14) *San Antonio Light,* February 23, 1887
 103 (206, p. 95) Austerman, “The San Antonio-El Paso Mail, CSA,” 95
+
+
 
 Thomas Rife Accompanied Waul’s Legion to Mississippi in October 1863
 
-104 (469, p. 119) Robert Hasskarl and Captain Leif R. Hasskarl, Waul’s Texas Legion: 1862-1865, (Ada, OK: self published, 1985), 119
-105 (969) Thomas Rife, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, NARA, Roll 865
+104 (469, p. 119) Robert Hasskarl and Captain Leif R. Hasskarl, *Waul’s Texas Legion: 1862-1865,* (Ada, OK: self published, 1985), 119
+105 (969) Thomas Rife, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, National Archives and Records Administration, Roll 865
 106 (969) Thomas Rife, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, NARA, Roll 865
-107 (469, p. 116) Hasskarl, Waul’s Texas Legion, 116
+107 (469, p. 116) Hasskarl, *Waul’s Texas Legion,* 116
 
 The Lake Providence Expedition, January to March 1863
 
-108 (581, pp. 314-5, 365) Wertz, Smithsonian’s Great Battles and Battlefields of the Civil War, 314-5, 365
-109 (644, pp. 60-3) Shea, Vicksburg Is the Key, 60-3
-110 (647, p. 107) Miers, The Web of Victory, 107
-111 (647, p. 93) Miers, The Web of Victory, 93
-112 (646, p. 478) Bearss, The Campaign for Vicksburg, Vol. 1: 478; (647, p. 92) Miers, The Web of Victory, 92
-113 (601, p. 58) Swanson, Atlas of the Civil War Month by Month, 58
+108 (581, pp. 314-5, 365) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 314-5, 365
+109 (644, pp. 60-3) Shea, *Vicksburg Is the Key,* 60-3
+110 (647, p. 107) Miers, *The Web of Victory,* 107
+111 (647, p. 93) Miers, *The Web of Victory,* 93
+112 (646, p. 478) Bearss, *The Campaign for Vicksburg,* Vol. 1: 478; (647, p. 92) Miers, *The Web of Victory,* 92
+113 (601, p. 58) Swanson, *Atlas of the Civil War Month by Month,* 58
 
 The Yazoo Pass Expedition of February to April 1863 failed.
 
-114 (646, p. 482) Bearss, The Campaign for Vicksburg, Vol. 1: 482; (581, pp. 364-8) Wertz, Smithsonian’s Great Battles and Battlefields of the Civil War, 364-8
-115 (601, p. 60) Swanson, Atlas of the Civil War Month by Month, 60; (644, p. 69) Shea and Winschel, Vicksburg Is the Key, 69
-116 (647, p. 110) Miers, The Web of Victory, 110; (646, p. 485) Bearss, The Campaign for Vicksburg, Vol. 1: 485
-117 (647, p. 111) Miers, The Web of Victory, 111; (646, p. 506) Bearss, The Campaign for Vicksburg, Vol. 1: 506
-118 (646, p. 507) Bearss, The Campaign for Vicksburg, Vol. 1: 507; (647, p. 114) Miers, The Web of Victory, 114
-119 (643, p. 189) Ballard, Vicksburg, 189; (647, pp. 111-6) Miers, The Web of Victory, 111-6
-120 (644, pp. 70-1) Shea, Vicksburg Is the Key, 70-1
-121 (581, p. 365) Wertz, Smithsonian’s Great Battles and Battlefields of the Civil War, 365; (469, p. 19) Hasskarl, Waul’s Texas Legion, 19;
-122 (643, p. 189) Ballard, Vicksburg, 189
+114 (646, p. 482) Bearss, *The Campaign for Vicksburg,* Vol. 1: 482; (581, pp. 364-8) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 364-8
+115 (601, p. 60) Swanson, *Atlas of the Civil War Month by Month,* 60; (644, p. 69) Shea and Winschel, *Vicksburg Is the Key,* 69
+116 (647, p. 110) Miers, *The Web of Victory,* 110; (646, p. 485) Bearss, *The Campaign for Vicksburg,* Vol. 1: 485
+117 (647, p. 111) Miers, *The Web of Victory,* 111; (646, p. 506) Bearss, *The Campaign for Vicksburg,* Vol. 1: 506
+118 (646, p. 507) Bearss, *The Campaign for Vicksburg,* Vol. 1: 507; (647, p. 114) Miers, *The Web of Victory,*114
+119 (643, p. 189) Ballard, Vicksburg, 189;(647, pp. 111-6) Miers, *The Web of Victory,* 111-6)
+120 (644, pp. 70-1) Shea, *Vicksburg Is the Key,* 70-1
+121 (581, p. 365) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 365; (469, p. 19) Hasskarl, *Waul’s Texas Legion,* 19;
+122 (643, p. 189) Ballard, *Vicksburg,* 189
 
 The Steele’s Bayou Expedition of March 1863 also failed.
 
-123 (647, p. 119) Miers, The Web of Victory, 119
-124 (644, p. 72) Shea, Vicksburg Is the Key, 72
-125 (646, pp. 554-5) Bearss, The Campaign for Vicksburg, Vol. 1: 554-5
-126 (644, p. 96) Shea, Vicksburg Is the Key, 96
-127 (646, p. 556) Bearss, The Campaign for Vicksburg, Vol. 1: 556
-128 (646, p. 561) Bearss, The Campaign for Vicksburg, Vol. 1: 561
+123 (647, p. 119) Miers, *The Web of Victory,* 119
+124 (644, p. 72) Shea, *Vicksburg Is the Key,* 72
+125 (646, pp. 554-5) Bearss, *The Campaign for Vicksburg,* Vol. 1: 554-5
+126 (644, p. 96) Shea, *Vicksburg Is the Key,* 96
+127 (646, p. 556) Bearss, *The Campaign for Vicksburg,* Vol. 1: 556
+128 (646, p. 561) Bearss, *The Campaign for Vicksburg,* Vol. 1: 561
 
 The Federal gunboats became stalled on Dear Creek.
 
-129 (647, p. 122) Miers, The Web of Victory, 122
-130 (646, p. 555) Bearss, The Campaign for Vicksburg, Vol. 1: 555
-131 (644, p. 74) Shea, Vicksburg Is the Key, 74
-132 (643, p. 186) Ballard, Vicksburg, 186
-133 (643, p. 186) Ballard, Vicksburg, 186
-134  (646, p. 559) Bearss, The Campaign for Vicksburg, Vol. 1: 559; (643, p. 186) Ballard, Vicksburg, 186
-135 (643, p. 187) Ballard, Vicksburg, 187
-136 (646, p. 566) Bearss, The Campaign for Vicksburg, Vol. 1: 566
+129 (647, p. 122) Miers, *The Web of Victory,* 122
+130 (646, p. 555) Bearss, *The Campaign for Vicksburg,* Vol. 1: 555
+131 (644, p. 74) Shea, *Vicksburg Is the Key,* 74
+132 (643, p. 186) Ballard, *Vicksburg,* 186
+133 (643, p. 186) Ballard, *Vicksburg,* 186
+134  (646, p. 559) Bearss, *The Campaign for Vicksburg,* Vol. 1: 559; (643, p. 186) Ballard, *Vicksburg,* 186
+135 (643, p. 187) Ballard, *Vicksburg,* 187
+136 (646, p. 566) Bearss, *The Campaign for Vicksburg,* Vol. 1: 566
 
 Union infantry rescued the trapped gunboats on Deer Creek.
 
-137 (646, p. 570) Bearss, The Campaign for Vicksburg, Vol. 1: 570
-138 (643, p. 187) Ballard, Vicksburg, 187
-139 (644, p. 74) Shea, Vicksburg Is the Key, 74; (646,p. 570) Bearss, The Campaign for Vicksburg, Vol. 1: 570
-140 (643, p. 188) Ballard, Vicksburg, 188
-141 (646, p. 577) Bearss, The Campaign for Vicksburg, Vol. 1: 577
-142 (644, p. 75) Shea, Vicksburg Is the Key, 75; (581, p. 367) Wertz, Smithsonian’s Great Battles and Battlefields of the Civil War, 367
-143 (704) John Tourette, Plantation Map of Carroll Parish, LA, www.usgwarchives.org/maps/louisiana/parishmap/carrolllatourette1848.jpg: accessed Nov12, 2012
+137 (646, p. 570) Bearss, *The Campaign for Vicksburg,* Vol. 1: 570
+138 (643, p. 187) Ballard, *Vicksburg,* 187
+139 (644, p. 74) Shea, *Vicksburg Is the Key,* 74; (646,p. 570) Bearss, *The Campaign for Vicksburg,* Vol. 1: 570
+140 (643, p. 188) Ballard, *Vicksburg,* 188
+141 (646, p. 577) Bearss, *The Campaign for Vicksburg,* Vol. 1: 577
+142 (644, p. 75) Shea, *Vicksburg Is the Key,* 75; (581, p. 367) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 367
+143 (704) John Tourette, *Plantation Map of Carroll Parish, LA,* www.usgwarchives.org/maps/louisiana/parishmap/carrolllatourette1848.jpg: accessed Nov12, 2012
 
 
 Waul’s Legion was captured at Vicksburg.
 
-144 (469, p. 20) Hasskarl, Waul’s Texas Legion, 20
-145 (469, p. 56) Hasskarl, Waul’s Texas Legion, 56
-146 (645, p. 263) Richard, The Defense of Vicksburg, 263
+144 (469, p. 20) Hasskarl, *Waul’s Texas Legion,* 20
+145 (469, p. 56) Hasskarl, *Waul’s Texas Legion,* 56
+146 (645, p. 263) Richard, *The Defense of Vicksburg,* 263
 
 Confederate soldiers were cared for in hospitals.
 
-147 (479, p. 26) Carol C. Green, Chimborazo: The Confederacy’s Largest Hospital, (Knoxville: The University of Tennessee Press, 2004), 26
-148 (480, pp. 163, 179) Glenna R. Schroeder-Lein, Confederate Hospitals on the Move: Samuel H Stout and the Army of Tennessee, (Columbia, SC: University of South Carolina Press, 1994), 163, 179
+147 (479, p. 26) Carol C. Green, *Chimborazo: The Confederacy’s Largest Hospital,* (Knoxville: The University of Tennessee Press, 2004), 26
+148 (480, pp. 163, 179) Glenna R. Schroeder-Lein, *Confederate Hospitals on the Move: Samuel H Stout and the Army of Tennessee,* (Columbia, SC: University of South Carolina Press, 1994), 163, 179
 
 36th Regiment, Texas Cavalry, 1863-1865
 
 Many Texans expected a short war.
 
-149 (80, p. 85) Wharton, Texas Under Many Flags, 85
-150 (341, p. 590) Sweet and Knox, On a Mexican Mustang through Texas from the Gulf to the Rio Grande, 590; (780, p. 30) James Farber, Texas, C.S.A.: A Spotlight on Disaster, (New York and Texas: The Jackson Co., 1947), 30
-151 (80, p. 90) Wharton, Texas Under Many Flags, 90; (341, p. 590) Sweet and Knox, On a Mexican Mustang through Texas from the Gulf to the Rio Grande, 590
-152 (72, p. 141) Pike, Scout and Ranger being the Personal Adventures of James Pike, 141
-153 (580, p. 101) Smith, Frontier Defense in Texas, 101; (636, p. 265) David McDonald, Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas, (Denton: Texas State Historical Association, 2010), 265
-154 (574) Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15
-155 (580, p. 136) Smith, Frontier Defense in Texas, 136
+149 (80, p. 85) Wharton, *Texas Under Many Flags,* 85
+150 (341, p. 590) Sweet and Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* 590; (780, p. 30) James Farber, *Texas, C.S.A.: A Spotlight on Disaster,* (New York and Texas: The Jackson Co., 1947), 30
+151 (80, p. 90) Wharton, *Texas Under Many Flags,* 90; (341, p. 590) Sweet and Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* 590
+152 (72, p. 141) Pike, *Scout and Ranger being the Personal Adventures of James Pike,* 141
+153 (580, p. 101) Smith, *Frontier Defense in Texas,* 101; (636, p. 265) David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton: Texas State Historical Association, 2010), 265
+154 (574) Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, Records of the Department of Veteran’s Affairs, NARA RG 15
+155 (580, p. 136) Smith, *Frontier Defense in Texas,* 136
 156  (969) Thomas Rife, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, NARA, Roll 865
-183 (480, p. 137) Schroeder-Lein, Confederate Hospitals on the Move, 137
+183 (480, p. 137) Schroeder-Lein, *Confederate Hospitals on the Move,* 137
 
 Thomas Rife enlisted in Col. Peter Wood’s Regiment.
 
-157 (101) Thomas Rife Record, 36th Texas Cavalry Regiment, Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Texas, M323, Roll 175, Records of Confederate Soldiers Who Served During the Civil War, RG 109, NARA; (14) The San Antonio Light, February 23, 1887
+157 (101) Thomas Rife Record, 36th Texas Cavalry Regiment, Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Texas, M323, Roll 175, RG 109, NARA; (14) *The San Antonio Light,* February 23, 1887
 158 (575) Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15
-159 (677) Samuel Lyte’s Record, 36th Texas Cavalry Regiment, Compiled Service Record of Confederate Soldiers who served in Organizations from the State of Texas, M323, Roll 174, , RG 109, NARA
-160 (1005) Thirty-Sixth Texas Cavalry; Woods, Peter Cavanaugh, Handbook of Texas
-Online, www.tshaonline.org/handbook/online/articles, accessed December 22, 2013
-161 (130, p. 168) Janet B. Hewett, Editor, The Roster of Confederate Soldiers, 1861-1865, (Wilmington, NC: Broadfoot Publishing Company, 1996), Vol. XIII, 168
-162  (17) Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, Records of Confederate Soldiers Who Served During the Civil War, RG 109, NARA
+159 (677) Samuel Lyte’s Record, 36th Texas Cavalry Regiment, M323, Roll 174, , RG 109, NARA
+160 (1005) Thirty-Sixth Texas Cavalry; Woods, Peter Cavanaugh, *Handbook of Texas
+Online,* www.tshaonline.org/handbook/online/articles, accessed December 22, 2013
+161 (130, p. 168) Janet B. Hewett, Editor, *The Roster of Confederate Soldiers, 1861-1865,* (Wilmington, NC: Broadfoot Publishing Company, 1996), Vol. XIII: 168
+162  (17) Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
 163 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
 
 Capt. Skillman’s Spy Company
 
 Henry Skillman was an employee of George Giddings
 
-164 (138, p. 180) Austerman, Sharps Rifles and Spanish Mules, 180
-165 (202, p. 39) Mills, Forty Years at El Paso, 1858-1898, 39
-166 (411, p. 121) Jack C. Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 1850-1861,” West Texas Historical Association Year Book 47, (1971), 121; (775) The Charleston Mercury (Charleston, SC), January 16, 1862
+164 (138, p. 180) Austerman, *Sharps Rifles and Spanish Mules,* 180
+
+
+165 (202, p. 39) William W. Mills, *Forty Years at El Paso, 1858-1898, Recollections of War, Politics, Adventure, Events, Narratives, Sketches, Etc.,* (El Paso, Texas, C. Hertzog, 1962), 39
+166 (411, p. 121) Jack C. Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 1850-1861,” *West Texas Historical Association Year Book 47,* (1971), 121; (775) *The Charleston Mercury* (Charleston, SC), January 16, 1862
 
 Henry Skillman stayed in west Texas.
 
 167 (206, p. 97) Austerman, “The San Antonio-El Paso Mail, CSA,” 97
-168 (285, pp. 49,87) Hammons, A History of El Paso County, Texas, to 1900, 49, 87
-169 (138, p. 190) Austerman, Sharps Rifles and Spanish Mules, 190
-170 (260, p. 109) Thompson, “Drama the Desert,” 109
-171 (773) The Rocky Mountain News (Denver, Co.), May 18, 1864
+168 (285, pp. 49,87) Hammons, *A History of El Paso County, Texas, to 1900,* 49,87
+169 (138, p. 190) Austerman, *Sharps Rifles and Spanish Mules,* 190
+170 (260, p. 109) Thompson, “Drama in the Desert,” 109
+171 (773)*The Rocky Mountain News* (Denver, Co.), May 18, 1864
 172 (206, p. 97) Austerman, “The San Antonio-El Paso Mail, CSA,” 97
 173 (206, p. 95) Austerman, “The San Antonio-El Paso Mail, CSA,” 95
-174 (534, p. 605) United States War Department, The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1, Vols. 15, 605
-175 (260, p. 111) Thompson, “Drama the Desert,” 111
-176 (534, p. 607) United States War Department, The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1, Vols. 15, 607		
+174 (534, p. 605) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vols. 15, 605
+175 (260, p. 111) Thompson, “Drama in the Desert,” 111
+176 (534, p. 607) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vols. 15, 607		
 
 Federal commanders in New Mexico feared a second invasion.
 
-177 (260, p. 110) Thompson, “Drama the Desert,” 110
-178 (260, p. 111) Thompson, “Drama the Desert,” 111; (534, p. 606) The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1 Vol. 15, 606
-179 (534, p. 377) United States War Department, The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1 Vol. 15, 377
-180 (534, p. 426) United States War Department, The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1, Vol. 15, 426
-181 (260, p. 113) Thompson, “Drama the Desert,” 113
-182 (407) Letter from Col. Joseph West (USA) to Henry Skillman, Unfiled Papers and Slips Belonging in Confederate Service Records, M347, Roll 364, Records of Confederate Soldiers Who Served During the Civil War, RG 109
-183 (534, p. 426) United States War Department, The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1 Vol. 15, 426
+177 (260, p. 110) Thompson, “Drama in the Desert,” 110
+178 (260, p. 111) Thompson, “Drama the Desert,” 111; (534, p. 606) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 606
+179 (534, p. 377) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 377
+180 (534, p. 426) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 15, 426
+181 (260, p. 113) Thompson, “Drama in the Desert,” 113
+182 (407) Letter from Col. Joseph West (USA) to Henry Skillman, Unfiled Papers and Slips Belonging in Confederate Service Records, M347, Roll 364, RG 109
+183 (534, p. 426) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 426
 
 In the fall of 1863 the Federal army invaded the Texas Gulf Coast.
 
-184 (188, p. 88) Alexander Edwin Sweet, Alex Sweet’s Texas: The Lighter Side of Lone Star History, (Austin: University of Texas Press, 1986), 88
-185 (582, p. 24) Richter, The Army in Texas During Reconstruction, 24; (780, p. 210) Farber, Texas, C.S.A., 210
-186 (582, p. 12) Richter, The Army in Texas During Reconstruction, 12; (780, p. 114) Farber, Texas, C.S.A., 114
-187 (534, p. 62) United States War Department, The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1, Vol. 50, 62
-188 (80, p. 95) Wharton, Texas Under Many Flags, 95
+184 (188, p. 88) Alexander Edwin Sweet, *Alex Sweet’s Texas: The Lighter Side of Lone Star History,* (Austin: University of Texas Press, 1986), 88
+185 (582, p. 24) William L. Richter, The Army in Texas During Reconstruction, 1865-1870, (College Station, Texas, Texas A&M University Press, 1987), 24; (780, 210) Farber, Texas, C,S.A., 210
+
+186 (582, p. 12) Richter, *The Army in Texas During Reconstruction,* 12; (780, p. 114) Farber, Texas, C.S.A., 114
+187 (534, p. 62) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 50, 62
+188 (80, p. 95) Wharton, *Texas Under Many Flags,* 95
 189 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
-190 (149, p. 120) Evans, Confederate Military History, Vol. XI, 120; (80, p. 96) Wharton, Texas Under Many Flags, 96
-191 (149, p. 120) Evans, Confederate Military History, Vol. XI: 120
-192 (149, p. 119) Evans, Confederate Military History, Vol. XI: 119
-193 (780, p. 250) Farber, Texas, C.S.A., 250
-194 (149, p. 65) Evans, Confederate Military History, Vol. XI: 65
-195 (17) Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, Records of Confederate Soldiers Who Served During the Civil War, RG 109, NARA
-196 (780, p. 204) Farber, Texas, C.S.A., 204
-197 (260, p. 117) Thompson, “Drama the Desert,” 117
-198 (780, pp. 91-2, 119) Farber, Texas, C.S.A., 91-2, 119
-199 (159, p. 355) Oates, Rip Ford’s Texas by John Salmon Ford, 355; (218, p. 131) Florence Johnson Scott, Old Rough and Ready on the Rio Grande, (Waco, Texas: Texian Press, 1969), 131
-200 (159, p. 342) Oates, Rip Ford’s Texas by John Salmon Ford, 342; (431, p. 22) August Santleben, A Texas Pioneer, (New York and Washington: The Neale Publishing Co, 1910), 22
+190 (149, p. 120) Evans, *Confederate Military History,* Vol. XI, 120; (80, p. 96) Wharton, *Texas Under Many Flags,* 96
+191 (149, p. 120) Evans, *Confederate Military History,* Vol. XI: 120
+192 (149, p. 119) Evans, *Confederate Military History,* Vol. XI: 119
+193 (780, p. 250) Farber, *Texas, C.S.A.,* 250
+194 (149, p. 65) Evans, *Confederate Military History,* Vol. XI: 65
+195 (17) Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
+196 (780, p. 204) Farber, *Texas, C.S.A.,* 204
+197 (260, p. 117) Thompson, “Drama in the Desert,” 117
+198 (780, pp. 91-2, 119) Farber, *Texas, C.S.A.,* 91-2, 119
+199 (159, p. 355) Oates, *Rip Ford’s Texas by John Salmon Ford,* 355; (218, p. 131) Florence Johnson Scott, *Old Rough and Ready on the Rio Grande,* (Waco, Texas: Texian Press, 1969), 131
+200 (159, p. 342) Oates, *Rip Ford’s Texas by John Salmon Ford,* 342; (431, p. 22) August Santleben, *A Texas Pioneer,* (New York and Washington: The Neale Publishing Co, 1910), 22
 201 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
-202 (17) Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, Records of Confederate Soldiers Who Served During the Civil War, RG 109, NARA
+202 (17) Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
 
 Henry Skillman commanded a spy company.
 
@@ -605,29 +604,29 @@ Thomas Rife was assigned to Capt. Skillman’s company of scouts.
 
 208 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
 209 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
-210(613, wrong number) San Antonio to El Paso Route, Map # 1004J, Map Collection, Texas State Library and Archives, Austin, Texas.    
-211 (534) United States War Department, The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1, Vol. 15: 1033
+210(613, wrong number) San Antonio to El Paso Route, Map # 1004J, *Map Collection,* ARIS-TSLAC    
+211 (534) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 15: 1033
 
 Federal troops attacked Skillman’s company.
 
-212 (467, p. 151) Carlysle Graham Raht, The Romance of Davis Mountains and Big Bend Country: A History, (El Paso: The Rahtbooks Company, 1919), 151
+212 (467, p. 151) Carlysle Graham Raht, *The Romance of Davis Mountains and Big Bend Country: A History,* (El Paso: The Rahtbooks Company, 1919), 151
 213 (261) Report of Capt. A.H. French to Brig. Gen. James H. Carleton, May 5,1864 Commander, Entry 3165, Letters Received, File 18F 1864, Records of the United States Army Continental Command, 1821-1920, RG 393, NARA
-214 (262, pp. 199-201) Roy L. Swift and Leavitt Corning Jr., Three Roads to Chihuahua: The Great Wagon Roads that Opened the Southwest, 1823-1883, (Austin: Eakin Press, 1988), 199-201; (534, p. 880) United States War Department, The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1, Vol. 34: 880
+214 (262, pp. 199-201) Roy L. Swift and Leavitt Corning Jr., *Three Roads to Chihuahua: The Great Wagon Roads that Opened the Southwest, 1823-1883,* (Austin: Eakin Press, 1988), 199-201; (534, p. 880) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 34: 880
 215 (261) Capt. A.H. French to Brig. Gen. James H. Carleton, May 5,1864
-216 (14) The San Antonio Light, February 23, 1887
-217 (681) San Antonio Express, August 11, 1881
-218 (262, p. 356, note 60) Swift and Leavitt Corning Jr., Three Roads to Chihuahua, 356, note 60
+216 (14) *The San Antonio Light,* February 23, 1887
+217 (681) *San Antonio Express,* August 11, 1881
+218 (262, p. 356, note 60) Swift and Leavitt Corning Jr., *Three Roads to Chihuahua,* 356, note 60
 
 Confederate soldiers in Texas were paroled after the surrender.
 
-219 (582, p. 13) Richter, The Army in Texas During Reconstruction, 13
-220 (149, p. 140) Evans, Confederate Military History, Vol. XI: 140
-221 (677) Combined Service Record of Confederate Soldiers from Texas Units, NARA M323
+219 (582, p. 13) Richter, *The Army in Texas During Reconstruction,* 13
+220 (149, p. 140) Evans, *Confederate Military History,* Vol. XI: 140
+221 (677) Samuel Lytle Record, 36th Texas Cavalry Regiment, Combined Service Record of Confederate Soldiers from Texas Units, NARA M323
 222 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
-223 (781, pp. i-iii) Anonymous, Special Presidential Pardons for Confederate Soldiers: A listing of former Confederate soldiers requesting full pardon from President Andrew Johnson, Mountain Press, (Signal Mountain, Tennessee: Mountain Press, 1999), i-iii
-224 (418, pp. 578-80) United States War Department, The War of the Rebellion: a compilation of the official records of the Union and Confederate armies, (Washington, DC: Government Printing Office), Series 1-Volume 1: 578-580
-225 (636, p. 258) McDonald, Jose Antonio Navarro, 258
-226 (70, p. 35) Vinton Lee James, Frontier and Pioneer Recollections, (San Antonio: Artes Graficas, 1938), 35; (218, p. 175) Florence Johnson Scott, Old Rough and Ready on the Rio Grande, Waco, Texas: Texian Press, 1969), 175
-227 (581, p. 313) Jay Wertz and Edwin C. Bearss, Smithsonian’s Great Battles and Battlefields of the Civil War, 313; (601, p. 112) Swanson, Atlas of the Civil War Month by Month, 112
-228 (1412) Houston Tri-Weekly Telegraph, June 30, 1865
-229 (781, p. 149) Anonymous, Special Presidential Pardons for Confederate Soldiers: A listing of former Confederate soldiers requesting full pardon from President Andrew Johnson, 149
+223 (781, pp. i-iii) Anonymous, *Special Presidential Pardons for Confederate Soldiers: A listing of former Confederate soldiers requesting full pardon from President Andrew Johnson,* Mountain Press, (Signal Mountain, Tennessee: Mountain Press, 1999), i-iii
+224 (418, pp. 578-80) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* , Series 1-Volume 1: 578-580
+225 (636, p. 258) McDonald, *Jose Antonio Navarro,* 258
+226 (70, p. 35) Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 35; (218, p. 175) Scott, *Old Rough and Ready on the Rio Grande, 175
+227 (581, p. 313) Jay Wertz and Edwin C. Bearss, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 313; (601, p. 112) Swanson, *Atlas of the Civil War Month by Month,* 112
+228 (1412) *Houston Tri-Weekly Telegraph,* June 30, 1865
+229 (781, p. 149) Anonymous, *Special Presidential Pardons for Confederate Soldiers: A listing of former Confederate soldiers requesting full pardon from President Andrew Johnson,* 149
