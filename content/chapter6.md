@@ -298,101 +298,76 @@ Notes for Chapter 6
 [^3]: Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque, NM: University of New Mexico Press, 2001), 181; (601, p. 10) Mark Swanson, *Atlas of the Civil War Month by Month: Major Battles and Troop Movements,* (Athens & London: The University of Georgia Press, 2004), 10
 [^4]: Clarence R. Wharton, *Texas Under Many Flags,* (Chicago and New York: The American Historical Society, Inc., 1930), 85; (558, p. 331) Noah Smithwick, *The Evolution of a State or Recollections of Old Texas Days,* (Austin: Gammel Books Co., 1900), 331
 [^5]: Records of the Legislature: Constitutional Conventions, Secession Convention 1861 (March 1861), ARIS-TSLAC
-6 (401) J. W. Magoffin to EC (April 28, 1861), Records of Edward Clark, Texas Office of the Governor, ARIS-TSLAC
-7 (80, p. 89) Wharton, *Texas Under Many Flags,* 89; (158, p. 6) Jerry Thompson, *From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick,* (El Paso: The University of Texas at El Paso, 1991), 6
-8 (580, pp. 55-7) David P. Smith, *Frontier Defense in Texas: 1861-1865,* (Denton, TX: North Texas State University, 1987), 55-7; (555, p. 89) Mrs. S. J. Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* (Austin: Morgan Printing, 1916), 89
-9 (583, p. 182) Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War,* p. 182
-10 (305) Records of the Legislature: Constitutional Conventions, Secession Convention 1861 (March 1861), ARIS-TSLAC
-11 (80, p. 87) Wharton, *Texas Under Many Flags,* 87
-12 (555, p. 105) Wright, *San Antonio de Bexar,* 105
-13 (305) Records of the Legislature: Constitutional Conventions, Secession Convention 1961, ARIS-TSLAC
-
-All Federal troops left the State or were captured.
-
-14 (147, p. 8) Clayton W. Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895,* (College Station, TX: Texas A&M University Press, 1982), 8; (322) *The Daily Ledger and Texan* (San Antonio, Texas), April 2, 1861
-15 (147, p. 8-9) Williams, *Texas’ Last Frontier,* 8-9; (149, p. 46) Clement A Evans, editor, *Confederate Military History,* (Thomas Yoseloff, New York, 1962,) Vol. XI: 46; (447) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate Armies,* (Washington, DC: Government Printing Office), Series 1-Volume 1: 627
-16 (583, p. 183) Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183; (601, p. 14) Mark Swanson, *Atlas of the Civil War Month by Month,* 14
-17 (147, p. 7) Williams, *Texas’ Last Frontier,* 7
-18 (158, p. 105, note 31) Thompson, *From Desert to Bayou,* 105, note 31; (138, p. 164) Wayne R. Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881,* (College Station, TX: Texas A & M University Press, 1985), 164
-19 (416) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 567-70
-20 (158) Thompson, *From Desert to Bayou,* 105
-21 (601, p. 14) Swanson, *Atlas of the Civil War Month by Month,* 14
-22 (415) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4; (416) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 567-70; (417) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 572-3
-23 (602, p. 15) Frank S. Faulkner, Jr., *Historic Photos of San Antonio,* (Nashville and Paducah, KY: Turner Publishing Company, 2007), 15; (583, p. 183) Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183; (147, p. 8) Williams, *Texas’ Last Frontier,* 8
-
-Commissioners were appointed to safeguard government property.
-
-24 (147, p. 43) Williams, *Texas’ Last Frontier,* 43; (158, p. 11) Thompson, *From Desert to Bayou,* 11; (555, p. 105) Wright, *San Antonio de Bexar,* 105
-25 (332, p. 45) Marsha Lea Daggett, Editor, *Pecos County History,* (Fort Stockton, TX: Pecos County Historical Commission, 1973-1983), 45
-26 (583, p. 183) Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183
-27 (147, p. 8) Williams, *Texas’ Last Frontier,* 8
-28 (580, p. 61) Smith, *Frontier Defense in Texas,* 61; (401) J. W. Magoffin to EC (April 28, 1861), Records of Edward Clark, Texas Office of the Governor. ARIS-TSLAC.
-29 (158, pp. 8, 10) Thompson, *From Desert to Bayou,* 8, 10
-30 (558, p. 340) Smithwick, *The Evolution of a State,* 340
-31 (147, p. 12) Williams, *Texas’ Last Frontier,* 12
-32 (445, p. 254) Smithwick, *The Evolution of a State,* 254
-
-Thomas Rife and other men took custody of Fort Bliss.
-
-33 (14) *The San Antonio Light,* February 23, 1887; (816, p. 9) John W. Hunter, “Fighting with Sibley in New Mexico,” *Frontier Times,* Vol. 3, Number 12, (September 1926): 9
-34 (1413) *San Antonio Daily Light,* March 25, 1893
-35 (385) J.F. Crosby to (Gov.) (May 9, 1861), Records of Edward Clark, Texas Office of the Governor, ARIS-TSLAC
-36 (415, p. 573-4) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4
-37 (158, pp. 19, 23) Thompson, *From Desert to Bayou,* 19, 23
-38 (285, p. 46) Nancy Lee Hammons, *A History of El Paso County, Texas, to 1900,* (El Paso: The University of Texas at El Paso, 1983), 46
-39 (445, p. 254) Smithwick, *The Evolution of a State,* 254
-40 (158, p. 19) Thompson, *From Desert to Bayou,* 19
-41 (158, p. 23) Thompson, *From Desert to Bayou,* 23
-42 (206, p. 86) Wayne R Austerman, “The San Antonio-El Paso Mail, CSA,” *West Texas Historical Association Year Book,* Vol. 58 (1980): 86
-
-Confederate troops occupied the abandoned forts.
-
-43 (321) *The Daily Ledger and Texan*, May 8,1861
-44 (580, p. 106) Smith, *Frontier Defense in Texas,* 106; (415) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4
-45 (470, p. 19) Martin Hardwick Hall, *The Confederate Army of New Mexico,* (Austin: Presidial Press, 1978), 19
-46 (583, p. 15) Thompson, *Texas and New Mexico on the Eve of the Civil War,* 15; (158, p. 24) Thompson, *From Desert to Bayou,* 24
-47 (285, p. 43) Hammons,* A History of El Paso County, Texas, to 1900,* 43; (562, p. 238) Albert D Richardson, *Beyond the Mississippi: From the Great River to the Great Ocean, 1857-1867,* (American Publishing Company, Hartford, Conn 1867), 238
-48 (285, p. 46) Hammons, *A History of El Paso County, Texas, to 1900,* 46; (206, p. 86) Wayne R Austerman, “The San Antonio-El Paso Mail, CSA,” 86
-49 (147, p. 18) Williams, *Texas’ Last Frontier,* 18
-50 (470, p. 21) Hall, *The Confederate Army of New Mexico,* 21
-51 (285, p. 46) Hammons, *A History of El Paso County, Texas, to 1900,* 46; (445, p. 257) Smithwick, *The Evolution of a State,*
-The New Mexico Campaign, 1861-1862
-
-Gen. Henry Sibley organized a brigade to invade New Mexico.
-
-52 (470, p. 354) Hall, *The Confederate Army of New Mexico,* 354
-53 (470, p. 21) Hall, *The Confederate Army of New Mexico,* 21
-54 (147, p. 17) Williams, *Texas’ Last Frontier,* 17
-55 (149, p. 54) Evans, *Confederate Military History,* Vol. XI: 54; (152, p. 143) Charles Merritt Barnes, *Combats and Conquests of Immortal Heroes,* (San Antonio: Guessaz & Ferlet Company, 1910), 143
-56 (147, p. 38) Williams, *Texas’ Last Frontier,* 38; (470, p. 15) Hall, *The Confederate Army of New Mexico,* 15
-57 (206, p. 97) Austerman, “The San Antonio-El Paso Mail, CSA,” 97
-
-Mail coaches continued to carry the mail.
-
-58 (14) *The San Antonio Light,* February 23, 1887
-59 (158, pp. 19, 28) Thompson, *From Desert to Bayou,* 19, 23
-60 (84, p. 206-14) Kathryn Smith McMilllen, “A descriptive bibliography on the San Antonio-San Diego Mail Line,” *The Southwestern Historical Quarterly 59, No. 2,* (October 1955), 206-14; (206, p. 85) Austerman, “The San Antonio-El Paso Mail, CSA,” 85
-61 (82) Wayne R. Austerman, San Antonio-El Paso Mail by, *Handbook of Texas Online,* http://www.tshaonline.org/handbook/online/articles/eus01, accessed November 21, 2010
-62 (206, p. 95) Austerman, “The San Antonio-El Paso Mail, CSA,” 95
-
-The Confederates invaded New Mexico Territory.
-
-63 (465, p. 186) George Wythe Baylor, *Into the Far, Wild Country: True Tales of the Old Southwest,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 186; (470, p. 21) Hall, *The Confederate Army of New Mexico,* 21
-64 (285, p. 48) Hammons, (A History of El Paso County, Texas, to 1900,* 48; (470, p. 23) Hall, *The Confederate Army of New Mexico,* 23
-65 (149, p. 55) Evans, *Confederate Military History,* Vol. XI, 55
-66 (581, p. 87) Jay Wertz and Edwin C. Bearss, *Smithsonian’s Great Battles and Battlefields of the Civil War,* (New York: William Morrow and Company, Inc, 1997), 87; (472, p. 52) Jerry Thompson, Editor, *Civil War in the Southwest: Recollections of the Sibley Brigade,* (College Station, TX: Texas A&M University Press, 2001), 52
-67 (581, p. 89) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 89
-68 (470, p. 31) Hall, *The Confederate Army of New Mexico,* 31; (581, p. 89) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 89
-69 (472, p. xiv) Thompson, *Civil War in the Southwest,* xiv
-70 (581, p. 92) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 92
-71 (472, p. 85) Thompson, *Civil War in the Southwest,* 85
-72 (472, p. xviii) Thompson, *Civil War in the Southwest,* xviii; (470, p. 32) Hall, *The Confederate Army of New Mexico,* 32
-73 (285, p. 48) Hammons,*A History of El Paso County, Texas, to 1900,* 48
-74 (581, p. 94) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 94
-
-After the fight at Glorieta Pass the Confederates retreated.
-
-75 (470, p. 33) Hall, *The Confederate Army of New Mexico,* 33
+[^6]: J. W. Magoffin to EC (April 28, 1861), Records of Edward Clark, Texas Office of the Governor, ARIS-TSLAC
+[^7]: Wharton, *Texas Under Many Flags,* 89; (158, p. 6) Jerry Thompson, *From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick,* (El Paso: The University of Texas at El Paso, 1991), 6
+[^8]: David P. Smith, *Frontier Defense in Texas: 1861-1865,* (Denton, TX: North Texas State University, 1987), 55-7; (555, p. 89) Mrs. S. J. Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* (Austin: Morgan Printing, 1916), 89
+[^9]: Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War,* p. 182
+[^10]: Records of the Legislature: Constitutional Conventions, Secession Convention 1861 (March 1861), ARIS-TSLAC
+[^11]: Wharton, *Texas Under Many Flags,* 87
+[^12]: Wright, *San Antonio de Bexar,* 105
+[^13]: Records of the Legislature: Constitutional Conventions, Secession Convention 1961, ARIS-TSLAC
+[^14]: Clayton W. Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895,* (College Station, TX: Texas A&M University Press, 1982), 8; (322) *The Daily Ledger and Texan* (San Antonio, Texas), April 2, 1861
+[^15]: Williams, *Texas’ Last Frontier,* 8-9; (149, p. 46) Clement A Evans, editor, *Confederate Military History,* (Thomas Yoseloff, New York, 1962,) Vol. XI: 46; (447) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate Armies,* (Washington, DC: Government Printing Office), Series 1-Volume 1: 627
+[^16]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183; (601, p. 14) Mark Swanson, *Atlas of the Civil War Month by Month,* 14
+[^17]: Williams, *Texas’ Last Frontier,* 7
+[^18]: Thompson, *From Desert to Bayou,* 105, note 31; (138, p.164) Wayne R. Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881,* (College Station, TX: Texas A & M University Press, 1985), 164
+[^19] United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 567-70
+[^20]: Thompson, *From Desert to Bayou,* 105
+[^21]: Swanson, *Atlas of the Civil War Month by Month,* 14
+[^22]: United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4; (416) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 567-70; (417) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 572-3
+[^23]: Frank S. Faulkner, Jr., *Historic Photos of San Antonio,* (Nashville and Paducah, KY: Turner Publishing Company, 2007), 15; (583, p. 183) Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183; (147, p. 8) Williams, *Texas’ Last Frontier,* 8
+[^24]: Williams, *Texas’ Last Frontier,* 43; (158, p. 11) Thompson, *From Desert to Bayou,* 11; (555, p. 105) Wright, *San Antonio de Bexar,* 105
+[^25]: Marsha Lea Daggett, Editor, *Pecos County History,* (Fort Stockton, TX: Pecos County Historical Commission, 1973-1983), 45
+[^26]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183
+[^27]: Williams, *Texas’ Last Frontier,* 8
+[^28]: Smith, *Frontier Defense in Texas,* 61; (401) J. W. Magoffin to EC (April 28, 1861), Records of Edward Clark, Texas Office of the Governor. ARIS-TSLAC.
+[^28]: Thompson, *From Desert to Bayou,* 8, 10
+[^30]: Smithwick, *The Evolution of a State,* 340
+[^31]: Williams, *Texas’ Last Frontier,* 12
+[^32]: Smithwick, *The Evolution of a State,* 254
+[^33]: *The San Antonio Light,* February 23, 1887; (816, p. 9) John W. Hunter, “Fighting with Sibley in New Mexico,” *Frontier Times,* Vol. 3, Number 12, (September 1926): 9
+[^34]: *San Antonio Daily Light,* March 25, 1893
+[^35]: J.F. Crosby to (Gov.) (May 9, 1861), Records of Edward Clark, Texas Office of the Governor, ARIS-TSLAC
+[^36]: United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4
+[^37]: Thompson, *From Desert to Bayou,* 19, 23
+[^38]: Nancy Lee Hammons, *A History of El Paso County, Texas, to 1900,* (El Paso: The University of Texas at El Paso, 1983), 46
+[^39]: Smithwick, *The Evolution of a State,* 254
+[^40]: Thompson, *From Desert to Bayou,* 19
+[^41]: Thompson, *From Desert to Bayou,* 23
+[^42]: Wayne R Austerman, “The San Antonio-El Paso Mail, CSA,” *West Texas Historical Association Year Book,* Vol. 58 (1980): 86
+[^43]: *The Daily Ledger and Texan*, May 8,1861
+[^44]: Smith, *Frontier Defense in Texas,* 106; (415) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4
+[^45]: Martin Hardwick Hall, *The Confederate Army of New Mexico,* (Austin: Presidial Press, 1978), 19
+[^46]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 15; (158, p. 24) Thompson, *From Desert to Bayou,* 24
+[^47]: Hammons,* A History of El Paso County, Texas, to 1900,* 43; (562, p. 238) Albert D Richardson, *Beyond the Mississippi: From the Great River to the Great Ocean, 1857-1867,* (American Publishing Company, Hartford, Conn 1867), 238
+[^48]: Hammons, *A History of El Paso County, Texas, to 1900,* 46; (206, p. 86) Wayne R Austerman, “The San Antonio-El Paso Mail, CSA,” 86
+[^49]: Williams, *Texas’ Last Frontier,* 18
+[^50]: Hall, *The Confederate Army of New Mexico,* 21
+[^51]: Hammons, *A History of El Paso County, Texas, to 1900,* 46; (445, p. 257) Smithwick, *The Evolution of a State,*
+[^52]: Hall, *The Confederate Army of New Mexico,* 354
+[^53]: Hall, *The Confederate Army of New Mexico,* 21
+[^54]: Williams, *Texas’ Last Frontier,* 17
+[^55]: Evans, *Confederate Military History,* Vol. XI: 54; (152, p. 143) Charles Merritt Barnes, *Combats and Conquests of Immortal Heroes,* (San Antonio: Guessaz & Ferlet Company, 1910), 143
+[^56]: Williams, *Texas’ Last Frontier,* 38; (470, p. 15) Hall, *The Confederate Army of New Mexico,* 15
+[^57]: Austerman, “The San Antonio-El Paso Mail, CSA,” 97
+[^58]: *The San Antonio Light,* February 23, 1887
+[^59]: Thompson, *From Desert to Bayou,* 19, 23
+[^60]: Kathryn Smith McMilllen, “A descriptive bibliography on the San Antonio-San Diego Mail Line,” *The Southwestern Historical Quarterly 59, No. 2,* (October 1955), 206-14; (206, p. 85) Austerman, “The San Antonio-El Paso Mail, CSA,” 85
+[^61]: Wayne R. Austerman, San Antonio-El Paso Mail by, *Handbook of Texas Online,* http://www.tshaonline.org/handbook/online/articles/eus01, accessed November 21, 2010
+[^62]: Austerman, “The San Antonio-El Paso Mail, CSA,” 95
+[^63]: George Wythe Baylor, *Into the Far, Wild Country: True Tales of the Old Southwest,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 186; (470, p. 21) Hall, *The Confederate Army of New Mexico,* 21
+[^64]: Hammons, (A History of El Paso County, Texas, to 1900,* 48; (470, p. 23) Hall, *The Confederate Army of New Mexico,* 23
+[^65]: Evans, *Confederate Military History,* Vol. XI, 55
+[^66]: Jay Wertz and Edwin C. Bearss, *Smithsonian’s Great Battles and Battlefields of the Civil War,* (New York: William Morrow and Company, Inc, 1997), 87; (472, p. 52) Jerry Thompson, Editor, *Civil War in the Southwest: Recollections of the Sibley Brigade,* (College Station, TX: Texas A&M University Press, 2001), 52
+[^67]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 89
+[^68]: Hall, *The Confederate Army of New Mexico,* 31; (581, p. 89) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 89
+[^69]: Thompson, *Civil War in the Southwest,* xiv
+[^70]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 92
+[^71]: Thompson, *Civil War in the Southwest,* 85
+[^72]: Thompson, *Civil War in the Southwest,* xviii; (470, p. 32) Hall, *The Confederate Army of New Mexico,* 32
+[^73]: Hammons,*A History of El Paso County, Texas, to 1900,* 48
+[^74]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 94
+[75]:  Hall, *The Confederate Army of New Mexico,* 33
 76 (472, pp. xix, 119) Thompson, *Civil War in the Southwest,* xix, 119
 77 (470, p. 362) Hall, *The Confederate Army of New Mexico,* 362
 78 (581, pp. 78-9) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 78-9
