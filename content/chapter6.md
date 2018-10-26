@@ -367,43 +367,32 @@ Notes for Chapter 6
 [^72]: Thompson, *Civil War in the Southwest,* xviii; (470, p. 32) Hall, *The Confederate Army of New Mexico,* 32
 [^73]: Hammons,*A History of El Paso County, Texas, to 1900,* 48
 [^74]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 94
-[75]:  Hall, *The Confederate Army of New Mexico,* 33
-76 (472, pp. xix, 119) Thompson, *Civil War in the Southwest,* xix, 119
-77 (470, p. 362) Hall, *The Confederate Army of New Mexico,* 362
-78 (581, pp. 78-9) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 78-9
-
-The Confederates evacuated west Texas in 1862.
-
-79 (285, p. 49) Hammons, *A History of El Paso County, Texas, to 1900,* 49
-80 (224, p. 107) Miss Mattie Jackson, *The Rising and Setting of the Lone Star Republic,* (San Antonio: n. p., 1926), 107; (470, p. 39) Hall, *The Confederate Army of New Mexico,* 39; (472, p. 125) Thompson, *Civil War in the Southwest,* 125
-81 (581, p. 98) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 98; (470, p. 39) Hall, *The Confederate Army of New Mexico,* 39; (285, p. 49) Hammons, *A History of El Paso County, Texas, to 1900,* 49
-82 (206, p. 94) Austerman, “The San Antonio-El Paso Mail, CSA,” 94
-83 (147, p. 46) Williams, *Texas’ Last Frontier,* 46
-84 (147, p. 48) Williams, *Texas’ Last Frontier,* 48; (206, pp. 95-6) Austerman, “The San Antonio-El Paso Mail, CSA,” 95-6
-85 (206, p. 93) Austerman, “The San Antonio-El Paso Mail, CSA,” 93; (80, p. 92) Wharton, *Texas Under Many Flags,* 92; (147, p. 41) Williams, *Texas’ Last Frontier,* 41
-86 (149, p. 55) Evans, *Confederate Military History,* Vol. XI: 55
-87 (80, p. 92) Wharton, *Texas Under Many Flags,* 92
-88 (158, p. 41) Thompson, *From Desert to Bayou,* 41; (149, p. 131) Evans, *Confederate Military History,* Vol. XI: 131
-
-West Texas remained a no-man’s land until 1866.
-
-89 (206, p. 95) Austerman, “The San Antonio-El Paso Mail, CSA,” 95
-90 (147, p. 49) Williams, *Texas’ Last Frontier,* 49
-91 (206, p. 95) Austerman, “The San Antonio-El Paso Mail, CSA,” 95
-92 (159, p. 349) Stephen B. Oates, Editor, *Rip Ford’s Texas by John Salmon Ford,* (Austin: University of Texas Press, 1963), 349; (224, p. 156) Jackson, *The Rising and Setting of the Lone Star Republic,* 156
-93 (582, p. 13) William L. Richter, *The Army in Texas During Reconstruction: 1865-1870,* (College Station, TX: Texas A&M University Press, 1987), 13
-94 (581, p. 84) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 84
-95 (260, p. 110) Jerry D. Thompson, “Drama the Desert: The Hunt for Henry Skillman in the Trans-Pecos, 1862-1864”, *Password 37,* (Fall 1992): 110
-
-Vicksburg Campaign, 1862-1963
-
-Vicksburg was the key to control of the Mississippi River.
-
-96 (807, p. 93) Douglas B. Ball, *Financial Failure and Confederate Defeat,* (Urbana and Chicago: University of Illinois Press, 1991), 93; (644, pp. 12, 39) William L. Shea and Terrence J. Winschel, *Vicksburg Is the Key: The Struggle for the Mississippi River,* (Lincoln and London: University of Nebraska Press, 2003), 12, 39
-97 (647, p. 118) Earl Schenck Miers, *The Web of Victory: Grant at Vicksburg,* (New York: Alfred A. Knopf, 1955), 118; (644, p. 60) Shea, *Vicksburg Is the Key,* 60
-98 (646, p. 479) Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton, Ohio: Morningside House, 1985), Vol. 1: 479
-99 (643, p. 184) Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton, Ohio: Morningside House, 1985), Vol. 1: 479
-100 (80, p. 90) Wharton, *Texas Under Many Flags,* 90; (341, p. 590) Alex Sweet and J. A. Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* (Hartford, Conn: SS Scranton & Co, 1883), 590
+[^75]: Hall, *The Confederate Army of New Mexico,* 33
+[^76]: Thompson, *Civil War in the Southwest,* xix, 119
+[^77]: Hall, *The Confederate Army of New Mexico,* 362
+[^78]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 78-9
+[^79]: Hammons, *A History of El Paso County, Texas, to 1900,* 49
+[^80]: Miss Mattie Jackson, *The Rising and Setting of the Lone Star Republic,* (San Antonio: n. p., 1926), 107; (470, p. 39) Hall, *The Confederate Army of New Mexico,* 39; (472, p. 125) Thompson, *Civil War in the Southwest,* 125
+[^81]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 98; (470, p. 39) Hall, *The Confederate Army of New Mexico,* 39; (285, p. 49) Hammons, *A History of El Paso County, Texas, to 1900,* 49
+[^82]: Austerman, “The San Antonio-El Paso Mail, CSA,” 94
+[^83]: Williams, *Texas’ Last Frontier,* 46
+[^84]: Williams, *Texas’ Last Frontier,* 48; (206, pp. 95-6) Austerman, “The San Antonio-El Paso Mail, CSA,” 95-6
+[^85]: Austerman, “The San Antonio-El Paso Mail, CSA,” 93; (80, p. 92) Wharton, *Texas Under Many Flags,* 92; (147, p. 41) Williams, *Texas’ Last Frontier,* 41
+[^86]: Evans, *Confederate Military History,* Vol. XI: 55
+[^87]: Wharton, *Texas Under Many Flags,* 92
+[^88]: Thompson, *From Desert to Bayou,* 41; (149, p. 131) Evans, *Confederate Military History,* Vol. XI: 131
+[^89]: Austerman, “The San Antonio-El Paso Mail, CSA,” 95
+[^90]: Williams, *Texas’ Last Frontier,* 49
+[^91]: Austerman, “The San Antonio-El Paso Mail, CSA,” 95
+[^92]: Stephen B. Oates, Editor, *Rip Ford’s Texas by John Salmon Ford,* (Austin: University of Texas Press, 1963), 349; (224, p. 156) Jackson, *The Rising and Setting of the Lone Star Republic,* 156
+[^93]: William L. Richter, *The Army in Texas During Reconstruction: 1865-1870,* (College Station, TX: Texas A&M University Press, 1987), 13
+[^94]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 84
+[^95]: Jerry D. Thompson, “Drama the Desert: The Hunt for Henry Skillman in the Trans-Pecos, 1862-1864”, *Password 37,* (Fall 1992): 110
+[^96]: Douglas B. Ball, *Financial Failure and Confederate Defeat,* (Urbana and Chicago: University of Illinois Press, 1991), 93; (644, pp. 12, 39) William L. Shea and Terrence J. Winschel, *Vicksburg Is the Key: The Struggle for the Mississippi River,* (Lincoln and London: University of Nebraska Press, 2003), 12, 39
+[^97]: Earl Schenck Miers, *The Web of Victory: Grant at Vicksburg,* (New York: Alfred A. Knopf, 1955),118; (644, p. 60) Shea, Vicksburg Is the Key, 60
+[^98]: Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton, Ohio: Morningside House, 1985), Vol. 1: 479
+[^99]: Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton, Ohio: Morningside House, 1985), Vol. 1: 479
+[^100]: Wharton, *Texas Under Many Flags,* 90; (341, p. 590) Alex Sweet and J. A. Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* (Hartford, Conn: SS Scranton & Co, 1883), 590
 101 (149), pp. 65, 131 Evans, *Confederate Military History,* Vol. XI: 65, 131
 102 (14) *San Antonio Light,* February 23, 1887
 103 (206, p. 95) Austerman, “The San Antonio-El Paso Mail, CSA,” 95
