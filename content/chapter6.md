@@ -393,88 +393,56 @@ Notes for Chapter 6
 [^98]: Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton, Ohio: Morningside House, 1985), Vol. 1: 479
 [^99]: Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton, Ohio: Morningside House, 1985), Vol. 1: 479
 [^100]: Wharton, *Texas Under Many Flags,* 90; (341, p. 590) Alex Sweet and J. A. Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* (Hartford, Conn: SS Scranton & Co, 1883), 590
-101 (149), pp. 65, 131 Evans, *Confederate Military History,* Vol. XI: 65, 131
-102 (14) *San Antonio Light,* February 23, 1887
-103 (206, p. 95) Austerman, “The San Antonio-El Paso Mail, CSA,” 95
-
-
-
-Thomas Rife Accompanied Waul’s Legion to Mississippi in October 1863
-
-104 (469, p. 119) Robert Hasskarl and Captain Leif R. Hasskarl, *Waul’s Texas Legion: 1862-1865,* (Ada, OK: self published, 1985), 119
-105 (969) Thomas Rife, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, National Archives and Records Administration, Roll 865
-106 (969) Thomas Rife, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, NARA, Roll 865
-107 (469, p. 116) Hasskarl, *Waul’s Texas Legion,* 116
-
-The Lake Providence Expedition, January to March 1863
-
-108 (581, pp. 314-5, 365) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 314-5, 365
-109 (644, pp. 60-3) Shea, *Vicksburg Is the Key,* 60-3
-110 (647, p. 107) Miers, *The Web of Victory,* 107
-111 (647, p. 93) Miers, *The Web of Victory,* 93
-112 (646, p. 478) Bearss, *The Campaign for Vicksburg,* Vol. 1: 478; (647, p. 92) Miers, *The Web of Victory,* 92
-113 (601, p. 58) Swanson, *Atlas of the Civil War Month by Month,* 58
-
-The Yazoo Pass Expedition of February to April 1863 failed.
-
-114 (646, p. 482) Bearss, *The Campaign for Vicksburg,* Vol. 1: 482; (581, pp. 364-8) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 364-8
-115 (601, p. 60) Swanson, *Atlas of the Civil War Month by Month,* 60; (644, p. 69) Shea and Winschel, *Vicksburg Is the Key,* 69
-116 (647, p. 110) Miers, *The Web of Victory,* 110; (646, p. 485) Bearss, *The Campaign for Vicksburg,* Vol. 1: 485
-117 (647, p. 111) Miers, *The Web of Victory,* 111; (646, p. 506) Bearss, *The Campaign for Vicksburg,* Vol. 1: 506
-118 (646, p. 507) Bearss, *The Campaign for Vicksburg,* Vol. 1: 507; (647, p. 114) Miers, *The Web of Victory,*114
-119 (643, p. 189) Ballard, Vicksburg, 189;(647, pp. 111-6) Miers, *The Web of Victory,* 111-6)
-120 (644, pp. 70-1) Shea, *Vicksburg Is the Key,* 70-1
-121 (581, p. 365) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 365; (469, p. 19) Hasskarl, *Waul’s Texas Legion,* 19;
-122 (643, p. 189) Ballard, *Vicksburg,* 189
-
-The Steele’s Bayou Expedition of March 1863 also failed.
-
-123 (647, p. 119) Miers, *The Web of Victory,* 119
-124 (644, p. 72) Shea, *Vicksburg Is the Key,* 72
-125 (646, pp. 554-5) Bearss, *The Campaign for Vicksburg,* Vol. 1: 554-5
-126 (644, p. 96) Shea, *Vicksburg Is the Key,* 96
-127 (646, p. 556) Bearss, *The Campaign for Vicksburg,* Vol. 1: 556
-128 (646, p. 561) Bearss, *The Campaign for Vicksburg,* Vol. 1: 561
-
-The Federal gunboats became stalled on Dear Creek.
-
-129 (647, p. 122) Miers, *The Web of Victory,* 122
-130 (646, p. 555) Bearss, *The Campaign for Vicksburg,* Vol. 1: 555
-131 (644, p. 74) Shea, *Vicksburg Is the Key,* 74
-132 (643, p. 186) Ballard, *Vicksburg,* 186
-133 (643, p. 186) Ballard, *Vicksburg,* 186
-134  (646, p. 559) Bearss, *The Campaign for Vicksburg,* Vol. 1: 559; (643, p. 186) Ballard, *Vicksburg,* 186
-135 (643, p. 187) Ballard, *Vicksburg,* 187
-136 (646, p. 566) Bearss, *The Campaign for Vicksburg,* Vol. 1: 566
-
-Union infantry rescued the trapped gunboats on Deer Creek.
-
-137 (646, p. 570) Bearss, *The Campaign for Vicksburg,* Vol. 1: 570
-138 (643, p. 187) Ballard, *Vicksburg,* 187
-139 (644, p. 74) Shea, *Vicksburg Is the Key,* 74; (646,p. 570) Bearss, *The Campaign for Vicksburg,* Vol. 1: 570
-140 (643, p. 188) Ballard, *Vicksburg,* 188
-141 (646, p. 577) Bearss, *The Campaign for Vicksburg,* Vol. 1: 577
-142 (644, p. 75) Shea, *Vicksburg Is the Key,* 75; (581, p. 367) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 367
-143 (704) John Tourette, *Plantation Map of Carroll Parish, LA,* www.usgwarchives.org/maps/louisiana/parishmap/carrolllatourette1848.jpg: accessed Nov12, 2012
-
-
-Waul’s Legion was captured at Vicksburg.
-
-144 (469, p. 20) Hasskarl, *Waul’s Texas Legion,* 20
-145 (469, p. 56) Hasskarl, *Waul’s Texas Legion,* 56
-146 (645, p. 263) Richard, *The Defense of Vicksburg,* 263
-
-Confederate soldiers were cared for in hospitals.
-
-147 (479, p. 26) Carol C. Green, *Chimborazo: The Confederacy’s Largest Hospital,* (Knoxville: The University of Tennessee Press, 2004), 26
-148 (480, pp. 163, 179) Glenna R. Schroeder-Lein, *Confederate Hospitals on the Move: Samuel H Stout and the Army of Tennessee,* (Columbia, SC: University of South Carolina Press, 1994), 163, 179
-
-36th Regiment, Texas Cavalry, 1863-1865
-
-Many Texans expected a short war.
-
-149 (80, p. 85) Wharton, *Texas Under Many Flags,* 85
-150 (341, p. 590) Sweet and Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* 590; (780, p. 30) James Farber, *Texas, C.S.A.: A Spotlight on Disaster,* (New York and Texas: The Jackson Co., 1947), 30
+[^101]: Evans, *Confederate Military History,* Vol. XI: 65, 131
+[^102]: *San Antonio Light,* February 23, 1887
+[^103]: Austerman, “The San Antonio-El Paso Mail, CSA,” 95
+[^104]: Robert Hasskarl and Captain Leif R. Hasskarl, *Waul’s Texas Legion: 1862-1865,* (Ada, OK: self published, 1985), 119
+[^105]: Thomas Rife, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, National Archives and Records Administration, Roll 865
+[^106]: Thomas Rife, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, NARA, Roll 865
+[^107]: Hasskarl, *Waul’s Texas Legion,* 116
+[^108]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 314-5, 365
+[^109]: Shea, *Vicksburg Is the Key,* 60-3
+[^110]: Miers, *The Web of Victory,* 107
+[^111]: Miers, *The Web of Victory,* 93
+[^112]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 478; (647, p. 92) Miers, *The Web of Victory,* 92
+[^113]: Swanson, *Atlas of the Civil War Month by Month,* 58
+[^114]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 482; (581, pp. 364-8) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 364-8
+[^115]: Swanson, *Atlas of the Civil War Month by Month,* 60; (644, p. 69) Shea and Winschel, *Vicksburg Is the Key,* 69
+[116]: Miers, *The Web of Victory,* 110; (646, p. 485) Bearss, *The Campaign for Vicksburg,* Vol. 1: 485
+[117]: Miers, *The Web of Victory,* 111; (646, p. 506) Bearss, *The Campaign for Vicksburg,* Vol. 1: 506
+[118]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 507; (647, p. 114) Miers, *The Web of Victory,* 114
+[119]: Ballard, Vicksburg, 189;(647, pp. 111-6) Miers, *The Web of Victory,* 111-6)
+[120]: Shea, *Vicksburg Is the Key,* 70-1
+[121]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 365; (469, p. 19) Hasskarl, *Waul’s Texas Legion,* 19;
+[122]: Ballard, *Vicksburg,* 189
+[123]: Miers, *The Web of Victory,* 119
+[124]: Shea, *Vicksburg Is the Key,* 72
+[125]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 554-5
+[126]: Shea, *Vicksburg Is the Key,* 96
+[127]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 556
+[128]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 561
+[129]: Miers, *The Web of Victory,* 122
+[130]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 555
+[131]: Shea, *Vicksburg Is the Key,* 74
+[132]: Ballard, *Vicksburg,* 186
+[133]: Ballard, *Vicksburg,* 186
+[134]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 559; (643, p. 186) Ballard, *Vicksburg,* 186
+[135]: Ballard, *Vicksburg,* 187
+[136]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 566
+[137]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 570
+[138]: Ballard, *Vicksburg,* 187
+[139]: Shea, *Vicksburg Is the Key,* 74; (646,p. 570) Bearss, *The Campaign for Vicksburg,* Vol. 1: 570
+[140]: Ballard, *Vicksburg,* 188
+[141]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 577
+[142]: Shea, *Vicksburg Is the Key,* 75; (581, p. 367) Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 367
+[143]: John Tourette, *Plantation Map of Carroll Parish, LA,* www.usgwarchives.org/maps/louisiana/parishmap/carrolllatourette1848.jpg: accessed Nov12, 2012
+[144]: Hasskarl, *Waul’s Texas Legion,* 20
+[145]: Hasskarl, *Waul’s Texas Legion,* 56
+[146]: Richard, *The Defense of Vicksburg,* 263
+[147]: Carol C. Green, *Chimborazo: The Confederacy’s Largest Hospital,* (Knoxville: The University of Tennessee Press, 2004), 26
+[148]: Glenna R. Schroeder-Lein, *Confederate Hospitals on the Move: Samuel H Stout and the Army of Tennessee,* (Columbia, SC: University of South Carolina Press, 1994), 163, 179
+[149]: Wharton, *Texas Under Many Flags,* 85
+[150]: Sweet and Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* 590; (780, p. 30) James Farber, *Texas, C.S.A.: A Spotlight on Disaster,* (New York and Texas: The Jackson Co., 1947), 30
 151 (80, p. 90) Wharton, *Texas Under Many Flags,* 90; (341, p. 590) Sweet and Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* 590
 152 (72, p. 141) Pike, *Scout and Ranger being the Personal Adventures of James Pike,* 141
 153 (580, p. 101) Smith, *Frontier Defense in Texas,* 101; (636, p. 265) David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton: Texas State Historical Association, 2010), 265
