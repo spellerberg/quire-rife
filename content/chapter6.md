@@ -443,116 +443,82 @@ Notes for Chapter 6
 [148]: Glenna R. Schroeder-Lein, *Confederate Hospitals on the Move: Samuel H Stout and the Army of Tennessee,* (Columbia, SC: University of South Carolina Press, 1994), 163, 179
 [149]: Wharton, *Texas Under Many Flags,* 85
 [150]: Sweet and Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* 590; (780, p. 30) James Farber, *Texas, C.S.A.: A Spotlight on Disaster,* (New York and Texas: The Jackson Co., 1947), 30
-151 (80, p. 90) Wharton, *Texas Under Many Flags,* 90; (341, p. 590) Sweet and Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* 590
-152 (72, p. 141) Pike, *Scout and Ranger being the Personal Adventures of James Pike,* 141
-153 (580, p. 101) Smith, *Frontier Defense in Texas,* 101; (636, p. 265) David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton: Texas State Historical Association, 2010), 265
-154 (574) Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, Records of the Department of Veteran’s Affairs, NARA RG 15
-155 (580, p. 136) Smith, *Frontier Defense in Texas,* 136
-156  (969) Thomas Rife, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, NARA, Roll 865
-183 (480, p. 137) Schroeder-Lein, *Confederate Hospitals on the Move,* 137
-
-Thomas Rife enlisted in Col. Peter Wood’s Regiment.
-
-157 (101) Thomas Rife Record, 36th Texas Cavalry Regiment, Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Texas, M323, Roll 175, RG 109, NARA; (14) *The San Antonio Light,* February 23, 1887
-158 (575) Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15
-159 (677) Samuel Lyte’s Record, 36th Texas Cavalry Regiment, M323, Roll 174, , RG 109, NARA
-160 (1005) Thirty-Sixth Texas Cavalry; Woods, Peter Cavanaugh, *Handbook of Texas
-Online,* www.tshaonline.org/handbook/online/articles, accessed December 22, 2013
-161 (130, p. 168) Janet B. Hewett, Editor, *The Roster of Confederate Soldiers, 1861-1865,* (Wilmington, NC: Broadfoot Publishing Company, 1996), Vol. XIII: 168
-162  (17) Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
-163 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
-
-Capt. Skillman’s Spy Company
-
-Henry Skillman was an employee of George Giddings
-
-164 (138, p. 180) Austerman, *Sharps Rifles and Spanish Mules,* 180
-
-
-165 (202, p. 39) William W. Mills, *Forty Years at El Paso, 1858-1898, Recollections of War, Politics, Adventure, Events, Narratives, Sketches, Etc.,* (El Paso, Texas, C. Hertzog, 1962), 39
-166 (411, p. 121) Jack C. Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 1850-1861,” *West Texas Historical Association Year Book 47,* (1971), 121; (775) *The Charleston Mercury* (Charleston, SC), January 16, 1862
-
-Henry Skillman stayed in west Texas.
-
-167 (206, p. 97) Austerman, “The San Antonio-El Paso Mail, CSA,” 97
-168 (285, pp. 49,87) Hammons, *A History of El Paso County, Texas, to 1900,* 49,87
-169 (138, p. 190) Austerman, *Sharps Rifles and Spanish Mules,* 190
-170 (260, p. 109) Thompson, “Drama in the Desert,” 109
-171 (773)*The Rocky Mountain News* (Denver, Co.), May 18, 1864
-172 (206, p. 97) Austerman, “The San Antonio-El Paso Mail, CSA,” 97
-173 (206, p. 95) Austerman, “The San Antonio-El Paso Mail, CSA,” 95
-174 (534, p. 605) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vols. 15, 605
-175 (260, p. 111) Thompson, “Drama in the Desert,” 111
-176 (534, p. 607) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vols. 15, 607		
-
-Federal commanders in New Mexico feared a second invasion.
-
-177 (260, p. 110) Thompson, “Drama in the Desert,” 110
-178 (260, p. 111) Thompson, “Drama the Desert,” 111; (534, p. 606) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 606
-179 (534, p. 377) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 377
-180 (534, p. 426) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 15, 426
-181 (260, p. 113) Thompson, “Drama in the Desert,” 113
-182 (407) Letter from Col. Joseph West (USA) to Henry Skillman, Unfiled Papers and Slips Belonging in Confederate Service Records, M347, Roll 364, RG 109
-183 (534, p. 426) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 426
-
-In the fall of 1863 the Federal army invaded the Texas Gulf Coast.
-
-184 (188, p. 88) Alexander Edwin Sweet, *Alex Sweet’s Texas: The Lighter Side of Lone Star History,* (Austin: University of Texas Press, 1986), 88
-185 (582, p. 24) William L. Richter, The Army in Texas During Reconstruction, 1865-1870, (College Station, Texas, Texas A&M University Press, 1987), 24; (780, 210) Farber, Texas, C,S.A., 210
-
-186 (582, p. 12) Richter, *The Army in Texas During Reconstruction,* 12; (780, p. 114) Farber, Texas, C.S.A., 114
-187 (534, p. 62) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 50, 62
-188 (80, p. 95) Wharton, *Texas Under Many Flags,* 95
-189 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
-190 (149, p. 120) Evans, *Confederate Military History,* Vol. XI, 120; (80, p. 96) Wharton, *Texas Under Many Flags,* 96
-191 (149, p. 120) Evans, *Confederate Military History,* Vol. XI: 120
-192 (149, p. 119) Evans, *Confederate Military History,* Vol. XI: 119
-193 (780, p. 250) Farber, *Texas, C.S.A.,* 250
-194 (149, p. 65) Evans, *Confederate Military History,* Vol. XI: 65
-195 (17) Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
-196 (780, p. 204) Farber, *Texas, C.S.A.,* 204
-197 (260, p. 117) Thompson, “Drama in the Desert,” 117
-198 (780, pp. 91-2, 119) Farber, *Texas, C.S.A.,* 91-2, 119
-199 (159, p. 355) Oates, *Rip Ford’s Texas by John Salmon Ford,* 355; (218, p. 131) Florence Johnson Scott, *Old Rough and Ready on the Rio Grande,* (Waco, Texas: Texian Press, 1969), 131
-200 (159, p. 342) Oates, *Rip Ford’s Texas by John Salmon Ford,* 342; (431, p. 22) August Santleben, *A Texas Pioneer,* (New York and Washington: The Neale Publishing Co, 1910), 22
-201 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
-202 (17) Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
-
-Henry Skillman commanded a spy company.
-
-203 (817, p. 57) Journal of Arizona History, Vol. 33, No. 1, Spring 1992, 57
-204 (17) Letter, to Col A G Dickinson, November 17, 1863, Combined Service Records Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, RG 109, NARA
-205 (957) United States War Department, Records of Confederate Soldiers who served during the Civil War, RG 109, Confederate Papers Relating to Citizens or Business Firms, 1861-65, M346, roll 941
-206 (260, p. 109) Thompson, “Drama the Desert,” 109; (534, p. 1033) United States War Department, The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1 Vol. 15: 1033
-207 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
-
-Thomas Rife was assigned to Capt. Skillman’s company of scouts.
-
-208 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
-209 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
-210(613, wrong number) San Antonio to El Paso Route, Map # 1004J, *Map Collection,* ARIS-TSLAC    
-211 (534) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 15: 1033
-
-Federal troops attacked Skillman’s company.
-
-212 (467, p. 151) Carlysle Graham Raht, *The Romance of Davis Mountains and Big Bend Country: A History,* (El Paso: The Rahtbooks Company, 1919), 151
-213 (261) Report of Capt. A.H. French to Brig. Gen. James H. Carleton, May 5,1864 Commander, Entry 3165, Letters Received, File 18F 1864, Records of the United States Army Continental Command, 1821-1920, RG 393, NARA
-214 (262, pp. 199-201) Roy L. Swift and Leavitt Corning Jr., *Three Roads to Chihuahua: The Great Wagon Roads that Opened the Southwest, 1823-1883,* (Austin: Eakin Press, 1988), 199-201; (534, p. 880) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 34: 880
-215 (261) Capt. A.H. French to Brig. Gen. James H. Carleton, May 5,1864
-216 (14) *The San Antonio Light,* February 23, 1887
-217 (681) *San Antonio Express,* August 11, 1881
-218 (262, p. 356, note 60) Swift and Leavitt Corning Jr., *Three Roads to Chihuahua,* 356, note 60
-
-Confederate soldiers in Texas were paroled after the surrender.
-
-219 (582, p. 13) Richter, *The Army in Texas During Reconstruction,* 13
-220 (149, p. 140) Evans, *Confederate Military History,* Vol. XI: 140
-221 (677) Samuel Lytle Record, 36th Texas Cavalry Regiment, Combined Service Record of Confederate Soldiers from Texas Units, NARA M323
-222 (101) Thomas Rife Record, 36th Texas Cavalry Regiment
-223 (781, pp. i-iii) Anonymous, *Special Presidential Pardons for Confederate Soldiers: A listing of former Confederate soldiers requesting full pardon from President Andrew Johnson,* Mountain Press, (Signal Mountain, Tennessee: Mountain Press, 1999), i-iii
-224 (418, pp. 578-80) United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* , Series 1-Volume 1: 578-580
-225 (636, p. 258) McDonald, *Jose Antonio Navarro,* 258
-226 (70, p. 35) Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 35; (218, p. 175) Scott, *Old Rough and Ready on the Rio Grande, 175
-227 (581, p. 313) Jay Wertz and Edwin C. Bearss, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 313; (601, p. 112) Swanson, *Atlas of the Civil War Month by Month,* 112
-228 (1412) *Houston Tri-Weekly Telegraph,* June 30, 1865
-229 (781, p. 149) Anonymous, *Special Presidential Pardons for Confederate Soldiers: A listing of former Confederate soldiers requesting full pardon from President Andrew Johnson,* 149
+[^151]: Wharton, *Texas Under Many Flags,* 90; (341, p. 590) Sweet and Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* 590
+[^152]: Pike, *Scout and Ranger being the Personal Adventures of James Pike,* 141
+[^153]: Smith, *Frontier Defense in Texas,* 101; (636, p. 265) David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton: Texas State Historical Association, 2010), 265
+[^154]: Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, Records of the Department of Veteran’s Affairs, NARA RG 15
+[^155]: Smith, *Frontier Defense in Texas,* 136
+[^156]: Thomas Rife, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, NARA, Roll 865
+[^157]: Thomas Rife Record, 36th Texas Cavalry Regiment, Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Texas, M323, Roll 175, RG 109, NARA; (14) *The San Antonio Light,* February 23, 1887
+[^158]: Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15
+[^159]: Samuel Lyte’s Record, 36th Texas Cavalry Regiment, M323, Roll 174, , RG 109, NARA
+[^160]: Thirty-Sixth Texas Cavalry; Woods, Peter Cavanaugh, *Handbook of Texas Online,* www.tshaonline.org/handbook/online/articles, accessed December 22, 2013
+[^161]: Janet B. Hewett, Editor, *The Roster of Confederate Soldiers, 1861-1865,* (Wilmington, NC: Broadfoot Publishing Company, 1996), Vol. XIII: 168
+[^162]: Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
+[^163]: Thomas Rife Record, 36th Texas Cavalry Regiment
+[^164]: Austerman, *Sharps Rifles and Spanish Mules,* 180
+[^165]: William W. Mills, *Forty Years at El Paso, 1858-1898, Recollections of War, Politics, Adventure, Events, Narratives, Sketches, Etc.,* (El Paso, Texas, C. Hertzog, 1962), 39
+[^166]: Jack C. Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 1850-1861,” *West Texas Historical Association Year Book 47,* (1971), 121; (775) *The Charleston Mercury* (Charleston, SC), January 16, 1862
+[^167]: Austerman, “The San Antonio-El Paso Mail, CSA,” 97
+[^168]: Hammons, *A History of El Paso County, Texas, to 1900,* 49,87
+[^169]: Austerman, *Sharps Rifles and Spanish Mules,* 190
+[^170]: Thompson, “Drama in the Desert,” 109
+[^171]: *The Rocky Mountain News* (Denver, Co.), May 18, 1864
+[^172]: Austerman, “The San Antonio-El Paso Mail, CSA,” 97
+[^173]: Austerman, “The San Antonio-El Paso Mail, CSA,” 95
+[^174]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vols. 15, 605
+[^175]: Thompson, “Drama in the Desert,” 111
+[^176]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vols. 15, 607		
+[^177]: Thompson, “Drama in the Desert,” 110
+[^178]: Thompson, “Drama the Desert,” 111; (534, p. 606) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 607
+[^179]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 377
+[^180]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 15, 426
+[^181]: Thompson, “Drama in the Desert,” 113
+[^182]: Letter from Col. Joseph West (USA) to Henry Skillman, Unfiled  Papers and Slips Belonging in Confederate Service Records, M347, Roll 364, RG 109
+[^183]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 426
+[^184]: Alexander Edwin Sweet, *Alex Sweet’s Texas: The Lighter Side of Lone Star History,* (Austin: University of Texas Press, 1986), 88
+[^185]: William L. Richter, The Army in Texas During Reconstruction, 1865-1870, (College Station, Texas, Texas A&M University Press, 1987), 24; (780, 210) Farber, Texas, C,S.A., 210
+[^186]: Richter, *The Army in Texas During Reconstruction,* 12; (780, p. 114) Farber, Texas, C.S.A., 114
+[^187]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 50, 62
+[^188]: Wharton, *Texas Under Many Flags,* 95
+[^189]: Thomas Rife Record, 36th Texas Cavalry Regiment
+[^190]: Evans, *Confederate Military History,* Vol. XI, 120; (80, p. 96) Wharton, *Texas Under Many Flags,* 96
+[^191]: Evans, *Confederate Military History,* Vol. XI: 120
+[^192]: Evans, *Confederate Military History,* Vol. XI: 119
+[^193]: Farber, Texas, C.S.A., 250
+[^194]: Evans, *Confederate Military History,* Vol. XI: 65
+[^195]: Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
+[^196]: Farber, *Texas, C.S.A.,* 204
+[^197]: Thompson, “Drama in the Desert,” 117
+[^198]: Farber, *Texas, C.S.A.,* 91-2, 119
+[^199]: Oates, *Rip Ford’s Texas by John Salmon Ford,* 355; (218, p. 131) Florence Johnson Scott, *Old Rough and Ready on the Rio Grande,* (Waco, Texas: Texian Press, 1969), 131
+[^200]: Oates, *Rip Ford’s Texas by John Salmon Ford,* 342; (431, p. 22) August Santleben, *A Texas Pioneer,* (New York and Washington: The Neale Publishing Co, 1910), 22
+[^201]: Thomas Rife Record, 36th Texas Cavalry Regiment
+[^202]: Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
+[^203]: Journal of Arizona History, Vol. 33, No. 1, Spring 1992, 57
+[^204]: Letter, to Col A G Dickinson, November 17, 1863, Combined Service Records Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, RG 109, NARA
+[^205]: United States War Department, Records of Confederate Soldiers who served during the Civil War, RG 109, Confederate Papers Relating to Citizens or Business Firms, 1861-65, M346, roll 941
+[^206]: Thompson, “Drama the Desert,” 109; (534, p. 1033) United States War Department, The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1 Vol. 15: 1033
+[^207]: Thomas Rife Record, 36th Texas Cavalry Regiment
+[^208]: Thomas Rife Record, 36th Texas Cavalry Regiment
+[^209]: Thomas Rife Record, 36th Texas Cavalry Regiment
+[^210]: San Antonio to El Paso Route, Map # 1004J, *Map Collection,* ARIS-TSLAC    
+[^211]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 15: 1033
+[^212]: Carlysle Graham Raht, *The Romance of Davis Mountains and Big Bend Country: A History,* (El Paso: The Rahtbooks Company, 1919), 151
+[^213]: Report of Capt. A.H. French to Brig. Gen. James H. Carleton, May 5,1864 Commander, Entry 3165, Letters Received, File 18F 1864, Records of the United States Army Continental Command, 1821-1920, RG 393, NARA
+[^214]: Roy L. Swift and Leavitt Corning Jr., *Three Roads to Chihuahua: The Great Wagon Roads that Opened the Southwest, 1823-1883,* (Austin: Eakin Press, 1988), 199-201; (534, p. 880) United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 34: 880
+[^215]: Capt. A.H. French to Brig. Gen. James H. Carleton, May 5,1864
+[^216]: The San Antonio Light, February 23, 1887
+[^217]: *San Antonio Express,* August 11, 1881
+[^218]: Swift and Leavitt Corning Jr., *Three Roads to Chihuahua,* 356, note 60
+[^219]: Richter, *The Army in Texas During Reconstruction,* 13
+[^220]: Evans, *Confederate Military History,* Vol. XI: 140
+[^221]: Samuel Lytle Record, 36th Texas Cavalry Regiment, Combined Service Record of Confederate Soldiers from Texas Units, NARA M323
+[^222]: Thomas Rife Record, 36th Texas Cavalry Regiment
+[^223]: Anonymous, *Special Presidential Pardons for Confederate Soldiers: A listing of former Confederate soldiers requesting full pardon from President Andrew Johnson,* Mountain Press, (Signal Mountain, Tennessee: Mountain Press, 1999), i-iii
+[^224]: United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* , Series 1-Volume 1: 578-580
+[^225]: McDonald, *Jose Antonio Navarro,* 258
+[^226]: Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 35; (218, p. 175) Scott, *Old Rough and Ready on the Rio Grande,* 175
+[^227]: Jay Wertz and Edwin C. Bearss, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 313; (601, p. 112) Swanson, *Atlas of the Civil War Month by Month,* 112
+[^228]: *Houston Tri-Weekly Telegraph,* June 30, 1865
+[^229]: Anonymous, *Special Presidential Pardons for Confederate Soldiers: A listing of former Confederate soldiers requesting full pardon from President Andrew Johnson,* 149
