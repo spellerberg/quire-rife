@@ -12,11 +12,11 @@ type: essay
 
 After the surrender of the last Confederate army on May 26, 1865,[^1] up to 2,000 Confederate officers and soldiers, including Texas Governor Pendleton Murrah, fled to Mexico.[^2] Law and order started to break down without these leaders.[^3]
 
-During summer and fall of 1865, the postal service became very unreliable.[^4] Some private express operations were carrying mail but there was no scheduled mail service between San Antonio and the upper Rio Grande Valley. Indian attacks along the frontier continued unabated[^5] because there were no troops in place to protect travelers on the West Texas roads.[^6]
+During summer and fall of 1865, the postal service became very unreliable.[^4] Some private express operations were carrying mail but there was no scheduled mail service between San Antonio and the upper Rio Grande Valley. Indian attacks along the frontier continued unabated;[^5] there were no troops in place to protect travelers on the West Texas roads.[^6]
 
 ### Mail service resumed in 1866.
 
-Bethel Coopwood was the first contractor to reopen mail service between San Antonio and El Paso after the Civil War.[^7] Bethel Coopwood began his enterprise as a freight hauler between San Antonio and El Paso and Chihuahua. The San Antonio Ledger, in July, 1866, called the mail company the “Southern Overland Stage and Express Company.” 8(1417) The first mail train left San Antonio on April 24, accompanied by forty mounted men. After crossing the Pecos River near the deserted Fort Lancaster, the party was attacked by Chief Espejo and José Cigarito and a large war party of Indians. Many of the stage escorts were armed with repeating rifles. The Indians were not familiar with these weapons and were driven off. This delivery was the first mail to arrive in El Paso from San Antonio in nearly four years.[^9]
+Bethel Coopwood was the first contractor to reopen mail service between San Antonio and El Paso after the Civil War.[^7] Bethel Coopwood began his enterprise as a freight hauler between San Antonio and El Paso and Chihuahua. The San Antonio Ledger, in July, 1866, called the mail company the “Southern Overland Stage and Express Company.”[^8] The first mail train left San Antonio on April 24, accompanied by forty mounted men. After crossing the Pecos River near the deserted Fort Lancaster, the party was attacked by Chief Espejo and José Cigarito and a large war party of Native American warriors. Many of the stage escorts were armed with repeating rifles. The Indians were not familiar with these weapons and were easily driven off. This delivery was the first mail to arrive in El Paso from San Antonio in nearly four years.[^9]
 
 In November 1866, Coopwood transferred the stage coach property to Frederick A. Sawyer.[^10] James Holliday supervised the transition and became an agent of the new company.[^11] Sawyer’s contract called for three mail trains per week between San Antonio and El Paso.[^12]
 
@@ -104,128 +104,92 @@ Freighters who hauled merchandise between San Antonio and the Rio Grande Valley 
 
 Notes for Chapter 7
 
-[^1]: William L. Richter, The Army in Texas During Reconstruction: 1865-1870, (College Station, TX: Texas A&M University Press, 1987), 13
-[^2]: Mark Swanson, Atlas of the Civil War Month by Month: Major Battles and Troop Movements, (Athens & London: The University of Georgia Press, 2004), 112
-[^3]: W. C. Nunn, Texas Under The Carpetbaggers, (Austin: University of Texas Press, 1962), 3; (582) Richter, The Army in Texas During Reconstruction, 13
-[^4]: Wayne R. Austerman, Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881, (College Station, TX: Texas A & M University Press, 1985), 196
-[^5]: Austerman, Sharps Rifles and Spanish Mules, 239; (582) Richter, The Army in Texas During Reconstruction, 71
-[^6]: Thomas Yoseloff, editor, Confederate Military History Vol. 11, (New York: Thomas Yoseloff, New York, 1962), 141; (582, pp. 27,150) Richter, The Army in Texas During Reconstruction, 27, 150
-[^7]: Austerman, Sharps Rifles and Spanish Mules, 200: (500, p. fig. 25) Robert H. Thonhoff, San Antonio Stage Lines 1847-1881, (El Paso: Texas Western Press, University of Texas at El Paso, 1971), fig. 25
-[^8]: *The Galveston News,* July 26, 1866
-[^9]: Austerman, Sharps Rifles and Spanish Mules, 202
-[^10]: Austerman, Sharps Rifles and Spanish Mules, 204
-[^11]: Austerman, Sharps Rifles and Spanish Mules, 210
-[^12]: Carlysle Graham Raht, Romance of Davis Mountains and Big Bend Country, A History, (El Paso: The Rahtbooks Company, 1919), 157
-[^13]: Williams, Texas’ Last Frontier, 68
-[^14]: Williams, Texas’ Last Frontier, 83
-[^15]: Raht, Romance of Davis Mountains and Big Bend Country, A History, 157
-[^16]: Albert D. Richardson, Beyond the Mississippi: From the Great River to the Great Ocean, 1857-1867, (American Publishing Company, Hartford, Conn 1867,) 228
-[^17]: Clayton W. Williams, Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895, (College Station, TX: Texas A & M University Press, 1982), 68; (741) San Antonio Express, (San Antonio, Tex.), October 15, 1867
-[^18]: Williams, Texas’ Last Frontier, 86
-[^19]: T. S. Dennis and Mrs. T. S. Dennis, Life Of F. M. Buckelew, The Indian Captive As Related by Himself, (Bandera, TX: Hunter’s Printing House, 1925), 78
-
-
-20 (147, p. 82) Williams, Texas’ Last Frontier, 82
-21 (741) San Antonio Express, (San Antonio, Tex.), October 15, 1867
-22 (138, p. 211) Austerman, Sharps Rifles and Spanish Mules, 211; (739) San Antonio Express, (San Antonio, Tex.), October 21, 1867)
-23 (147, p. 90) Williams, Texas’ Last Frontier, 90
-24 (138, p. 212) Austerman, Sharps Rifles and Spanish Mules, 212
-25 (147, p. 126) Williams, Texas’ Last Frontier, 104, 126
-26 (138, p. 213) Austerman, Sharps Rifles and Spanish Mules, 213
-27 (562, p. 228) Richardson, Beyond the Mississippi, 228
-28 (500, fig. 30) Thonhoff, San Antonio Stage Lines 1847-1881, fig. 30
-
-The stage company expanded its operations in West Texas in 1869
-
-29 (147, p. 122) Williams, Texas’ Last Frontier, 122; (736) San Antonio Express, January 7, 1871
-30 (138, p. 273) Austerman, Sharps Rifles and Spanish Mules, 273; (562, p. 235) Richardson, Beyond the Mississippi, 235
-
-Thomas Rife worked for the stage line until 1872
-
-31 (465, p. 305) George Wythe Baylor, Into the Far, Wild Country: True Tales of the Old Southwest, (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 305
-32 (138, p. 14) Austerman, Sharps Rifles and Spanish Mules, 14
-33 (476, pp. 68-9) Evelyn M. Carrington, editor, Women in Early Texas, (Austin: Jenkins Publishing Company, 1975), 68-9; (553, pp. 341-3) James L. Rock and W. I. Smith, Southern & Western Texas Guide for 1878, (St. Louis, MO: A. H. Granger Publishers, 1878), 341-3
-34 (70, p. 81) Vinton Lee James, Frontier and Pioneer Recollections: Recollections of the Early Days in San Antonio and West Texas, (San Antonio: Artes Graficas, 1938), 81
-
-2. Pecos County, 1870-1875
-
-Capt. Rife remained in West Texas until 1872
-
-35 (408, p. 381) George G. Smith, The Life and Times of George Foster Pierce, D.D., LL.D, (Sparta, GA: Hancock Publishing Co., 1888), 381
-36 (500, fig. 25) Thonhoff, San Antonio Stage Lines 1847-1881, fig. 25
-37 (147, p. 68) Williams, Texas’ Last Frontier, 68
-38 (147, p. 91) Williams, Texas’ Last Frontier, 91
-39 (562, p. 234) Richardson, Beyond the Mississippi, 234
-40 (147, p. 97) Williams, Texas’ Last Frontier, 97
-41 (562, p. 233) Richardson, Beyond the Mississippi, 233
-42 (147, p. 431) Williams, Texas’ Last Frontier, 126; (431, p. 145) August Santleben, A Texas Pioneer, (New York and Washington: The Neale Publishing Co, 1910), 145
-43 (500, p. 157) Thonhoff, San Antonio Stage Lines 1847-1881, fig. 30; (656) Nunn, Texas Under The Carpetbaggers, 157
-
-Thomas Rife was qualified to hold public office.
-
-44 (101) Thomas Rife Record, 36th Texas Cavalry Regiment, Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Texas, M323, Roll 175, Records of Confederate Soldiers Who Served During the Civil War, RG109, National Archives and Records Administration
-45 (218, p. 175) Florence Johnson Scott, Old Rough and Ready on the Rio Grande, (Waco, TX: Texian Press, 1969), 175; (418, pp. 578-80) United States War Department, The War of the Rebellion: a compilation of the official records of the Union and Confederate armies, Series 1-Volume1: 578-80
-46 (636, p. 258) David McDonald, Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas, (Denton, TX: Texas State Historical Association, 2010), 258
-47 (582, p. 99) Richter, The Army in Texas During Reconstruction, 99; (656, p. 21) Nunn, Texas Under The Carpetbaggers, 21
-48 (582, p. 185) Richter, The Army in Texas During Reconstruction, 185; (636, pp. 261-2) McDonald, Jose Antonio Navarro, 261-2
-49 (656, p. 21) Nunn, Texas Under The Carpetbaggers, 21
-50 (781) Anonymous, Special Presidential Pardons for Confederate Soldiers: A listing of former Confederate soldiers requesting full pardon from President Andrew Johnson, (Signal Mountain, TN: Mountain Press, 1999)
-51 (780, p. 247) James Farber, Texas, C.S.A.: A Spotlight on Disaster, (New York & Texas: The Jackson Co., 1947), 247
-52 (582, p. 48) Richter, The Army in Texas During Reconstruction, 48
-53 (656, p. 16) Nunn, Texas Under The Carpetbaggers, 16
-54 (582, p. 165) Richter, The Army in Texas During Reconstruction, 165
-55 (285, p. 54) Hammons, A History of El Paso County, Texas, to 1900, 54
-56 (71, p. 54) N.A. Jennings, A Texas Ranger, (Dallas: Turner Co., 1930), 54; (335, pp. 46, 74) King, Texas 1874, 46, 74; (285, p. 55) Hammons, A History of El Paso County, Texas, to 1900, 55
-57 (14) San Antonio Light, February 23, 1887
-58 (1414) El Paso International Daily News, May 23, 1891
-
-West Texas forts were re-occupied by the US Army beginning in 1867.
-
-59 (147, p. 81) Williams, Texas’ Last Frontier, 81
-60 (147, p. 146) Williams, Texas’ Last Frontier, 82, 90, 146
-61 (369, p. 196) Raht, Romance of Davis Mountains and Big Bend Country, A History, 196
-62 (502) Hans Peter Mareus Neilsen, The Laws of Texas, 1822-1897, Vol. 7, 1898, http://texashistory.unt.edu/ark:/67531/metapth6732: accessed May 23, 2011
-63 (285, p. 55) Hammons, A History of El Paso County, Texas, to 1900, 55
-64 (582, p. 193) Richter, The Army in Texas During Reconstruction, 193
-65 (147, p. 58) Williams, Texas’ Last Frontier, 58
-66 (582, p. 159) Richter, The Army in Texas During Reconstruction, 159
-67 (582, p. 165) Richter, The Army in Texas During Reconstruction, 1657
-The Legislature created Pecos County in 1870
-
-68 (147, p. 127) Williams, Texas’ Last Frontier, 127
-69 (147, p. 128) Williams, Texas’ Last Frontier, 128; (332, p. 106) Daggett, editor, Pecos County History, 106
-70 (147, p. 92) Williams, Texas’ Last Frontier, 92
-71 (147, p. 127) Williams, Texas’ Last Frontier, 127
-
-Thomas Rife was elected Justice of the Peace in 1872
-
-72(147, p. 154) Williams, Texas’ Last Frontier, 154; (297) Elected and Appointed Local Officers, (1870-1878), Reel #5, Texas Secretary of State election registers (a.k.a. appointment registers), Archives and Information Services and Texas Sate Library and Archives Commission; (332, p. 107) Daggett, editor, Pecos County History, 107
-73 (252) Pecos County Election Returns, 1872, State of Texas election returns (county-by-county), Elections Division, Texas Secretary of State. ARIS-TSLAC.
-74 (252) Pecos County Election Returns, 1872, State of Texas election returns (county-by-county), Elections Division, Texas Secretary of State. ARIS-TSLAC.
-75 (474, pp. 56-8) Frank S. Gray, Pioneering in Southwest Texas: True Stories of Early Day Experiences in Edwards and Adjoining Counties, (Austin: The Steck Company, 1949), 56-8
-76 (656, p. 113) Nunn, Texas Under The Carpetbaggers, 110
-77 (656, p. 113) Nunn, Texas Under The Carpetbaggers, 113
-78 (290) Pecos County Election Returns, Special Term 1875, State of Texas election returns (county-by-county), ARIS-TSLAC
-79 (147, p. 200) Williams, Texas’ Last Frontier, 200
-
-
-
-
-
-
-Thomas Rife and his wife left Pecos County in 1873.
-
-80 (89, p. 46) Francis R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, STIRPES 35, No. 3, (September 1995), 46; (148) Mexican War pension records, copies in Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, Texas
-81 (288) Eligibility for Public Office, Texas Constitution, Election Code, Title 9, Chapter 141, Subchapter A; (656, p. 17) Nunn, Texas Under The Carpetbaggers, 17
-82 (656, p. 26) Nunn, Texas Under The Carpetbaggers, 26
-83 (652, p. 94) Montejano, Anglos and Mexicans in the Making of Texas, 94
-84 (151, p. 166) William Corner, compiler and editor, San Antonio De Bexar: A Guide and History, (1890, repr. (San Antonio, TX: Graphics Arts, 1977), 166; (652, pp. 92-4) Montejano, Anglos and Mexicans in the Making of Texas, 92-4
-
-
-
-85 (151, p. 133) Corner, San Antonio De Bexar: A Guide and History, 133
-86 (172) San Antonio Express, May 28, 1939
-
+[^1]: William L. Richter, *The Army in Texas During Reconstruction: 1865-1870*, (College Station, TX: Texas A&M University Press, 1987), 13
+[^2]: Mark Swanson, *Atlas of the Civil War Month by Month: Major Battles and Troop Movements*, (Athens & London: The University of Georgia Press, 2004), 112
+[^3]: W. C. Nunn, *Texas Under The Carpetbaggers*, (Austin: University of Texas Press, 1962), 3; (582) Richter, *The Army in Texas During Reconstruction*, 13
+[^4]: Wayne R. Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881*, (College Station, TX: Texas A & M University Press, 1985), 196
+[^5]: Austerman, *Sharps Rifles and Spanish Mules*, 239; (582) Richter, *The Army in Texas During Reconstruction*, 71
+[^6]: Thomas Yoseloff, editor, *Confederate Military History Vol. 11*, (New York: Thomas Yoseloff, New York, 1962), 141; (582, pp. 27,150) Richter, *The Army in Texas During Reconstruction*, 27, 150
+[^7]: Austerman, *Sharps Rifles and Spanish Mules*, 200: (500, p. fig. 25) Robert H. Thonhoff, *San Antonio Stage Lines 1847-1881*, (El Paso: Texas Western Press, University of Texas at El Paso, 1971), fig. 25
+[^8]: *The Galveston News*, July 26, 1866
+[^9]: Austerman, *Sharps Rifles and Spanish Mules*, 202
+[^10]: Austerman, *Sharps Rifles and Spanish Mules*, 204
+[^11]: Austerman, *Sharps Rifles and Spanish Mules*, 210
+[^12]: Carlysle Graham Raht, *Romance of Davis Mountains and Big Bend Country, A History*, (El Paso: The Rahtbooks Company, 1919), 157
+[^13]: Williams, *Texas’ Last Frontier*, 68
+[^14]: Williams, *Texas’ Last Frontier*, 83
+[^15]: Raht, *Romance of Davis Mountains and Big Bend Country, A History*, 157
+[^16]: Albert D. Richardson, *Beyond the Mississippi: From the Great River to the Great Ocean, 1857-1867*, (American Publishing Company, Hartford, Conn 1867,) 228
+[^17]: Clayton W. Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895*, (College Station, TX: Texas A & M University Press, 1982), 68; (741) *San Antonio Express*, (San Antonio, Tex.), October 15, 1867
+[^18]: Williams, *Texas’ Last Frontier*, 86
+[^19]: T. S. Dennis and Mrs. T. S. Dennis, *Life Of F. M. Buckelew, The Indian Captive As Related by Himself*, (Bandera, TX: Hunter’s Printing House, 1925), 78
+[^20]: Williams, *Texas’ Last Frontier*, 82
+[^21]: *San Antonio Express*, (San Antonio, Tex.), October 15, 1867
+[^22]: Austerman, *Sharps Rifles and Spanish Mules*, 211; (739) *San Antonio Express*, (San Antonio, Tex.), October 21, 1867)
+[^23]: Williams, *Texas’ Last Frontier*, 90
+[^24]: Austerman, *Sharps Rifles and Spanish Mules*, 212
+[^25]: Williams, *Texas’ Last Frontier*, 104, 126
+[^26]: Austerman, *Sharps Rifles and Spanish Mules*, 213
+[^27]: Richardson, *Beyond the Mississippi*, 228
+[^28]: Thonhoff, San Antonio Stage Lines 1847-1881, fig. 30
+[^29]   29 (147, p. 122) Williams, *Texas’ Last Frontier*, 122; (736) *San Antonio Express*, January 7, 1871
+[^30]: Austerman, *Sharps Rifles and Spanish Mules*, 273; (562, p. 235) Richardson, *Beyond the Mississippi*, 235
+[^31]: George Wythe Baylor, *Into the Far, Wild Country: True Tales of the Old Southwest*, (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 305
+[^32]: Austerman, *Sharps Rifles and Spanish Mules*, 14
+[^33]: Evelyn M. Carrington, editor, *Women in Early Texas*, (Austin: Jenkins Publishing Company, 1975), 68-9; (553, pp. 341-3) James L. Rock and W. I. Smith, *Southern & Western Texas Guide for 1878*, (St. Louis, MO: A. H. Granger Publishers, 1878), 341-3
+[^34]: Vinton Lee James, *Frontier and Pioneer Recollections: Recollections of the Early Days in San Antonio and West Texas*, (San Antonio: Artes Graficas, 1938), 81
+[^35]: George G. Smith, *The Life and Times of George Foster Pierce, D.D., LL.D.*, (Sparta, GA: Hancock Publishing Co., 1888), 381
+[^36]: Thonhoff, *San Antonio Stage Lines 1847-1881*, fig. 25
+[^37]: Williams, *Texas’ Last Frontier*, 68
+[^38]: Williams, *Texas’ Last Frontier*, 91
+[^39]: Richardson, *Beyond the Mississippi*, 234
+[^40]: Williams, *Texas’ Last Frontier*, 97
+[^41]: Richardson, *Beyond the Mississippi*, 233
+[^42]: Williams, *Texas’ Last Frontier*, 126; (431, p. 145) August Santleben, *A Texas Pioneer(), (New York and Washington: The Neale Publishing Co,* 1910), 145
+[^43]: Thonhoff, *San Antonio Stage Lines 1847-1881*, fig. 30; (656) Nunn, *Texas Under The Carpetbaggers*, 157
+[^44]: Thomas Rife Record, 36th Texas Cavalry Regiment, Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Texas, M323, Roll 175, Records of Confederate Soldiers Who Served During the Civil War, RG109, National Archives and Records Administration
+[^45]: Florence Johnson Scott, *Old Rough and Ready on the Rio Grande*, (Waco, TX: Texian Press, 1969), 175; (418, pp. 578-80) United States War Department, The War of the Rebellion: a compilation of the official records of the Union and Confederate armies, Series 1-Volume1: 578-80
+[^46]: David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas*, (Denton, TX: Texas State Historical Association, 2010), 258
+[^47]: Richter, *The Army in Texas During Reconstruction*, 99; (656, p. 21) Nunn, *Texas Under The Carpetbaggers*, 21
+[^48]: Richter, *The Army in Texas During Reconstruction*, 185; (636, pp. 261-2) McDonald, *Jose Antonio Navarro*, 261-2
+[^49]: Nunn, *Texas Under The Carpetbaggers*, 21
+[^50]: Anonymous, *Special Presidential Pardons for Confederate Soldiers: A listing of former Confederate soldiers requesting full pardon from President Andrew Johnson*, (Signal Mountain, TN: Mountain Press, 1999)
+[^51]: James Farber, *Texas, C.S.A.: A Spotlight on Disaster*, (New York & Texas: The Jackson Co., 1947), 247
+[^52]: Richter, *The Army in Texas During Reconstruction*, 48
+[^53]: Nunn, *Texas Under The Carpetbaggers*, 16
+[^54]: Richter, *The Army in Texas During Reconstruction*, 165
+[^55]: Hammons, *A History of El Paso County, Texas, to 1900*, 54
+[^56]: N.A. Jennings, *A Texas Ranger*, (Dallas: Turner Co., 1930), 54; (335, pp. 46, 74) King, *Texas 1874*, 46, 74; (285, p. 55) Hammons, *A History of El Paso County, Texas,to 1900*, 55
+[^57]: *San Antonio Light*, February 23, 1887
+[^58]: *El Paso International Daily News*, May 23, 1891
+[^59]: Williams, *Texas’ Last Frontier*, 81
+[^60]: Williams, *Texas’ Last Frontier*, 82, 90, 146
+[^61]: Raht, *Romance of Davis Mountains and Big Bend Country, A History*, 196
+[^62]: Hans Peter Mareus Neilsen, *The Laws of Texas, 1822-1897*, Vol. 7, 1898, http://texashistory.unt.edu/ark:/67531/metapth6732: accessed May 23, 2011
+[^63]: Hammons, *A History of El Paso County, Texas, to 1900*, 55
+[^64]: Richter, *The Army in Texas During Reconstruction*, 193
+[^65]: Williams, *Texas’ Last Frontier*, 58
+[^66]: Richter, *The Army in Texas During Reconstruction*, 159
+[^67]: Richter, *The Army in Texas During Reconstruction*, 1657
+[^68]: Williams, *Texas’ Last Frontier*, 127
+[^69]: Williams, *Texas’ Last Frontier*, 128; (332, p. 106) Daggett, editor, *Pecos County History*, 106
+[^70]: Williams, *Texas’ Last Frontier*, 92
+[^71]: Williams, *Texas’ Last Frontier*, 127
+[^72]: Williams, *Texas’ Last Frontier*, 154; (297) Elected and Appointed Local Officers, (1870-1878), Reel #5, Texas Secretary of State election registers (a.k.a. appointment registers), Archives and Information Services and Texas Sate Library and Archives Commission; (332, p. 107) Daggett, editor, *Pecos County History*, 107
+[^73]: Pecos County Election Returns, 1872, State of Texas election returns (county-by-county), Elections Division, Texas Secretary of State. ARIS-TSLAC.
+[^74]: Pecos County Election Returns, 1872, State of Texas election returns (county-by-county), Elections Division, Texas Secretary of State. ARIS-TSLAC.
+[^75]: Frank S. Gray, *Pioneering in Southwest Texas: True Stories of Early Day Experiences in Edwards and Adjoining Counties*, (Austin: The Steck Company, 1949), 56-8
+[^76]: Nunn, *Texas Under The Carpetbaggers*, 110
+[^77]:tbaggers*, 113
+[^7875, State of Texas election returns (county-by-county), ARIS-TSLAC
+[^79]: Williams, *Texas’ Last Frontier*, 200
+[^80]: Francis R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, STIRPES 35, No. 3, (September 1995), 46; (148) Mexican War pension records, copies in Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, Texas
+[^81]: Eligibility for Public Office, Texas Constitution, Election Code, Title 9, Chapter 141, Subchapter A; (656, p. 17) Nunn, *Texas Under The Carpetbaggers*, 17
+[^82]: Nunn, *Texas Under The Carpetbaggers*, 26
+[^83]: Montejano, *Anglos and Mexicans in the Making of Texas*, 94
+[^84]: William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History*, (1890, repr. (San Antonio, TX: Graphics Arts, 1977), 166; (652, pp. 92-4) Montejano, *Anglos and Mexicans in the Making of Texas*, 92-4
+[^85]: Corner, *San Antonio De Bexar: A Guide and History*, 133
+[^86]: *San Antonio Express*, May 28,1939
 
 
 
