@@ -3,6 +3,8 @@ title: Thomas and Francisca's Life in San Antonio, 1872 - 1894
 weight: 800
 type: essay
 ---
+# Thomas and Francisca's Life in San Antonio, 1872 - 1894
+
 ## San Antonio Police, 1874-1885
 
 *“From 1874 to 1885 Tom Rife was on the city police force and won the record of a wise and valiant officer”, “Custodian of the Alamo”, San Antonio Light, February 23, 1887.*
