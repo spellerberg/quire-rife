@@ -4,6 +4,8 @@ weight: 100
 type: essay
 ---
 
+# Ancestors of Thomas Rife, 1780-1864
+
 ## South Carolina
 
 ### Swiss Protestants immigrated to South Carolina.
