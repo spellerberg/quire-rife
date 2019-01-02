@@ -3,6 +3,7 @@ title: The Civil War, 1861 - 1865
 weight: 600
 type: essay
 ---
+# The Civil War, 1861-1865
 
 ## Custodian of Fort Bliss, 1861
 
@@ -178,10 +179,7 @@ A year after the surrender of Vicksburg, the Confederate prisoners were exchange
 
 If Thomas Rife was wounded at Deer Creek in 1863 while in military service, he would have been sent to a regimental or field hospital nearby. Confederate army military hospitals kept extensive records of wounded and sick soldiers.[^147] However, most Confederate military hospital records were lost. By the time the collection, purchase and compilation of Confederate records began in 1878 many documents were already destroyed. A few were taken home and retained by the officer in charge of the hospital but this was the exception rather than the rule[^148] and few such records are known to exist today.
 
-
 ## 36th Regiment, Texas Cavalry, 1863-1865
-
- “After the latter place had fallen before federal arms, Rife joined Captain Lytle’s company in Wood’s regiment where he served some time”, “Custodian of the Alamo,” San Antonio Light, February 23, 1887.
 
 *“After the latter place had fallen before federal arms, Rife joined Captain Lytle’s company in Wood’s regiment where he served some time”, “Custodian of the Alamo,” San Antonio Light, February 23, 1887.*
 
