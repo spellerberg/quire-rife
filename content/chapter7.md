@@ -3,6 +3,7 @@ title: West Texas after the War, 1866-1872
 weight: 700
 type: essay
 ---
+# West Texas after the Civil War, 1866-1872
 
 ## Ficklin Mail Service, 1866-1872
 
@@ -10,7 +11,7 @@ type: essay
 
 ### Civil government struggled to function after the Civil War.
 
-After the surrender of the last Confederate army on May 26, 1865,[^1] up to 2,000 Confederate officers and soldiers, including Texas Governor Pendleton Murrah, fled to Mexico.[^2] Law and order started to break down without these leaders.[^3]
+After the surrender of the last Confederate army on May 26, 1865,[^1] up to 2,000 Confederate officers and soldiers, including Texas Governor Pendleton Murrah, fled to Mexico.[^2] Law and order in Texas started to break down without these leaders.[^3]
 
 During summer and fall of 1865, the postal service became very unreliable.[^4] Some private express operations were carrying mail but there was no scheduled mail service between San Antonio and the upper Rio Grande Valley. Indian attacks along the frontier continued unabated;[^5] there were no troops in place to protect travelers on the West Texas roads.[^6]
 
@@ -22,7 +23,7 @@ In November 1866, Coopwood transferred the stage coach property to Frederick A. 
 
 In December 1866, Federal troops occupied Fort Clark and Fort Mason.[^13] Fort Clark was occupied by the Confederacy during the war but Fort Mason was not. It was not until July 1867, that Federal troops arrived at Fork Stockton.[^14] Prior to that, Coopwood’s men never managed to get more than two mail trains a week past Mescalero Indian Chief Espejo and his band.[^15] The newspapers in San Antonio complained that, from November 1866 through May 1867, a period of twenty-eight weeks, only twelve mail trains had successfully completed the trip.
 
-The post Civil War Indian raids began in July 1866 when 125 Apache warriors attacked the eastbound stage at Varela Spring and also the westbound stage at Lancaster Hill. According to one observer, Comanche Indians “roamed over an immense region, eating the raw flesh of the buffalo, drinking its warm blood, and plundering Mexicans, Indians and white with judicial impartiality.”[^16] Attacks were expected and, while disruptive, did not stop the mail contractor. By November and December 1866, contractors were repairing stage stands and purchasing livestock prior to beginning mail runs between San Antonio and El Paso.[^17] Traffic along the San Antonio-El Paso Upper and Lower roads increased despite continuing Indian depredations.[^18] By 1867, the Lower Road was so heavily used by freighters that it was said to be "seldom that a person could cross the road without seeing" wagons.[^19]
+The post Civil War Indian raids began in July 1866 when 125 Apache warriors attacked the eastbound stage at Varela Spring and also the westbound stage at Lancaster Hill. According to one observer, Comanche Indians “roamed over an immense region, eating the raw flesh of the buffalo, drinking its warm blood, and plundering Mexicans, Indians and white with judicial impartiality.”[^16] Attacks were expected and, while disruptive, did not stop the mail contractor. By November and December 1866, contractors were repairing stage stands and purchasing livestock prior to beginning mail runs between San Antonio and El Paso.[^17] Traffic along the San Antonio-El Paso Upper and Lower roads increased despite continuing Native American depredations.[^18] By 1867, the Lower Road was so heavily used by freighters that it was said to be "seldom that a person could cross the road without seeing" wagons.[^19]
 
 ### The US Army returned to Fort Davis in 1867.
 
