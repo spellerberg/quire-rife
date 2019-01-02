@@ -1,8 +1,9 @@
 ---
-title: Giddings' Mail Service, 1854 -1861
+title: Giddings' Mail Service, 1854 - 1861
 weight: 500
 type: essay
 ---
+# Giddings' Mail Service, 1854-1861
 
 *“When his service was over he took a trip to California for business and pleasure...”Custodian of the Alamo, San Antonio Light, February 23, 1887.*
 
@@ -26,7 +27,7 @@ By 1854, Giddings and his men had established a routine. “The train camps from
 
 ### Indians continued to create problems for the mail contractor.
 
-The Indians were unaware of, and unconcerned about, the mail line’s new contractors. They were primarily interested in stealing the horses and mules used by travelers and haulers. Assaults on the mail carriers continued.[^17] By 1854, travelers were stopping to rest at Howard’s Well and consequently there was almost always someone camped there.[^18] Indian raiders knew this and routinely visited the spring.[^19] The mail trains were twice attacked while camped there in the fall of 1854.[^20]
+The Native Americans were unaware of, and unconcerned about, the mail line’s new contractors. They were primarily interested in stealing the horses and mules used by travelers and haulers. Assaults on the mail carriers continued.[^17] By 1854, travelers were stopping to rest at Howard’s Well and consequently there was almost always someone camped there.[^18] Indian raiders knew this and routinely visited the spring.[^19] The mail trains were twice attacked while camped there in the fall of 1854.[^20]
 
 On December 18, 1854, the mail run to El Paso was the occasion for another battle with Apache raiders involving two mail parties and 15 men. The mail party circled their wagons and made a stand. Skillman again had an opportunity to put his “medicine gun” to good use. The Mescalero Apache Indians retired to a hilltop to lob heavy-caliber rifle bullets at the barricaded men below. Eventually, the mail coaches were hitched up and moved out of range and Skillman, using his Sharps Rifle, shot at least three braves “that he got and others that were doubtless killed but not known to be killed”. He fired only a dozen rounds but the rifle was so effective that “the awed Apaches soon sought cover in the brush.”[^21]                                         
 
