@@ -3,16 +3,16 @@ title: Mexican War, 1846 - 1848
 weight: 200
 type: essay
 
-# Mexican War, 1846-1848
 ---
+# The Mexican War, 1846-1848
 
 *“In 1842, when Texas was last invaded, Tom Rife volunteered for her defense and he served two enlistments in the Mexican war, and was in the fray from beginning to the end. One of those enlistments was served under a man dear to Texas, Jack Hayes, the other under Walter P Lane. No one has yet risen to question his courage or service.” “Custodian of the Alamo,” San Antonio Light, (San Antonio, Texas), February 23, 1887*
 
 ## The Minutemen of Bexar became Hay’s Rangers.
 
-In the turmoil during and after the war for Texas independence, many progressive and industrious Mexican inhabitants of San Antonio left for Mexico[^1]and much of the Mexican population of Nacogdoches and displaced Indians who had gathered in east Texas[^2] were forced to leave the Republic by the victorious Anglo-Americans.[^3] The Anglo population itself consisted of a majority of honest farmers and a large minority of “loafers” who drifted from one opportunity to another.[^4]
+In the turmoil during and after the war for Texas independence, many progressive and industrious Mexican inhabitants of San Antonio left for Mexico;[^1] much of the Mexican population of Nacogdoches and displaced Native Americans who had gathered in east Texas[^2] were forced to leave the Republic by the victorious Anglo-Americans.[^3] The Anglo population itself consisted of a majority of honest farmers but also a large minority of “loafers” who drifted from one opportunity to another.[^4]
 
-After Texas became a republic, the Texas Army was disbanded[^5] and defense of the frontier was turned over to the militia and county ranging companies.[^6] In the absence of a standing army, the ranging companies provided a body of paramilitary troopers who could lead militia and volunteer forces in the continuing faceoff with Mexico.[^7] These civilian soldiers were often called minutemen.[^8] The primary purpose of the minutemen was to punish Indian and Mexican raiders. As early as 1836 frontier defense came to rely on independent[^9] and short-term[^10] but full-time ranging companies paid by the Legislature and commissioned by the Governor.[^11]
+After Texas became a republic, the Texas Army was disbanded[^5] and defense of the frontier was turned over to the militia and county ranging companies.[^6] In the absence of a standing army, the ranging companies provided a body of paramilitary troopers who could lead militia and volunteer forces in the continuing faceoff with Mexico.[^7] These civilian soldiers were often called minutemen.[^8] The primary purpose of the minutemen was to punish Indian and Mexican raiders that were attacking settlers. As early as 1836, the frontier defenses came to rely on independent[^9] and short-term[^10] but full-time ranging companies paid by the Legislature and commissioned by the Governor.[^11]
 
 John Coffee (Jack) Hays, the commander of the minutemen of Bexar County,[^12] became the most famous ranger captain.[^13] Hays entered the ranger service as a 20-year old in late 1836 soon after arriving in Texas from Mississippi.[^14] He served as the commander of a company of rangers around San Antonio almost continually from 1841 until the Mexican War.[^15] He and his rangers developed techniques that eventually neutralized and then reversed the advantage that Comanche Indians had previously enjoyed in a fight with the Spanish military and Anglo settlers.[^16]
 
@@ -28,7 +28,7 @@ Hays initially established a camp at Leon Creek seven miles west of San Antonio.
 
 On March 19, 1840, Texas soldiers killed, at the Council House Fight, a number of Comanche chiefs who had come to San Antonio to negotiate the return of captives.[^28] This was the third attempt to sign a treaty with the Comanche.[^29] The hope of peaceful relations between the Texans and the Comanche Indians that had been promoted by Sam Houston[^30] was extinguished and not revived until 1853.[^31]
 
-Most encounters between Anglos, Mexicans and the Comanche Indians were the result of horse-stealing raids.[^32] By 1840, stealing livestock from Mexico and Texas during the winter months was a tradition of the Southern Comanche.[^33] After each raid, the settlers pursued the Indians and attempted to recover their horses and kidnapped women and children. However, Indians raiders mounted on horses usually escaped the pursuing settlers.[^34]
+Most encounters between Anglos, Mexicans and the Comanche Indians were the result of horse-stealing raids.[^32] By 1840, stealing livestock from Mexico and Texas during the winter months was a tradition of the Southern Comanche.[^33] After each raid, the settlers pursued the Indians and attempted to recover kidnapped women, children and horses. However, Indian raiders mounted on horses usually escaped the pursuing settlers.[^34]
 
 Even when the settlers managed to catch an Indian raiding party the outcome was uncertain. Settlers armed with single-shot, muzzle loading long rifles had to dismount to fire and reload. The Indians carried short bows that were accurate at short and medium range. For close fighting, the Comanche carried lances that were sometimes tied to the wrist by a cord. The shields that they carried on their left arm were made of several layers of buffalo hide[^35] and could deflect musket balls.[^36] Until the Anglos obtained repeating firearms, the two sides were about evenly matched in fire power in close quarter fights.[^37]
 
@@ -36,7 +36,7 @@ Jack Hays and his ranging company were the first to employ repeating pistols in 
 
 ## The war between Texas and Mexico began again in 1842.
 
- The United Mexican States did not recognize the independence of the Republic of Texas despite the agreement signed by President López de Santa Anna in 1836.[^42] In 1842, Santa Anna was once again President of Mexico and the republics of Texas and Mexico were once again at war.[^43] Texas President Mirabeau Lamar sent 270 armed men on a trading mission called the Santa Fé Expedition in June 1841. The expedition was meant to be a joint political, military and commercial enterprise[^44] but the Mexican government interpreted it as an armed invasion.[^45] The participants in the expedition were captured and imprisoned.[^46]
+The United Mexican States did not recognize the independence of the Republic of Texas despite the agreement signed by President López de Santa Anna in 1836.[^42] In 1842, Santa Anna was once again President of Mexico and the republics of Texas and Mexico were once again at war.[^43] Texas President Mirabeau Lamar sent 270 armed men on a trading mission called the Santa Fé Expedition in June 1841. The expedition was meant to be a joint political, military and commercial enterprise[^44] but the Mexican government interpreted it as an armed invasion.[^45] The participants in the expedition were captured and imprisoned.[^46]
 
 To revenge the invasion of New Mexico by the Santa Fé Expedition, President Santa Anna sent troops to invade Texas.[^47] Seven hundred Mexican soldiers under Gen. Rafael Vásquez briefly occupied San Antonio in early March, 1842.[^48] In response to the Vásquez invasion, the President of Texas called out the militia.
 
@@ -50,7 +50,7 @@ In October 1842, following the earlier assault on San Antonio, General Alexander
 
 In negotiations that followed,[^60] Mexico was willing to give the State of Texas autonomy if it would remain in the Mexican republic.[^61] They continued to consider Texas a Mexican state until 1847.[^62] Texan and American politicians, however, refused to acknowledge Mexico’s claim to Texas and in December of 1844 a bill annexing Texas to the United States passed the US Senate.[^63] A Texas Constitutional Convention agreed that the Republic would be come part of the United States on July 7, 1845.[^64]
 
-## The United States Started the Mexican War after annexation of Texas.
+## The United States started the Mexican War after annexation of Texas.
 
 In June 1845, a large part of the US Army was gathered at Fort Jessup in western Louisiana near the Sabine River in anticipation of a war with Mexico.[^65] The US Army commander, General Edmund Gaines, was instructed to move his troops to the disputed Texas border in advance of February 19, 1846, when the state would be formally annexed to the US.[^66] By the time the Texas Constitutional Convention accepted the bill annexing Texas to the United States, US General Zachery Taylor was moving his army to New Orleans to take ships to Texas. On July 31, 1845, General Taylor’s army arrived at Corpus Christi Bay on the Texas coast and camped on the Nueces River for the next nine months[^67] waiting for the Mexicans to initiate war.[^68]
 
