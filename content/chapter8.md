@@ -9,11 +9,11 @@ type: essay
 
 *“From 1874 to 1885 Tom Rife was on the city police force and won the record of a wise and valiant officer”, “Custodian of the Alamo”, San Antonio Light, February 23, 1887.*
 
-### Thomas Rife and Francisca moved to San Antonio.
+### Thomas and Francisca Rife moved to San Antonio.
 
 Thomas Rife and Francisca Eduarda Saenz were married by a Justice of the Peace at Fort Stockton, Texas on June 13, 1871.[^1] The groom was 48 and his bride 17 years old.[^2] The couple likely met in El Paso, Texas. Francisca told a census enumerator in 1900 that she emigrated from Mexico in the year of her marriage, so alternatively, she may have met her husband in Mexico.  
 
-Tom and Francisca traveled to San Antonio, perhaps to visit and to look for work in 1871, where they visited Mrs. Lizzie Stevens, wife of Deputy Sherriff, Edward Stevens. In a later affidavit, she swore that she saw Thomas and Francisca’s marriage certificate in 1871 and that it bore the signature of a Justice of the Peace from Fort Stockton.[^3] Tom and Francisca moved to San Antonio in 1872 where their first child was born in April 1873.
+Tom and Francisca traveled to San Antonio, perhaps to visit and to look for work in 1871, where they visited Mrs. Lizzie Stevens, wife of Deputy Sheriff, Edward Stevens. In a later affidavit, she swore that she saw Thomas and Francisca’s marriage certificate in 1871 and that it bore the signature of a Justice of the Peace from Fort Stockton.[^3] Tom and Francisca moved to San Antonio in 1872 where their first child was born in April 1873.
 
 In the 1870s San Antonio was an unusually cosmopolitan town with a mixed population of Anglos, Germans and Slavs, Mexicans and French in about equal numbers.[^4] Rife’s bilingual family lived in the Mexican part of town, attended Mass at the Mexican church and associated with Mexican politicians but Rife and his children were comfortable in and accepted by the Anglo and German communities as well.
 
@@ -23,7 +23,7 @@ Between 1866 and about 1877, San Antonio City government was short of funds. Tax
 
 ### Rife found work with the City of San Antonio.
 
-In 1873, Rife began a 20-year career as a municipal employee in San Antonio. Perhaps his experience in the election in Fort Stockton redirected his energies toward public service. His earliest contacts when he moved to San Antonio were with lawmen such as Ed Stevens, Juan Cardenas,[^10] and Alejo Perez Jr. who were also politicians.[^11] Rife is referred to in the City Council minutes of October 3, 1876 as “Policeman Rife.”[^12] In a letter to the editor, a disgruntled citizen indicated that Rife was just a former “cattle impounder.”[^13]
+In 1873, Rife began a 20-year career as a municipal employee in San Antonio. Perhaps his experience in the election in Fort Stockton redirected his energies toward public service. His earliest contacts when he moved to San Antonio were with lawmen such as Ed Stevens, Juan Cardenas,[^10] and Alejo Perez Jr. who were also politicians.[^11] Rife is referred to in the City Council minutes of October 3, 1876 as “Policeman Rife.”[^12] In a letter to the editor, a disgruntled citizen indicated that Rife was a former “cattle impounder.”[^13]
 
 Alejo (Alex) Perez was the 2nd Assistant Marshal of San Antonio[^14] and a well-respected citizen in 1879.[^15] He may have known Rife from the New Mexico Campaign when Alejo was a Fourth Corporal in Company B of Baylor’s Command.[^16] Alejo Perez, his mother, Mrs. Juana Navarro Perez Alsbury and his aunt, Gertrudis Navarro were in the Alamo when it fell to the Mexican army in 1836.[^17] Alejo was an infant at the time but his mother clearly remembered what she herself had lived through. Alejo’s mother may have been one source of Rife’s knowledge of the siege of the Alamo.
 
@@ -143,127 +143,127 @@ Rife did not recover and died[^117] at his home at 1224 Cameron Street on Decemb
 
 Chapter 8 Notes
 
-[^1]: Frances R. Condra, “E. I. Coyle & Trouble at the Alamo”, Our Heritage 34, No. 2, (Winter 1992-1993), 21; (89, p. 46) Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, STIRPES 35, No. 3, (September 1995), 46; (148) Mexican War Pension Records, Thomas Rife file at Daughters of the Republic of Texas Library, Alamo, San Antonio, Texas.
-[^2]: Mexican War Pension Records, Thomas Rife file at DRT Library.
+[^1]: Frances R. Condra, “E. I. Coyle & Trouble at the Alamo”, *Our Heritage* 34, No. 2, (Winter 1992-1993), 21; Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES* 35, No. 3, (September 1995), 46; Mexican War Pension Records, Thomas Rife file at Daughters of the Republic of Texas Library, Alamo, San Antonio, Texas.
+[^2]: Mexican War Pension Records, "Thomas Rife file" at DRT Library.
 [^3]: Witness’s Affidavits, Widow’s Application, U.S. Department of Veteran’s Affairs, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, RG 15, National Archives and Records Administration
-[^4]: Col Nathaniel Alston Taylor, The Coming Empire or Two Thousand Mile on Horseback (Dallas, Turner Company, 1936), 97-9; (259, p. 3) Donald E. Everett, San Antonio: The Flavor of it’s Past, 1845-1898. (San Antonio: Trinity University Press, 1975), 3
-[^5]: Ophia D. Smith, “A Trip to Texas in 1855,” Southwest Historical Quarterly, July 1955, 36
-[^6]: “Fort Clark and the Rio Grande Frontier,” Texas Beyond History; UT @ Austin College of Liberal Arts, www.texasbeyondhistory.net/forts/clark:accessed Dec 14, 2012
-[^7]: W.C. Nunn, Texas Under the Carpetbaggers, (Austin: University of Texas, 1962), 167
-[^8]: Ramsdell, San Antonio, 44; (70, p. 93) James, Frontier and Pioneer Recollections, 93
-[^9]: Taylor, The Coming Empire or Two Thousand Mile on Horseback, 97-9; (633, p. 48) Ramsdell, San Antonio, 48
+[^4]: Colonel Nathaniel Alston Taylor, *The Coming Empire or Two Thousand Mile on Horseback* (Dallas, Turner Company, 1936), 97-9; Donald E. Everett, *San Antonio: The Flavor of it’s Past, 1845-1898* (San Antonio: Trinity University Press, 1975), 3
+[^5]: Ophia D. Smith, “A Trip to Texas in 1855,” *Southwest Historical Quarterly*, July 1955, 36
+[^6]: “Fort Clark and the Rio Grande Frontier,” *Texas Beyond History*; UT @ Austin College of Liberal Arts, www.texasbeyondhistory.net/forts/clark:accessed Dec 14, 2012
+[^7]: W.C. Nunn, *Texas Under the Carpetbaggers*, (Austin: University of Texas, 1962), 167
+[^8]: Ramsdell, *San Antonio*, 44; James, *Frontier and Pioneer Recollections*, 93
+[^9]: Taylor, *The Coming Empire or Two Thousand Mile on Horseback*, 97-9; Ramsdell, San Antonio, 48
 [^10]: Witness’s Affidavits, Widow’s Application, Records of the Bureau of Pensions.
-[^11]: San Antonio Light, November 8, 1884
-[^12]: San Antonio Light, February 23, 1887; (599) San Antonio City Council Minutes, 1870-79, Book D, 255
-[^13]: San Antonio Daily Express, August 1, 1877
-[^14]: Bill Harvey, Texas Cemeteries: The Resting Places of Famous, Infamous, and Just Plain Interesting Texans, (Austin: University of Texas Press, 2003), 230
-[^15]: Gale Hamilton Shiffrin, Echoes from Women of the Alamo, (San Antonio: AW Press, 1999), 71
-[^16]: Martin Hardwick Hall, The Confederate Army in New Mexico, (Austin: Presidial Press, 1978), 313
-[^17]: Shiffrin, Echoes from Women of the Alamo, 71
-[^18]: Anonymous, Biographical and Historical Memoirs of Mississippi, (Chicago: Goodspeed Brothers Publishing, 1891).
+[^11]: *San Antonio Light*, November 8, 1884
+[^12]: *San Antonio Light*, February 23, 1887; San Antonio City Council Minutes, 1870-79, Book D, 255
+[^13]: *San Antonio Daily Express*, August 1, 1877
+[^14]: Bill Harvey, *Texas Cemeteries: The Resting Places of Famous, Infamous, and Just Plain Interesting Texans*, (Austin: University of Texas Press, 2003), 230
+[^15]: Gale Hamilton Shiffrin, *Echoes from Women of the Alamo*, (San Antonio: AW Press, 1999), 71
+[^16]: Martin Hardwick Hall, *The Confederate Army in New Mexico*, (Austin: Presidial Press, 1978), 313
+[^17]: Shiffrin, *Echoes from Women of the Alamo*, 71
+[^18]: Anonymous, *Biographical and Historical Memoirs of Mississippi*, (Chicago: Goodspeed Brothers Publishing, 1891), 681
 [^19]: Baptismal Records, San Fernando, Vol. 7/8, p. 536, entry 3888, Chancery Archives, Archdiocese of San Antonio.
-[^20]: San Antonio Express, July 14, 1890.
-[^21]: San Antonio Express, August 16, 1883.
-[^22]: Mary H. Oglivie, “Neraz, Jean Claude,” Handbook of Texas Online,” (www.tshaonline.org/handbook/online/articles/fne16), accessed March 05, 2011.
+[^20]: *San Antonio Express*, July 14, 1890.
+[^21]: *San Antonio Express*, August 16, 1883.
+[^22]: Mary H. Oglivie, “Neraz, Jean Claude,” *Handbook of Texas Online*, (www.tshaonline.org/handbook/online/articles/fne16), accessed March 05, 2011.
 [^23]: Baptismal Records, San Fernando, Vol. 9, p. 26, entry 189
 [^24]: Mary Jane Rife, Certificate of Death, Texas Department of Health, Bureau of Vital Statistics
 [^25]: Baptismal Records, San Fernando, Vol. 9, p. 155, entry 1414
-[^26]: Thomas Rife, United States Tenth Census (1880), T9. San Antonio, Bexar, Texas, 26; (1470) Death Records, 1875-1879, Municipal Archives and Records, San Antonio
+[^26]: Thomas Rife, United States Tenth Census (1880), T9. San Antonio, Bexar, Texas, 26; Death Records, 1875-1879, Municipal Archives and Records, San Antonio
 [^27]: Burial Records, San Fernando, Vol. ?, p. 23, entry ?, Chancery Archives, Archdiocese of San Antonio
 [^28]: Baptismal Records, San Fernando, Vol. 9, p. 155, entry 1414
-[^29]: San Antonio Daily Express, March 20, 1877
-[^30]: San Antonio Daily Express, June 30, 1877
+[^29]: *San Antonio Daily Express*, March 20, 1877
+[^30]: *San Antonio Daily Express*, June 30, 1877
 [^31]: Letter from J.C. Burrus to Mary Jane Burr, February 15, 1909, original owned by Susan Majewski
-[^32]: San Antonio Express, October 18, 1936; (1447) San Antonio Daily Express, July 17, 1877
+[^32]: *San Antonio Express*, October 18, 1936; *San Antonio Daily Express*, July 17, 1877
 [^33]: Baptismal Records, San Fernando, Vol. 9, p. 144, entry 1304
 [^34]: Morrison & Fourmy’s General Directory of the City of San Antonio for 1879, 144
-[^35]: San Antonio Daily Express, March 1, 1879
-[^36]: History of the San Antonio Police Department, City, SA Police Department, City of San Antonio, TX, (http://www.sanantonio.gov/SAPD/History.aspx) accessed Nov. 14, 2012.: (599) San Antonio City Council Minutes, 1870-79, Book D, 210
+[^35]: *San Antonio Daily Express*, March 1, 1879
+[^36]: History of the San Antonio Police Department, Police Department, City of San Antonio, TX, (http://www.sanantonio.gov/SAPD/History.aspx) accessed Nov. 14, 2012; San Antonio City Council Minutes, 1870-79, Book D, 210
 [^37]: History of the San Antonio Police Department
-[^38]: Baptismal Records, San Fernando, Vol. 9, p. 228, entry 2136
-  (31, p. 212) Morrison & Fourmy’s General Directory of the City of San Antonio for 1879, 212
-[^39]: San Antonio Express, May 23, 1893
-[^40]: Charles Merritt Barnes, Combats and Conquests of Immortal Heroes, San Antonio: Guessaz & Ferlet Company, 1910), 245; (501) History of the San Antonio Police Department; (707) Sanborn Fire Insurance Map, 1885, sheet 2, Texas 1877-1922, (http://www.libutexas.edu/maps/sanborn/san_antonio_1885) accessed Nov 12, 2012.
-[^41]: Ramsdell, San Antonio, 108
-[^42]: Robert S. Weddle and Robert H. Thonhoff, Drama & Conflict: the Texas Saga of 1776, (Austin: Madrona Press, Inc., 1976), 103
-[^43]: James, Frontier and Pioneer Recollections, 42
-[^44]: Thomas C. Rife, Application for Confederate Scrip Voucher #718, Texas General Land Office, Austin, TX; (564) Confederate Scrip, Bexar County, Texas, Certificate # 718, GLO
-[^45]: Thomas L. Miller, “Texas Land Grants to Texas Veterans,” Southwestern Historical Quarterly, July 1965, 63
+[^38]: Baptismal Records, San Fernando, Vol. 9, p. 228, entry 2136;
+ Morrison & Fourmy’s General Directory of the City of San Antonio for 1879, 212
+[^39]: *San Antonio Express*, May 23, 1893
+[^40]: Charles Merritt Barnes, *Combats and Conquests of Immortal Heroes*, San Antonio: Guessaz & Ferlet Company, 1910), 245; History of the San Antonio Police Department; Sanborn Fire Insurance Map, 1885, sheet 2, Texas 1877-1922, (http://www.libutexas.edu/maps/sanborn/san_antonio_1885) accessed Nov 12, 2012.
+[^41]: Ramsdell, *San Antonio*, 108
+[^42]: Robert S. Weddle and Robert H. Thonhoff, *Drama & Conflict: the Texas Saga of 1776*, (Austin: Madrona Press, Inc., 1976), 103
+[^43]: James, *Frontier and Pioneer Recollections*, 42
+[^44]: Thomas C. Rife, Application for Confederate Scrip Voucher #718, Texas General Land Office, Austin, TX; Confederate Scrip, Bexar County, Texas, Certificate # 718, GLO
+[^45]: Thomas L. Miller, “Texas Land Grants to Texas Veterans,” *Southwestern Historical Quarterly*, July 1965, 63
 [^46]: Miller, “Texas Land Grants to Texas Veterans,” 61
-[^47]: Nunn, Texas Under the Carpetbaggers, 14; (256) Notarized Bill of Sale for Confederate Scrip #718, Bexar County, Texas, file 40913
-[^48]: San Antonio Light, November 1, 1887; (196) Fort Worth Daily Gazette, November 4, 1887
-[^49]: Galveston Daily News, July 12, 1889
-[^50]: John Salmon Ford, Rip Ford’s Texas, (Austin: University of Texas Press, 1963), xliv
-[^51]: Fort Worth Daily Gazette, November 4, 1887
-[^52]: San Antonio Daily Light, August 28, 1891
+[^47]: Nunn, *Texas Under the Carpetbaggers*, 14; Notarized Bill of Sale for Confederate Scrip #718, Bexar County, Texas, file 40913
+[^48]: *San Antonio Light*, November 1, 1887; *Fort Worth Daily Gazette*, November 4, 1887
+[^49]: *Galveston Daily News*, July 12, 1889
+[^50]: John Salmon Ford, *Rip Ford’s Texas*, (Austin: University of Texas Press, 1963), xliv
+[^51]: *Fort Worth Daily Gazette*, November 4, 1887
+[^52]: *San Antonio Daily Light*, August 28, 1891
 [^53]: Baptismal Records, San Fernando, Vol. 9, p. 258, entry 2454
 [^54]: United States Twelfth Census (1900), San Antonio, Bexar, Texas, Roll 1611
 [^55]: Fred Rife, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, March 13, 1913
 [^56]: Morrison & Fourmy’s General Directory of the City of San Antonio for 1881 233
 [^57]: Morrison & Fourmy’s General Directory of the City of San Antonio for 1885, 265
-[^58]: San Antonio Light, August 18, 1883
-[^59]: San Antonio Light, September 1,3, 6, 1883; (732) San Antonio Light, September 11, 1883
-[^60]: San Antonio Light, October 10, 1883; (733) San Antonio Light, September 8, 1883;  (951) San Antonio Light, March 17, 1884
-[^61]: San Antonio Light, March 14, 1884
-[^62]: San Antonio Light, March 12, 1884
-[^63]: San Antonio Light, October 10, 1883;  
+[^58]: *San Antonio Light*, August 18, 1883
+[^59]: *San Antonio Light*, September 1,3, 6, 1883; *San Antonio Light*, September 11, 1883
+[^60]: *San Antonio Light*, October 10, 1883; *San Antonio Light*, September 8, 1883; *San Antonio Light*, March 17, 1884
+[^61]: *San Antonio Light*, March 14, 1884
+[^62]: *San Antonio Light*, March 12, 1884
+[^63]: *San Antonio Light*, October 10, 1883;  
 [^64]: San Antonio Light, March 17, 1884
-[^65]: Alex Sweet and A.J. Knox, On a Mexican Mustang through Texas from the Gulf to the Rio Grande, (Hartford, Ct: SS Scranton and Co. 1883), 354, 368
-[^66]: San Antonio Light, June 8, 1885
-[^67]: San Antonio Express, June 6, 1885
-[^68]: Condra, “E. I. Coyle & Trouble at the Alamo”, 18; (143, p. 202) Roberts, A Line in the Sand: The Alamo in Blood and Memory, 202; (151, p. 144) William Corner, compiler and editor, San Antonio De Bexar: A Guide and History, (1890, reprint, San Antonio, TX: Graphics Arts, 1977), 144; (167) Galveston Daily News, May 27, 1887
-[^69]: The Plain Dealer (Cleveland, Ohio), June 25, 1893
+[^65]: Alex Sweet and A.J. Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande*, (Hartford, Ct: SS Scranton and Co. 1883), 354, 368
+[^66]: *San Antonio Light*, June 8, 1885
+[^67]: *San Antonio Express*, June 6, 1885
+[^68]: Condra, “E. I. Coyle & Trouble at the Alamo”, 18; Roberts, *A Line in the Sand: The Alamo in Blood and Memory*, 202; William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History*, (1890, reprint, San Antonio, TX: Graphics Arts, 1977), 144; *Galveston Daily News*, May 27, 1887
+[^69]: *The Plain Dealer* (Cleveland, Ohio), June 25, 1893
 [^70]: History of the San Antonio Police Department
-[^71]: Pryor, “Tom Rife - an Early Alamo Custodian,” STIRPES 42, No. 2, (June 2002), 28; (8) The Daily Light, (San Antonio), February 22, 1908; (14) San Antonio Light, February 23, 1887; (600, p. 323) City Council Minutes, 1870-1879, Book E, p. 323
+[^71]: Pryor, “Tom Rife - an Early Alamo Custodian,” *STIRPES* 42, No. 2, (June 2002), 28; *The Daily Light*, (San Antonio), February 22, 1908; (14) *San Antonio Light*, February 23, 1887; City Council Minutes, 1870-1879, Book E, p. 323
 [^72]: City Council Minutes, 1870-1879, Book E, p. 323
-[^73]: Daily Light (San Antonio), December 27, 1894
+[^73]: *Daily Light* (San Antonio), December 27, 1894
 [^74]: Baptismal Records, San Fernando, Vol. 9, p. 415, entry 3847
 [^75]: Morrison & Fourmy’s General Directory of the City of San Antonio for 1885, 148
 [^76]: Survivor’s Brief, Records of the Bureau of Pensions, Mexican War Pension Application files, 1887-1926
 [^77]: Bill of Sale, Historical Deed Records, County Clerks Office, Bexar County, Book 73, p. 311, San Antonio, TX.
-[^78]: San Antonio Daily Light, July 19, 1889; (158, p. 19) Jerry Thompson, From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick, (El Paso: The University of Texas at El Paso, 1991), 19
-[^79]: San Antonio Light, April 10, 1888
-[^80]: San Antonio Daily Light, August 16, 1888
+[^78]: *San Antonio Daily Light*, July 19, 1889; Jerry Thompson, *From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick*, (El Paso: The University of Texas at El Paso, 1991), 19
+[^79]: *San Antonio Light*, April 10, 1888
+[^80]: *San Antonio Daily Light*, August 16, 1888
 [^81]: United States Thirteenth Census (1910), T624, Von Ormy, Bexar, 1533
-[^82]: Vinton Lee James, Frontier and Pioneer Recollections, (San Antonio: Artes Graficas, 1938), 103; (602, p. 15) Frank S. Faulkner, Jr., Historic Photos of San Antonio, (Nashville, TN and Paducah, KY: Turner Publishing Company, 2007), 15
-[^83]: San Antonio Daily Light, October 21, 1889
+[^82]: Vinton Lee James, *Frontier and Pioneer Recollections*, (San Antonio: Artes Graficas, 1938), 103; Frank S. Faulkner, Jr., *Historic Photos of San Antonio(), (Nashville, TN and Paducah, KY: Turner Publishing Company, 2007), 15
+83 *San Antonio Daily Light*, October 21, 1889
 [^84]: City Council Minutes, 1870-1879, Book E and Book F, City Clerks Office
-[^85]: San Antonio Daily Light, August 25, 1890.
-[^86]: San Antonio Daily Light, September 20, 1890
+[^85]: *San Antonio Daily Light*, August 25, 1890.
+[^86]: *San Antonio Daily Light*, September 20, 1890
 [^87]: Johnson & Chapman’s General Directory of the City of San Antonio, 1891, 326
 [^88]: Morrison & Fourmy’s General Directory of the City of San Antonio for1887, 279, 313
-[^89]: Daily Light (San Antonio), October 6, 1895
-[^90]: San Antonio Free Press, May 17, 1882
-[^91]: Johnson &Chapman’s General Directory of the City of San Antonio, 1891, 326; (162) San Antonio Daily Light, March 31, 1891
+[^89]: *Daily Light* (San Antonio), October 6, 1895
+[^90]: *San Antonio Free Press*, May 17, 1882
+[^91]: Johnson &Chapman’s General Directory of the City of San Antonio, 1891, 326; *San Antonio Daily Light*, March 31, 1891
 [^92]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 47
-[^93]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 47;  (573) Statement concerning marriage record of Thomas and Francisca Rife, Clerk of the El Paso County Court, NARA.
+[^93]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 47; Statement concerning marriage record of Thomas and Francisca Rife, Clerk of the El Paso County Court, NARA.
 [^94]: San Fernando Cathedral Record, Case Files of Mexican War Pension Applications, RG 15, NARA
 [^95]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 47
 [^96]: Baptismal Records, San Fernando, Vol. 10, p. 377, entry 3025
-[^97]: Adoption Deed, Historical Deed Records, County Clerk Office, Bexar County, Book 187, pp. 459-60, San Antonio, TX
-[^98]: San Antonio Daily Light, July 20, 1891
-[^99]: San Antonio Daily Light, August 4, 1891
-[^100]: San Antonio Daily Light, July 23, 1891
-[^101]: San Antonio Daily Light, December 1, 1891
+[^97]: Adoption Deed, Historical Deed Records, County Clerk Office, Bexar County, Book 187, pp. 459-60, San Antonio
+[^98]: *San Antonio Daily Light*, July 20, 1891
+[^99]: *San Antonio Daily Light*, August 4, 1891
+[^100]: *San Antonio Daily Light*, July 23, 1891
+[^101]: *San Antonio Daily Light*, December 1, 1891
 [^102]: United States Twelfth Census (1900), San Antonio, Bexar, Texas, Roll 1611
 [^103]: Jules A. Appler’s General Directory of the City of San Antonio 1892, 534
-[^104]: San Antonio Light, March 4, 1893
-[^105]: San Antonio Daily Light, March 22, 1893
-[^106]: San Antonio Daily Light, May 12, 1893
-[^107]: San Antonio Daily Light, October 3, 1893
-[^108]: San Antonio Daily Light, February 20, 1894
-[^109]: San Antonio Daily Light, March 4, 1893
-[^110]: San Antonio Light, February 13, 1894
-[^111]: San Antonio Light, September 11, 1893
-[^112]: San Antonio Daily Light, March 4, 1893
+[^104]: *San Antonio Light*, March 4, 1893
+[^105]: *San Antonio Daily Light*, March 22, 1893
+[^106]: *San Antonio Daily Light*, May 12, 1893
+[^107]: *San Antonio Daily Light*, October 3, 1893
+[^108]: *San Antonio Daily Light*, February 20, 1894
+[^109]: *San Antonio Daily Light*, March 4, 1893
+[^110]: *San Antonio Light*, February 13, 1894
+[^111]: *San Antonio Light*, September 11, 1893
+[^112]: *San Antonio Daily Light*, March 4, 1893
 [^113]: Survivor’s Brief, Records of the Bureau of Pensions, Mexican War Pension Application files, 1887-1926
-[^114]: August Santleben, A Texas Pioneer, (New York: The Neale Publishing Company, 1910), 228; (652, pp. 78-9) Montejano, Anglos and Mexicans in the Making of Texas, 41
-[^115]: San Antonio Daily Light, October 3, 1894
-[^116]: San Antonio Daily Light, December 4, 1894
-[^117]: Mexican War pension records, Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, TX
-[^118]: Galveston Daily News, December 28, 1894; San Antonio Daily Light, December 27, 1894.
-[^119]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 46; (148) Mexican War pension records, Thomas Rife File;  (566) City of San Antonio, Mortuary Certificate, San Antonio City Clerk, Case Files of Mexican War Pensions, RG 15, NARA.
-[^120]: David McDonald, Jose Antonio Navarro, In Search of the American Dream in Nineteenth Century Texas, (Denton, TX: Texas State Historical Association, 2010), 270; (1434) Letter from Annie Rife to OAV Burr, January 1, 1895
-[^121]: Daily Light (San Antonio), December 28, 1894
+[^114]: August Santleben, *A Texas Pioneer*, (New York: The Neale Publishing Company, 1910), 228; Montejano, *Anglos and Mexicans in the Making of Texas*, 41
+[^115]: *San Antonio Daily Light*, October 3, 1894
+[^116]: *San Antonio Daily Light*, December 4, 1894
+[^117]: Mexican War pension records, "Thomas Rife File", Daughters of the Republic of Texas Library at the Alamo, San Antonio, TX
+[^118]: *Galveston Daily News*, December 28, 1894; *San Antonio Daily Light*, December 27, 1894.
+[^119]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 46; Mexican War pension records, "Thomas Rife File"; City of San Antonio, Mortuary Certificate, San Antonio City Clerk, Case Files of Mexican War Pensions, RG 15, NARA.
+[^120]: David McDonald, *Jose Antonio Navarro, In Search of the American Dream in Nineteenth Century Texas*, (Denton, TX: Texas State Historical Association, 2010), 270; Letter from Annie Rife to OAV Burr, January 1, 1895, original owned by Susan Majewski
+[^121]: *Daily Light* (San Antonio), December 28, 1894
 [^122]: Death Record, 1875-1879, Municipal Archives and Records, San Antonio
-[^123]: Letter from Anna Rife to Mary Rife Burr, January 1, 1895, original owned by Susan Majewski
+[^123]: Letter from Anna Rife to OAV Burr, January 1, 1895
