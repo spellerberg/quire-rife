@@ -8,7 +8,7 @@ type: essay
 
 *“In 1842, when Texas was last invaded, Tom Rife volunteered for her defense and he served two enlistments in the Mexican war, and was in the fray from beginning to the end. One of those enlistments was served under a man dear to Texas, Jack Hayes, the other under Walter P Lane. No one has yet risen to question his courage or service.” “Custodian of the Alamo,” San Antonio Light, (San Antonio, Texas), February 23, 1887*
 
-## The Minutemen of Bexar became Hay’s Rangers.
+### The Minutemen of Bexar became Hay’s Rangers.
 
 In the turmoil during and after the war for Texas independence, many progressive and industrious Mexican inhabitants of San Antonio left for Mexico;[^1] much of the Mexican population of Nacogdoches and displaced Native Americans who had gathered in east Texas[^2] were forced to leave the Republic by the victorious Anglo-Americans.[^3] The Anglo population itself consisted of a majority of honest farmers but also a large minority of “loafers” who drifted from one opportunity to another.[^4]
 
@@ -18,13 +18,13 @@ John Coffee (Jack) Hays, the commander of the minutemen of Bexar County,[^12] be
 
 Hays received his first commission as a ranger captain shortly after the battle of Plum Creek in August of 1840[^17] and continued in military service until about 1848. The young men who served in Jack Hays’ ranging companies in 1841-1842 formed the nucleus of his Mexican War regiments in 1846.[^18] Other young adventure-seeking young men, such as Walter P. Lane, who never formally served in Hays’ ranger companies, joined Hays’ command, on occasion, as amateurs to learn how to pursue and defeat Comanche raiders.[^19]
 
-## Jack Hays built his rangers into a creditable military organization.
+### Jack Hays built his rangers into a creditable military organization.
 
 Most men who applied to join Hays’ rangers could not meet the requirements for enlistment set by Hays. His caution in selecting recruits enabled him to create what is considered to be the best set of Indian fighters that Texas ever produced. Hays’ rangers patrolled an area of 40 to 50 miles and in later years lived in a camp on the Medina River. They patrolled continually in groups of three men led by a sergeant. Few of Hays’ rangers were over 22 years old.[^20]
 
 Hays initially established a camp at Leon Creek seven miles west of San Antonio.[^21] By 1844, he had moved the camp to the Medina River several miles above the site of Castroville.[^22] Between June 1 and September 30, 1843, Hays and 25 to 37 men ranged the region south of San Antonio.[^23] After 1844 the rangers provided security for the outlying settlements at Castroville, Quihi Lake, Vanderburg and D’Hanis.[^24] These settlements were on the Indian frontier and were protected by a squad of rangers stationed at a camp on Seco Creek, two miles from D’Hanis.[^25] In 1844, there were 30 rangers stationed in Béxar County, 15 in Travis County and 15 each in Refugio and Goliad.[^26] The rangers were charged with patrolling their assigned areas searching for and pursuing raiders who, in the 1840s, were usually Comanche Indians or their allies.[^27]
 
-## The rangers eventually found a way to defeat Horse Indians.
+### The rangers eventually found a way to defeat Horse Indians.
 
 On March 19, 1840, Texas soldiers killed, at the Council House Fight, a number of Comanche chiefs who had come to San Antonio to negotiate the return of captives.[^28] This was the third attempt to sign a treaty with the Comanche.[^29] The hope of peaceful relations between the Texans and the Comanche Indians that had been promoted by Sam Houston[^30] was extinguished and not revived until 1853.[^31]
 
@@ -34,7 +34,7 @@ Even when the settlers managed to catch an Indian raiding party the outcome was 
 
 Jack Hays and his ranging company were the first to employ repeating pistols in a fight with Comanche raiders.[^38] During a fight on Walker Creek on June 1844, Jack Hays and 15 men used, for the first time, newly acquired Colt Paterson five-shot revolvers. These guns were bought for the Texas Navy and acquired by the rangers when President Sam Houston disbanded the Texas Navy in 1843.[^39] The ability to reload while galloping on horseback revolutionized the ranger’s fighting style and finally gave them the upper hand over mounted Comanche Indians.[^40] After the introduction of the six-shooters, the settlers gained an even greater advantage and Indian fights became simply chases.[^41]
 
-## The war between Texas and Mexico began again in 1842.
+### The war between Texas and Mexico began again in 1842.
 
 The United Mexican States did not recognize the independence of the Republic of Texas despite the agreement signed by President López de Santa Anna in 1836.[^42] In 1842, Santa Anna was once again President of Mexico and the republics of Texas and Mexico were once again at war.[^43] Texas President Mirabeau Lamar sent 270 armed men on a trading mission called the Santa Fé Expedition in June 1841. The expedition was meant to be a joint political, military and commercial enterprise[^44] but the Mexican government interpreted it as an armed invasion.[^45] The participants in the expedition were captured and imprisoned.[^46]
 
@@ -44,13 +44,13 @@ In July 1842, Mexican soldiers under Colonel Antonio Canales approached Corpus C
 
 Hays, who had been out on a scout when the city was taken, quickly assembled a body of volunteer soldiers to prevent the Mexican army from proceeding north towards Austin, the Republic’s capital.[^52] On September 17, 1842, the two forces met near where the city of New Braunfels is today and, after the Battle of Salado Creek, General Woll and his army retreated back to San Antonio.[^53] The Mexican army left San Antonio on September 20 and returned to Mexico.[^54]
 
-## President Houston authorized an invasion of Mexico in 1842.
+### President Houston authorized an invasion of Mexico in 1842.
 
 In October 1842, following the earlier assault on San Antonio, General Alexander Somervell (commander of the western militia brigade) was authorized by Texas President Sam Houston to invade Mexico.[^55] On November 18, 1842, Somervell’s Texans, led by Jack Hays and his scouts, left San Antonio with 750 men. On December 8, Somervell’s forces captured the town of Laredo on the northern bank of the Rio Grande. On December 19, General Somervell ordered his remaining volunteers to return to his base camp at Gonzales.[^56] Two hundred men, including Hays’ company of rangers, thinking the expedition was over,[^57]returned to San Antonio[^58] but other men refused to abandon the invasion; instead they reorganized their forces and began what became known as the Mier Expedition. They crossed the Rio Grande and attempted to capture the town of Mier. On December 26, 1842, the Mexican Army captured 260 Texans at Mier after a long battle.[^59]
 
 In negotiations that followed,[^60] Mexico was willing to give the State of Texas autonomy if it would remain in the Mexican republic.[^61] They continued to consider Texas a Mexican state until 1847.[^62] Texan and American politicians, however, refused to acknowledge Mexico’s claim to Texas and in December of 1844 a bill annexing Texas to the United States passed the US Senate.[^63] A Texas Constitutional Convention agreed that the Republic would be come part of the United States on July 7, 1845.[^64]
 
-## The United States started the Mexican War after annexation of Texas.
+### The United States started the Mexican War after annexation of Texas.
 
 In June 1845, a large part of the US Army was gathered at Fort Jessup in western Louisiana near the Sabine River in anticipation of a war with Mexico.[^65] The US Army commander, General Edmund Gaines, was instructed to move his troops to the disputed Texas border in advance of February 19, 1846, when the state would be formally annexed to the US.[^66] By the time the Texas Constitutional Convention accepted the bill annexing Texas to the United States, US General Zachery Taylor was moving his army to New Orleans to take ships to Texas. On July 31, 1845, General Taylor’s army arrived at Corpus Christi Bay on the Texas coast and camped on the Nueces River for the next nine months[^67] waiting for the Mexicans to initiate war.[^68]
 
@@ -62,7 +62,7 @@ On April 24, 1846, General Mariano Arista, in command at Matamoros, announced th
 
 In May 1846 Mexican and American troops clashed at Palo Alto Prairie between the US Army’s supply base at Port Isabel and Fort Brown. After the Battle of Resaca de la Palma the following day, the Mexican army retreated to Matamoros and Taylor followed them as far as Fort Brown.[^76] During this campaign, a company of US Army Dragoons was captured while on a scout and Samuel Walker’s company of Texas mounted irregulars proved valuable as scouts and messengers.[^77] The combination of events convinced General Taylor to accept Texas Rangers into Federal service. Reporters from American newspapers accompanied the troops and their stories about Walker’s company contributed to the growing mythology of the Texas Rangers.[^78]  
 
-## Tom Rife enlisted in the First Texas Mounted Rifles.
+### Tom Rife enlisted in the First Texas Mounted Rifles.
 
 On May 4, 1846, even before General Taylor called for volunteers, Jack Hays visited Austin to ask permission to recruit a regiment of volunteers for the war.[^79] Texas Governor James Pinckney Henderson approved and Hays, with Samuel Walker, left for Washington-on-the-Brazos to recruit men who had experience as rangers, their preferred recruits. While in Brenham, Washington County, Hays and Walker called for volunteers at a public meeting sponsored by John B. Wilkins, Sr., a local merchant. The gathering concluded with a barbeque and dance. The next day the two men proceeded east to visit other towns.[^80] Between May 15 and May 19, 1846, as a result of Hays’ visit, sixty-four men in Brenham enrolled in a company headed by Frank S. Early.[^81] Among the men who enrolled was 23-year-old Thomas Rife.[^82]
 
@@ -74,7 +74,7 @@ On June 11, 1846, Rife was still with Frank Early’s Company F[^93]at Point Isa
 
 Some of Hay’s former rangers traveled long distances to sign up for service. The Texas captains selected their recruits carefully and rejected those who did not meet their standards.[^98] As a result, the regiment spent the entire month of June getting the required ten companies organized and staffed.[^99] Regimental officers were elected on June 22.[^100] Jack Hays was elected colonel, Samuel Walker was elected lieutenant colonel and Michael H. Chevallie was elected major. The men were issued army wagons and camp equipage but they refused army uniforms.[^101] The Texans dressed as they did in civilian life with woolen shirts dyed with hickory nuts, buckskin leather pants, slouch hats, moccasins and knives and pistols in their belts.[^102] Many sported full beards and handlebar mustaches.[^103]
 
-## The US Army invaded Mexico in 1846.
+### The US Army invaded Mexico in 1846.
 
 In July and August 1846, General Taylor marched one brigade of infantry with artillery and cavalry along the south side of the Rio Grande through Reynosa[^104] and on to Camargo City in the State of Tamaulipas. The remaining infantry were carried between Point Isabel and Camargo City in chartered steamboats[^105] operated by Captain Richard King.[^106]
 
@@ -84,7 +84,7 @@ In preparation for the advance on Monterrey, General Taylor organized his army i
 
 On September 19, the 4,000 US regular and volunteer troops of Taylor’s army reached the outskirts of Monterrey and camped at Santo Domingo where the Americans established a base camp they called Walnut Springs.[^114] The Texas volunteers were sent out to forage and rain began to fall during the night.[^115]
 
-## Thomas Rife participated in the Battle of Monterrey.
+### Thomas Rife participated in the Battle of Monterrey.
 
 On September 20, 1846, the Battle of Monterrey began. The Texans left their bedding and cooking utensils in camp because they thought that they would return to their camp that night but they were not able to return for four days after the city surrendered. They were forced to eat roasted green corn stolen from nearby fields[^116] and to sleep on the ground in their shirtsleeves.[^117]
 
@@ -98,7 +98,7 @@ The city surrendered on September 24 and the Mexican troops were allowed to leav
 
 Following the capture of Monterrey, all Texas volunteer troops were mustered out of Federal service and returned home to Texas.[^130] General Taylor began to muster out the Texas troops on September 30[^131] and Tom Rife was mustered out on October 2, as a sergeant.[^132] He was paid for his four-months of service, given a clothing allowance[^133] and returned to Washington County where his uncle Nathaniel Chambliss lived. It is not known if he traveled overland or by steamer from Camargo. Rife’s first company commander, Captain Frank Early, traveled by steamer. He died in the Tremont Hotel in Galveston from an illness that he contracted in Mexico while on his way home.[^134]
 
-## Rife reenlisted before the Battle of Buena Vista.
+### Rife reenlisted before the Battle of Buena Vista.
 
 On February 1, 1847, Walter P. Lane (who had served as a lieutenant in Hays’ first regiment) and his friend Governeur Nelson traveled from San Antonio to Fayette County to recruit a company of rangers for the duration of the war. Few men were willing to make such an indefinite commitment.[^135] Rife, on the other hand, did not hesitate. He enrolled in Lane’s Company that same day and was enlisted for three months or the duration of the war.[^136]
 
@@ -114,7 +114,7 @@ On April 4, 1847, Chevallie’s command left Camargo and arrived at China, Mexic
 
 The detachment commanded by Major Chevallie proceeded to Montemorelos through a densely populated valley where forage and food were abundant. Local officials appeared to be friendly towards the Americans and reported that Mexican General Urrea had retreated towards San Luis Potosí.[^145] The month of April 1847 was spent guarding foraging trains and scouting the countryside.[^146]
 
-## Rife’s unit was stationed at Monterrey in 1847.
+### Rife’s unit was stationed at Monterrey in 1847.
 
 On April 30, 1847, Rife’s unit was stationed at Monterrey.[^147] The battalion of Major Mike Chevallie (later commanded by Major Walter Lane) did good service fighting the “guerrilleros” who attacked supply wagons traveling the Camargo-Monterrey road. Chief among their opponents was General Canales[^148] and a man known to the Texans as Juan Flores from Cerralvo, a town 71 miles north of Monterrey on the road to Mier.[^149]
 
@@ -122,7 +122,7 @@ On May 27, 1847 Lane’s company was sent to Cerralvo by General Taylor to find 
 
 In June, about two months after Chevallie’s battalion arrived in Mexico, General Taylor, from his headquarters in Monterrey, dispatched Chevallié’s command to Linares.[^151] After three days of travel, Chevallie’s battalion and an observer, Lt. George T Shackleford of the US Sixth Infantry, reached Linares, 85 miles south of Monterrey, after nightfall. Believing that Mexican General José Urrea was camped in the city with a large Mexican force, Captain Lane dispatched three squads of ten men each to search the streets leading to the main plaza. The squad under 2nd Lt. Henry Earl encountered a mounted civilian, José María Arsipe, and ordered him to stop. According to the Texans he refused and Private John J. Glanton chased him down, shot and killed him. The Alcalde, Guillermo Morales, protested Arsipe’s murder[^152] but, as commanded, sent provisions and forage for the 300 Americans who camped at a ranch two miles from the city. The Texans remained at the ranch near Linares three or four days and then returned to Monterrey having found no armed Mexicans there.[^153]
 
-## Rife’s unit was transferred to Saltillo in late 1847.
+### Rife’s unit was transferred to Saltillo in late 1847.
 
 After Lane’s company returned to Monterrey, General Taylor ordered John Glanton arrested for killing the civilian in Linares. Glanton’s unit commander, Captain Lane, rather than arresting him, warned Glanton to flee.[^154] Later, John Glanton became a notorious murderer and subsequently killed many other Texans, Mexicans and Apaches in west Texas.[^155] For this infraction, Lane was placed under arrest for a few days and then released.[^156]
 
@@ -132,7 +132,7 @@ While Rife’s unit performed garrison duties in northern Mexico, Texas voluntee
 
 While the Texas military organizations along the Mexico City-Veracruz road were guarding the supply line between Mexico City and Vera Cruz and earning fame while fighting off last-ditch efforts by Mexican partisans, Chevallie’s battalion continued to depredate on the civilian population around Saltillo. On July 21, 1847, five Texans attempted to rob a Mexican civilian on the road between La Encantada and Buena Vista. On August 16, 1847, General Wool learned that Texans had killed cattle and sheep in a ranch near San Juan de la Vaquería, southwest of Saltillo. General Wool issued General Order Number 405, warning that he would discharge the entire company if the perpetrators could not be identified.[^163]
 
-## Walter P. Lane took command of the battalion.
+### Walter P. Lane took command of the battalion.
 
 On August 31, 1847, Major Chevallie resigned his commission after an altercation with General Wool and relinquished command of the battalion to Walter P. Lane.[^164] On September 27, 1847, an election was held by Companies A, B and C to select a new battalion commander to replace Chevallie.[^165] Of the 191 men who voted, 186 (including Thomas Rife) voted for Lane who was promoted to Major.[^166] On September 1, 1847, while Walter P. Lane was still the company commander, Thomas Rife was promoted to second sergeant of Company A.[^167]
 
@@ -148,7 +148,7 @@ On December 15, 1847, a squad of Captain Lewis’ Company of sixteen men, includ
 
 On February 2, 1848, US and Mexican diplomats signed a treaty in a suburb of Mexico City called Guadalupe Hidalgo and agreed to an armistice to begin March 5.[^182] Jacks Hay’s regiment of Texas volunteers was mustered out at Vera Cruz and were on hand to watch ex-President Santa Anna depart Mexico for exile in Jamaica in April.[^183] On June 12, 1848, the last US troops left Mexico City.[^184]
 
-## Rife’s unit was detailed to occupy the road to Zacatecas in February 1848.
+### Rife’s unit was detailed to occupy the road to Zacatecas in February 1848.
 
 The armistice did not require American forces to evacuate Mexico and the occupation of northern Mexico continued. On February 28, 1848, Companies D and E of Lane’s battalion and the 2nd Mississippi Regiment were sent to the town of Mazapil some 95 miles south of Saltillo, located in the northern part of the State of Zacatecas in the Chihuahuan Desert.[^185] The Americans arrived March 7 and established their headquarters at Cedras, just west of Mazapil on the old Zacatecas-Saltillo road.[^186] During March and April 1848, Rife’s unit (Company A) was stationed at the market town of Gruñidora about 60 miles south of Mazapil on the road to Zacatecas city.[^187] Company B remained at the battalion’s old camp near Buena Vista and Company C, commanded by Captain George Adams was stationed at Parras.[^188]
 
@@ -156,12 +156,13 @@ On March 12, 1848, Major Lane, Captain John Pope of the US Army Topographical En
 
 On May 2, 1848 Lt. William H. Francis, John E. Dusenberry and nine other rangers left their station at Concepción del Oro (five miles east of Mazapil) and returned to the village of Salado to exhume the remains of the seventeen prisoners of the Mier Expedition who were executed there in 1843. This action was undertaken at the initiative of the rangers involved. Dusenberry (and a private in his company) later escorted the remains to La Grange in Fayette County, Texas where local residents buried them on a bluff overlooking the Colorado River.[^192] In later years the State of Texas constructed a monument over the remains. A newspaper in San Antonio reported that Rife was one of the men who exhumed the bones but there is no other evidence to support this.[^193] The unit commander, Walter P. Lane, made a similar, unsupported claim that he too was personally involved in recovering the bones.[^194]
 
-## Rife’s unit disbanded in June 1848.
+### Rife’s unit disbanded in June 1848.
 
 On June 12, 1848, General Wool announced to his troops that the war was over; the US Army began preparations to withdraw from northern Mexico.[^195] The soldiers stationed in Saltillo and points west returned to Monterrey, General Wool's headquarters. Lane’s battalion camped at Walnut Springs, two miles distant from town[^196] in the same place that they had camped prior to the Battle of Monterrey in 1846. Most of the soldiers were given leave to visit the city. When the US Army of Occupation left Monterrey for Camargo, Lane’s battalion formed the rearguard, considered as a position of honor.[^197]
 
 On June 30, 1848, the army was disbanded at Camargo City[^198] and the men mustered out of Federal service.[^199] Clay Davis, the owner of the growing town of Rio Grande City (across the river from Camargo city), invited Major Lane and his discharged rangers to attend a fourth of July public dinner at the Rio Grande Hotel.[^200] Most of the volunteer infantry then went to Matamoros where vessels waited to take them to New Orleans or Galveston while the Texas mounted troops returned to Texas on horseback.[^201]
 
+Chapter Two Notes:
 
 [^1]: Joseph William Schmitz, *Thus They Lived: Social Life in the Republic of Texas,* (San Antonio: The Naylor Company, 1936), 1
 [^2]: Jimmy L. Bryan, Jr., *More Zeal Than Discretion: The Westward Adventures of Walter P. Lane,* (College Station, TX: Texas A&M University Press, 2008), 15
