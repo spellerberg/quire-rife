@@ -1,10 +1,10 @@
 ---
-title: Ancestors of Thomas Rife, 1780-1864
+title: Ancestors of Thomas Rife, 1735-1864
 weight: 100
 type: essay
 ---
 
-# Ancestors of Thomas Rife, 1780-1864
+# Ancestors of Thomas Rife, 1735-1864
 
 ## South Carolina
 
@@ -195,10 +195,7 @@ In early July 1868 Nathaniel Chambliss died and on July 9, 1868 his son-in-law, 
 In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician in charge of the City Hospital of Houston. He examined his wife’s uncle, old Samuel Lee Chambliss, and declared him to be disabled due to his war wounds.[^177] On July 2, 1874 Samuel L. Chambliss was granted a state pension for his service in the Texas War of Independence in 1836.[^178] A bill passed by the Legislature on July 28, 1876 for relief of Texas veteran pensioners, led Samuel Chambliss to swear that he was, on August 30, 1879, indigent and unable to support himself. He stated that he owned only his horse valued at $50 and a cow and calf valued at $20. In lieu of a pension he received a Republic Donation Voucher for 1280 acres for his service in the War for Texas Independence.[^179]
 
 
-
-
-
-
+Chapter One Notes:
 
 [^1]: A. S. Salley, Jr., *The History of Orangeburg, South Carolina,* (Baltimore: Regional   Publishing Company, 1969), 69-70
 [^2]: Daniel Marchant Culler, *Orangeburg District, 1768-1868: History and Records,* (Spartanburg, South Carolina: The Reprint Company Publishers, 1995), 7
