@@ -1,5 +1,5 @@
 ---
-title: Thomas and Francisca's  Life in San Antonio - 1872 - 1894
+title: Thomas and Francisca's  Life in San Antonio - 1872-1894
 weight: 800
 type: essay
 ---
@@ -21,9 +21,9 @@ A traveler in observed in 1855, “Many houses were roughcast on the outside; so
 
 Between 1866 and about 1877, San Antonio City government was short of funds. Taxes tied to property values financed City government.[^7] As other taxes rose during Reconstruction, real estate values and City revenue both fell. For the first ten years after the Civil War the City struggled financially. The gas works, built in 1859, was idle because there was not enough US currency in circulation to run it.[^8] Despite this, the City was growing rapidly.[^9]
 
-## Rife found work with the City of San Antonio.
+### Rife found work with the City of San Antonio.
 
-In 1873 Rife began a 20-year career as a municipal employee in San Antonio. Perhaps his experience in the election in Fort Stockton redirected his energies toward public service His earliest contacts when he moved to San Antonio were lawmen such as Ed Stevens, Juan Cardenas,[^10] and Alejo Perez Jr. who were also politicians.[^11] Rife is referred to in the City Council minutes of October 3, 1876 as “Policeman Rife.”[^12] In a letter to the editor, a disgruntled citizen described Rife as a former “cattle impounder.”[^13]
+In 1874 Rife began a 20-year career as a municipal employee in San Antonio. Perhaps his experience in the election in Fort Stockton redirected his energies toward public service His earliest contacts when he moved to San Antonio were lawmen such as Ed Stevens, Juan Cardenas,[^10] and Alejo Perez Jr. who were also politicians.[^11] Rife is referred to in the City Council minutes of October 3, 1876 as “Policeman Rife.”[^12] In a letter to the editor, a disgruntled citizen described Rife as a former “cattle impounder.”[^13]
 
 In 1879, Perez was the 2nd Assistant Marshal of San Antonio[^14] and a well-respected citizen.[^15] He may have known Rife from the New Mexico Campaign when Perez was a Fourth Corporal in Company B of Baylor’s Command.[^16] Perez's mother, Mrs. Juana Navarro Perez Alsbury, and his aunt, Gertrudis Navarro, were in the Alamo when it fell to the Mexican army in 1836.[^17] Perez was an infant then but his mother clearly remembered what she herself lived through. Alejo’s family may have been one source of Rife’s extensive knowledge of the siege of the Alamo.
 
@@ -137,8 +137,7 @@ In 1893 or 1894 Rife’s family moved again to a house at 1224 Cameron Street, a
 
 Rife did not recover and died[^117] at his home on Cameron Street on December 27, 1894.[^118] He had been ill for two months and died of “general debility.”[^119] The funeral was held on the following day at 10 o’clock am, as was customary.[^120] The funeral Mass was held at the San Fernando Cathedral and Rife was buried in San Antonio,[^121] almost certainly at the cemetery now called San Fernando, Number 1.[^122] “Father had such a poor funeral we had no money,” wrote daughter Annie to her sister Mary three days later.[^123] This must explain why there is no headstone today. Iron headstones were popular in the late 19th century but many were sold during the period when scrap iron was being collected for the war effort during World War II.
 
-
-Chapter 8 Notes
+Chapter Eight Notes:
 
 [^1]: Frances R. Condra, “E. I. Coyle & Trouble at the Alamo”, Our Heritage 34, No. 2, (Winter 1992-1993), 21; Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, STIRPES 35, No. 3, (September 1995), 46; Mexican War Pension Records, Thomas Rife file at Daughters of the Republic of Texas Library, Alamo, San Antonio, Texas.
 [^2]: Mexican War Pension Records, Thomas Rife file at DRT Library.
