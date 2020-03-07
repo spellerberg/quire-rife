@@ -3,6 +3,7 @@ title: Introduction
 weight: 50
 type: essay
 ---
+#Introduction
 
 Thomas Rife came to Texas from Mississippi when Texas was a Republic. Beginning in 1842 he was actively engaged in the fight against Texas’ enemies whether they were Santa Ana’s Mexicans, Native Americans, Union soldiers or citizens who broke the law. As the first “Alamo Keeper,” he was charged with protecting the Alamo from vandalism.
 
