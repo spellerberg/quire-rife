@@ -3,7 +3,6 @@ title: The Civil War, 1861 - 1865
 weight: 600
 type: essay
 ---
-# The Civil War, 1861-1865
 
 ## Custodian of Fort Bliss, 1861
 

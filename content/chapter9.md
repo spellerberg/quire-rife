@@ -3,7 +3,6 @@ title: Preserving the Alamo, 1885-1905
 weight: 900
 type: essay
 ---
-# Preserving the Alamo, 1881-1905
 
 *“From 1885 to 1894 Rife was custodian of the Alamo”, “Custodian of the Alamo”, San Antonio Light, February 23, 1887*
 

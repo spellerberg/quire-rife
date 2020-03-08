@@ -4,7 +4,6 @@ weight: 1000
 type: essay
 
 ---
-# Appendix: The Widow Rife and her Children, 1895-1900
 
 subheading:  background
 

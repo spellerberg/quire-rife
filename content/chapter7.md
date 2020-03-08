@@ -3,7 +3,6 @@ title: West Texas after the War, 1866-1872
 weight: 700
 type: essay
 ---
-# West Texas after the Civil War, 1866-1872
 
 ## Ficklin Mail Service, 1866-1872
 
