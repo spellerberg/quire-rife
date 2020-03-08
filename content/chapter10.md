@@ -1,5 +1,5 @@
 ---
-title: Appendix:  The Widow Rife and Her Children
+title: Appendix The Widow Rife and Her Children
 weight: 1000
 type: essay
 
