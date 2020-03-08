@@ -9,9 +9,9 @@
 # Title & Description
 # ------------------------------------------------------------------------------
 
-title: Quire Starter
-subtitle: Multi-Format Publishing
-reading_line:
+title: The Alamo Keeper
+subtitle: Thomas C. Rife
+reading_line: 1823-1894
 short_title:
 
 description:
@@ -43,17 +43,17 @@ contributor_as_it_appears:
 
 contributor:
   - type: primary
-    first_name: Rose
-    last_name: Valland
-    title: Chair
+    first_name: Philip
+    last_name: Mullins
+    title: Author
     affiliation: Commission for the Protection of Works of Art
     bio: "Rose Antonia Maria Valland (1 November 1898 – 18 September 1980) was a French art historian, member of the French Resistance, captain in the French military, and one of the most decorated women in French history. She secretly recorded details of the Nazi plundering of National French and private Jewish-owned art from France; and, working with the French Resistance, she saved thousands of works of art."
     url: https://en.wikipedia.org/wiki/Rose_Valland
     pic: contributors/rose-valland.jpg
   - type: primary
-    first_name: Denis
-    last_name: Diderot
-    title: Chief Editor
+    first_name: George
+    last_name: Mullins
+    title: Author
     affiliation: Encyclopédie
     bio: "Denis Diderot (5 October 1713 – 31 July 1784) was a French philosopher, art critic, and writer. He was a prominent figure during the Enlightenment and is best known for serving as co-founder, chief editor, and contributor to the Encyclopédie along with Jean le Rond d’Alembert."
     url: https://en.wikipedia.org/wiki/Denis_Diderot
