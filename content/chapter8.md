@@ -137,7 +137,6 @@ In 1893 or 1894 Rife’s family moved again to a house at 1224 Cameron Street, a
 
 Rife did not recover and died[^117] at his home on Cameron Street on December 27, 1894.[^118] He had been ill for two months and died of “general debility.”[^119] The funeral was held on the following day at 10 o’clock am, as was customary.[^120] The funeral Mass was held at the San Fernando Cathedral and Rife was buried in San Antonio,[^121] almost certainly at the cemetery now called San Fernando, Number 1.[^122] “Father had such a poor funeral we had no money,” wrote daughter Annie to her sister Mary three days later.[^123] This must explain why there is no headstone today. Iron headstones were popular in the late 19th century but many were sold during the period when scrap iron was being collected for the war effort during World War II.
 
-Chapter Eight Notes:
 
 [^1]: Frances R. Condra, “E. I. Coyle & Trouble at the Alamo”, Our Heritage 34, No. 2, (Winter 1992-1993), 21; Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, STIRPES 35, No. 3, (September 1995), 46; Mexican War Pension Records, Thomas Rife file at Daughters of the Republic of Texas Library, Alamo, San Antonio, Texas.
 [^2]: Mexican War Pension Records, Thomas Rife file at DRT Library.
