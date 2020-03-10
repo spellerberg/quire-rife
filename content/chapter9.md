@@ -218,107 +218,106 @@ Mrs. Applewhite served as custodian until 1921 when she retired for reasons of a
 
 By the time Mrs. Small died, the Alamo had a maintenance and library staff that included a full-time Grounds Superintendent, Mr. Herbert R. Newcomer.[^245] The number of visitors and the size of the Alamo staff continued to grow decade by decade. When Mr. Newcomer retired in 1961[^246] the person in charge of buildings of the Alamo was known as the Superintendent of Buildings and Grounds.[^247] The term “Custodian” or “Keeper” as it was used around the turn of the 19th Century had become an anachronism.
 
-
-[^1]: Adina De Zavala, History and Legends of the Alamo and Other Missions in and around San Antonio, (San Antonio: Standard Printing Co., December, 1917), 7; Robert S. Weddle and Robert H. Thonhoff, Drama & Conflict: the Texas Saga of 1776, (Austin: Madrona Press, Inc., 1976), 136
-[^2]: De Zavala, History and Legends of the Alamo, 11; Weddle, Drama & Conflict, 136
-[^3]: De Zavala, History and Legends of the Alamo, 18
-[^4]: De Zavala, History and Legends of the Alamo, 10; Charles Ramsdell, San Antonio: A Historical and Pictorial Guide, (Austin: University of Texas Press, 1959), 18; Weddle, Drama & Conflict, 135
-[^5]: Ramsdell, San Antonio, 18; Weddle, Drama & Conflict, 136
-[^6]: James L. Rock and W. I. Smith, Southern & Western Texas Guide for 1878, (St. Louis, MO: A. H. Granger Publishers, 1878), 28
-[^7]: Weddle, Drama & Conflict, 142
-[^8]: De Zavala, History and Legends of the Alamo, 13
-[^9]: Wright, San Antonio de Bexar: An Epitome of Early Texas History, 69; Adina De Zavala, The Alamo: Where the Last Man Died, (San Antonio: The Naylor Company, 1956), 8
-[^10]: Gale Hamilton Shiffrin, Echoes from Women of the Alamo, (San Antonio: AW Press, 1999), 215
-[^11]: Ramsdell, San Antonio, 19; (468, p. 214) Shiffrin, Echoes from Women of the Alamo, 214
-[^12]: Ramsdell, San Antonio, 19, 31; (639, p. 10) De Zavala, The Alamo, 10
-[^13]: Ramsdell, San Antonio, 20
-[^14]: David McDonald, Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas, (Denton, TX: Texas State Historical Association, 2010); Weddle, Drama & Conflict, 142
-[^15]: McDonald, Jose Antonio Navarro, 56
-[^16]: Mrs. S. J. Wright, San Antonio de Bexar: An Epitome of Early Texas History, (Austin: Morgan Printing, 1916), 153
-[^17]: McDonald, Jose Antonio Navarro, 34
-[^18]: Ramsdell, San Antonio, 99
-[^19]: McDonald, Jose Antonio Navarro, 92
-[^20]: Shiffrin, Echoes from Women of the Alamo, 215
-[^21]: De Zavala, History and Legends of the Alamo, 18; Leonora Bennett, Historical Sketch and Guide to the Alamo, (1904, repr, San Antonio, TX: James T. Roney, 1904), 39
-[^22]: McDonald, Jose Antonio Navarro, 114
-[^23]: De Zavala, History and Legends of the Alamo, 18; Rena Maverick Green, Editor, Samuel Maverick, Texan: 1803-1870, A Collection of Letters, Journals and Memoirs, (San Antonio: Privately Published, 1952), 54; De Zavala, The Alamo, 15
-[^24]: De Zavala, History and Legends of the Alamo, 21
-[^25]: Bennett, Historical Sketch and Guide to the Alamo, 51
-[^26]: McDonald, Jose Antonio Navarro, 230; (659, p. 53) Bennett, Historical Sketch and Guide to the Alamo, 53
-[^27]: Green, Samuel Maverick, Texan, 55
-[^28]: McDonald, Jose Antonio Navarro, 226
-[^29]: De Zavala, History and Legends of the Alamo, 33; Bennett, Historical Sketch and Guide to the Alamo, 60
-[^30]: De Zavala, History and Legends of the Alamo, 30
-[^31]: De Zavala, History and Legends of the Alamo, 36
-[^32]: De Zavala, History and Legends of the Alamo, 184
-[^33]: Bennett, Historical Sketch and Guide to the Alamo, 53
-[^34]: Ramsdell, San Antonio, 83
-[^35]: Ramsdell, San Antonio, 19, 70; Green, Samuel Maverick, Texan, 32
-[^36]: De Zavala, History and Legends of the Alamo, 38
-[^37]: De Zavala, History and Legends of the Alamo, 45, 55
-[^38]: Ramsdell, San Antonio, 149
-[^39]: Gerald S. Pierce, Editor, Travels in the Republic of Texas, 1842 by Francis. S. Latham, Austin, TX: Encino Press, 1979, 35; Ramsdell, San Antonio, 20
-[^40]: De Zavala, History and Legends of the Alamo, 20, 63; Donald E. Evertt, San Antonio: The Flavor of its Past, 1845-1898, (San Antonio: Trinity University Press, 1975), 18; Wright, San Antonio de Bexar: An Epitome of Early Texas History, 97
-[^41]: San Antonio Light, August 18, 1888; San Antonio Daily Express, August 19, 1888
-[^42]: McDonald, Jose Antonio Navarro, 34
-[^43]: De Zavala, History and Legends of the Alamo, 43
-[^44]: Ramsdell, San Antonio, 76
-[^45]: Ramsdell, San Antonio, 167
-[^46]: De Zavala, History and Legends of the Alamo, 44; Susan Prendergast Schoelwer, “The Artist’s Alamo: A Reappraisal of Pictorial Evidence, 1836-1850”, The Southwestern Historical Quarterly 91, No. 4, (April, 1988), 445, 448
-[^47]: Green, Samuel Maverick, Texan, 323
-[^48]: Ramsdell, San Antonio, 76; Schoelwer, “The Artist’s Alamo: A Reappraisal of Pictorial Evidence, 1836-1850”, 451
-[^49]: De Zavala, History and Legends of the Alamo, 10; (468, Shiffrin, Echoes from Women of the Alamo, 216
-[^50]: Ramsdell, San Antonio, 77
-[^51]: Shiffrin, Echoes from Women of the Alamo, 216
-[^52]: San Antonio Light, March 29, 1887, 87
-[^53]: George Wythe Baylor, Into the Far, Wild Country: True Tales of the Old Southwest, (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 3
-[^54]: Wright, San Antonio de Bexar, 88; Evertt, San Antonio, 123; Frank S. Faulkner, Jr., Historic Photos of San Antonio, (Nashville and Paducah, KY: Turner Publishing Company, 2007), 2
-[^55]: Jerry Thompson, Editor, Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861, (Albuquerque, NM: University of New Mexico Press, 2001), 173
+[^1]: Adina De Zavala, *History and Legends of the Alamo and Other Missions in and around San Antonio,* (San Antonio: Standard Printing Co., December, 1917), 7; Robert S. Weddle and Robert H. Thonhoff, *Drama & Conflict: the Texas Saga of 1776,* (Austin: Madrona Press, Inc., 1976), 136
+[^2]: Adina De Zavala, *History and Legends of the Alamo,* 11; Weddle, Drama & Conflict, 136
+[^3]: De Zavala, *History and Legends of the Alamo,* 18
+[^4]: De Zavala, *History and Legends of the Alamo,* 10; Charles Ramsdell, *San Antonio: A Historical and Pictorial Guide,* (Austin: University of Texas Press, 1959), 18; Weddle, *Drama & Conflict,* 135
+[^5]: Ramsdell, *San Antonio,* 18; Weddle, *Drama & Conflict,* 136
+[^6]: James L. Rock and W. I. Smith, *Southern & Western Texas Guide for 1878,* (St. Louis, MO: A. H. Granger Publishers, 1878), 28
+[^7]: Weddle, *Drama & Conflict,* 142
+[^8]: De Zavala, *History and Legends of the Alamo,* 13
+[^9]: Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* 69; Adina De Zavala, *The Alamo: Where the Last Man Died,* (San Antonio: The Naylor Company, 1956), 8
+[^10]: Gale Hamilton Shiffrin, *Echoes from Women of the Alamo,* (San Antonio: AW Press, 1999), 215
+[^11]: Ramsdell, *San Antonio,* 19; (468, p. 214) Shiffrin, *Echoes from Women of the Alamo,* 214
+[^12]: Ramsdell, *San Antonio,* 19, 31; (639, p. 10) De Zavala, *The Alamo,* 10
+[^13]: Ramsdell, *San Antonio,* 20
+[^14]: David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX: Texas State Historical Association, 2010); Weddle, *Drama & Conflict,* 142
+[^15]: McDonald, *Jose Antonio Navarro,* 56
+[^16]: Mrs. S. J. Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* (Austin: Morgan Printing, 1916), 153
+[^17]: McDonald, *Jose Antonio Navarro,* 34
+[^18]: Ramsdell, *San Antonio,* 99
+[^19]: McDonald, *Jose Antonio Navarro,* 92
+[^20]: Shiffrin, *Echoes from Women of the Alamo,* 215
+[^21]: De Zavala, *History and Legends of the Alamo,* 18; Leonora Bennett, *Historical Sketch and Guide to the Alamo,* (1904, repr, San Antonio, TX: James T. Roney, 1904), 39
+[^22]: McDonald, *Jose Antonio Navarro,* 114
+[^23]: De Zavala, *History and Legends of the Alamo,* 18; Rena Maverick Green, Editor, *Samuel Maverick, Texan: 1803-1870, A Collection of Letters, Journals and Memoirs,* (San Antonio: Privately Published, 1952), 54; De Zavala, The Alamo, 15
+[^24]: De Zavala, *History and Legends of the Alamo,* 21
+[^25]: Bennett, *Historical Sketch and Guide to the Alamo,* 51
+[^26]: McDonald, *Jose Antonio Navarro,* 230; (659, p. 53) Bennett, *Historical Sketch and Guide to the Alamo,* 53
+[^27]: Green, *Samuel Maverick, Texan,* 55
+[^28]: McDonald, *Jose Antonio Navarro,* 226
+[^29]: De Zavala, *History and Legends of the Alamo,* 33; Bennett, *Historical Sketch and Guide to the Alamo,* 60
+[^30]: De Zavala, *History and Legends of the Alamo,* 30
+[^31]: De Zavala, *History and Legends of the Alamo,* 36
+[^32]: De Zavala, *History and Legends of the Alamo,* 184
+[^33]: Bennett, *Historical Sketch and Guide to the Alamo,* 53
+[^34]: Ramsdell, *San Antonio,* 83
+[^35]: Ramsdell, *San Antonio,* 19, 70; Green, *Samuel Maverick, Texan,* 32
+[^36]: De Zavala, *History and Legends of the Alamo,* 38
+[^37]: De Zavala, *History and Legends of the Alamo,* 45, 55
+[^38]: Ramsdell, *San Antonio,* 149
+[^39]: Gerald S. Pierce, Editor, *Travels in the Republic of Texas, 1842 by Francis. S. Latham,* Austin, TX: Encino Press, 1979, 35; Ramsdell, San Antonio, 20
+[^40]: De Zavala, *History and Legends of the Alamo,* 20, 63; Donald E. Evertt, *San Antonio: The Flavor of its Past, 1845-1898,* (San Antonio: Trinity University Press, 1975), 18; Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* 97
+[^41]: *San Antonio Light,* August 18, 1888; San Antonio Daily Express, August 19, 1888
+[^42]: McDonald, *Jose Antonio Navarro,* 34
+[^43]: De Zavala, *History and Legends of the Alamo,* 43
+[^44]: Ramsdell, *San Antonio,* 76
+[^45]: Ramsdell, *San Antonio,* 167
+[^46]: De Zavala,* History and Legends of the Alamo,* 44; Susan Prendergast Schoelwer, “The Artist’s Alamo: A Reappraisal of Pictorial Evidence, 1836-1850”, *The Southwestern Historical Quarterly 91, No. 4, (April, 1988),* 445, 448
+[^47]: Green, *Samuel Maverick, Texan,* 323
+[^48]: Ramsdell, *San Antonio,* 76; Schoelwer, “The Artist’s Alamo: A Reappraisal of Pictorial Evidence, 1836-1850”, 451
+[^49]: De Zavala, *History and Legends of the Alamo,* 10; (468, Shiffrin, *Echoes from Women of the Alamo,* 216
+[^50]: Ramsdell, *San Antonio,* 77
+[^51]: Shiffrin, *Echoes from Women of the Alamo,* 216
+[^52]: *San Antonio Light,* March 29, 1887, 87
+[^53]: George Wythe Baylor, *Into the Far, Wild Country: True Tales of the Old Southwest,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 3
+[^54]: Wright, *San Antonio de Bexar,* 88; Evertt, San Antonio, 123; Frank S. Faulkner, Jr., *Historic Photos of San Antonio,* (Nashville and Paducah, KY: Turner Publishing Company, 2007), 2
+[^55]: Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque, NM: University of New Mexico Press, 2001), 173
 [^56]: Schoelwer, “The Artist’s Alamo: A Reappraisal of Pictorial Evidence, 1836-1850”, 445
-[^57]: Thompson, Texas and New Mexico on the Eve of the Civil War, 175
-[^58]: Thompson, Texas and New Mexico on the Eve of the Civil War, 176
-[^59]: Thompson, Texas and New Mexico on the Eve of the Civil War, 175
-[^60]: William Corner, compiler and editor, San Antonio De Bexar: A Guide and History, (1890, repr, (San Antonio, TX: Graphics Arts, 1977), 137; Wright, San Antonio de Bexar, 113
-[^61]: De Zavala, History and Legends of the Alamo, 44
-[^62]: William Corner, compiler and editor, San Antonio De Bexar: A Guide and History, (1890, repr, (San Antonio, TX: Graphics Arts, 1977), 161
-[^63]: Faulkner, Jr., Historic Photos of San Antonio, 45; De Zavala, History and Legends of the Alamo, 44
-[^64]: De Zavala, History and Legends of the Alamo, 57
-[^65]: Vinton Lee James, Frontier and Pioneer Recollections, (San Antonio: Artes Graficas, 1938), 46; Corner, compiler and editor, San Antonio De Bexar: A Guide and History, 144
-[^66]: Ramsdell, San Antonio, 214; Wright, San Antonio de Bexar, 90
-[^67]: Ramsdell, San Antonio, 216
-[^68]: Shiffrin, Echoes from Women of the Alamo, 216
-[^69]: Corner, compiler and editor, San Antonio De Bexar: A Guide and History, 163
-[^70]: Shiffrin, Echoes from Women of the Alamo, 116; De Zavala, The Alamo, 47
-[^71]: Corner, compiler and editor, San Antonio De Bexar: A Guide and History, 158; De Zavala, History and Legends of the Alamo, 57
-[^72]: Corner, compiler and editor, San Antonio De Bexar: A Guide and History, 143; Shiffrin, Echoes from Women of the Alamo, 219
-[^73]: Faulkner, Jr., Historic Photos of San Antonio, 16; Alexander Edwin Sweet, Alex Sweet’s Texas: The Lighter Side of Lone Star History, (Austin: University of Texas Press, 1986), 11
-[^74]: Ramsdell, San Antonio, 77
-[^75]: Francis R. Pryor, “Tom Rife-an Early Alamo Custodian”, STIRPES 42, No. 2, (June 2002), 28; De Zavala, The Alamo, 47
-[^76]: Pryor, “Tom Rife-an Early Alamo Custodian,” 28; Bennett, Historical Sketch and Guide to the Alamo, 85
-[^77]: Hans Peter Mareus Neilsen Gammel, The Laws of Texas, 1822-1897 Vol. 9, (1898, repr, Clark, NJ: Lawbook Exchange, 2004), 126; Bennett, Historical Sketch and Guide to the Alamo, 76
+[^57]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 175
+[^58]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 176
+[^59]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 175
+[^60]: William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* (1890, repr, (San Antonio, TX: Graphics Arts, 1977), 137; Wright, San Antonio de Bexar, 113
+[^61]: De Zavala, *History and Legends of the Alamo,* 44
+[^62]: William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* (1890, repr, (San Antonio, TX: Graphics Arts, 1977), 161
+[^63]: Faulkner, Jr., *Historic Photos of San Antonio,* 45; De Zavala, *History and Legends of the Alamo,* 44
+[^64]: De Zavala, *History and Legends of the Alamo,* 57
+[^65]: Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 46; Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 144
+[^66]: Ramsdell, *San Antonio,* 214; Wright, *San Antonio de Bexar,* 90
+[^67]: Ramsdell, *San Antonio,* 216
+[^68]: Shiffrin, *Echoes from Women of the Alamo,* 216
+[^69]: Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 163
+[^70]: Shiffrin, *Echoes from Women of the Alamo,* 116; De Zavala, *The Alamo,* 47
+[^71]: Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 158; De Zavala, *History and Legends of the Alamo,* 57
+[^72]: Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 143; Shiffrin, *Echoes from Women of the Alamo,* 219
+[^73]: Faulkner, Jr., *Historic Photos of San Antonio,* 16; Alexander Edwin Sweet, *Alex Sweet’s Texas: The Lighter Side of Lone Star History,* (Austin: University of Texas Press, 1986), 11
+[^74]: Ramsdell, *San Antonio,* 77
+[^75]: Francis R. Pryor, “Tom Rife-an Early Alamo Custodian”, *STIRPES 42, No. 2,* (June 2002), 28; De Zavala, *The Alamo,* 47
+[^76]: Pryor, “Tom Rife-an Early Alamo Custodian,” 28; Bennett, *Historical Sketch and Guide to the Alamo,* 85
+[^77]: Hans Peter Mareus Neilsen Gammel, *The Laws of Texas, 1822-1897 Vol. 9, (1898,* repr, Clark, NJ: Lawbook Exchange, 2004), 126; Bennett, *Historical Sketch and Guide to the Alamo,* 76
 [^78]: City Council Minutes, 1884-6, Book F, p. 455, City Clerks Office, City of San Antonio, TX; Pryor, “Tom Rife-an Early Alamo Custodian”, 28
 [^79]: City Council Minutes, 1884-6, Book F, p. 462
 [^80]: City Council Minutes, 1884-6, Book F, p. 683
-[^81]: Galveston Daily News, August 2, 1888
-[^82]: Corner, compiler and editor, San Antonio De Bexar: A Guide and History, 8
-[^83]: Randy Roberts and James S. Olson, A Line in the Sand: The Alamo in Blood and Memory, (New York: The Free Press, 2001), 202
-[^84]: Galveston Daily News, February 14, 1890; San Antonio Daily Express, San Antonio, Texas, Aug. 9, 1889
-[^85]: Ramsdell, San Antonio, 20
-[^86]: San Antonio Light, September 30, 1885
-[^87]: San Antonio Light, June 8, 1886; San Antonio Daily Light August 6, 1890
+[^81]: *Galveston Daily News,* August 2, 1888
+[^82]: Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 8
+[^83]: Randy Roberts and James S. Olson, *A Line in the Sand: The Alamo in Blood and Memory,* (New York: The Free Press, 2001), 202
+[^84]: *Galveston Daily News,* February 14, 1890; San Antonio Daily Express, San Antonio, Texas, Aug. 9, 1889
+[^85]: Ramsdell, *San Antonio,* 20
+[^86]: *San Antonio Light,* September 30, 1885
+[^87]: *San Antonio Light,* June 8, 1886;*San Antonio Daily Light,* August 6, 1890
 [^88]: Pryor, “Tom Rife-an Early Alamo Custodian,” 28
-[^89]: Edward Tabor Linenthal, “A Reservoir of Spiritual Power: Patriotic Faith at the Alamo in the Twentieth Century”, The Southwestern Historical Quarterly 91, (April 1988), 513
-[^90]: San Antonio Light, April 14, 1886
-[^91]: San Antonio Light, August 18, 1888; San Antonio Daily Express, August 19; New York Herald, January 7, 1894
-[^92]: Mary Rutledge, Application for Membership, Daughters of the Republic of Texas, DRT Achieves, Austin; Pierce, Travels in the Republic of Texas, 1842, Vol. II, 36; T. R. Fehrenbach, Seven Keys to Texas, (El Paso: Texas Western Press, The University of Texas at El Paso, 1983), 17
-[^93]: Bennett, Historical Sketch and Guide to the Alamo
-[^94]: Evertt, San Antonio, 19
-[^95]: Pryor, “Tom Rife-an Early Alamo Custodian,” 29; Corner, compiler and editor, San Antonio De Bexar: A Guide and History, 8
-[^96]: Alexander Edwin Sweet, Alex Sweet’s Texas: The Lighter Side of Lone Star History, (Austin: University of Texas Press, 1986), 7-13
-[^97]: David Montejano, Anglos and Mexicans in the Making of Texas, 1836-1986, (Austin: University of Texas Press, 1987), 223; Bennett, Historical Sketch and Guide to the Alamo, 69
-[^98]: Roberts, A Line in the Sand, 308; Montejano, Anglos and Mexicans in the Making of Texas, 305-7
-[^99]: New York Herald, January 7, 1894
-[^100]: Daily Light, (San Antonio), May 20, 1894
+[^89]: Edward Tabor Linenthal, “A Reservoir of Spiritual Power: Patriotic Faith at the Alamo in the Twentieth Century”, *The Southwestern Historical Quarterly 91, (April 1988),* 513
+[^90]: *San Antonio Light,* April 14, 1886
+[^91]: *San Antonio Light,* August 18, 1888; *San Antonio Daily Express,* August 19; *New York Herald,* January 7, 1894
+[^92]: Mary Rutledge, Application for Membership, Daughters of the Republic of Texas, DRT Achieves, Austin; Pierce, *Travels in the Republic of Texas, 1842, Vol. II,* 36; T. R. Fehrenbach, *Seven Keys to Texas,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1983), 17
+[^93]: Bennett, *Historical Sketch and Guide to the Alamo*
+[^94]: Evertt, *San Antonio,* 19
+[^95]: Pryor, “Tom Rife-an Early Alamo Custodian,” 29; Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 8
+[^96]: Alexander Edwin Sweet, *Alex Sweet’s Texas: The Lighter Side of Lone Star History,* (Austin: University of Texas Press, 1986), 7-13
+[^97]: David Montejano, *Anglos and Mexicans in the Making of Texas, 1836-1986,* (Austin: University of Texas Press, 1987), 223; Bennett, *Historical Sketch and Guide to the Alamo,* 69
+[^98]: Roberts, *A Line in the Sand,* 308; Montejano, *Anglos and Mexicans in the Making of Texas,* 305-7
+[^99]: *New York Herald,* January 7, 1894
+[^100]: *Daily Light,* (San Antonio), May 20, 1894
 [^101]: R. M. Potter, “The Fall of the Alamo”, reprinted from the Star and Watchtower (San Antonio), Western Texan (San Antonio), March 6, 1851; Francis Antonio Ruiz, “Fall of the Alamo, and Massacre of Travis and His Brave Associates”, 1860 Texas Almanac, Galveston News
 [^102]: D. W. C. Bakers, compiler, A Texas Scrap-Book made up of History, Biography and Miscellany of Texas and its People, (New York, Chicago and New Orleans: A.S. Barnes & Company, 1875)
 [^103]: H. Yoakum, Esq., “History of Texas from Its First Settlement in 1685 to Its Annexation to the United States in 1846”, (New York: Redfield, 1855)
