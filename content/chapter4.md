@@ -161,7 +161,6 @@ In 1870 Mary Ann and William were stock raisers in San Felipe, Kinney County[^11
 
 William apparently died before 1900; Mary Ann was living in San Antonio with two of her children at the time of the 1900 Census. In 1920, she was still living in San Antonio with her daughters, one of whom was widowed and the other single.[^117] She died at age 92 in San Antonio on August 3, 1925, and is buried in Adartis Family Cemetery near Macdona, Texas.[^118]
 
-Chapter Four Notes:
 
 [^1]: Wayne R. Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881,* (College Station, TX: Texas A & M University Press, 1985), 20
 [^2]: Carlysle Graham Raht, *Romance of Davis Mountains and Big Bend Country, A History,* (El Paso, TX: The Rahtbooks Company, 1919), 150
