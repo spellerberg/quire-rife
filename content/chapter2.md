@@ -162,7 +162,6 @@ On June 12, 1848, General Wool announced to his troops that the war was over; th
 
 On June 30, 1848, the army was disbanded at Camargo City[^198] and the men mustered out of Federal service.[^199] Clay Davis, the owner of the growing town of Rio Grande City (across the river from Camargo city), invited Major Lane and his discharged rangers to attend a fourth of July public dinner at the Rio Grande Hotel.[^200] Most of the volunteer infantry then went to Matamoros where vessels waited to take them to New Orleans or Galveston while the Texas mounted troops returned to Texas on horseback.[^201]
 
-Chapter Two Notes:
 
 [^1]: Joseph William Schmitz, *Thus They Lived: Social Life in the Republic of Texas,* (San Antonio: The Naylor Company, 1936), 1
 [^2]: Jimmy L. Bryan, Jr., *More Zeal Than Discretion: The Westward Adventures of Walter P. Lane,* (College Station, TX: Texas A&M University Press, 2008), 15
