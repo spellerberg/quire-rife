@@ -288,7 +288,6 @@ Paroled Confederates were required to sign an oath, called the Amnesty Oath, bef
 
 Hundreds of men who could not or would not sign the oath fled to Mexico and points south.[^227] The Houston Tri-Weekly Telegraph edition of June 30, 1865, stated “Our city, for the last week or more, has been full of persons on their way to Mexico, to escape arrest by the United States authorities. Among the number are Governor Murrah, Ex-Governors Moore and Allen, of Louisiana, Generals Kirby Smith, Price, Magruder and Shelby. The last is accompanied with about 300 men of his former command.”[^228] Others, including George Giddings, applied for and were granted pardons in 1866.[^229]
 
-Chapter Six Notes:
 
 [^1]: Citizens of Bexar County to convene the legislature, Records of the Legislature: Constitutional Conventions, Secession Convention 1861, Memorials and Petitions (March 1861), Archives and Information Services-Texas State Library and Archives Commission
 [^2]: Records of the Legislature: Constitutional Conventions, Secession Convention 1861 (March 1861), ARIS-TSLAC
