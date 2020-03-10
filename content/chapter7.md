@@ -103,8 +103,6 @@ Soon after the election, Rife left Pecos County. He may have known that the era 
 Freighters who hauled merchandise between San Antonio and the Rio Grande Valley disappeared when the Southern Pacific Railroad reached Eagle Pass in 1878 and the Great Northern Railroad reached Laredo in 1883.[^84] In 1877, the first train of the Galveston, Harrisburg and San Antonio route entered San Antonio and its bell, reaching the ears of the men who drove stages and who freighted goods, tolled the demise of long-distance mail coaches and freight trains. A second railroad, the International and Great Northern railroad reached San Antonio from Houston in 1880. In 1883 and 1885 routes were opened to Corpus Christi and Kerrville, respectively[^85] In 1886, Pap Howard reportedly drove the last stage out of San Antonio to San Angelo. According to a newspaper reporter, “it was with tears in their eyes that many of the city’s intrepid pioneers watched him disappear into the distance.”[^86] They realized that the days of the cross-country stagecoaches and freight trains pulled by mules had come to an end.
 
 
-Chapter Seven Notes:
-
 [^1]: William L. Richter, *The Army in Texas During Reconstruction: 1865-1870*, (College Station, TX: Texas A&M University Press, 1987), 13
 [^2]: Mark Swanson, *Atlas of the Civil War Month by Month: Major Battles and Troop Movements*, (Athens & London: The University of Georgia Press, 2004), 112
 [^3]: W. C. Nunn, *Texas Under The Carpetbaggers*, (Austin: University of Texas Press, 1962), 3; (582) Richter, *The Army in Texas During Reconstruction*, 13
