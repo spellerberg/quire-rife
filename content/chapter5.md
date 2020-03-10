@@ -257,7 +257,6 @@ Giddings summed up almost ten years of his life when he said, “I made repeated
 
 Giddings activities as a mail contractor were confined entirely to Texas after 1862. In December 1862, he and a new partner, B.R. Sappington, signed a contract for a branch route from Uvalde to Eagle Pass. This was a profitable route because postage and passage from Mexico was paid in silver.[^168] There is no evidence that Giddings attempted to serve as a mail contractor after the war. Even if he wished to do so as an ex-Confederate officer, he would have been barred from bidding on Federal contracts.[^169]
 
-Chapter Five Notes:
 
 [^1]: *San Antonio Light,* February 23, 1887
 [^2]: *San Antonio Ledger and Texan,* June 6, 1854
