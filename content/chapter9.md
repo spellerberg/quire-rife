@@ -228,8 +228,8 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^8]: De Zavala, *History and Legends of the Alamo,* 13
 [^9]: Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* 69; Adina De Zavala, *The Alamo: Where the Last Man Died,* (San Antonio: The Naylor Company, 1956), 8
 [^10]: Gale Hamilton Shiffrin, *Echoes from Women of the Alamo,* (San Antonio: AW Press, 1999), 215
-[^11]: Ramsdell, *San Antonio,* 19; (468, p. 214) Shiffrin, *Echoes from Women of the Alamo,* 214
-[^12]: Ramsdell, *San Antonio,* 19, 31; (639, p. 10) De Zavala, *The Alamo,* 10
+[^11]: Ramsdell, *San Antonio,* 19; Shiffrin, *Echoes from Women of the Alamo,* 214
+[^12]: Ramsdell, *San Antonio,* 19, 31; De Zavala, *The Alamo,* 10
 [^13]: Ramsdell, *San Antonio,* 20
 [^14]: David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX: Texas State Historical Association, 2010); Weddle, *Drama & Conflict,* 142
 [^15]: McDonald, *Jose Antonio Navarro,* 56
@@ -258,7 +258,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^38]: Ramsdell, *San Antonio,* 149
 [^39]: Gerald S. Pierce, Editor, *Travels in the Republic of Texas, 1842 by Francis. S. Latham,* Austin, TX: Encino Press, 1979, 35; Ramsdell, San Antonio, 20
 [^40]: De Zavala, *History and Legends of the Alamo,* 20, 63; Donald E. Evertt, *San Antonio: The Flavor of its Past, 1845-1898,* (San Antonio: Trinity University Press, 1975), 18; Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* 97
-[^41]: *San Antonio Light,* August 18, 1888; San Antonio Daily Express, August 19, 1888
+[^41]: *San Antonio Light,* August 18, 1888; *San Antonio Daily Express,* August 19, 1888
 [^42]: McDonald, *Jose Antonio Navarro,* 34
 [^43]: De Zavala, *History and Legends of the Alamo,* 43
 [^44]: Ramsdell, *San Antonio,* 76
@@ -277,7 +277,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^57]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 175
 [^58]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 176
 [^59]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 175
-[^60]: William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* (1890, repr, (San Antonio, TX: Graphics Arts, 1977), 137; Wright, San Antonio de Bexar, 113
+[^60]: William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* (1890, repr, (San Antonio, TX: Graphics Arts, 1977), 137; Wright, *San Antonio de Bexar,* 113
 [^61]: De Zavala, *History and Legends of the Alamo,* 44
 [^62]: William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* (1890, repr, (San Antonio, TX: Graphics Arts, 1977), 161
 [^63]: Faulkner, Jr., *Historic Photos of San Antonio,* 45; De Zavala, *History and Legends of the Alamo,* 44
@@ -301,7 +301,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^81]: *Galveston Daily News,* August 2, 1888
 [^82]: Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 8
 [^83]: Randy Roberts and James S. Olson, *A Line in the Sand: The Alamo in Blood and Memory,* (New York: The Free Press, 2001), 202
-[^84]: *Galveston Daily News,* February 14, 1890; San Antonio Daily Express, San Antonio, Texas, Aug. 9, 1889
+[^84]: *Galveston Daily News,* February 14, 1890; *San Antonio Daily Express,* Aug. 9, 1889
 [^85]: Ramsdell, *San Antonio,* 20
 [^86]: *San Antonio Light,* September 30, 1885
 [^87]: *San Antonio Light,* June 8, 1886;*San Antonio Daily Light,* August 6, 1890
@@ -318,150 +318,150 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^98]: Roberts, *A Line in the Sand,* 308; Montejano, *Anglos and Mexicans in the Making of Texas,* 305-7
 [^99]: *New York Herald,* January 7, 1894
 [^100]: *Daily Light,* (San Antonio), May 20, 1894
-[^101]: R. M. Potter, “The Fall of the Alamo”, reprinted from the Star and Watchtower (San Antonio), Western Texan (San Antonio), March 6, 1851; Francis Antonio Ruiz, “Fall of the Alamo, and Massacre of Travis and His Brave Associates”, 1860 Texas Almanac, Galveston News
-[^102]: D. W. C. Bakers, compiler, A Texas Scrap-Book made up of History, Biography and Miscellany of Texas and its People, (New York, Chicago and New Orleans: A.S. Barnes & Company, 1875)
-[^103]: H. Yoakum, Esq., “History of Texas from Its First Settlement in 1685 to Its Annexation to the United States in 1846”, (New York: Redfield, 1855)
-[^104]: Mrs. Percy V. Pennybacker/Anna J. Hardwicke Pennybacker, “A New History of Texas for Schools,” Tyler, Texas, 1888
-[^105]: John Henry Brown, “History of Texas: from 1685 to 1892”, L. E. Daniell, Publisher, Printed by Becktold & Co., St. Louis, 1892
-[^106]: Mrs. Mary M. Brown, “A School History of Texas From Its Discovery in 1685 to 1893”, (Dallas: Published by the Author, 1894)
-[^107]: San Antonio Express, May 12, 1881
-[^108]: San Antonio Daily Light - February 28, 1887
-[^109]: San Antonio Sunday, Light, January 5, 1887; undated Alamo visitor register, A Guide to the Eagar Family Papers, 1866-1966, Collection 885, www.lib.utexas.edu/taro/drtsa/00055, Accessed September 14, 2012; (1453) San Antonio Daily Light, June 2, 1886
-[^110]: San Antonio Sunday Light, January 5, 1947; (696) Daily Light, (San Antonio), January 4, 1890
-[^111]: Roberts and Olson, A Line in the Sand, 228, 228
-[^112]: San Antonio Daily Light, March 31, 1891
-[^113]: San Antonio Daily Light, September 16, 1885
-[^114]: Dallas Herald, September 17, 1885
-[^115]: San Antonio Daily Light, August 26, 1886
-[^116]: San Antonio Light, March 29, 1887
-[^117]: The San Saba News, February 1, 1889; Galveston Daily News, January 23, 1889;
-[^118]: Galveston Daily New, August 2, 1889; Daily Light (San Antonio), August 1, 1889
-[^119]: Daily Light (San Antonio), August 2, 1889
-[^120]: Lockhart Register (Texas), August 9, 1889
-[^121]: San Antonio Daily Express, March 14, 1888
-[^122]: Evertt, San Antonio, 126
-[^123]: San Antonio Light, November 1, 1887; Fort Worth Daily Gazette, November 4, 1887
-[^124]: San Antonio Light, June 8, 1886; San Antonio Daily Express, August 1, 1886; (1466) Galveston Daily News, August 1, 1886
-[^125]: The Daily Light, (San Antonio), August 16 and 18, 1888
-[^126]: San Antonio Light, August 18, 1888; San Antonio Daily Express, August 19; New York Herald, January 7, 1894
-[^127]: San Antonio Light, August 18, 1888; San Antonio Daily Express, August 19; New York Herald, January 7, 1894: San Antonio Light, February 26, 1961
-[^128]: San Antonio Light, February 28, 1887
-[^129]: Daily Light, (San Antonio, Texas), February 22, 1908; San Antonio Light, February 23, 1887
-[^130]: San Antonio Light, February 28, 1887; J. Frank Dobie, “The Flavor of Texas,” Port Arthur News, April 19, 1936, 72
-[^131]: Floresville Chronicle (Texas), March 5, 1887
-[^132]: Roberts and Olson, A Line in the Sand, 202; Corner, compiler and editor, San Antonio De Bexar: A Guide and History, 144; Galveston Daily News, May 27, 1887; Daily Light, (San Antonio), May 19, 1887
-[^133]: San Antonio Free Press, February 28, 1888
-[^134]: Legislature Records, Mementos and Petitions, Alamo Monument Association for Relief of Madame Candelaria (February 12, 1891), ARIS-TSLAC; Edward King and J. Wells Champney, Texas 1874: An eyewitness account of conditions in post-reconstruction Texas, (Houston: Cordovan Press, 1974), 121
-[^135]: Pryor, “Tom Rife-an Early Alamo Custodian”, 29; Frances R. Pryor, editor, “Genealogical Gems”, STIRPES 35, No. 4, (December 1995), 19-20; James, Frontier and Pioneer Recollections, 150
+[^101]: R. M. Potter, *The Fall of the Alamo,* reprinted from the Star and Watchtower (San Antonio), Western Texan (San Antonio), March 6, 1851; Francis Antonio Ruiz, “Fall of the Alamo, and Massacre of Travis and His Brave Associates”, *1860 Texas Almanac, Galveston News*
+[^102]: D. W. C. Bakers, compiler, *A Texas Scrap-Book made up of History, Biography and Miscellany of Texas and its People,* (New York, Chicago and New Orleans: A.S. Barnes & Company, 1875)
+[^103]: H. Yoakum, Esq., *History of Texas from Its First Settlement in 1685 to Its Annexation to the United States in 1846,* (New York: Redfield, 1855)
+[^104]: Mrs. Percy V. Pennybacker/Anna J. Hardwicke Pennybacker, *A New History of Texas for Schools,* Tyler, Texas, 1888
+[^105]: John Henry Brown, *History of Texas: from 1685 to 1892,* L. E. Daniell, Publisher, Printed by Becktold & Co., St. Louis, 1892
+[^106]: Mrs. Mary M. Brown, *A School History of Texas From Its Discovery in 1685 to 1893,* (Dallas: Published by the Author, 1894)
+[^107]: *San Antonio Express,* May 12, 1881
+[^108]: *San Antonio Daily Light,* February 28, 1887
+[^109]: *San Antonio Sunday Light,* (1453) *San Antonio Daily Light,* June 2, 1886
+[^110]: San Antonio Sunday Light,* January 5, 1947; *Daily Light,* (San Antonio), January 4, 1890
+[^111]: Roberts and Olson, *A Line in the Sand,* 228, 228
+[^112]: *San Antonio Daily Light,* March 31, 1891
+[^113]: *San Antonio Daily Light,* September 16, 1885
+[^114]: *Dallas Herald,* September 17, 1885
+[^115]: *San Antonio Daily Light,* August 26, 1886
+[^116]: *San Antonio Light,* March 29, 1887
+[^117]: *The San Saba News,* February 1, 1889; *Galveston Daily News,* January 23, 1889;
+[^118]: *Galveston Daily News,* August 2, 1889; *Daily Light,* (San Antonio), August 1, 1889
+[^119]: *Daily Light,* (San Antonio), August 2, 1889
+[^120]: *Lockhart Register* (Texas),* August 9, 1889
+[^121]: *San Antonio Daily Express,()* March 14, 1888
+[^122]: Evertt, *San Antonio,* 126
+[^123]: *San Antonio Light,* November 1, 1887; *Fort Worth Daily Gazette,* November 4, 1887
+[^124]: *San Antonio Light,* June 8, 1886; *San Antonio Daily Express,* August 1, 1886; (1466) *Galveston Daily News,* August 1, 1886
+[^125]: *The Daily Light,* (San Antonio), August 16 and 18, 1888
+[^126]: *San Antonio Light,* August 18, 1888; *San Antonio Daily Express,* August 19;*New York Herald,* January 7, 1894
+[^127]: *San Antonio Light,* August 18, 1888; *San Antonio Daily Express,* August 19;*New York Herald,* January 7, 1894: *San Antonio Light,* February 26, 1961
+[^128]: *San Antonio Light,* February 28, 1887
+[^129]: *Daily Light,* (San Antonio), February 22, 1908; *San Antonio Light,* February 23, 1887
+[^130]: *San Antonio Light,* February 28, 1887; J. Frank Dobie, “The Flavor of Texas,” *Port Arthur News,* April 19, 1936, 72
+[^131]: *Floresville Chronicle* (Texas), March 5, 1887
+[^132]: Roberts and Olson, *A Line in the Sand,* 202; Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 144; *Galveston Daily News,* May 27, 1887; *Daily Light,* (San Antonio), May 19, 1887
+[^133]: *San Antonio Free Press,* February 28, 1888
+[^134]: Legislature Records, Mementos and Petitions, Alamo Monument Association for Relief of Madame Candelaria (February 12, 1891), ARIS-TSLAC; Edward King and J. Wells Champney, *Texas 1874: An eyewitness account of conditions in post-reconstruction Texas,* (Houston: Cordovan Press, 1974), 121
+[^135]: Pryor, “Tom Rife-an Early Alamo Custodian”, 29; Frances R. Pryor, editor, “Genealogical Gems”, *STIRPES 35, No. 4,* (December 1995), 19-20; James, *Frontier and Pioneer Recollections,* 150
 [^136]: Legislative Records, Memorials and petitions, Candelaria, Madame, for Relief (March 28, 1889) ARIS-TSLAC
-[^137]: Walter B. Stevens, Through Texas: A Series of Interesting Letters, (St. Louis, MO: St. Louis Globe-Democrat, 1892), 77; Robert F. O’Connor, editor, Texas Myths, (College Station, Texas: Texas A&M University Press, 1986), 180; Shiffrin, Echoes from Women of the Alamo, 89
-[^138]: Bennett, Historical Sketch and Guide to the Alamo, 67, 84; (789, p. 183) Pennybacker, A History of Texas for Schools, 183
-[^139]: San Antonio Daily Light, April 22, 1893; May 1, 1894; June 30, 1894
-[^140]: Daily Light (San Antonio) June 30, 1894; Daily Light (San Antonio), May 1, 1894; Farber, Texas, C.S.A., 68
-[^141]: The Daily Light, (San Antonio), August 16 and 18, 1888
-[^142]: San Antonio Express, January 25, 1888
-[^143]: Galveston Daily News, July 12, 1889
-[^144]: The Daily Light, October 6, 1895; (259, p. 19-20) Evertt, San Antonio, p.19-20
-[^145]: The Plain Dealer (Cleveland, Ohio), June 25, 1893
-[^146]: The Plain Dealer (Cleveland, Ohio), June 25, 1893
-[^147]: The Daily Light, October 6, 1895
-[^148]: The Plain Dealer (Cleveland, Ohio), June 25, 1893
-[^149]: Evertt, San Antonio, 79
-[^150]: San Antonio Express, March 23, 1889
-[^151]: Evertt, San Antonio, 88; Donald E. Everett, San Antonio Legacy, (San Antonio: Trinity University Press, 1979), 63
-[^152]: San Antonio Daily Light, August 28, 1891
-[^153]: Stephen B. Oates, Editor, Rip Ford’s Texas by John Salmon Ford, (Austin: University of Texas Press, 1963), xliv
-[^154]: San Antonio Daily Light, December 28, 1894
-[^155]: John S. Ford, History, Battles and Fall of the Alamo, (1894, repr, Austin: Shelby Publishers, 1980)
-[^156]: Green, Samuel Maverick, Texan, 421
-[^157]: Green, Samuel Maverick, Texan, 51-56
-[^158]: Shiffrin, Echoes from Women of the Alamo, 112
-[^159]: De Zavala, History and Legends of the Alamo, 213
-[^160]: Shiffrin, Echoes from Women of the Alamo, 111
-[^161]: San Antonio Light, March 29, 1887; The San Saba News, February 1, 1889
-[^162]: San Antonio Daily Light, August 28, 1891
-[^163]: Roberts and Olson, A Line in the Sand, 202
-[^164]: San Antonio Daily Light, December 27, 1894
-[^165]: San Antonio Daily Light, May 1, 1894
-[^166]: New York Herald, January 7, 1894; Galveston Daily News, September 10, 1885
-[^167]: Shiffrin, Echoes from Women of the Alamo, 221
-[^168]: Evertt, San Antonio, 122
-[^169]: Corner, compiler and editor, San Antonio De Bexar: A Guide and History, 14; San Antonio Express, March 7, 1879; Herbert Bolton and Eugene Barker, With the Makers of Texas: A Source Reader in Texas History, (Austin: Gammel-Statesman Publishing Co, 1904), 169; Bennett, Historical Sketch and Guide to the Alamo, 76
-[^170]: San Antonio Express, April 19, 1884
-[^171]: San Antonio Express, January 8, 1893
-[^172]: San Antonio Express, February 22, 1889
-[^173]: Daily Light (San Antonio) April 16, 1894; Fort Worth Daily Gazette, November 4, 1887
-[^174]: The San Antonio Daily Light, December 4, 1894
-[^175]: San Antonio Daily Express, January 31, 1893
-[^176]: Shiffrin, Echoes from Women of the Alamo, 113
-[^177]: De Zavala, History and Legends of the Alamo, 47
-[^178]: San Antonio Daily Light, February 7, 1894
-[^179]: San Antonio Daily Light, December 4, 1894
-[^180]: Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, STIRPES 35, No. 3, (September 1995), 46; Mortuary Certificate, Mortuary Records, San Antonio City Clerks Office, San Antonio, TX, NARA: Pensioner Dropped, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15, NARA
-[^181]: Galveston Daily News, December 28, 1894; San Antonio Daily Light, December 27, 1894; San Antonio Daily Light, December 28, 1894; Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas
-[^182]: San Antonio Light, February 23, 1887
-[^183]: Omaha World Herald, Mortuary Notice, December 29, 1894
-[^184]: City View, A Subdivision of Original City Lot1, R7 D7, Civil Engineer Survey Book 5, p. 111, San Antonio; Morrison and Fourmy’s  San Antonio City Directory for 1889; San Antonio City Directory for 1890
-[^185]: Mrs. Joseph Morris, editor, “List of 1st Class Certificates,” STIRPES 16, No. 3, (September 1976)
+[^137]: Walter B. Stevens, *Through Texas: A Series of Interesting Letters,* (St. Louis, MO: St. Louis Globe-Democrat, 1892), 77; Robert F. O’Connor, editor,*Texas Myths,* (College Station, Texas: Texas A&M University Press, 1986), 180; Shiffrin, *Echoes from Women of the Alamo,* 89
+[^138]: Bennett, *Historical Sketch and Guide to the Alamo,* 67, 84; (789, p. 183) Pennybacker, *A History of Texas for Schools,* 183
+[^139]: *San Antonio Daily Light,* April 22, 1893; May 1, 1894; June 30, 1894
+[^140]: *Daily Light* (San Antonio) June 30, 1894; *Daily Light* (San Antonio), May 1, 1894; Farber, *Texas, C.S.A.,* 68
+[^141]: *The Daily Light,* (San Antonio), August 16 and 18, 1888
+[^142]: *San Antonio Express,* January 25, 1888
+[^143]: *Galveston Daily News,* July 12, 1889
+[^144]: *The Daily Light,* October 6, 1895; Evertt, San Antonio, p.19-20
+[^145]: *The Plain Dealer* (Cleveland), June 25, 1893
+[^146]: *The Plain Dealer* (Cleveland), June 25, 1893
+[^147]: *The Daily Light,* October 6, 1895
+[^148]: *The Plain Dealer* (Cleveland), June 25, 1893
+[^149]: Evertt, *San Antonio,* 79
+[^150]: *San Antonio Express,* March 23, 1889
+[^151]: Evertt, *San Antonio,* 88; Donald E. Everett, *San Antonio Legacy,* (San Antonio: Trinity University Press, 1979), 63
+[^152]: *San Antonio Daily Light,* August 28, 1891
+[^153]: Stephen B. Oates, Editor, *Rip Ford’s Texas by John Salmon Ford,* (Austin: University of Texas Press, 1963), xliv
+[^154]: *San Antonio Daily Light,* December 28, 1894
+[^155]: John S. Ford, *History, Battles and Fall of the Alamo,* (1894, repr, Austin: Shelby Publishers, 1980)
+[^156]: Green, *Samuel Maverick, Texan,* 421
+[^157]: Green, *Samuel Maverick, Texan,* 51-56
+[^158]: Shiffrin, *Echoes from Women of the Alamo,* 112
+[^159]: De Zavala, *History and Legends of the Alamo,* 213
+[^160]: Shiffrin, *Echoes from Women of the Alamo,* 111
+[^161]: *San Antonio Light,* March 29, 1887; *The San Saba News,* February 1, 1889
+[^162]: *San Antonio Daily Light,* August 28, 1891
+[^163]: Roberts and Olson, *A Line in the Sand*, 202
+[^164]: *San Antonio Daily Light,* December 27, 1894
+[^165]: *San Antonio Daily Light,* May 1, 1894
+[^166]:*New York Herald,* January 7, 1894; *Galveston Daily News,* September 10, 1885
+[^167]: Shiffrin,*Echoes from Women of the Alamo,* 221
+[^168]: Evertt, *San Antonio,* 122
+[^169]: Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 14; *San Antonio Express,* March 7, 1879; Herbert Bolton and Eugene Barker, *With the Makers of Texas: A Source Reader in Texas History,* (Austin: Gammel-Statesman Publishing Co, 1904), 169; Bennett, *Historical Sketch and Guide to the Alamo,* 76
+[^170]: *San Antonio Express,* April 19, 1884
+[^171]: *San Antonio Express,* January 8, 1893
+[^172]: *San Antonio Express,* February 22, 1889
+[^173]: *Daily Light* (San Antonio) April 16, 1894; *Fort Worth Daily Gazette,* November 4, 1887
+[^174]: *The San Antonio Daily Light,* December 4, 1894
+[^175]: *San Antonio Daily Express,* January 31, 1893
+[^176]: Shiffrin, *Echoes from Women of the Alamo,* 113
+[^177]: De Zavala, *History and Legends of the Alamo,* 47
+[^178]: *San Antonio Daily Light,* February 7, 1894
+[^179]: *San Antonio Daily Light,* December 4, 1894
+[^180]: Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, No. 3,* (September 1995), 46; Mortuary Certificate, Mortuary Records, San Antonio City Clerks Office, San Antonio, TX, NARA: Pensioner Dropped, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15, NARA
+[^181]: *Galveston Daily News,* December 28, 1894; *San Antonio Daily Light,* December 27, 1894; *San Antonio Daily Light,* December 28, 1894; Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas
+[^182]: *San Antonio Light,* February 23, 1887
+[^183]: *Omaha World Herald,* Mortuary Notice, December 29, 1894
+[^184]: City View, A Subdivision of Original City Lot1, R7 D7, Civil Engineer Survey Book 5, p. 111, San Antonio; *Morrison and Fourmy’s  San Antonio City Directory for 1889; San Antonio City Directory for 1890*
+[^185]: Mrs. Joseph Morris, editor, “List of 1st Class Certificates,” *STIRPES 16, No. 3,* (September 1976)
 [^186]: William McMaster, Public Debt Claim, Texas Comptroller’s Office claims records. ARIS-TSLAC
-[^187]: San Antonio Light, Thursday, May 9, 1907
+[^187]: *San Antonio Light,* Thursday, May 9, 1907
 [^188]: William McMaster’s record, 13th Regiment of Texas Volunteers, Compiled Service Record of Confederate Soldiers Who Served in Organizations from the State of Texas, M323, Roll 367, Records of Confederate Soldiers Who Serviced During the Civil War, RG 109, NARA
-[^189]: William McMaster, US Tenth Census (1880), San Antonio, TX, roll 1291: General Directory of the City of San Antonio for 1881, 204
+[^189]: William McMaster, US Tenth Census (1880), San Antonio, TX, roll 1291; *General Directory of the City of San Antonio for 1881,* 204
 [^190]: City Council Minutes, 1884-6, Book F, p. 323
-[^191]: Daily Light (San Antonio), December 4, 1894
-[^192]: Daily Light (San Antonio), November 28, 1896
-[^193]: San Antonio Light, Thursday, May 9, 1907.
+[^191]: *Daily Light* (San Antonio), December 4, 1894
+[^192]: *Daily Light* (San Antonio), November 28, 1896
+[^193]: *San Antonio Light,* Thursday, May 9, 1907.
 [^194]: Samuel C. Bennett, US Ninth Census (1870), Kansas City, MO, roll 782
 [^195]: Samuel C. Bennett, US Tenth Census (1880), San Antonio, TX, roll 1291
-[^196]: Daily Light (San Antonio), January 16, 1900; San Antonio Light, July 18, 1883
-[^197]: Anson G. Bennett, US Twelfth Census (1900, San Antonio, TX, roll 1611; Jules A. Appler’s General Directory of the City of San Antonio for 1897, 158
-[^198]: Daily Light (San Antonio), May 13, 1897
-[^199]: New York Herald, January 7, 1894
-[^200]: Daily Light (San Antonio), May 13, 1897
-[^201]: San Antonio Daily Light, April 6, 1899
-[^202]: Daily Light (San Antonio), June 16, 1897.
-[^203]: Daily Light (San Antonio), May 13, 1897
-[^204]: Daily Herald (Brownsville, Texas), February 16, 1894
-[^205]: Daily Light (San Antonio), January 16, 1900.
-[^206]: Daily Light (San Antonio), January 18, 1900.
-[^207]: San Antonio Sunday Light, September 17, 1905
+[^196]: *Daily Light* (San Antonio), January 16, 1900; San Antonio Light, July 18, 1883
+[^197]: Anson G. Bennett, US Twelfth Census (1900, San Antonio, TX, roll 1611; *Jules A. Appler’s General Directory of the City of San Antonio for 1897,* 158
+[^198]: *Daily Light* (San Antonio), May 13, 1897
+[^199]: *New York Herald,* January 7, 1894
+[^200]: *Daily Light* (San Antonio), May 13, 1897
+[^201]: *San Antonio Daily Light,* April 6, 1899
+[^202]: *Daily Light* (San Antonio), June 16, 1897.
+[^203]: *Daily Light* (San Antonio), May 13, 1897
+[^204]: *Daily Herald* (Brownsville, Texas), February 16, 1894
+[^205]: *Daily Light* (San Antonio), January 16, 1900.
+[^206]: *Daily Light* (San Antonio), January 18, 1900.
+[^207]: *San Antonio Sunday Light,* September 17, 1905
 [^208]: Samuel C. Bennett, US Ninth Census (1870), Kansas City, MO, roll 782
-[^209]: Daily Light (San Antonio, Texas), May 13, 1897.
-[^210]: Bennett, Historical Sketch and Guide to the Alamo, 122-31
+[^209]: *Daily Light* (San Antonio, Texas), May 13, 1897.
+[^210]: Bennett, *Historical Sketch and Guide to the Alamo,* 122-31
 [^211]: Ann M. Bennett, US Thirteenth Census (1910), San Antonio, TX, roll 1611
-[^212]: Ellis A. Davis and Edwin H. Grobe, compilers, New Encyclopedia of Texas Vol. III, (Dallas: Texas Development Bureau, 1929), 2205
+[^212]: Ellis A. Davis and Edwin H. Grobe, compilers, *New Encyclopedia of Texas Vol. III,* (Dallas: Texas Development Bureau, 1929), 2205
 [^213]: Samuel Lytle, US Seventh Census (1850), Slave Schedule, San Antonio, TX
 [^214]: Marriage Licenses, Bexar County Clerks Records, Book C, p. 118, (Oct. 14, 1853), San Antonio
-[^215]: A. J. Sowell, Life of “Big Foot” Wallace: The Great Ranger Captain, (Austin: State House Press, 1989), 119
-[^216]: San Antonio Ledger, September 29, 1855; (841) New York Times, October 17, 1855
-[^217]: Helen Rugeley, editor, “Muster Rolls of Minute Men Found in Bexar Co. Courthouse,” Austin Genealogical Society Quarterly 22, No. 1, (March 1981), 22
-[^218]: Daily Light (San Antonio), January 16, 1900; Ellis A. Davis and Edwin H. Grobe, compilers, New Encyclopedia of Texas Vol. III, (Dallas: Texas Development Bureau, 1929), 2205
-[^219]: Anonymous, A Twentieth Century History of Southwest Texas, Vol. 1, (Chicago, New York and Los Angeles: The Lewis Publishing Co., 1907), 286
-[^220]: Daily Light (San Antonio), July 15, 1891.
-[^221]: Daily Light (San Antonio), April 16, 1894.
-[^222]: Daily Light (San Antonio), March 2, 1893.
-[^223]: San Antonio Daily Light, September 12, 1893; San Antonio Light, September 11, 1893
-[^224]: San Antonio Daily Light, February 20, 1894
-[^225]: Ables, L. Robert, “The Second Battle of the Alamo,” Southwestern Historical Quarterly, Vol. 70, No. 3, January 1967, 378
-[^226]: San Antonio Sunday Light, September 17, 1905.
-[^227]: Ellis A. Davis and Edwin H. Grobe, compilers, New Encyclopedia of Texas Vol. III, 2205; San Antonio Express, June 25, 1918
+[^215]: A. J. Sowell, *Life of “Big Foot” Wallace: The Great Ranger Captain,* (Austin: State House Press, 1989), 119
+[^216]: *San Antonio Ledger,* September 29, 1855; *New York Times,* October 17, 1855
+[^217]: Helen Rugeley, editor, “Muster Rolls of Minute Men Found in Bexar Co. Courthouse,” *Austin Genealogical Society Quarterly 22, No. 1,* (March 1981), 22
+[^218]: *Daily Light* (San Antonio), January 16, 1900; Ellis A. Davis and Edwin H. Grobe, compilers, *New Encyclopedia of Texas Vol. III,* 2205
+[^219]: Anonymous, *A Twentieth Century History of Southwest Texas, Vol. 1,* (Chicago, New York and Los Angeles: The Lewis Publishing Co., 1907), 286
+[^220]: *Daily Light* (San Antonio), July 15, 1891.
+[^221]: *Daily Light* (San Antonio), April 16, 1894.
+[^222]: *Daily Light* (San Antonio), March 2, 1893.
+[^223]: *San Antonio Daily Light,* September 12, 1893; San Antonio Light, September 11, 1893
+[^224]: *San Antonio Daily Light,* February 20, 1894
+[^225]: Ables, L. Robert, “The Second Battle of the Alamo,” *Southwestern Historical Quarterly, Vol. 70, No. 3,* January 1967, 378
+[^226]: *San Antonio Sunday Light,* September 17, 1905.
+[^227]: Ellis A. Davis and Edwin H. Grobe, compilers, *New Encyclopedia of Texas Vol. III,* 2205; *San Antonio Express,* June 25, 1918
 [^228]: Ables, “The Second Battle of the Alamo,” 384
 [^229]: Ables, “The Second Battle of the Alamo,” 386
 [^230]: Ables, “The Second Battle of the Alamo,” 386
-[^231]: A Guide to the Aline B. Carter Family Papers, 1823-2003, MS 94, University of Texas at San Antonio Libraries Special Collections, www.lib.utexas.edu, accessed February 4, 2014
+[^231]: "A Guide to the Aline B. Carter Family Papers, 1823-2003, MS 94," * University of Texas at San Antonio Libraries Special Collections, www.lib.utexas.edu, accessed February 4, 2014*
 [^232]: Ables, “The Second Battle of the Alamo,” 394
 [^233]: Ables, “The Second Battle of the Alamo,” 387
 [^234]: Ables, “The Second Battle of the Alamo,” 412
-[^235]: Driscoll, Clara “In the Shadow of the Alamo,” (New York & London: The Knickerbocker Press, G. P. Putnam’s Sons, 1906), illustrated by Florence Eagar
-[^236]: Rockdale Reporter, June 20, 1907
-[^237]: San Antonio Express and News, March 26, 1967; A Guide to the Sarah Eagar and Florence Eagar Roberts Alamo Papers, 1905-1913 and undated”, Doc 14408, DRT Research Library, San Antonio
-[^238]: A Guide to the Riddle and Eagar Families Papers, 1840-1945, Collection 7426, www.lib.utexas.edu/taro/drtsa/00054, Accessed September 14, 2012
-[^239]: Eberle, Frank and Harry Van Denmark, editors, The Texas Magazine, Vol. 7, November 1912 to April 1913, (Houston, Texas: Charles A. Newning, 1913), 312
-[^240]: San Antonio Express and News, March 26, 1967
-[^241]: Ables, “The Second Battle of the Alamo,” 397
+[^235]: Driscoll, Clara *In the Shadow of the Alamo,* (New York & London: The Knickerbocker Press, G. P. Putnam’s Sons, 1906), illustrated by Florence Eagar
+[^236]: *Rockdale Reporter* (Texas), June 20, 1907
+[^237]: *San Antonio Express and News,* March 26, 1967; "A Guide to the Sarah Eagar and Florence Eagar Roberts Alamo Papers, 1905-1913 and undated”, Doc 14408, DRT Research Library, San Antonio
+[^238]: "A Guide to the Riddle and Eagar Families Papers, 1840-1945," Collection 7426, www.lib.utexas.edu/taro/drtsa/00054, Accessed September 14, 2012
+[^239]: Eberle, Frank and Harry Van Denmark, editors, "The Texas Magazine," Vol. 7, November 1912 to April 1913, (Houston, Texas: Charles A. Newning, 1913), 312
+[^240]: *San Antonio Express and News,* March 26, 1967
+[^241]: Ables, *The Second Battle of the Alamo,* 397
 [^242]: Walker, Beth and Mary Carmack, DRT: Alamo Mission Chapter, amc-drt.com/amc_history.pdf, accessed January 30, 2014
-[^243]: Hunter, J. Marvin, Jr., “Lest We Forget,” Frontier Times, Vol. 24, No 07, April 1947
-[^244]: Mexia Weekly Herald (Mexia, Texas), August 30, 1946
+[^243]: Hunter, J. Marvin, Jr., “Lest We Forget,” *Frontier Times, Vol. 24, No 07,* April 1947
+[^244]: *Mexia Weekly Herald* (Texas), August 30, 1946
 [^245]: undated newspaper clipping, vertical file “Grounds,” DRT Research Library
-[^246]: San Antonio Light, March 19, 1961
-[^247]: San Antonio Light, November 20, 1962
+[^246]: *San Antonio Light,* March 19, 1961
+[^247]: *San Antonio Light,* November 20, 1962
