@@ -120,84 +120,84 @@ Descendants of five of the eleven Rife children are known to the authors. The kn
 [^1]: San Fernando Cathedral Record, Case Files of Mexican War Pension Applications, RG 15, NARA
 [^2]: Andrea Saenz, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, September 9, 1914
 [^3]: Application for Accrued Pension, Mexican War Pension Application Files, 1887-1926
-[^4]: San Antonio Daily Light, January 8, 1895
+[^4]: *San Antonio Daily Light,* January 8, 1895
 [^5]: Mexican War pension records, Thomas Rife File
-[^6]: Virgil D. White, Transcriber, Index to Mexican War Pension Files, (Waynesboro, TN: The National Historical Publishing Company, 1989), 442; Widow’s Brief, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926,
-[^7]: San Antonio Daily Light, May 2, 1896
-[^8]: San Antonio Daily Light, February 20, 1897
-[^9]: San Antonio Light, June 27, 1897; (161) San Antonio Daily Light, June 28, 1897
-[^10]: San Antonio Daily Light, December 16, 1897
-[^11]: San Antonio Daily Light, April 7, 1898
-[^12]: San Antonio Daily Express, April 8, 1898
-[^13]: San Antonio Sunday Light, May 29, 1898
-[^14]: San Antonio Daily Light, March 29, 1899
-[^15]: San Antonio Daily Light, April 6, 1899
+[^6]: Virgil D. White, Transcriber, *Index to Mexican War Pension Files,* (Waynesboro, TN: The National Historical Publishing Company, 1989), 442; Widow’s Brief, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926,
+[^7]: *San Antonio Daily Light,* May 2, 1896
+[^8]: *San Antonio Daily Light,* February 20, 1897
+[^9]: *San Antonio Light,* June 27, 1897; (161) *San Antonio Daily Light,* June 28, 1897
+[^10]: *San Antonio Daily Light,* December 16, 1897
+[^11]: *San Antonio Daily Light,* April 7, 1898
+[^12]: *San Antonio Daily Express,* April 8, 1898
+[^13]: *San Antonio Sunday Light,* May 29, 1898
+[^14]: *San Antonio Daily Light,* March 29, 1899
+[^15]: *San Antonio Daily Light,* April 6, 1899
 [^16]: Lawrence Rife, Baptismal Records, San Fernando, Vol. 9, p. 228, entry 2136
-[^17]: San Antonio Daily Light, April 1, 1900
+[^17]: *San Antonio Daily Light,* April 1, 1900
 [^18]: United States Twelfth Census (1900), San Antonio, Bexar, Texas, Roll 1611
-[^19]: Jules A. Appler’s General Directory for the City f San Antonio, 1899, 466
+[^19]: *Jules A. Appler’s General Directory for the City f San Antonio, 1899,* 466
 [^20]: Adoption Deed, Historical Deed Records, County Clerk Office, Bexar County, Book 187, pp. 459-60, San Antonio, TX
 [^21]: United States Twelfth Census (1900), San Antonio, Bexar, Texas, Roll 1611
-[^22]: Francisca Rife, Death Records 1899-1903, Municipal Archives and Records, San Antonio, Texas
-[^23]: San Antonio Daily Light, August 15, 1900; Mexican War pension records, Thomas Rife File; Jules A. Appler’s General Directory of the City of San Antonio, 1901, p. 450
-[^24]: Jules A. Appler’s General Directory for the City f San Antonio, 1892, title page.
+[^22]: Francisca Rife, Death Records 1899-1903, *Municipal Archives and Records,* San Antonio, Texas
+[^23]: *San Antonio Daily Light,* August 15, 1900; Mexican War pension records, Thomas Rife File; *Jules A. Appler’s General Directory of the City of San Antonio, 1901,* p. 450
+[^24]: *Jules A. Appler’s General Directory for the City f San Antonio, 1892,* title page.
 [^25]: William Wallace Rife, Baptismal Records, San Fernando, Vol. 9, p.536, entry 3888
-[^26]: San Antonio Light, April 10, 1888
-[^27]: San Antonio Daily Light, January 8, 1895; Letter from Anna rife to Mary Jane Burrus, January 1, 1895, original owned by Susan Majewski
-[^28]: Anonymous, “1895 San Antonio Voter Registration List,” (San Antonio: Los Bexarenos Genealogical Society, 2007), p. 230; San Antonio Daily Light, January 10, 1895
-[^29]: San Antonio Daily Express, April 8, 1898
+[^26]: *San Antonio Light,* April 10, 1888
+[^27]: *San Antonio Daily Light,* January 8, 1895; Letter from Anna rife to Mary Jane Burrus, January 1, 1895, original owned by Susan Majewski
+[^28]: Anonymous, *1895 San Antonio Voter Registration List,* (San Antonio: Los Bexarenos Genealogical Society, 2007), p. 230; *San Antonio Daily Light,* January 10, 1895
+[^29]: *San Antonio Daily Express,* April 8, 1898
 [^30]: U.S. War Department, Texas, Muster Roll Index Cards, 1838-1900, Archives and Information Services and Texas State Library and Archives Commission
-[^31]: The Houston Post, April 6, 1889
+[^31]: *The Houston Post,* April 6, 1889
 [^32]: United States Twelfth Census (1900), San Antonio, Bexar, Texas, Roll 1611
-[^33]: Jules A. Appler’s General Directory for the City f San Antonio, 1901-1902, p. 450
+[^33]: *Jules A. Appler’s General Directory for the City f San Antonio, 1901-1902,* p. 450
 [^34]: Thomas Rife, Jr., Baptismal Records, San Fernando, Vol. 9, p.26, entry 189
 [^35]: Letter from Anna rife to Mary Jane Burrus, January 1, 1895, original owned by Susan Majewski
 [^36]: Mary Jane Burr, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, February 12, 1935
-[^37]: Mary Jane Burr, Certificate of Death, February 12, 1935
-[^38]: Legal Notice, Dallas Morning News, August 8, 1906
-[^39]: The Weekly Democrat-Times (Greenville, MS), May 15, 1905
+[^37]: Mary Jane Burr, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, February 12, 1935
+[^38]: Legal Notice, *Dallas Morning News,* August 8, 1906
+[^39]: *The Weekly Democrat-Times* (Greenville, MS), May 15, 1905
 [^40]: Letter from J.C. Burrus to Mary Jane Rife, February 15, 1909, Original owned by Susan Majewski
 [^41]: Francisca Eduarda Rife, Baptismal Records, San Fernando, Vol. 10, p.155, entry 1414
-[^42]: Thomas Rife, United States Tenth Census (1880), T9. San Antonio, Bexar, Texas, 26
+[^42]: Thomas Rife, United States Tenth Census (1880), T9. San Antonio, Bexar, Texas, Roll 26
 [^43]: Anna Rife, Baptismal Records, San Fernando, Vol. 9, p.144, entry 1034
-[^44]: Anna Rife, Certificate of Death, March 2, 1968
+[^44]: Anna Rife, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, Texas State Department of Health-Bureau of Vital Statistics,Texas State Department of Health-Bureau of Vital Statistics,March 2, 1968
 [^45]: Annie Rife Newton, Certificate of Death, Bureau of Vital Statistics, Texas Department of Health, March 2, 1968
 [^46]: Lawrence Rife, Baptismal Records, San Fernando, Vol. 9, p. 228, entry 2136
-[^47]: San Antonio Daily Light, April 6, 1899
+[^47]: *San Antonio Daily Light,* April 6, 1899
 [^48]: Convict Record Ledgers, Penitentiary Records, 1848-1954, Department of Criminal Justice, Reel 4, vol. 1998/038-155, “B” Series, 1898-1902, ARIS-TSLAC
-[^49]: Beaumont Enterprise, January 6, 1906
+[^49]: *Beaumont Enterprise,* January 6, 1906
 [^50]: Lawrence Registration Card (Old Man’s Card), 1942, World War II Draft Registration Cards for the State of Texas
 [^51]: Lawrence Rife, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, January 12, 1962.
 [^52]: Morris Rife, Baptismal Records, San Fernando, Vol. 9, p. 258, entry 2454
-[^53]: El Regidor (San Antonio), January 22, 1903
+[^53]: *El Regidor* (San Antonio), January 22, 1903
 [^54]: United States Twelfth Census (1900), San Antonio, Bexar, Texas, Roll 1611
-[^55]: Beaumont Enterprise, June 5, 1902
+[^55]: *Beaumont Enterprise,* June 5, 1902
 [^56]: Morris Rife and Josephine Tafallo, Marriage License, Jefferson County, Texas, no. 3646A
 [^57]: Letter from J.C. Burrus to Mary Jane Rife, February 15, 1909, Original owned by Susan Majewski
 [^58]: Morris Wade Rife, Registration Card (WW1), Jefferson County, Port Arthur, Texas, September 12, 1918
-[^59]: Port Arthur Daily News, July 13, 1921; Morris Wade Rife Registration Card, (WW1), Port Arthur, Texas, September 12, 1918
-[^60]: Morris Wade Rife, Certificate of Death, July 13, 1921
-[^61]: The Port Arthur News, July 16, 1921
-[^62]: Fred Rife, Certificate of Death, March 13, 1913
+[^59]: *Port Arthur Daily News,* July 13, 1921; Morris Wade Rife Registration Card, (WW1), Port Arthur, Texas, September 12, 1918
+[^60]: Morris Wade Rife, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, July 13, 1921
+[^61]: *The Port Arthur News,* July 16, 1921
+[^62]: Fred Rife, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics,March 13, 1913
 [^63]: Peter Gaye Rife, Baptismal Records, San Fernando, Vol. 9, p. 415, entry 3847
 [^64]: Peter Gaye Rife, Registration Card (old mans card) 1942
-[^65]: Peter Gaye Rife, Certificate of Death, , August 20, 1972.
+[^65]: Peter Gaye Rife, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, August 20, 1972.
 [^66]: Jack Rife, Baptismal Records, San Fernando, Vol. 10, p.377, entry 3024
 [^67]: Jack Rife, Registration Card (WW1), Jefferson County, Port Arthur, Texas, June 5, 1917
-[^68]: United States Thirteenth Census (1910), T624, Von Ormy, Bexar, 1533
+[^68]: United States Thirteenth Census (1910), T624, Von Ormy, Bexar, Roll 1533
 [^69]: Jack Rife and Beronica Benitez, Marriage License, Bexar County, no. 30993
 [^70]: Warranty Deed, Historical Records, County Clerks Office, Book 460, p. 345
 [^71]: Jack Rife, Registration Card (old mans card) 1942
-[^72]: Jack Rife, Certificate of Death, March 21, 1978
+[^72]: Jack Rife, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, March 21, 1978
 [^73]: Ruth Rife, Baptismal Records, San Fernando, Vol. 10, p.377, entry 3025
 [^74]: Adoption Deed, Historical Deed Records, County Clerks Office, Bexar County, TX, Book 187, pp. 459-60
 [^75]: Revocation of Deed of Adoption, Historical Deed Records, County Clerks Office, Bexar County, TX, Book 1221, p. 100
 [^76]: Ruth Rife, Marriage Records, Bexar County, Texas, Vol. 2, p. 344
-[^77]: Ruth Rife, Certificate of Death, July 4, 1975
+[^77]: Ruth Rife, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, July 4, 1975
 [^78]: United States Twelfth Census (1900), San Antonio, Bexar, Texas, Roll 1611
-[^79]: San Antonio Daily Light, August 15, 1900
+[^79]: *San Antonio Daily Light,* August 15, 1900
 [^80]: Orrin Burr, Sr., Certificate of Death, Nevada State Department of Health, Division of Vital Statistics, December 22, 1954
-[^81]: George Newton, Certificate of Death, March 1, 1950
-[^82]: Galveston Daily News, July 20, 1935: (627) Josephine Rife, Certificate of Death, July 15, 1935
+[^81]: George Newton, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, March 1, 1950
+[^82]: *Galveston Daily News,* July 20, 1935: (627) Josephine Rife, Certificate of Death, July 15, 1935
 [^83]: Beronica Benitez Rife, Texas Death Index, 1964-1998, Bexar County, November 1, 1982
-[^84]: Arizona Republic, April 1, 1951
+[^84]: *Arizona Republic,* April 1, 1951
