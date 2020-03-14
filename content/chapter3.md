@@ -203,7 +203,7 @@ In the fall of 1851, General Brooke decided to end the experiment with State tro
 [^15]: Ivey, *The Texas Rangers: A Registry and History,* 73
 [^16]: Weaver, *Castro’s Colony,* 107
 [^17]: *The Corpus Christi Star,* (Corpus Christi, Tex.), November 14, 1848; *Texas Democrat* (Austin, Tex.), November 4, 1848
-[^18]: Mexican War pension records, Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, Texas; Spurlin, *[Texas Veterans in the Mexican War,* (Victoria, TX: C.D. Spurlin, 1984), 151
+[^18]: Mexican War pension records, Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, Texas; C.D. Spurlin, *[Texas Veterans in the Mexican War,* (Victoria, TX: C.D. Spurlin, 1984), 151
 [^19]: Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, Quarterly Publication of the Texas State Genealogical Society, No. 3, (September 1995),* 44; Statement of Service, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15, National Achieves and Records Administration, Washington,
 [^20]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; Ivey, *The Texas Rangers: A Registry and History,* 73; Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 17, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94, NARA
 [^21]: Thomas Rife Record, Hill’s Company, Texas Mounted Volunteers, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848.
@@ -287,7 +287,7 @@ In the fall of 1851, General Brooke decided to end the experiment with State tro
 [^99]: Smith, “Fort Inge,” Handbook of Texas Online
 [^100]: Middle Rio Grand Development Council, Uvalde County, www.mrgdc.org/cog/cog_region/uvaldecounty.php#inge, accessed Aug 26, 2012, 7
 [^101]: Smith, “Fort Inge,” Handbook of Texas Online
-[^102]: Dick Whipple, “Fort Inge, A History, A Soldier’s Life in Frontier Texas, The Fort Today”, *Branches and Acorns 18, Southwest Texas Genealogical Society, No.  4,* (June 2003), 7
+[^102]: Dick Whipple, “Fort Inge, A History, A Soldier’s Life in Frontier Texas, The Fort Today”, *Branches and Acorns 18, Southwest Texas Genealogical Society, No. 4,* (June 2003), 7
 [^103]: L. Crimmins, editor, “W. G. Freeman’s Report on the Eighth Military Department,” *Southwestern Historical Quarterly 53, No. 1 (July 1949),* 75
 [^104]: Smith, “Fort Inge,” Handbook of Texas Online
 [^105]: Smith, *Frontier Defense in Texas: 1861-1865,* 3, 7
