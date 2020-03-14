@@ -193,8 +193,6 @@ In early July 1868 Nathaniel Chambliss died and on July 9, 1868 his son-in-law, 
 In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician in charge of the City Hospital of Houston. He examined his wife’s uncle, old Samuel Lee Chambliss, and declared him to be disabled due to his war wounds.[^177] On July 2, 1874 Samuel L. Chambliss was granted a state pension for his service in the Texas War of Independence in 1836.[^178] A bill passed by the Legislature on July 28, 1876 for relief of Texas veteran pensioners, led Samuel Chambliss to swear that he was, on August 30, 1879, indigent and unable to support himself. He stated that he owned only his horse valued at $50 and a cow and calf valued at $20. In lieu of a pension he received a Republic Donation Voucher for 1280 acres for his service in the War for Texas Independence.[^179]
 
 
-Chapter One Notes:
-
 [^1]: A. S. Salley, Jr., *The History of Orangeburg, South Carolina,* (Baltimore: Regional   Publishing Company, 1969), 69-70
 [^2]: Daniel Marchant Culler, *Orangeburg District, 1768-1868: History and Records,* (Spartanburg, South Carolina: The Reprint Company Publishers, 1995), 7
 [^3]: Salley, *The History of Orangeburg, South Carolina,* 70
@@ -297,7 +295,7 @@ Chapter One Notes:
 [^100]: Nathaniel Chambliss 2nd Class Headright Certificate #104, Washington County Commissioners May 22, 1839, GLO
 [^101]: Samuel Lytle and Nathaniel Chambliss, Land Grants, Washington County Clerk Returns, 1838, file #000013, GLO; Ellis A Davis and Edwin H. Grobe, compilers, *New Encyclopedia of Texas* Vol. III, (Dallas: Texas Development Bureau, 1929), 2205; Anonymous, *A Twentieth Century History of Southwest Texas,* Vol. 1, Chicago, New York and Los Angeles: The Lewis Publishing Co., 1907), 285
 [^102]: Affidavits of Witness’, Mexican War Pension Application
-[^103]: Muir, Texas in 1837, 165; White, *First Settlers of Washington County, Texas,* (St. Louis, G. White, 1986), 2
+[^103]: Muir, Texas in 1837, 165; Louis White, *First Settlers of Washington County, Texas,* (St. Louis, G. White, 1986), 2
 [^104]: John Lott, Land Grant, Montgomery County Clerk Returns, 1st Class Certificate #78, GLO
 [^105]: County Deed Records, Book D, 102, Washington County Clerks Office, Brenham, TX; Washington County, Texas Deed Abstracts Vol. 1, Republic of Texas and the State of Coahuila and Texas (Mexico), 99
 [^106]: Winfield, *All Our Yesterdays: A Brief History of Chappell Hill,* 2

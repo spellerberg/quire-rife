@@ -160,23 +160,22 @@ In 1870 Mary Ann and William were stock raisers in San Felipe, Kinney County[^11
 
 William apparently died before 1900; Mary Ann was living in San Antonio with two of her children at the time of the 1900 Census. In 1920, she was still living in San Antonio with her daughters, one of whom was widowed and the other single.[^117] She died at age 92 in San Antonio on August 3, 1925, and is buried in Adartis Family Cemetery near Macdona, Texas.[^118]
 
-Chapter Four Notes:
 
 [^1]: Wayne R. Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881,* (College Station, TX: Texas A & M University Press, 1985), 20
 [^2]: Carlysle Graham Raht, *Romance of Davis Mountains and Big Bend Country, A History,* (El Paso, TX: The Rahtbooks Company, 1919), 150
 [^3]: *The San Antonio Ledger* November 4, 1852
 [^4]: Raht, *Romance of Davis Mountains and Big Bend Country, A History,* 151
 [^5]: *San Antonio Ledger* February 10, 1853
-[^6]: Clayton Williams, *Never Again, Texas 1848-1861 Vol.* 3, (San Antonio: The Naylor Co., 1969), 21; (456, p. 339) Ralph P. Bieber, editor, *Exploring Southwestern Trails 1846-1854, Journal of William Henry Chase Whiting, 1849,* (Glendale, CA: The Arthur H. Clark Company, 1938), 339
+[^6]: Clayton Williams, *Never Again, Texas 1848-1861 Vol.* 3, (San Antonio: The Naylor Co., 1969), 21; Ralph P. Bieber, editor, *Exploring Southwestern Trails 1846-1854, Journal of William Henry Chase Whiting, 1849,* (Glendale, CA: The Arthur H. Clark Company, 1938), 339
 [^7]: Robert H. Thonhoff, *San Antonio Stage Lines: 1847-1881,* (El Paso, TX: Texas Western Press, 1971), 8, figure 3
 [^8]: Robert H. Thonhoff, *San Antonio Stage Lines: 1847-1881,* 9
 [^9]: Jack C. Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 1850-1861”, *West Texas Historical Association Year Book 47,* (1971), 117
-[^10]: Letter from General P. F. Smith, George H. Giddings vs. the United States. Comanche, Kiowa and Apache Indians, case #3873, Indian Depredation Case Records, 1891-1918, Records of the Court of Claims, 1835-1966, RG123, National Archives and Records Administration
+[^10]: Letter from General P. F. Smith, George H. Giddings vs. the United States. Comanche, Kiowa and Apache Indians, case 3873, Indian Depredation Case Records, 1891-1918, Records of the Court of Claims, 1835-1966, RG123, National Archives and Records Administration
 [^11]: Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881,* 22
 [^12]: *The Western Texan* (San Antonio), September 19, 1850
 [^13]: Letter from General P. F. Smith, George H. Giddings vs. the United States.
 [^14]: *The Western Texan* (San Antonio), October 13, 1853
-[^15]: *Texas State Gazette* (Austin), March 1, 1851; (362) Silver Three Cents: 1851-1873, Type Set Coin Collecting,  (http://typesets.wikidot.com/silver-3-cents), accessed June 3, 2011.
+[^15]: *Texas State Gazette* (Austin), March 1, 1851; Silver Three Cents: 1851-1873, Type Set Coin Collecting,  (http://typesets.wikidot.com/silver-3-cents), accessed June 3, 2011.
 [^16]: *Texas State Gazette* (Austin), December 8, 1849
 [^17]: Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 115
 [^18]: *The Northern Standard, (Clarksville, Tex.), March 8, 1851.
@@ -188,7 +187,7 @@ Chapter Four Notes:
 [^24]: Austerman, *Sharps Rifles and Spanish Mules,* 25-6
 [^25]: Austerman, *Sharps Rifles and Spanish Mules,* 28
 [^26]: Austerman, *Sharps Rifles and Spanish Mules,* 26
-[^27]: *The Western Texan* (San Antonio, Texas), November 4, 1852; (138, p. 26). Austerman, *Sharps Rifles and Spanish Mules,* 26; (500, p. 10, fig. 5) Thonhoff, *San Antonio Stage Lines,* 10, fig. 5
+[^27]: *The Western Texan* (San Antonio, Texas), November 4, 1852; Austerman, *Sharps Rifles and Spanish Mules,* 26; Thonhoff, *San Antonio Stage Lines,* 10, fig. 5
 [^28]: The *Zanesville Courier* (Zanesville, OH), July 12, 1853
 [^29]: *The Gonzales Inquirer* (Gonzales, TX), September 24, 1853
 [^30]: Florence Fenley, *Oldtimers, Their Own Stories,* (Austin, TX: State House Press, 1991), 213
@@ -196,27 +195,27 @@ Chapter Four Notes:
 [^32]: Fenley, *Oldtimers,* 213
 [^33]: Fenley, *Oldtimers,* 213
 [^34]: Austerman, *Sharps Rifles and Spanish Mules,* 29
-[^35]: Austerman, *Sharps Rifles and Spanish Mules,* 28; (410, p. 74) James M. Day, “Big Foot Wallace in Trans-Pecos Texas,” *West Texas Historical Association Year Book,* 1979) Vol: LV 74; (117) *San Antonio Light,* March 9, 1892
+[^35]: Austerman, *Sharps Rifles and Spanish Mules,* 28; James M. Day, “Big Foot Wallace in Trans-Pecos Texas,” *West Texas Historical Association Year Book,* 1979) Vol: LV 74; *San Antonio Light,* March 9, 1892
 [^36]: *San Antonio Light,* February 23, 1887
-[^37]: Austerman, *Sharps Rifles and Spanish Mules,* 30-31; (198) *Texas State Gazette* (Austin), September 25, 1852
-[^38]: Austerman, *Sharps Rifles and Spanish Mules,* 31; (755) *Charleston Courier,* (Charleston, SC.), December 14, 1852
+[^37]: Austerman, *Sharps Rifles and Spanish Mules,* 30-31; *Texas State Gazette* (Austin), September 25, 1852
+[^38]: Austerman, *Sharps Rifles and Spanish Mules,* 31; *Charleston Courier,* (Charleston, SC.), December 14, 1852
 [^39]: Austerman, *Sharps Rifles and Spanish Mules,* 32
 [^40]: *Sacramento Daily News,* April 12, 1854
 [^41]: Austerman, *Sharps Rifles and Spanish Mules,* 33
 [^42]: Austerman, *Sharps Rifles and Spanish Mules,* 33
-[^43]: *Texas State Gazette* (Austin), April 16, 1853; (138, p. 34) Austerman, *Sharps Rifles and Spanish Mules,* 34
-[^44]: Austerman, *Sharps Rifles and Spanish Mules,* 38-39; (750) *Augusta Chronicle* (Augusta, GA), July 12, 1853
+[^43]: *Texas State Gazette* (Austin), April 16, 1853; Austerman, *Sharps Rifles and Spanish Mules,* 34
+[^44]: Austerman, *Sharps Rifles and Spanish Mules,* 38-39; *Augusta Chronicle* (Augusta, GA), July 12, 1853
 [^45]: *San Antonio Sunday Light,* August 2, 1902
-[^46]: *San Antonio Ledger and Texan,* May 12, 1853; (766) *San Antonio Ledger and Texan,* June 16, 1853
-[^47]: *San Antonio Ledger and Texan,* May 12, 1853; (766) *San Antonio Ledger and Texan,* June 16, 1853
+[^46]: *San Antonio Ledger and Texan,* May 12, 1853; *San Antonio Ledger and Texan,* June 16, 1853
+[^47]: *San Antonio Ledger and Texan,* May 12, 1853; *San Antonio Ledger and Texan,* June 16, 1853
 [^48]: U .S. Court of Claims, Deposition of John G. Walker, Giddings vs. The United States.
 [^49]: Raht, *Romance of Davis Mountains,* 191
 [^50]: *San Antonio Ledger and Texan,* June 16, 1853
 [^51]: *San Antonio Ledger and Texan,* June 16, 1853
 [^52]: *Weekly Herald,* (New York, NY), September 9, 1853
-[^53]: *San Antonio Ledger and Texan,* August 11, 1853; (723) *San Antonio Ledger and Texan,* October 10, 1853; *San Antonio Ledger and Texan,* October 13, 1853
+[^53]: *San Antonio Ledger and Texan,* August 11, 1853; *San Antonio Ledger and Texan,* October 10, 1853; *San Antonio Ledger and Texan,* October 13, 1853
 [^54]: Austerman, *Sharps Rifles and Spanish Mules,* 43-4
-[^55]: *The Western Texan* (San Antonio), October 13, 1853; (724) *San Antonio Ledger and Texan,* October 13, 1853
+[^55]: *The Western Texan* (San Antonio), October 13, 1853; *San Antonio Ledger and Texan,* October 13, 1853
 [^56]: *San Antonio Ledger and Texan,* October 20, 1853
 [^57]: *San Antonio Ledger and Texan,* December 15, 1853
 [^58]: Deposition of Thomas Rife, George H. Giddings vs. The United States.
@@ -226,8 +225,8 @@ Chapter Four Notes:
 [^62]:  Frederick Law Olmsted, *A Journey Through Texas or a Saddle-Trip on the Southwestern Frontier,* (Austin: University of Texas Press, 1978), 299
 [^63]: Austerman, *Sharps Rifles and Spanish Mules,* 48
 [^64]: Jack Lowery, “Guarding the Westward Trail’, *Texas Highways Magazine 39, No. 9,* (September 1992), 46-7
-[^65]: *The Western Texan* (San Antonio, Texas), February 16, 1854; (771) *Houston Telegraph,*  October 20, 1858
-[^66]: *San Antonio Ledger and Texan,* March 30, 1854; (749) *Texas State Gazette,* (Austin), April 29, 1854
+[^65]: *The Western Texan* (San Antonio, Texas), February 16, 1854; *Houston Telegraph,*  October 20, 1858
+[^66]: *San Antonio Ledger and Texan,* March 30, 1854; *Texas State Gazette,* (Austin), April 29, 1854
 [^67]: Letter from Postmaster General to Senator Rusk, George H. Giddings vs. The United States.
 [^68]: Memorial of George Giddings, George H. Giddings vs. The United States; (M-13) Statement from Giddings, George H. Giddings vs. The United States.
 [^69]: Letter from Isaac Lightner to James Magoffin, November 25, 1854, James Magoffin File, The Dolph Briscoe Center for American History, The University of Texas at Austin.
@@ -241,23 +240,23 @@ Chapter Four Notes:
 [^77]: Jesus De La Teja, *San Antonio de Bexar: a community on New Spain’s Northern Frontier,* (Albuquerque, NM: University of New Mexico Press, 1996), 23
 [^78]: Stephen L. Hardin, *Texian Iliad, A Military History of the Texas Revolution, 1835-1836,* (Austin: University of Texas Press, 1994), 79
 [^79]: ”Arnold, Hendrick”, Nolan Thompson, Handbook of Texas Online.
-[^80]: Rena Maverick Green, editor, *Samuel Maverick, Texan: 1803-1870, A Collection of Letters, Journals and Memoirs,* (San Antonio: Privately Published, 1952), 74; (636, p. 126) David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX: Texas State Historical Association, 2010), 126
+[^80]: Rena Maverick Green, editor, *Samuel Maverick, Texan: 1803-1870, A Collection of Letters, Journals and Memoirs,* (San Antonio: Privately Published, 1952), 74; David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX: Texas State Historical Association, 2010), 126
 [^81]: John Brothers, Maryann Brothers, United States Seventh Census (1850), M432, Dwelling #38, Castroville, Medina County, Texas.
 [^82]: Victor Bracht, *Texas in 1848,* (San Antonio: Naylor Printing Company, 1931), 72
-[^83]: John Brothers, Montgomery County Clerk Returns, August 1838, 2nd class certificate #78, GLO; (612) John Brothers, Audited Republic claims, Texas Comptroller’s Office claims records. Archives and Information Services Division, Texas State Library and Archives Commission
+[^83]: John Brothers, Montgomery County Clerk Returns, August 1838, 2nd class certificate 78, GLO; John Brothers, Audited Republic claims, Texas Comptroller’s Office claims records. Archives and Information Services Division, Texas State Library and Archives Commission
 [^84]: Henry W. Barton, *Texas Volunteers In the Mexican War,* (Waco, TX:  Texian Press, 1970), 67
 [^85]: Schoen, “The Free Negro in the Republic of Texas”, 95
 [^86]: Pearson Newcomb, *The Alamo City, (San Antonio: Standard Printing Company,* 1926), 37
 [^87]: Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 103
 [^88]: Bill of sale, Historical Records, County Clerks Office, Bexar County, Book I1, p. 572, San Antonio, TX.
 [^89]: Schoen, “The Free Negro in the Republic of Texas”, 96
-[^90]: Bill of sale, Historical Records, County Clerks Office, Bexar County, Book M2, pp. 578-79; (424) Bill Of sale, Historical Records, County Clerks Office, Bexar County, Book K2, p. 185
-[^91]: Walter Prescott Webb, *The Texas Rangers,* (Austin: University of Texas Press, 1993), 141; (156, p. 86) Darren L. Ivey, *The Texas Rangers: A Registry and History,* (Jefferson, North Carolina: McFarland & Company Inc., 2010), 86
-[^92]: *The Western Texan,* (San Antonio), June 12, 1851; (311) *The Western Texan,* (San Antonio), August 28, 1851
-[^93]: Webb, *The Texas Rangers,* 143; (279) *Texas State Gazette,* (Austin) September 20, 1851
-[^94]: Thomas Tyree Smith, *Fort Inge: Sharps, Spurs, and Sabers on the Texas Frontier,* (Austin: Eakin Press, 1993), 57; (88) Middle Rio Grand Development Council, Uvalde County, www.mrgdc.org/cog/cog_region/uvaldecounty.php#inge, accessed Aug 26, 2012.
-[^95]: Fenley, *Oldtimers,* 213; (88) Middle Rio Grand Development Council, Uvalde County.
-[^96]: Austerman, *Sharps Rifles and Spanish Mules,* 28; (205, p. 74) Day, “Big Foot Wallace in Trans-Pecos Texas,” 73; (14) *San Antonio Light,* February 23, 1887
+[^90]: Bill of sale, Historical Records, County Clerks Office, Bexar County, Book M2, pp. 578-79; Bill Of sale, Historical Records, County Clerks Office, Bexar County, Book K2, p. 185
+[^91]: Walter Prescott Webb, *The Texas Rangers,* (Austin: University of Texas Press, 1993), 141; Darren L. Ivey, *The Texas Rangers: A Registry and History,* (Jefferson, North Carolina: McFarland & Company Inc., 2010), 86
+[^92]: *The Western Texan,* (San Antonio), June 12, 1851; *The Western Texan,* (San Antonio), August 28, 1851
+[^93]: Webb, *The Texas Rangers,* 143; *Texas State Gazette,* (Austin) September 20, 1851
+[^94]: Thomas Tyree Smith, *Fort Inge: Sharps, Spurs, and Sabers on the Texas Frontier,* (Austin: Eakin Press, 1993), 57; Middle Rio Grand Development Council, Uvalde County, www.mrgdc.org/cog/cog_region/uvaldecounty.php#inge, accessed Aug 26, 2012.
+[^95]: Fenley, *Oldtimers,* 213; Middle Rio Grand Development Council, Uvalde County.
+[^96]: Austerman, *Sharps Rifles and Spanish Mules,* 28; Day, “Big Foot Wallace in Trans-Pecos Texas,” 73; *San Antonio Light,* February 23, 1887
 [^97]: Marriage Licenses, Bexar County Clerks Records, Book C, p. 118, (Oct. 14, 1853)
 [^98]: *San Antonio Ledger and Texan,* December 15, 1853
 [^99]: *The San Antonio Ledger and Texan,* March 10, 1860
@@ -268,15 +267,15 @@ Chapter Four Notes:
 [^104]: Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veterans Affairs, RG15, NARA
 [^105]: *San Antonio Daily Light,* March 17, 1893
 [^106]: *Sacramento Union,* August 12-18, 1857
-[^107]: *Brazos Courier,* (Brazoria, TX), March 10, 1840; (617) Bills of sale. Historical Records, County Clerks Office, Bexar County, Book 128, p. 169, Book O2, p. 144, and Book M2, p. 426
+[^107]: *Brazos Courier,* (Brazoria, TX), March 10, 1840; Bills of sale. Historical Records, County Clerks Office, Bexar County, Book 128, p. 169, Book O2, p. 144, and Book M2, p. 426
 [^108]: Bill of sale. Historical Records, County Clerks Office, Bexar County, Book M2, pp. 578-9
 [^109]: Mary Ann Rife vs. Thomas Rife. Bexar County Probate minutes (1851-1857), Vol. C, p. 439, Reel # 1019295, ARIS-TSLAC
 [^110]: Smith, *Fort Inge: Sharps, Spurs, and Sabers on the Texas Frontier,* 116
-[^111]: Thirty seventh District Court, Bexar County. Civil Minutes, (1860-1868), Vol. F, p. 4, Microfilm Reel # 1019987, San Antonio; (570) Court Record of District Court, Clerk of District Court, Bexar County, (Fall term, 1860), Vol. F, p. 5, San Antonio
-[^112]: William C. Adams (April 7, 1861), Texas Marriages, 1837-1973, https://familysearch.org/pal:MM9.1.1FXSJ-4NB: accessed19 Oct 2012
-[^113]: *The Daily Ledger and Texan,* (San Antonio), April 2, 1861; (147, pp. 21-22) Clayton W. Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895,* (College Station, TX: Texas A & M University Press, 1982), 21-2
-[^114]: *The Daily Ledger and Texan,* (San Antonio), April 2, 1861; (465, p. 213) George Wythe Baylor, *Into the Far, Wild Country,* 213  
-[^115]: Mary A. Adams, United States Ninth Census (1870), San Felipe, Kinney County, Texas.
-[^116]: Mary E. Adams, United States Tenth Census (1880), San Antonio, Bexar County, Texas.
-[^117]: Mary A. Adams, United States Twelfth Census (1900), San Antonio, Bexar County, Texas.
+[^111]: Thirty seventh District Court, Bexar County. Civil Minutes, (1860-1868), Vol. F, p. 4, Microfilm Reel 1019987, San Antonio; Court Record of District Court, Clerk of District Court, Bexar County, (Fall term, 1860), Vol. F, p. 5, San Antonio
+[^112]: William C. Adams (April 7, 1861), Texas Marriages, 1837-1973, https://familysearch.org/pal:MM9.1.1FXSJ-4NB: accessed 19 Oct 2012
+[^113]: *The Daily Ledger and Texan,* (San Antonio), April 2, 1861; Clayton W. Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895,* (College Station, TX: Texas A & M University Press, 1982), 21-2
+[^114]: *The Daily Ledger and Texan,* (San Antonio), April 2, 1861; George Wythe Baylor, *Into the Far, Wild Country,* 213  
+[^115]: Mary A. Adams, United States Ninth Census (1870), M593, San Felipe, Kinney County, Texas, Role 1594.
+[^116]: Mary E. Adams, United States Tenth Census (1880), T9, San Antonio, Bexar County, Texas, Role 1291.
+[^117]: Mary A. Adams, United States Twelfth Census (1900), T623, San Antonio, Bexar County, Texas, Role 1611, 1612.
 [^118]: Mary Ann Adams (Aug 3, 1925), Certificate of Death, Department of Health-Bureau of Vital Statistics, State of Texas

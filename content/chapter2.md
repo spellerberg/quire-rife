@@ -161,7 +161,6 @@ On June 12, 1848, General Wool announced to his troops that the war was over; th
 
 On June 30, 1848, the army was disbanded at Camargo City[^198] and the men mustered out of Federal service.[^199] Clay Davis, the owner of the growing town of Rio Grande City (across the river from Camargo city), invited Major Lane and his discharged rangers to attend a fourth of July public dinner at the Rio Grande Hotel.[^200] Most of the volunteer infantry then went to Matamoros where vessels waited to take them to New Orleans or Galveston while the Texas mounted troops returned to Texas on horseback.[^201]
 
-Chapter Two Notes:
 
 [^1]: Joseph William Schmitz, *Thus They Lived: Social Life in the Republic of Texas,* (San Antonio: The Naylor Company, 1936), 1
 [^2]: Jimmy L. Bryan, Jr., *More Zeal Than Discretion: The Westward Adventures of Walter P. Lane,* (College Station, TX: Texas A&M University Press, 2008), 15
@@ -175,12 +174,12 @@ Chapter Two Notes:
 [^10]: Gerald S. Pierce, *Texas Under Arms: The Camps, Posts, Forts & Military Towns of the Republic of Texas 1836-1846,* (Austin: The Encino Press, 1969), 143
 [^11]: Webb, *The Texas Rangers,* 78
 [^12]: Pierce, *Texas Under Arms,* 141
-[^13]: Webb, *The Texas Rangers,* 33, 67; (716) S. C. Gwynne,*Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History,* (New York: Scribner, 2011), 139
-[^14]: Greer, *Colonel Jack Hays,* 22
+[^13]: Webb, *The Texas Rangers,* 33, 67; S. C. Gwynne,*Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History,* (New York: Scribner, 2011), 139
+[^14]: Greer, *Colonel Jack Hays,* (College Station, TX: Texas A&M University Press, 1993), 22
 [^15]: Webb, *The Texas Rangers,* 69
-[^16]: Greer, *Colonel Jack Hays,* (College Station, TX: Texas A&M University Press, 1993), 119; (654) Fehrenbach, *Seven Keys to Texas,* 28
-[^17]: Webb, *The Texas Rangers,* 69; (638) Greer, *Colonel Jack Hays,* 40
-[^18]: Webb, *The Texas Rangers,* 86; (153) A. J. Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* (Abilene, TX: State House Press, McMurry University, 1986), 60
+[^16]: Greer, *Colonel Jack Hays,* 119; Fehrenbach, *Seven Keys to Texas,* 28
+[^17]: Webb, *The Texas Rangers,* 69; Greer, *Colonel Jack Hays,* 40
+[^18]: Webb, *The Texas Rangers,* 86; A. J. Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* (Abilene, TX: State House Press, McMurry University, 1986), 60
 [^19]: *Texas Presbyterian,* (Victoria, Tex.), February 13, 1847
 [^20]: Greer, *Colonel Jack Hays,* 24, 34
 [^21]: Miss Mattie Jackson, *The Rising and Setting of the Lone Star Republic,* (San Antonio: n.p, 1926), 179
@@ -304,11 +303,11 @@ Chapter Two Notes:
 [^139]: Scott, Old Rough and Ready on the Rio Grande, 154  .
 [^140]: Webb, *The Texas Rangers,* 113
 [^141]: Ivey, *The Texas Rangers,* 63-4
-[^142]: Thomas Rife Record, Lane/Lewis’ Company, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 1, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94
+[^142]: Thomas Rife Record, Lane/Lewis’ Company, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 1, RG 94
 [^143]: Bryan, Jr., *More Zeal Than Discretion,* 60
 [^144]: Walter P. Lane, *The Adventures and Recollections of General Walter P Lane: A San Jacinto Veteran containing sketches of the Texan, Mexican and Late Wars,* (Marshall, TX: News Messenger Pub. Co, 1928), 52
-[^145]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles
-[^146]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles
+[^145]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles, RG 94
+[^146]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles, RG 94
 [^147]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas
 [^148]: Viele, *Following the Drum,* 209
 [^149]: Ivey, *The Texas Rangers,* 63
