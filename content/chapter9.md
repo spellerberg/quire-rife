@@ -226,14 +226,14 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^6]: James L. Rock and W. I. Smith, *Southern & Western Texas Guide for 1878,* (St. Louis, MO: A. H. Granger Publishers, 1878), 28
 [^7]: Weddle, *Drama & Conflict,* 142
 [^8]: De Zavala, *History and Legends of the Alamo,* 13
-[^9]: Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* 69; Adina De Zavala, *The Alamo: Where the Last Man Died,* (San Antonio: The Naylor Company, 1956), 8
+[^9]: Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* (Austin: Morgan Printing, 1916), 69; Adina De Zavala, *The Alamo: Where the Last Man Died,* (San Antonio: The Naylor Company, 1956), 8
 [^10]: Gale Hamilton Shiffrin, *Echoes from Women of the Alamo,* (San Antonio: AW Press, 1999), 215
 [^11]: Ramsdell, *San Antonio,* 19; Shiffrin, *Echoes from Women of the Alamo,* 214
 [^12]: Ramsdell, *San Antonio,* 19, 31; De Zavala, *The Alamo,* 10
 [^13]: Ramsdell, *San Antonio,* 20
 [^14]: David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX: Texas State Historical Association, 2010); Weddle, *Drama & Conflict,* 142
 [^15]: McDonald, *Jose Antonio Navarro,* 56
-[^16]: Mrs. S. J. Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* (Austin: Morgan Printing, 1916), 153
+[^16]: Mrs. S. J. Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* 153
 [^17]: McDonald, *Jose Antonio Navarro,* 34
 [^18]: Ramsdell, *San Antonio,* 99
 [^19]: McDonald, *Jose Antonio Navarro,* 92
@@ -366,9 +366,9 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^146]: *The Plain Dealer* (Cleveland), June 25, 1893
 [^147]: *The Daily Light,* October 6, 1895
 [^148]: *The Plain Dealer* (Cleveland), June 25, 1893
-[^149]: Evertt, *San Antonio,* 79
+[^149]: Everett, *San Antonio,* 79
 [^150]: *San Antonio Express,* March 23, 1889
-[^151]: Evertt, *San Antonio,* 88; Donald E. Everett, *San Antonio Legacy,* (San Antonio: Trinity University Press, 1979), 63
+[^151]: Everett, *San Antonio,* 88; Donald E. Everett, *San Antonio Legacy,* (San Antonio: Trinity University Press, 1979), 63
 [^152]: *San Antonio Daily Light,* August 28, 1891
 [^153]: Stephen B. Oates, Editor, *Rip Ford’s Texas by John Salmon Ford,* (Austin: University of Texas Press, 1963), xliv
 [^154]: *San Antonio Daily Light,* December 28, 1894
@@ -442,7 +442,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^222]: *Daily Light* (San Antonio), March 2, 1893.
 [^223]: *San Antonio Daily Light,* September 12, 1893; San Antonio Light, September 11, 1893
 [^224]: *San Antonio Daily Light,* February 20, 1894
-[^225]: Ables, L. Robert, “The Second Battle of the Alamo,” *Southwestern Historical Quarterly, Vol. 70, No. 3,* January 1967, 378
+[^225]: Robert L. Ables, “The Second Battle of the Alamo,” *Southwestern Historical Quarterly, Vol. 70, No. 3,* January 1967, 378
 [^226]: *San Antonio Sunday Light,* September 17, 1905.
 [^227]: Ellis A. Davis and Edwin H. Grobe, compilers, *New Encyclopedia of Texas Vol. III,* 2205; *San Antonio Express,* June 25, 1918
 [^228]: Ables, “The Second Battle of the Alamo,” 384
@@ -452,7 +452,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^232]: Ables, “The Second Battle of the Alamo,” 394
 [^233]: Ables, “The Second Battle of the Alamo,” 387
 [^234]: Ables, “The Second Battle of the Alamo,” 412
-[^235]: Driscoll, Clara *In the Shadow of the Alamo,* (New York & London: The Knickerbocker Press, G. P. Putnam’s Sons, 1906), illustrated by Florence Eagar
+[^235]: Clara Driscoll, *In the Shadow of the Alamo,* (New York & London: The Knickerbocker Press, G. P. Putnam’s Sons, 1906), illustrated by Florence Eagar
 [^236]: *Rockdale Reporter* (Texas), June 20, 1907
 [^237]: *San Antonio Express and News,* March 26, 1967; "A Guide to the Sarah Eagar and Florence Eagar Roberts Alamo Papers, 1905-1913 and undated”, Doc 14408, DRT Research Library, San Antonio
 [^238]: "A Guide to the Riddle and Eagar Families Papers, 1840-1945," Collection 7426, www.lib.utexas.edu/taro/drtsa/00054, Accessed September 14, 2012
@@ -460,7 +460,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^240]: *San Antonio Express and News,* March 26, 1967
 [^241]: Ables, *The Second Battle of the Alamo,* 397
 [^242]: Walker, Beth and Mary Carmack, DRT: Alamo Mission Chapter, amc-drt.com/amc_history.pdf, accessed January 30, 2014
-[^243]: Hunter, J. Marvin, Jr., “Lest We Forget,” *Frontier Times, Vol. 24, No 07,* April 1947
+[^243]: J. Marvin Hunter, Jr., “Lest We Forget,” *Frontier Times, Vol. 24, No 07,* April 1947
 [^244]: *Mexia Weekly Herald* (Texas), August 30, 1946
 [^245]: undated newspaper clipping, vertical file “Grounds,” DRT Research Library
 [^246]: *San Antonio Light,* March 19, 1961
