@@ -145,8 +145,8 @@ Rife did not recover and died[^117] at his home on Cameron Street on December 27
 [^5]: Ophia D. Smith, “A Trip to Texas in 1855,” *Southwest Historical Quarterly, July 1955,* 36
 [^6]: “Fort Clark and the Rio Grande Frontier,” *Texas Beyond History*; *UT @ Austin College of Liberal Arts, www.texasbeyondhistory.net/forts/clark:accessed Dec 14, 2012*
 [^7]: W.C. Nunn, *Texas Under the Carpetbaggers,* (Austin: University of Texas, 1962), 167
-[^8]: Recollections, 93
-[^9]: Taylor, *The Coming Empire or Two Thousand Mile on Horseback,* 97-9; (633, p. 48) Ramsdell, San Antonio, 48
+[^8]: Charles Ramsdell, San Antonio: *A Historical and Pictorial Guide,* (Austin: University of Texas Press, 1959); James *Frontier and Pioneer Recollections,* 93
+[^9]: Taylor, *The Coming Empire or Two Thousand Mile on Horseback,* 97-9; Ramsdell, San Antonio, 48
 [^10]: Witness’s Affidavits, Widow’s Application, Records of the Bureau of Pensions.
 [^11]: *San Antonio Light,* November 8, 1884
 [^12]: *San Antonio Light,* February 23, 1887; San Antonio City Council Minutes, 1870-79, Book D, 255
@@ -181,13 +181,13 @@ Rife did not recover and died[^117] at his home on Cameron Street on December 27
 [^41]: Ramsdell, *San Antonio,* 108
 [^42]: Robert S. Weddle and Robert H. Thonhoff, *Drama & Conflict: the Texas Saga of 1776,* (Austin: Madrona Press, Inc., 1976), 103
 [^43]: James, *Frontier and Pioneer Recollections,* 42
-[^44]: Thomas C. Rife, Application for Confederate Scrip Voucher #718, Texas General Land Office, Austin, TX; Confederate Scrip, Bexar County, Texas, Certificate # 718, GLO
+[^44]: Thomas C. Rife, Application for Confederate Scrip Voucher 718, Texas General Land Office, Austin, TX; Confederate Scrip, Bexar County, Texas, Certificate # 718, GLO
 [^45]: Thomas L. Miller, “Texas Land Grants to Texas Veterans,” *Southwestern Historical Quarterly, July 1965,* 63
 [^46]: Miller, “Texas Land Grants to Texas Veterans,” 61
 [^47]: Nunn, *Texas Under the Carpetbaggers,* 14; Notarized Bill of Sale for Confederate Scrip, Number 718, Bexar County, Texas, file 40913
 [^48]: *San Antonio Light,* November 1, 1887; *Fort Worth Daily Gazette,* November 4, 1887
 [^49]: *Galveston Daily News,* July 12, 1889
-[^50]: John Salmon Ford, *Rip Ford’s Texas,* (Austin: University of Texas Press, 1963), xliv
+[^50]: Steven B. Oates, ed. *John Salmon Ford, Rip Ford’s Texas,* (Austin: University of Texas Press, 1963), xliv
 [^51]: *Fort Worth Daily Gazette,* November 4, 1887
 [^52]: *San Antonio Daily Light,* August 28, 1891
 [^53]: Baptismal Records, San Fernando, Vol. 9, p. 258, entry 2454
@@ -205,10 +205,10 @@ Rife did not recover and died[^117] at his home on Cameron Street on December 27
 [^65]: Alex Sweet and A.J. Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* (Hartford, Ct: SS Scranton and Co. 1883), 354, 368
 [^66]: *San Antonio Light,* June 8, 1885
 [^67]: *San Antonio Express,* June 6, 1885
-[^68]: Condra, “E. I. Coyle & Trouble at the Alamo”, 18; Roberts, *A Line in the Sand: The Alamo in Blood and Memory,* 202; William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* (1890, repr, San Antonio, TX: Graphics Arts, 1977), 144; *Galveston Daily News,* May 27, 1887
+[^68]: Condra, “E. I. Coyle & Trouble at the Alamo”, 18; Randy Roberts and James S. Olson, *A Line in the Sand: The Alamo in Blood and Memory,* (New York, The Free Press, 2001) 202; William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* (1890, repr, San Antonio, TX: Graphics Arts, 1977), 144; *Galveston Daily News,* May 27, 1887
 [^69]: *The Plain Dealer (Cleveland, Ohio),* June 25, 1893
 [^70]: "History of the San Antonio Police Department"
-[^71]: Pryor, “Tom Rife-an Early Alamo Custodian,” *STIRPES 42, No. 2,* (June 2002), 28; *The Daily Light (San Antonio),* February 22, 1908; *San Antonio Light,* February 23, 1887; (600, p. 323) City Council Minutes, 1870-1879, Book E, p. 323
+[^71]: Pryor, “Tom Rife-an Early Alamo Custodian,” *STIRPES 42, No. 2,* (June 2002), 28; *The Daily Light (San Antonio),* February 22, 1908; *San Antonio Light,* February 23, 1887; City Council Minutes, 1870-1879, Book E, p. 323
 [^72]: City Council Minutes, 1870-1879, Book E, p. 323
 [^73]: *Daily Light (San Antonio),* December 27, 1894
 [^74]: Baptismal Records, San Fernando, Vol. 9, p. 415, entry 3847
@@ -251,7 +251,7 @@ Rife did not recover and died[^117] at his home on Cameron Street on December 27
 [^111]: San Antonio Light,* September 11, 1893
 [^112]: *San Antonio Daily Light,* March 4, 1893
 [^113]: Survivor’s Brief, Records of the Bureau of Pensions, Mexican War Pension Application files, 1887-1926
-[^114]: August Santleben, *A Texas Pioneer,* (New York: The Neale Publishing Company, 1910), 228; Montejano, *Anglos and Mexicans in the Making of Texas,* 41
+[^114]: August Santleben, *A Texas Pioneer,* (New York: The Neale Publishing Company, 1910), 228; David Montejano, *Anglos and Mexicans in the Making of Texas 1836-1986,* (Austin: University of Texas Press, 1987) 41
 [^115]: *San Antonio Daily Light,* October 3, 1894
 [^116]: *San Antonio Daily Light,* December 4, 1894
 [^117]: Mexican War pension records, Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, TX
