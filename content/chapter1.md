@@ -297,7 +297,7 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^100]: Nathaniel Chambliss 2nd Class Headright Certificate #104, Washington County Commissioners May 22, 1839, GLO
 [^101]: Samuel Lytle and Nathaniel Chambliss, Land Grants, Washington County Clerk Returns, 1838, file #000013, GLO; Ellis A Davis and Edwin H. Grobe, compilers, *New Encyclopedia of Texas* Vol. III, (Dallas: Texas Development Bureau, 1929), 2205; Anonymous, *A Twentieth Century History of Southwest Texas,* Vol. 1, Chicago, New York and Los Angeles: The Lewis Publishing Co., 1907), 285
 [^102]: Affidavits of Witness’, Mexican War Pension Application
-[^103]: Muir, Texas in 1837, 165; White, *First Settlers of Washington County, Texas,* (St. Louis, G. White, 1986), 2
+[^103]: Muir, Texas in 1837, 165; Louis White, *First Settlers of Washington County, Texas,* (St. Louis, G. White, 1986), 2
 [^104]: John Lott, Land Grant, Montgomery County Clerk Returns, 1st Class Certificate #78, GLO
 [^105]: County Deed Records, Book D, 102, Washington County Clerks Office, Brenham, TX; Washington County, Texas Deed Abstracts Vol. 1, Republic of Texas and the State of Coahuila and Texas (Mexico), 99
 [^106]: Winfield, *All Our Yesterdays: A Brief History of Chappell Hill,* 2
