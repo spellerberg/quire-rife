@@ -7,7 +7,7 @@ type: essay
 
 Thomas Rife came to Texas from Mississippi when Texas was a Republic. Beginning in 1842 he was actively engaged in the fight against Texas’ enemies whether they were Santa Ana’s Mexicans, Native Americans, Union soldiers or citizens who broke the law. As the first “Alamo Keeper,” he was charged with protecting the Alamo from vandalism.
 
-He had been a soldier in the War with Mexico, a Texas Ranger, a Confederate Army scout, a San Antonio policeman and a custodian of the Alamo. He was deemed to be brave and fearless in the face of danger and was for many years a conductor of mail coaches through the unsettled western region, one of the most dangerous jobs in Texas during the 1850’s.
+He had been a soldier in the War with Mexico, a Texas Ranger, a Confederate Army scout, a San Antonio policeman. He was deemed to be brave and fearless in the face of danger and was for many years a conductor of mail coaches through the unsettled western region, one of the most dangerous jobs in Texas during the 1850’s.
 
 Every job he held between 1846 and 1894 required him to carry a gun. He chose the life of a gunman over the secure and safe life of a farmer. At a young age, he fled the agricultural culture of the Mississippi delta, and in later years, passed up several opportunities to be either a farmer or a rancher. Although his closest associates in the San Antonio police force were politicians, Rife was not. As a result he never accumulated wealth nor power and, although he earned an above average income, he never owned his own home.
 
