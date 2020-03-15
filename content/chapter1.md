@@ -4,8 +4,6 @@ weight: 100
 type: essay
 ---
 
-# Ancestors of Thomas Rife, 1735-1864
-
 ## South Carolina
 
 ### Swiss Protestants immigrated to South Carolina.
@@ -97,7 +95,7 @@ After the Texas revolution began in 1836, hundreds of young men from the America
 
 On November 15, 1835 Samuel Chambliss helped to raise and equip a volunteer militia company in Carroll Parish to fight with Texas Federalists against Mexican Centralists led by General Santa Anna. Samuel and his friends in Carroll Parish raised over $5,000 to equip the company for the campaign. The company of 124 men traveled overland to Washington-on-the-Brazos; soon to be the seat of government of the new Republic of Texas. After the company arrived at Washington-on-the-Brazos, its original commander returned to Louisiana and the company was reorganized with Samuel Chambliss in command.[^65]
 
-In February 1836 Samuel’s company, along with that of Capt. Samuel Williams, was sent in pursuit of a band of Indians who were raiding American settlements east of the Trinity River. The Indians were overtaken near a place called Comanche Peak (in present-day Johnson County) and escaped after a running fight over several miles.
+In February 1836 Samuel’s company, along with that of Capt. Samuel Williams, was sent in pursuit of a band of Native Americans who were raiding American settlements east of the Trinity River. The Indians were overtaken near a place called Comanche Peak (in present-day Johnson County) and escaped after a running fight over several miles.
 
 During the fight, Samuel was wounded in his right arm. His companions removed the arrowhead or barb but he could not use his arm and could not continue the pursuit.[^66] Chambliss’ company was disbanded soon afterward for a “want of provisions and let loose in order to scatter and get subsistence”.[^67] Chambliss stated that, “In April 1836, the grass gave out, the horses became unfit for such service and I disbanded the company”.[^68] Samuel then went to Gross’ (or Groce’s) plantation on the Brazos River to offer his services to Sam Houston, commander of the Texas army. Chambliss was assigned to deliver General Houston’s mail and dispatches to US General Gaines at Fort Jessup near present-day Many, Louisiana.[^69]
 
@@ -219,12 +217,12 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^22]: Compiled Service Records of Soldiers Who Served in the American Army During the Revolutionary War, M881, Roll 0884, NARA.
 [^23]: Moss, *Roster of South Carolina Patriots in the American Revolution,* 161
 [^24]: Salley, *The History of Orangeburg, South Carolina,* 526
-[^25]: Conrad Rife, United States First Census (1790), Orangeburg, SC, Series M637, Roll 11
-[^26]: Mary Rife, United States Second Census (1800), Sandy Run, Orangeburg, SC, Series M32, Roll 49.
+[^25]: Conrad Rife, United States First Census (1790) M637, Orangeburg, SC, Series M637, Roll 11
+[^26]: Mary Rife, United States Second Census (1800) M32, Sandy Run, Orangeburg, SC, Series M32, Roll 49.
 [^27]: Polly Rife Plat, State Plats (Columbia series), Vol. 38: 295, Roll ST 586, South Carolina Department of Archives and History, Columbia, SC
 [^28]: Ronald Vern Jackson, et al, editors, *Index to South Carolina Land Grants, 1784-1800,* (Bountiful, Utah: Accelerated Indexing Systems, Inc.), 123
 [^29]: Jackson, *Index to South Carolina Land Grants,* 1784-1800, 25
-[^30]: Peter Chambliss, United States Second Census (1800), Lexington County, Orangeburg District, South Carolina, Series M32, Roll 49; Peter Chambley, United States First Census (1790), Richland County, SC, Series M637, Roll 11
+[^30]: Peter Chambliss, United States Second Census (1800), Lexington County, Orangeburg District, South Carolina, Series M32, Roll 49; Peter Chambley, United States First Census (1790) M637, Richland County, SC, Series M637, Roll 11
 [^31]: “Mississippi Court Records 1799-1835,”, 155, Peter Corbin Chambliss, www.ancestry.com, accessed December 22, 2013
 [^32]: Salley, *The History of Orangeburg, South Carolina,* 220
 [^33]: Culler, *Orangeburg District, 1768-1868,* 14
@@ -237,21 +235,21 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^40]: William Rife Service Record, War of 1812 Service Records, Index to Compiled Military Service Records for Volunteer Soldiers, M602, Roll 175, NARA
 [^41]: Territory Tax Rolls, 1817, Mississippi State Archives, Jackson, Mississippi, Box 139
 [^42]: Richard S. Lackey and Etolie Hopkins, Editors, “Jefferson County Marriage Book A,” Mississippi Genealogical Exchange 20, No. 3, (Fall 1974), 83
-[^43]: William Rife, United States Fourth Census (1820), Jefferson County, Mississippi, M33, Roll 58
+[^43]: William Rife, United States Fourth Census (1820) M33, Jefferson County, Mississippi, Roll 58
 [^44]: Francis R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, STIRPES 35, No. 3, (September 1995), 46; Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15 NARA
 [^45]: William Rife, United States Fifth Census (1830), Princeton, Washington County, Mississippi, M19, Roll 71; US Bureau of Land Management, General Land Office Records, Federal Land Patients, State Volumes, Eastern States
 [^46]: Goodspeed Publishing Co., creator, *Biographical and Historical Memoirs of Mississippi, Vol II, 1891,* reprint, (Spartanburg: Reprint Company, 1978), 681
 [^47]: US Bureau of Land Management, Mississippi Pre-1908 Patients, Homesteads, Cash Entry, Choctaw Indian Scrip and Chickasaw Cession Lands
-[^48]: Martha J. Rife, Martha A. Rife, United States Seventh Census (1850), Western District, Carroll, LA, M432, Roll 230
+[^48]: Martha J. Rife, Martha A. Rife, United States Seventh Census (1850) M32, Western District, Carroll, LA, M432, Roll 230
 [^49]: Evelyn M. Carrington, editor, *Women in Early Texas,* (Austin: Jenkins Publishing Company, 1975), 164
 [^50]: Secession Files for Tutorship of William Rife’s children, Drawer 55, East Carrol Parrish, Lake Providence, LA
 [^51]: Goodspeed, *Biographical and Historical Memoirs of Mississippi,* 681
-[^52]: Jacob Rife, United States Sixth Census (1840), Columbia, Richland County, South Carolina, M704, Roll 514; Brent Howard Holcomb, *Record of Deaths in Columbia, South Carolina and elsewhere as recorded by John Glass, 1859-1877,* (Columbia: March, 1986), 97
+[^52]: Jacob Rife, United States Sixth Census (1840) M707, Columbia, Richland County, South Carolina, M704, Roll 514; Brent Howard Holcomb, *Record of Deaths in Columbia, South Carolina and elsewhere as recorded by John Glass, 1859-1877,* (Columbia: March, 1986), 97
 [^53]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 44, 47
 [^54]: Goodspeed, *Biographical and Historical Memoirs of Mississippi,* 681
 [^55]: Mullins, *The Ancestors of George and Hazel Mullins,* 51, 152
 [^56]: Mrs. Charles H. Pitcher, submitter, "Centenary College of Louisiana Catalogue of the Officers and Students for the Academic Year 1852-1853”, *The Louisiana Genealogical Register* 15, No. 3, (September 1968), 83
-[^57]: W. W. Rife, United States Eighth Census (1860), Town of Floyd, Carroll, Louisiana, M653, Roll 409
+[^57]: W. W. Rife, United States Eighth Census (1860) M653, Town of Floyd, Carroll, Louisiana, Roll 409
 [^58]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 46; Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15
 [^59]: John Tourette, Plantation Map of Carroll Parrish, LA, 1848, www.usgwarchives.org/maps/louisiana/parishmap/carrolllatourette1848.jpg, accessed Nov 12, 2012
 [^60]: Bearss, *The Campaign for Vicksburg,* 481; Charles Lowery, “The Great Migration to the Mississippi Territory, 1798-1819”, Mississippi History Now, Mississippi Historical Society, www.mskhistorynow.mdakh.state.ms.us, accessed September 16, 2012
@@ -325,9 +323,9 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^128]: Robert A. Divine, T. H. Breen, George M. Fredrickson and R. Hal Williams, *America Past and Present,* (New York: 4th Edition, Harpers-Collins College Publishers, 1995), Vol. 1: 317
 [^129]: White, *First Settlers of Washington County, Texas* 45
 [^130]: White, *First Settlers of Washington County, Texas,* 54; Nathaniel Chambliss, Unconditional Headright Certificate # 543, Bounty Land Commissioners for Washington County, file # 893, GLO
-[^131]: Nathaniel Chambliss, United States Seventh Census (1850), Lavaca County, Texas, M432; Bill of sale, County Deed Records, County Clerks Office, Lavaca County, Book C, 33-4, Hallettsville, TX
+[^131]: Nathaniel Chambliss, United States Seventh Census (1850) M432, Lavaca County, Texas, M432; Bill of sale, County Deed Records, County Clerks Office, Lavaca County, Book C, 33-4, Hallettsville, TX
 [^132]: Republic Claims, Republic of Texas, Comptrollers Records, Public Debt, Reel #143, ARIS-TSLAC, Austin, 314
-[^133]: Register of Brands, County Clerks Office, Lavaca County, Texas, 39, 74, 152, Hallettsville, Texas; (551) Deed Records of Lavaca County, County Clerks Office, Book B, 325, Hallettsville, Texas; Paul C. Boethel, *The Free State of Lavaca,* (Austin: Weddle Publications, 1977), 163
+[^133]: Register of Brands, County Clerks Office, Lavaca County, Texas, 39, 74, 152, Hallettsville, Texas; Deed Records of Lavaca County, County Clerks Office, Book B, 325, Hallettsville, Texas; Paul C. Boethel, *The Free State of Lavaca,* (Austin: Weddle Publications, 1977), 163
 [^134]: Surveyors notes for the Bounty Land Grant of Nathaniel Chambliss in Erath County, Abstract 155, File # 000983, GLO
 [^135]: T. R. Fehrenbach, *Seven Keys to Texas,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1983), 17
 [^136]: Probate Court of Lavaca County, County Clerks Office, No. 320, 634-48, Hallettsville, Texas
