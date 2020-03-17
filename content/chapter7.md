@@ -39,14 +39,13 @@ On June 3, 1868, T. G. Williams, the agent in San Antonio, announced express mai
 
 In January 1869 Ben Ficklin purchased 640 acres on the south bank of the Middle Concho River and expanded his existing headquarters there. He built wagon shops and sheds for harness makers, wheelwrights and blacksmiths as well as a warehouse and corrals for stock. In January 1870, Ficklin’s weekly stage schedule was increased to semiweekly service and coaches replaced the buckboard wagons that had been used between Fort Concho and Fort Stockton.[^29]
 
-In the early 1870’s, US Major Zenas R. Bliss returned to duty in west Texas. As was his custom throughout his military career, he kept a diary of his trip. He said of the coach drivers that, “Each driver drove about a hundred to a hundred and twenty-five miles, day and night, stopping at stations only long enough to swallow a hasty meal. While the driver and escort were eating, the station keeper and his helper hitched up a fresh team of mules, and held them till all were aboard, and then turned them loose, and they would go upon the run for a mile or more, and then they would settle down to a trot and go along peaceably. The mules were trained not to stand still in the road.” “If a passenger needed to get out of the coach between stations it was not necessary to stop the coach, the passenger would jump out and the coach would go on again on a run and the driver would run the mules in a circle, and after a while bring them back” to where the passenger was standing. The passenger would jump in and off they went again.[^30]
+In the early 1870’s, U.S. Major Zenas R. Bliss returned to duty in west Texas. As was his custom throughout his military career, he kept a diary of his trip. He said of the coach drivers that, “Each driver drove about a hundred to a hundred and twenty-five miles, day and night, stopping at stations only long enough to swallow a hasty meal. While the driver and escort were eating, the station keeper and his helper hitched up a fresh team of mules, and held them till all were aboard, and then turned them loose, and they would go upon the run for a mile or more, and then they would settle down to a trot and go along peaceably. The mules were trained not to stand still in the road.” “If a passenger needed to get out of the coach between stations it was not necessary to stop the coach, the passenger would jump out and the coach would go on again on a run and the driver would run the mules in a circle, and after a while bring them back” to where the passenger was standing. The passenger would jump in and off they went again.[^30]
 
 ### Thomas Rife worked for the stage line until 1872.
 
 There is evidence that Thomas Rife continued to work for the mail line during this period. George Baylor, who was for many years a Ranger captain in the upper Rio Grande Valley, implied that at some time before 1873, Thomas Rife was in charge of a mail station on the Rio Grande between Fort Quitman and Ysleta[^31] near where Camp Rice and later Fort Hancock were located.[^32]
 
 Stagecoaches in west Texas did a brisk business in both express packages and passengers until the railroads were built and placed in service. The stagecoach line prospered as the country filled up with settlers. In January 1882, the Texas and Pacific Railroad reached El Paso from the east.[^33] After the railroad was built and given the contract to carry the mail, stage coach conductors and guards were put out of business.[^34]
-
 
 ## Pecos County, 1870-1873
 
@@ -104,7 +103,7 @@ Freighters who hauled merchandise between San Antonio and the Rio Grande Valley 
 
 [^1]: William L. Richter, *The Army in Texas During Reconstruction: 1865-1870*, (College Station, TX: Texas A&M University Press, 1987), 13
 [^2]: Mark Swanson, *Atlas of the Civil War Month by Month: Major Battles and Troop Movements*, (Athens & London: The University of Georgia Press, 2004), 112
-[^3]: W. C. Nunn, *Texas Under The Carpetbaggers*, (Austin: University of Texas Press, 1962), 3; (582) Richter, *The Army in Texas During Reconstruction*, 13
+[^3]: W. C. Nunn, *Texas Under The Carpetbaggers*, (Austin: University of Texas Press, 1962), 3; Richter, *The Army in Texas During Reconstruction*, 13
 [^4]: Wayne R. Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881*, (College Station, TX: Texas A & M University Press, 1985), 196
 [^5]: Austerman, *Sharps Rifles and Spanish Mules*, 239; Richter, *The Army in Texas During Reconstruction*, 71
 [^6]: Thomas Yoseloff, editor, *Confederate Military History Vol. 11*, (New York: Thomas Yoseloff, New York, 1962), 141; Richter, *The Army in Texas During Reconstruction*, 27, 150
@@ -178,10 +177,10 @@ Freighters who hauled merchandise between San Antonio and the Rio Grande Valley 
 [^74]: Pecos County Election Returns, 1872, State of Texas election returns (county-by-county), Elections Division, Texas Secretary of State. ARIS-TSLAC.
 [^75]: Frank S. Gray, *Pioneering in Southwest Texas: True Stories of Early Day Experiences in Edwards and Adjoining Counties*, (Austin: The Steck Company, 1949), 56-8
 [^76]: Nunn, *Texas Under The Carpetbaggers*, 110
-[^77]:tbaggers*, 113
+[^77]: Nunn *Texas Under The Carpetbaggers*, 113
 [^7875, State of Texas election returns (county-by-county), ARIS-TSLAC
 [^79]: Williams, *Texas’ Last Frontier*, 200
-[^80]: Francis R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, STIRPES 35, No. 3, (September 1995), 46; Mexican War pension records, copies in Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, Texas
+[^80]: Francis R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, No. 3,* (September 1995), 46; Mexican War pension records, copies in Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, Texas
 [^81]: Eligibility for Public Office, Texas Constitution, Election Code, Title 9, Chapter 141, Subchapter A; Nunn, *Texas Under The Carpetbaggers*, 17
 [^82]: Nunn, *Texas Under The Carpetbaggers*, 26
 [^83]: Montejano, *Anglos and Mexicans in the Making of Texas*, 94

@@ -369,11 +369,11 @@ Hundreds of men who could not or would not sign the oath fled to Mexico and poin
 [^78]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 78-9
 [^79]: Hammons, *A History of El Paso County, Texas, to 1900,* 49
 [^80]: Miss Mattie Jackson, *The Rising and Setting of the Lone Star Republic,* (San Antonio: n.p., 1926), 107; Hall, *The Confederate Army of New Mexico,* 39; Thompson, *Civil War in the Southwest,* 125
-[^81]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 98; (470, p. 39) Hall, *The Confederate Army of New Mexico,* 39; Hammons, *A History of El Paso County, Texas, to 1900,* 49
+[^81]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 98; Hall, *The Confederate Army of New Mexico,* 39; Hammons, *A History of El Paso County, Texas, to 1900,* 49
 [^82]: Austerman, “The San Antonio-El Paso Mail, CSA,” 94
 [^83]: Williams, *Texas’ Last Frontier,* 46
 [^84]: Williams, *Texas’ Last Frontier,* 48; Austerman, “The San Antonio-El Paso Mail, CSA,” 95-6
-[^85]: Austerman, “The San Antonio-El Paso Mail, CSA,” 93; Wharton, *Texas Under Many Flags,* 92; (147, p. 41) Williams, *Texas’ Last Frontier,* 41
+[^85]: Austerman, “The San Antonio-El Paso Mail, CSA,” 93; Wharton, *Texas Under Many Flags,* 92; Williams, *Texas’ Last Frontier,* 41
 [^86]: Evans, *Confederate Military History,* Vol. XI: 55
 [^87]: Wharton, *Texas Under Many Flags,* 92
 [^88]: Thompson, *From Desert to Bayou,* 41; Evans, *Confederate Military History,* Vol. XI: 131
@@ -407,9 +407,9 @@ Hundreds of men who could not or would not sign the oath fled to Mexico and poin
 [116]: Miers, *The Web of Victory,* 110; Bearss, *The Campaign for Vicksburg,* Vol. 1: 485
 [117]: Miers, *The Web of Victory,* 111; Bearss, *The Campaign for Vicksburg,* Vol. 1: 506
 [118]: Bearss, *The Campaign for Vicksburg,* Vol. 1: 507; Miers, *The Web of Victory,* 114
-[119]: Ballard, Vicksburg, 189; Miers, *The Web of Victory,* 111-6)
+[119]: Ballard, Vicksburg, 189; Miers, *The Web of Victory,* 111-6
 [120]: Shea, *Vicksburg Is the Key,* 70-1
-[121]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 365;  Hasskarl, *Waul’s Texas Legion,* 19;
+[121]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 365;  Hasskarl, *Waul’s Texas Legion,* 19
 [122]: Ballard, *Vicksburg,* 189
 [123]: Miers, *The Web of Victory,* 119
 [124]: Shea, *Vicksburg Is the Key,* 72
@@ -445,7 +445,7 @@ Hundreds of men who could not or would not sign the oath fled to Mexico and poin
 [^154]: Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, Records of the Department of Veteran’s Affairs, NARA RG 15
 [^155]: Smith, *Frontier Defense in Texas,* 136
 [^156]: Thomas Rife, Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, RG 109, NARA, Roll 865
-[^157]: Thomas Rife Record, 36th Texas Cavalry Regiment, Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Texas, M323, Roll 175, RG 109, NARA; (14) *The San Antonio Light,* February 23, 1887
+[^157]: Thomas Rife Record, 36th Texas Cavalry Regiment, Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Texas, M323, Roll 175, RG 109, NARA; *The San Antonio Light,* February 23, 1887
 [^158]: Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15
 [^159]: Samuel Lyte’s Record, 36th Texas Cavalry Regiment, M323, Roll 174, , RG 109, NARA
 [^160]: Thirty-Sixth Texas Cavalry; Woods, Peter Cavanaugh, *Handbook of Texas Online,* www.tshaonline.org/handbook/online/articles, accessed December 22, 2013

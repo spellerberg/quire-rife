@@ -305,18 +305,18 @@ Giddings activities as a mail contractor were confined entirely to Texas after 1
 [^45]: Austerman, *Sharps Rifles and Spanish Mules,* 79
 [^46]: Albert J. Myers, “Letters from Texas, 1854-1856”, *Southwest Historical Quarterly, Texas State Historical Association, Vol 82:1,* July 1978
 [^47]: Petition from Giddings, Giddings vs. The United States.
-[^48]: Deposition of William M. Ford, Giddings vs. The United States; (M-24) Deposition of Archibald C. Hyde, Giddings vs. The United States; (138, p. 70) Austerman, *Sharps Rifles and Spanish Mules,* 70
+[^48]: Deposition of William M. Ford, Giddings vs. The United States; (M-24) Deposition of Archibald C. Hyde, Giddings vs. The United States; Austerman, *Sharps Rifles and Spanish Mules,* 70
 [^49]: Petition from Giddings, Giddings vs. The United States.
 [^50]: Deposition of William A. Wallace, Giddings vs. The United States
 [^51]: Deposition of George H. Giddings, Giddings vs. The United States.
 [^52]: Petition from Giddings, Giddings vs. The United States; Deposition of John G. Walker, Giddings vs. The United States
 [^53]: Letter from General P. Smith, Giddings vs. The United States
-[^54]: Austerman, *Sharps Rifles and Spanish Mules,* 85; (M-39, p. 5) Petition from Giddings, Giddings vs. The United States
+[^54]: Austerman, *Sharps Rifles and Spanish Mules,* 85; Petition from Giddings, Giddings vs. The United States
 [^55]: Austerman, *Sharps Rifles and Spanish Mules,* 85
 [^56]: Austerman, *Sharps Rifles and Spanish Mules,* 86
 [^57]: *San Antonio Ledger and Texan,* February 2, 1857
 [^58]: Deposition of John G. Walker, Giddings vs. The United States
-[^59]: Clayton Williams, *Never Again, Texas 1848-1861 Vol. 3,*  (San Antonio, Texas: The Naylor Co. 1969), 154  
+[^59]: Clayton Williams, *Never Again, Texas 1848-1861 Vol. 3,* (San Antonio, Texas: The Naylor Co. 1969), 154  
 [^60]: Clarence R. Wharton, *Texas Under Many Flags,* (Chicago: The American Historical Society, Inc., 1930), 45
 [^61]: Stuart N. Lake,  “Birch’s Overland Mail in San Diego County”, *The Journal of San Diego History, San Diego Historical Society Quarterly 3,* (April 1957)
 [^62]: Robert H. Thornhoff, *San Antonio Stage Lines 1847-1881,* (El Paso: Texas Western Press, 1971), 15; Anonymous, *The Texas Almanac for 1859,* (Galveston, TX: The Galveston News, 1859), pp. 139-40

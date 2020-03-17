@@ -243,7 +243,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^23]: De Zavala, *History and Legends of the Alamo,* 18; Rena Maverick Green, Editor, *Samuel Maverick, Texan: 1803-1870, A Collection of Letters, Journals and Memoirs,* (San Antonio: Privately Published, 1952), 54; De Zavala, The Alamo, 15
 [^24]: De Zavala, *History and Legends of the Alamo,* 21
 [^25]: Bennett, *Historical Sketch and Guide to the Alamo,* 51
-[^26]: McDonald, *Jose Antonio Navarro,* 230; (659, p. 53) Bennett, *Historical Sketch and Guide to the Alamo,* 53
+[^26]: McDonald, *Jose Antonio Navarro,* 230; Bennett, *Historical Sketch and Guide to the Alamo,* 53
 [^27]: Green, *Samuel Maverick, Texan,* 55
 [^28]: McDonald, *Jose Antonio Navarro,* 226
 [^29]: De Zavala, *History and Legends of the Alamo,* 33; Bennett, *Historical Sketch and Guide to the Alamo,* 60
@@ -304,7 +304,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^84]: *Galveston Daily News,* February 14, 1890; *San Antonio Daily Express,* Aug. 9, 1889
 [^85]: Ramsdell, *San Antonio,* 20
 [^86]: *San Antonio Light,* September 30, 1885
-[^87]: *San Antonio Light,* June 8, 1886;*San Antonio Daily Light,* August 6, 1890
+[^87]: *San Antonio Light,* June 8, 1886; *San Antonio Daily Light,* August 6, 1890
 [^88]: Pryor, “Tom Rife-an Early Alamo Custodian,” 28
 [^89]: Edward Tabor Linenthal, “A Reservoir of Spiritual Power: Patriotic Faith at the Alamo in the Twentieth Century”, *The Southwestern Historical Quarterly 91, (April 1988),* 513
 [^90]: *San Antonio Light,* April 14, 1886
@@ -326,7 +326,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^106]: Mrs. Mary M. Brown, *A School History of Texas From Its Discovery in 1685 to 1893,* (Dallas: Published by the Author, 1894)
 [^107]: *San Antonio Express,* May 12, 1881
 [^108]: *San Antonio Daily Light,* February 28, 1887
-[^109]: *San Antonio Sunday Light,* (1453) *San Antonio Daily Light,* June 2, 1886
+[^109]: *San Antonio Daily Light,* June 2, 1886
 [^110]: San Antonio Sunday Light,* January 5, 1947; *Daily Light,* (San Antonio), January 4, 1890
 [^111]: Roberts and Olson, *A Line in the Sand,* 228, 228
 [^112]: *San Antonio Daily Light,* March 31, 1891
@@ -401,7 +401,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^181]: *Galveston Daily News,* December 28, 1894; *San Antonio Daily Light,* December 27, 1894; *San Antonio Daily Light,* December 28, 1894; Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas
 [^182]: *San Antonio Light,* February 23, 1887
 [^183]: *Omaha World Herald,* Mortuary Notice, December 29, 1894
-[^184]: City View, A Subdivision of Original City Lot1, R7 D7, Civil Engineer Survey Book 5, p. 111, San Antonio; *Morrison and Fourmy’s  San Antonio City Directory for 1889; San Antonio City Directory for 1890*
+[^184]: City View, A Subdivision of Original City Lot 1, R7 D7, Civil Engineer Survey Book 5, p. 111, San Antonio; *Morrison and Fourmy’s  San Antonio City Directory for 1889; San Antonio City Directory for 1890*
 [^185]: Mrs. Joseph Morris, editor, “List of 1st Class Certificates,” *STIRPES 16, No. 3,* (September 1976)
 [^186]: William McMaster, Public Debt Claim, Texas Comptroller’s Office claims records. ARIS-TSLAC
 [^187]: *San Antonio Light,* Thursday, May 9, 1907
