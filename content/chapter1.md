@@ -193,7 +193,7 @@ In early July 1868 Nathaniel Chambliss died and on July 9, 1868 his son-in-law, 
 In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician in charge of the City Hospital of Houston. He examined his wife’s uncle, old Samuel Lee Chambliss, and declared him to be disabled due to his war wounds.[^177] On July 2, 1874 Samuel L. Chambliss was granted a state pension for his service in the Texas War of Independence in 1836.[^178] A bill passed by the Legislature on July 28, 1876 for relief of Texas veteran pensioners, led Samuel Chambliss to swear that he was, on August 30, 1879, indigent and unable to support himself. He stated that he owned only his horse valued at $50 and a cow and calf valued at $20. In lieu of a pension he received a Republic Donation Voucher for 1280 acres for his service in the War for Texas Independence.[^179]
 
 
-[^1]: A. S. Salley, Jr., *The History of Orangeburg, South Carolina,* (Baltimore: Regional   Publishing Company, 1969), 69-70
+[^1]: A. S. Salley, Jr., *The History of Orangeburg, South Carolina,* (Baltimore: Regional Publishing Company, 1969), 69-70
 [^2]: Daniel Marchant Culler, *Orangeburg District, 1768-1868: History and Records,* (Spartanburg, South Carolina: The Reprint Company Publishers, 1995), 7
 [^3]: Salley, *The History of Orangeburg, South Carolina,* 70
 [^4]: Salley, *The History of Orangeburg, South Carolina,* 71
@@ -218,46 +218,46 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^23]: Moss, *Roster of South Carolina Patriots in the American Revolution,* 161
 [^24]: Salley, *The History of Orangeburg, South Carolina,* 526
 [^25]: Conrad Rife, United States First Census (1790) M637, Orangeburg, SC, Series M637, Roll 11
-[^26]: Mary Rife, United States Second Census (1800) M32, Sandy Run, Orangeburg, SC, Series M32, Roll 49.
+[^26]: Mary Rife, United States Second Census (1800), M32, Sandy Run, Orangeburg, SC, Series M32, Roll 49.
 [^27]: Polly Rife Plat, State Plats (Columbia series), Vol. 38: 295, Roll ST 586, South Carolina Department of Archives and History, Columbia, SC
 [^28]: Ronald Vern Jackson, et al, editors, *Index to South Carolina Land Grants, 1784-1800,* (Bountiful, Utah: Accelerated Indexing Systems, Inc.), 123
 [^29]: Jackson, *Index to South Carolina Land Grants,* 1784-1800, 25
-[^30]: Peter Chambliss, United States Second Census (1800), Lexington County, Orangeburg District, South Carolina, Series M32, Roll 49; Peter Chambley, United States First Census (1790) M637, Richland County, SC, Series M637, Roll 11
+[^30]: Peter Chambliss, United States Second Census (1800), Lexington County, Orangeburg District, South Carolina, Series M32, Roll 49; Peter Chambley, United States First Census (1790), M637, Richland County, SC, Series M637, Roll 11
 [^31]: “Mississippi Court Records 1799-1835,”, 155, Peter Corbin Chambliss, www.ancestry.com, accessed December 22, 2013
 [^32]: Salley, *The History of Orangeburg, South Carolina,* 220
 [^33]: Culler, *Orangeburg District, 1768-1868,* 14
-[^34]: Charles Lowery, “The Great Migration to the Mississippi Territory, 1798-1819”, Mississippi History Now, Mississippi Historical Society, www.mskhistorynow.mdakh.state.ms.us, accessed September 16, 2012
+[^34]: Charles Lowery, “The Great Migration to the Mississippi Territory, 1798-1819”, *Mississippi History Now,* Mississippi Historical Society, www.mskhistorynow.mdakh.state.ms.us, accessed September 16, 2012
 [^35]: Peter Chambliss, Mississippi, State and Territorial Census Collection, (1805), Jefferson County, Mississippi, V229.
 [^36]: Territorial Tax Rolls, 1807, Mississippi State Archives, Various Records, 1820-1951, Jefferson County, Box 138
-[^37]: Peter Corbin Chambliss, Mississippi1816 Territorial Census (1816), Jefferson County, Mississippi, V229, Roll 2; Peter Corbin Chambliss, United States Fourth Census (1820), Jefferson County, Mississippi, NARA Roll M33. Roll 58
+[^37]: Peter Corbin Chambliss, Mississippi Territorial Census (1816), Jefferson County, Mississippi, V229, Roll 2; Peter Corbin Chambliss, United States Fourth Census (1820), Jefferson County, Mississippi, NARA Roll M33. Roll 58
 [^38]: Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton: Morningside House, 1985), Vol. 1: 481
 [^39]: Joseph Karl Menn, *The Large Slaveholders of Louisiana-1860,* (New Orleans: Pelican Publishing Co., 1964), 175
 [^40]: William Rife Service Record, War of 1812 Service Records, Index to Compiled Military Service Records for Volunteer Soldiers, M602, Roll 175, NARA
 [^41]: Territory Tax Rolls, 1817, Mississippi State Archives, Jackson, Mississippi, Box 139
-[^42]: Richard S. Lackey and Etolie Hopkins, Editors, “Jefferson County Marriage Book A,” Mississippi Genealogical Exchange 20, No. 3, (Fall 1974), 83
+[^42]: Richard S. Lackey and Etolie Hopkins, Editors, “Jefferson County Marriage Book A,” *Mississippi Genealogical Exchange 20, No. 3,* (Fall 1974), 83
 [^43]: William Rife, United States Fourth Census (1820) M33, Jefferson County, Mississippi, Roll 58
-[^44]: Francis R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, STIRPES 35, No. 3, (September 1995), 46; Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15 NARA
+[^44]: Francis R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, No. 3,* (September 1995), 46; Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15 NARA
 [^45]: William Rife, United States Fifth Census (1830), Princeton, Washington County, Mississippi, M19, Roll 71; US Bureau of Land Management, General Land Office Records, Federal Land Patients, State Volumes, Eastern States
 [^46]: Goodspeed Publishing Co., creator, *Biographical and Historical Memoirs of Mississippi, Vol II, 1891,* reprint, (Spartanburg: Reprint Company, 1978), 681
 [^47]: US Bureau of Land Management, Mississippi Pre-1908 Patients, Homesteads, Cash Entry, Choctaw Indian Scrip and Chickasaw Cession Lands
-[^48]: Martha J. Rife, Martha A. Rife, United States Seventh Census (1850) M32, Western District, Carroll, LA, M432, Roll 230
+[^48]: Martha J. Rife, Martha A. Rife, United States Seventh Census (1850), M32, Western District, Carroll, LA, M432, Roll 230
 [^49]: Evelyn M. Carrington, editor, *Women in Early Texas,* (Austin: Jenkins Publishing Company, 1975), 164
 [^50]: Secession Files for Tutorship of William Rife’s children, Drawer 55, East Carrol Parrish, Lake Providence, LA
 [^51]: Goodspeed, *Biographical and Historical Memoirs of Mississippi,* 681
-[^52]: Jacob Rife, United States Sixth Census (1840) M707, Columbia, Richland County, South Carolina, M704, Roll 514; Brent Howard Holcomb, *Record of Deaths in Columbia, South Carolina and elsewhere as recorded by John Glass, 1859-1877,* (Columbia: March, 1986), 97
+[^52]: Jacob Rife, United States Sixth Census (1840), M707, Columbia, Richland County, South Carolina, M704, Roll 514; Brent Howard Holcomb, *Record of Deaths in Columbia, South Carolina and elsewhere as recorded by John Glass, 1859-1877,* (Columbia: n.p., March, 1986), 97
 [^53]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 44, 47
 [^54]: Goodspeed, *Biographical and Historical Memoirs of Mississippi,* 681
 [^55]: Mullins, *The Ancestors of George and Hazel Mullins,* 51, 152
 [^56]: Mrs. Charles H. Pitcher, submitter, "Centenary College of Louisiana Catalogue of the Officers and Students for the Academic Year 1852-1853”, *The Louisiana Genealogical Register* 15, No. 3, (September 1968), 83
-[^57]: W. W. Rife, United States Eighth Census (1860) M653, Town of Floyd, Carroll, Louisiana, Roll 409
+[^57]: W. W. Rife, United States Eighth Census (1860), M653, Town of Floyd, Carroll, Louisiana, Roll 409
 [^58]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 46; Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15
 [^59]: John Tourette, Plantation Map of Carroll Parrish, LA, 1848, www.usgwarchives.org/maps/louisiana/parishmap/carrolllatourette1848.jpg, accessed Nov 12, 2012
-[^60]: Bearss, *The Campaign for Vicksburg,* 481; Charles Lowery, “The Great Migration to the Mississippi Territory, 1798-1819”, Mississippi History Now, Mississippi Historical Society, www.mskhistorynow.mdakh.state.ms.us, accessed September 16, 2012
+[^60]: Bearss, *The Campaign for Vicksburg,* 481; Charles Lowery, “The Great Migration to the Mississippi Territory, 1798-1819”, *Mississippi History Now,* Mississippi Historical Society, www.mskhistorynow.mdakh.state.ms.us, accessed September 16, 2012
 [^61]: Andrew Forest Muir, Editor, *Texas in 1837: An Anonymous, Contemporary Narrative,* (Austin: University of Texas Press, 1958), 98
 [^62]: Steven D. Smith, *A Good Home for a Poor Man: Fork Polk and Vernon Parish, 1800-1940,* (Columbia: University of South Carolina, 1999), 81-2
 [^63]: Muir, *Texas in 1837,* 135
 [^64]: J. Frank Dobie, *The Flavor of Texas,** (Dallas: Dealey and Lowe, 1936), 94
-[^65]: Samuel L. Chambliss, Republic Pension Files, Republic Pension Records, Texas Comptroller’s Office claims records. Archives and Information Services Division, Texas State Library and Archives Commission, Austin, TX, 364, 384
+[^65]: Samuel L. Chambliss, Republic Pension Files, Republic Pension Records, Texas Comptroller’s Office claims records. ARIS-TSLAC Division, Texas State Library and Archives Commission, Austin, TX, 364, 384
 [^66]: Samuel L. Chambliss, Republic Donation Voucher, file # 1319, Archives and Records Program, Texas General Land Office, Austin, TX.
 [^67]: Samuel L. Chambliss, Republic Pension Files, Republic Pension Records, Texas Comptroller’s Office claims records. ARIS-TSLAC, 364
 [^68]: Samuel L. Chambliss, Republic Donation Voucher, file # 1319, GLO
@@ -292,41 +292,41 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^97]: Homer S. Thrall, *History of Methodism in Texas,* (1872, reprint, n.p.: Walsworth Publishing, 1976), 9
 [^98]: Winfield, *All Our Yesterdays, A Brief History of Chappell Hill,* 2
 [^99]: Louisiana Marriages, 1718-1925, Book E, East Carroll Parish, Nathaniel Chambliss, Caroline Hale, www.ancestry.com, accessed December 22, 2013
-[^100]: Nathaniel Chambliss 2nd Class Headright Certificate #104, Washington County Commissioners May 22, 1839, GLO
-[^101]: Samuel Lytle and Nathaniel Chambliss, Land Grants, Washington County Clerk Returns, 1838, file #000013, GLO; Ellis A Davis and Edwin H. Grobe, compilers, *New Encyclopedia of Texas* Vol. III, (Dallas: Texas Development Bureau, 1929), 2205; Anonymous, *A Twentieth Century History of Southwest Texas,* Vol. 1, Chicago, New York and Los Angeles: The Lewis Publishing Co., 1907), 285
+[^100]: Nathaniel Chambliss 2nd Class Headright Certificate 104, Washington County Commissioners May 22, 1839, GLO
+[^101]: Samuel Lytle and Nathaniel Chambliss, Land Grants, Washington County Clerk Returns, 1838, file 000013, GLO; Ellis A Davis and Edwin H. Grobe, compilers, *New Encyclopedia of Texas* Vol. III, (Dallas: Texas Development Bureau, 1929), 2205; Anonymous, *A Twentieth Century History of Southwest Texas,* Vol. 1, Chicago, New York and Los Angeles: The Lewis Publishing Co., 1907), 285
 [^102]: Affidavits of Witness’, Mexican War Pension Application
 [^103]: Muir, Texas in 1837, 165; Louis White, *First Settlers of Washington County, Texas,* (St. Louis, G. White, 1986), 2
-[^104]: John Lott, Land Grant, Montgomery County Clerk Returns, 1st Class Certificate #78, GLO
+[^104]: John Lott, Land Grant, Montgomery County Clerk Returns, 1st Class Certificate 78, GLO
 [^105]: County Deed Records, Book D, 102, Washington County Clerks Office, Brenham, TX; Washington County, Texas Deed Abstracts Vol. 1, Republic of Texas and the State of Coahuila and Texas (Mexico), 99
 [^106]: Winfield, *All Our Yesterdays: A Brief History of Chappell Hill,* 2
 [^107]: *San Antonio Express,* March 30, 1919
 [^108]: The Daughters of the Republic of Teas, *Real Daughters,* (Dallas: Daughters of the Republic of Texas, Inc., 2007), 18; Application for Membership of Mary R. Fly, Daughters of the Republic of Texas
 [^109]: Paul C. Boethel, *Colonel Amasa Turner, The Gentleman From Lavaca and Other Captains at San Jacinto,* (Austin: Von Boeckman-Jones, 1963), 64; Paul C. Boethel, *History of Lavaca County,* (Austin: Von Boeckman-Jones, 1959), 85
 [^110]: *San Antonio Express,* March 30, 1919
-[^111]: Gifford White, Editor, *First Settlers of Washington County, Texas,* (St. Louis: G. White, 1986), 28
-[^112]: Nathaniel Chambliss 2nd Class Headright Certificate #104, Washington County Commissioners May 22, 1839, GLO
+[^111]: Gifford White, ed., *First Settlers of Washington County, Texas,* (St. Louis: G. White, 1986), 28
+[^112]: Nathaniel Chambliss 2nd Class Headright Certificate 104, Washington County Commissioners May 22, 1839, GLO
 [^113]: *Texas National Register* (Washington, Texas), June 05, 1845; Gifford White, *1840 Citizens of Texas: Vol. 2, Tax Rolls,* (St. Louis: Ingmire Publications, 1984), 260
 [^114]: Hugh Best, *Debrett’s Texas Peerage,* (New York: Coward-McCann, Inc., 1983), 360
 [^115]: White, 1840 *Citizens of Texas Vol. 2,* Tax Rolls, 260
 [^116]: Gerald S. Pierce, *Texas Under Arms: The Camps, Posts, Forts & Military Towns of the Republic of Texas 1836-1846,* (Austin: The Encino Press, 1969), 143
 [^117]: Green, *Samuel Maverick, Texan,* 150; McDonald, *Jose Antonio Navarro,* 161
 [^118]: McDonald, *Jose Antonio Navarro,* 180; James Kinnen Greer, *Colonel Jack Hays: Texas Frontier Leader and California Builder,* (New York: E.P. Dutton and Co., 1952), 63
-[^119]: William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* (1890, repr. San Antonio, TX: Graphics Arts, 1977), 136; A. J. Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* (Abilene: State House Press, McMurry University, 1986), 343
+[^119]: William Corner, comp. and ed., *San Antonio De Bexar: A Guide and History,* (1890, repr. San Antonio, TX: Graphics Arts, 1977), 136; A. J. Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* (Abilene: State House Press, McMurry University, 1986), 343
 [^120]: Samuel Bogart, Public debt claims, Texas Comptroller's Office claims records. ARIS-TSLAC; *Telegraph and Texas Register (Houston)* May 9, 1838; Joseph Milton Nance, *After San Jacinto, The Texas-Mexican Frontier, 1836-1841,* (Austin: University of Texas Press, 1963), 77; Mrs. Harry Joseph Morris, *Founders and Patriots of the Republic of Texas,* (Austin: Daughters of the Republic of Texas, 1963),Vol 1: 63
 [^121]: County Deed Records, Book F, 130, Washington County Clerks Office, Brenham, Texas
 [^122]: Green, *Samuel Maverick, Texan,* 159; Francis S. Latham, *Travels in the Republic of Texas, 1842,* (Austin: Encino Press, 1971), 5, 25
 [^123]: Pat Gordon, indexer, *Washington County Texas Court of Commissioners of Roads and Revenue, 1836-1846,* (Ft. Worth: GTT Books, 2001), 48
 [^124]: Homer S. Thrall, *History of Methodism in Texas,* 92
 [^125]: Deed Records of Washington County Clerks Office, Book F, 85,115,
-[^126]: L. G. Park, Editor, *Twenty-Seven Years on the Texas Frontier by Captain William Banta and J W Caldwell, Jr.,* (Council Hill, Oklahoma: n. p., 1933), 49; Boethel, *Colonel Amasa Turner,* 65
+[^126]: L. G. Park, ed., *Twenty-Seven Years on the Texas Frontier by Captain William Banta and J W Caldwell, Jr.,* (Council Hill, Oklahoma: n. p., 1933), 49; Boethel, *Colonel Amasa Turner,* 65
 [^127]: Thrall, *History of Methodism in Texas,* 73
 [^128]: Robert A. Divine, T. H. Breen, George M. Fredrickson and R. Hal Williams, *America Past and Present,* (New York: 4th Edition, Harpers-Collins College Publishers, 1995), Vol. 1: 317
 [^129]: White, *First Settlers of Washington County, Texas* 45
-[^130]: White, *First Settlers of Washington County, Texas,* 54; Nathaniel Chambliss, Unconditional Headright Certificate # 543, Bounty Land Commissioners for Washington County, file # 893, GLO
-[^131]: Nathaniel Chambliss, United States Seventh Census (1850) M432, Lavaca County, Texas, M432; Bill of sale, County Deed Records, County Clerks Office, Lavaca County, Book C, 33-4, Hallettsville, TX
-[^132]: Republic Claims, Republic of Texas, Comptrollers Records, Public Debt, Reel #143, ARIS-TSLAC, Austin, 314
+[^130]: White, *First Settlers of Washington County, Texas,* 54; Nathaniel Chambliss, Unconditional Headright Certificate # 543, Bounty Land Commissioners for Washington County, file  893, GLO
+[^131]: Nathaniel Chambliss, United States Seventh Census (1850), M432, Lavaca County, Texas, M432; Bill of sale, County Deed Records, County Clerks Office, Lavaca County, Book C, 33-4, Hallettsville, TX
+[^132]: Republic Claims, Republic of Texas, Comptrollers Records, Public Debt, Reel 143, ARIS-TSLAC, Austin, 314
 [^133]: Register of Brands, County Clerks Office, Lavaca County, Texas, 39, 74, 152, Hallettsville, Texas; Deed Records of Lavaca County, County Clerks Office, Book B, 325, Hallettsville, Texas; Paul C. Boethel, *The Free State of Lavaca,* (Austin: Weddle Publications, 1977), 163
-[^134]: Surveyors notes for the Bounty Land Grant of Nathaniel Chambliss in Erath County, Abstract 155, File # 000983, GLO
+[^134]: Surveyors notes for the Bounty Land Grant of Nathaniel Chambliss in Erath County, Abstract 155, File  000983, GLO
 [^135]: T. R. Fehrenbach, *Seven Keys to Texas,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1983), 17
 [^136]: Probate Court of Lavaca County, County Clerks Office, No. 320, 634-48, Hallettsville, Texas
 [^137]: Boethel, *The Free State of Lavaca,* 159; Indenture, County Deed Records, County Clerks Office, Lavaca County, Book C, 30-1, Hallettsville, TX
@@ -336,7 +336,7 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^141]: *Galveston Weekly News,* June 15, 1858
 [^142]: Carrington, *Women in Early Texas,* 193; Carol C. Green, *Chimborazo: The Confederacy’s Largest Hospital,* (Knoxville: The University of Tennessee Press, 2004), 59
 [^143]: Nathaniel Chambliss, United States Eighth Census (1860), Hallettsville, Lavaca County, Texas, Roll M653
-[^144]: Brenda Lincke Fisseler, Compiler, *We Are Gathered Here: Lavaca County Marriage Records 1846-1869,* (Hallettsville, TX: Old Homestead Publishing Co., 2000)
+[^144]: Brenda Lincke Fisseler, comp., *We Are Gathered Here: Lavaca County Marriage Records 1846-1869,* (Hallettsville, TX: Old Homestead Publishing Co., 2000)
 [^145]: Deed Records of Lavaca County, County Clerks Office, Book F, 77
 [^146]: Deed Records of Lavaca County, County Clerks Office, Book G, 724-9
 [^147]: Paul C. Boethel, *History of Lavaca County,* (San Antonio: The Naylor Co., 1936), 43
@@ -350,7 +350,7 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^155]: Miss Mattie Jackson, *The Rising and Setting of the Lone Star Republic,* (San Antonio: n. p., 1926), 109; Boethel, History of Lavaca County, 87
 [^156]: Anonymous, *A Memorial and Biographical History of Navarro, Henderson, Anderson, Limestone, Freestone and Leo Counties, Texas,* (Chicago: Lewis Publishing Co. 1893), 821
 [^157]: Lt. Col. Samuel Lee Chambliss Record, 13th Battalion, Louisiana, (Partisan Rangers), Compiled Service Records of Confederate Soldiers who served from the State of Louisiana, M320, RG 109, Roll 26
-[^158]: Samuel L. Chambliss, Republic Pension Files, Republic Pension Records, Texas Comptroller’s Office claims records. ARIS-TSLAC, 374-5; Samuel L. Chambliss, Republic Donation Voucher, file # 1319, GLO; Bearss, *The Campaign for Vicksburg,* 1200
+[^158]: Samuel L. Chambliss, Republic Pension Files, Republic Pension Records, Texas Comptroller’s Office claims records. ARIS-TSLAC, 374-5; Samuel L. Chambliss, Republic Donation Voucher, file 1319, GLO; Bearss, *The Campaign for Vicksburg,* 1200
 [^159]: William L. Richter, *The Army in Texas During Reconstruction: 1865-1870,* (College Station: Texas A&M University Press, 1987), 34
 [^160]: Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* Vol. 1: 478
 [^161]: William L. Shea and Terrence J. Winschel, *Vicksberg is the Key: Struggle for the Mississippi River,* (Lincoln and London: University of Nebraska Press, 2003), 60
@@ -365,7 +365,7 @@ In later years, Nathaniel’s son-in-law, Leonidas Hudspeth, was the physician i
 [^170]: George M. Mullins, Graves of Lawrence and Mary Jane Wade, Bolivar, Mississippi, Photo, September 26, 2014
 [^171]: Goodspeed, *Biographical and Historical Memoirs of Mississippi,* 681
 [^172]: *Dallas Morning News,* August 8, 1906, Advertisement,
-[^173]: James W. “Jay” Clifton, *The Burrus Cemetery,* Dr. Keith Jones, Scoutmaster, Troop 1, Benoit, Mississippi, July 22, 1981, 6
+[^173]: James W. “Jay” Clifton, *The Burrus Cemetery,* (Benoit, MS: Dr. Keith Jones, Scoutmaster, Troop 1, July 22, 1981,) 6
 [^174]:Anonymous, *A Memorial and Biographical History of Navarro, Henderson, Anderson, Limestone, Freestone and Leo Counties, Texas,* 821
 [^175]: *The Texas Democrat* (Austin), November 11, 1848
 [^176]: Probate Court Records, Case no. 320, Lavaca County, Hallettsville, Texas

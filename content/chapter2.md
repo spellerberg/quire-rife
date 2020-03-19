@@ -165,8 +165,8 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 
 [^1]: Joseph William Schmitz, *Thus They Lived: Social Life in the Republic of Texas,* (San Antonio: The Naylor Company, 1936), 1
 [^2]: Jimmy L. Bryan, Jr., *More Zeal Than Discretion: The Westward Adventures of Walter P. Lane,* (College Station, TX: Texas A&M University Press, 2008), 15
-[^3]: Bryan, Jr.,*More Zeal Than Discretion,* 42-3; (636) David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX:  State Historical Association, 2010), 69
-[^4]: Schmitz, *Thus They Lived,* 5; (475) Victor Bracht, *Texas in 1848,* (San Antonio: Naylor Printing Company, 1931), 68; (558) Noah Smithwick, *The Evolution of a State or Recollections of Old Texas Days,* 1900, reprint, Austin: University of Texas Press, 1983), 32; (563) J. Frank Dobie, *The Flavor of Texas,* (Dallas: Dealey and Lowe, 1936), 53
+[^3]: Bryan, Jr.,*More Zeal Than Discretion,* 42-3; David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX:  State Historical Association, 2010), 69
+[^4]: Schmitz, *Thus They Lived,* 5; Victor Bracht, *Texas in 1848,* (San Antonio: Naylor Printing Company, 1931), 68; (558) Noah Smithwick, *The Evolution of a State or Recollections of Old Texas Days,* 1900, reprint, Austin: University of Texas Press, 1983), 32; J. Frank Dobie, *The Flavor of Texas,* (Dallas: Dealey and Lowe, 1936), 53
 [^5]: James Kimmins Greer, *Colonel Jack Hays: Texas Frontier Leader and California Builder,* (New York: E. P. Dutton & Company, 1952), 25
 [^6]: Prescott Webb, *The Texas Rangers,* (Austin: University of Texas Press, 1993), 23
 [^7]: T. R. Fehrenbach, *Seven Keys to Texas,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1983), 26
@@ -181,7 +181,7 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^16]: Greer, *Colonel Jack Hays,* 119; Fehrenbach, *Seven Keys to Texas,* 28
 [^17]: Webb, *The Texas Rangers,* 69; Greer, *Colonel Jack Hays,* 40
 [^18]: Webb, *The Texas Rangers,* 86; A. J. Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* (Abilene, TX: State House Press, McMurry University, 1986), 60
-[^19]: *Texas Presbyterian,* (Victoria, Tex.), February 13, 1847
+[^19]: *Texas Presbyterian,* (Victoria), February 13, 1847
 [^20]: Greer, *Colonel Jack Hays,* 24, 34
 [^21]: Miss Mattie Jackson, *The Rising and Setting of the Lone Star Republic,* (San Antonio: n.p, 1926), 179
 [^22]: Darren L. Ivey, *The Texas Rangers: A Registry and History,* (Jefferson, NC: McFarland & Company Inc, 2010), 57
@@ -192,57 +192,57 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^27]: Webb, *The Texas Rangers,* 30
 [^28]: Webb, *The Texas Rangers,* 55
 [^29]: Smithwick, *The Evolution of a State,* 249
-[^30]: Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 161; (153) Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 341; (555) Wright, *San Antonio de Bexar,* 46
+[^30]: Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 161; Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 341; (555) Wright, *San Antonio de Bexar,* 46
 [^31]: J. C. Duval, *Early Times in Texas,* (1892, reprint, Austin: The Steck Co., 1935), 69
-[^32]: Fehrenbach, *Seven Keys to Texas,* 21; (463) Schmitz, *Thus They Lived,* 101; (224) Jackson, *The Rising and Setting of the Lone Star Republic,* 118, 155
-[^33]: T. R. Fehrenbach, *Comanches: The Destruction of a People,* (New York: Alfred A. Knopf, 1974), 86; (466) L. G. Park, editor, *Twenty-Seven Years on the Texas Frontier by Captain Wm Banta and J W Caldwell, Jr.,* (Council Hill, Oklahoma: L. G. Park, 1933), 8, 19; (716) Gwynne, *Empire of the Summer Moon,* 59
-[^34]: Park, *Twenty-Seven Years on the Texas Frontier,* 148-9; (159) Stephen B. Oates, editor, *Rip Ford’s Texas by John Salmon Ford,* (Austin: University of Texas Press, 1963), 184
-[^35]: Albert D. Richardson,*Beyond the Mississippi: From the Great River to the Great Ocean,* 1857-1867, (Hartford, Conn: American Publishing Company, 1867), 173; (716) Gwynne, *Empire of the Summer Moon,* 132
-[^36]: Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 694; (632) Fehrenbach, Comanches, 112
-[^37]: Walter Prescott Webb, *The Great Plains,* (Boston and New York: Houghton Mifflin Company, 1936), 170; (632) Fehrenbach, *Comanches,* 128-9; (654) Fehrenbach, *Seven Keys to Texas,* 28
-[^38]: Fehrenbach, *Seven Keys to Texas,* 28; (716) Gwynne, *Empire of the Summer Moon,* 146
-[^39]: Wikipedia, “Colt Paterson.” Wikipedia, the Free Encyclopedia, www.en.wikipedia.org/Colt_Paterson (accessed October 07, 2012); (265) Robert M. Utley, *Lone Star Justice: The First Century of the Texas Rangers,* (New York: Berkeley Books, 2002), 10
+[^32]: Fehrenbach, *Seven Keys to Texas,* 21; Schmitz, *Thus They Lived,* 101; (224) Jackson, *The Rising and Setting of the Lone Star Republic,* 118, 155
+[^33]: T. R. Fehrenbach, *Comanches: The Destruction of a People,* (New York: Alfred A. Knopf, 1974), 86; L. G. Park, editor, *Twenty-Seven Years on the Texas Frontier by Captain Wm Banta and J W Caldwell, Jr.,* (Council Hill, Oklahoma: L. G. Park, 1933), 8, 19; Gwynne, *Empire of the Summer Moon,* 59
+[^34]: Park, *Twenty-Seven Years on the Texas Frontier,* 148-9; Stephen B. Oates, ed., *Rip Ford’s Texas by John Salmon Ford,* (Austin: University of Texas Press, 1963), 184
+[^35]: Albert D. Richardson,*Beyond the Mississippi: From the Great River to the Great Ocean,* 1857-1867, (Hartford, Conn: American Publishing Company, 1867), 173; Gwynne, *Empire of the Summer Moon,* 132
+[^36]: Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 694; Fehrenbach, Comanches, 112
+[^37]: Walter Prescott Webb, *The Great Plains,* (Boston and New York: Houghton Mifflin Company, 1936), 170; Fehrenbach, *Comanches,* 128-9; Fehrenbach, *Seven Keys to Texas,* 28
+[^38]: Fehrenbach, *Seven Keys to Texas,* 28; Gwynne, *Empire of the Summer Moon,* 146
+[^39]: Wikipedia, “Colt Paterson.” Wikipedia, the Free Encyclopedia, www.en.wikipedia.org/Colt_Paterson (accessed October 07, 2012); Robert M. Utley, *Lone Star Justice: The First Century of the Texas Rangers,* (New York: Berkeley Books, 2002), 10
 [^40]: Oates, *Rip Ford’s Texas,* 181
-[^41]: Webb, *The Great Plains,* 175; (494) Harold J. Weiss, Jr., "The Texas Rangers Revisited: Old Themes and New Viewpoints", *The Southwestern Historical Quarterly, Vol. 97,* April 1994: 627
-[^42]: Florence Johnson Scott, *Old Rough and Ready on the Rio Grande,* (Waco, TX: Texian Press, 1969), 49; (635) Green, *Samuel Maverick,* Texan, 251
+[^41]: Webb, *The Great Plains,* 175; Harold J. Weiss, Jr., "The Texas Rangers Revisited: Old Themes and New Viewpoints", *The Southwestern Historical Quarterly, Vol. 97,* April 1994: 627
+[^42]: Florence Johnson Scott, *Old Rough and Ready on the Rio Grande,* (Waco, TX: Texian Press, 1969), 49; Green, *Samuel Maverick,* Texan, 251
 [^43]: Pierce, *Texas Under Arms,* 143
 [^44]: Green, *Samuel Maverick, Texan,* 150
 [^45]: McDonald, *Jose Antonio Navarro,* 182
-[^46]: McDonald, *Jose Antonio Navarro,* 180; (193) James T. De Shields,*Border Wars of Texas,* (Waco, TX: Texian Press, 1976), 362180
-[^47]: Greer, *Colonel Jack Hays,* 63; (636) McDonald, *Jose Antonio Navarro,* 180
-[^48]: Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 343; (635) Green, *Samuel Maverick, Texan,* 156; (638) Greer, *Colonel Jack Hays,* 64
+[^46]: McDonald, *Jose Antonio Navarro,* 180; James T. De Shields,*Border Wars of Texas,* (Waco, TX: Texian Press, 1976), 362180
+[^47]: Greer, *Colonel Jack Hays,* 63; McDonald, *Jose Antonio Navarro,* 180
+[^48]: Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 343; Green, *Samuel Maverick, Texan,* 156; Greer, *Colonel Jack Hays,* 64
 [^49]: Webb, *The Texas Rangers,* 73
 [^50]: Middle Rio Grand Development Council, Uvalde County, accessed Aug 26, 2012, 6
-[^51]: Green, *Samuel Maverick, Texan,* 164; (638) Greer, *Colonel Jack Hays,* 69
+[^51]: Green, *Samuel Maverick, Texan,* 164; Greer, *Colonel Jack Hays,* 69
 [^52]: Greer, *Colonel Jack Hays,* 71
-[^53]: Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 817; (638) Greer, *Colonel Jack Hays,* 73
-[^54]: Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 60; (207) Pierce, *Texas Under Arms,* 146; (635) Green,*Samuel Maverick, Texan,* 170
+[^53]: Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 817; Greer, *Colonel Jack Hays,* 73
+[^54]: Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 60; Pierce, *Texas Under Arms,* 146; Green,*Samuel Maverick, Texan,* 170
 [^55]: Webb, *The Texas Rangers,* 74
 [^56]: Greer, *Colonel Jack Hays,* 87
 [^57]: Ivey, *The Texas Rangers,* 56
 [^58]: Pierce, *Texas Under Arms,* 147
-[^59]: Webb, *The Texas Rangers,* 76; (153) Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 65
+[^59]: Webb, *The Texas Rangers,* 76; Sowell, *Early Settlers and Indian Fighters of Southwest Texas,* 65
 [^60]: Greer, *Colonel Jack Hays,* 90
 [^61]: Green, *Samuel Maverick, Texan,* 251
 [^62]: Jorge L. Tamayo, *Geografia moderna de Mexico,* (Mexico, DF: Editorial F. Trillas, S.A., 1968), 354
 [^63]: Clarence R. Wharton, *Texas Under Many Flags,* (Chicago and New York: The American Historical Society, Inc., 1930), 7
-[^64]: Nathan Covington Brooks, *A Complete History of the Mexican War, 1846-1848,* (Chicago: The Rio Grande Press Inc., 1965), 59; (156) Ivey, *The Texas Rangers,* 59
-[^65]: Florence Johnson Scott, *Old Rough and Ready on the Rio Grande,* 35; (559) Justin Harvey Smith, *The War with Mexico,* (New York: The MacMillian Company, 1919), 169
+[^64]: Nathan Covington Brooks, *A Complete History of the Mexican War, 1846-1848,* (Chicago: The Rio Grande Press Inc., 1965), 59; Ivey, *The Texas Rangers,* 59
+[^65]: Florence Johnson Scott, *Old Rough and Ready on the Rio Grande,* 35; Justin Harvey Smith, *The War with Mexico,* (New York: The MacMillian Company, 1919), 169
 [^66]: Greer, *Colonel Jack Hays,* 118
-[^67]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 59; (44) Webb, *The Texas Rangers,* 91   
+[^67]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 59; Webb, *The Texas Rangers,* 91   
 [^68]: Greer, *Colonel Jack Hays,* 126
 [^69]: Ivey, *The Texas Rangers,* 74
-[^70]: Capt. John C. Hays’ Company of Rangers on Northwestern and Southwestern Frontier (August 12, 1845), Republic of Texas Militia military rolls, Republic of Texas military rolls, Military rolls, Texas Adjutant General’s Department, ARIS-TSLAC; (44) Webb, *The Texas Rangers,* 91; (638) Greer, *Colonel Jack Hays,* 118
-[^71]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 64; (638) Greer, *Colonel Jack Hays,* 118
-[^72]: McDonald, *Jose Antonio Navarro,* 220; (635) Green, *Samuel Maverick, Texan,* 294; (193) De Shields, *Border Wars of Texas,* 365
-[^73]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 89; (156) Ivey, *The Texas Rangers,* 59
+[^70]: Capt. John C. Hays’ Company of Rangers on Northwestern and Southwestern Frontier (August 12, 1845), Republic of Texas Militia military rolls, Republic of Texas military rolls, Military rolls, Texas Adjutant General’s Department, ARIS-TSLAC; Webb, *The Texas Rangers,* 91; Greer, *Colonel Jack Hays,* 118
+[^71]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 64; Greer, *Colonel Jack Hays,* 118
+[^72]: McDonald, *Jose Antonio Navarro,* 220; Green, *Samuel Maverick, Texan,* 294; De Shields, *Border Wars of Texas,* 365
+[^73]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 89; Ivey, *The Texas Rangers,* 59
 [^74]: Greer, *Colonel Jack Hays,* 126
-[^75]: *Democratic Telegraph and Texas Register* (Houston), June 3 1846; (638) Greer, *Colonel Jack Hays,* 118, 126; (559) Smith, *The War with Mexico,* 526
-[^76]: Webb, *The Texas Rangers,* 94; (154) Brooks, *A Complete History of the Mexican War, 1846-1848,* 138
+[^75]: *Democratic Telegraph and Texas Register* (Houston), June 3 1846; Greer, *Colonel Jack Hays,* 118, 126; Smith, *The War with Mexico,* 526
+[^76]: Webb, *The Texas Rangers,* 94; Brooks, *A Complete History of the Mexican War, 1846-1848,* 138
 [^77]: Wharton, *Texas Under Many Flags,* 8
 [^78]: Greer, *Colonel Jack Hays,* 156
-[^79]: *The Texas Democrat* (Austin, Texas), May 6, 1846; (402) James Kimmins Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* (College Station, TX: Texas A&M University Press, 1993), 126
-[^80]: Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* 127; (404) Mike Cox, *The Texas Rangers, Vol. 1, Wearing the Cinco Peso, 1821-1900,* (New York: A Tom Doherty Associates Book, 2008), 104-5; 638, Greer, *Colonel Jack Hays,* 126
+[^79]: *The Texas Democrat* (Austin, Texas), May 6, 1846; James Kimmins Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* (College Station, TX: Texas A&M University Press, 1993), 126
+[^80]: Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* 127; Mike Cox, *The Texas Rangers, Vol. 1, Wearing the Cinco Peso, 1821-1900,* (New York: A Tom Doherty Associates Book, 2008), 104-5; Greer, *Colonel Jack Hays,* 126
 [^81]: Charles D Spurlin, Compiler,*Texas Veterans in the Mexican War,* (Victoria, TX: C.D. Spurlin, 1984), 26
 [^82]: Francis R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, No. 3, (September 1995),* 44; (148) Mexican War pension records, Thomas Rife File, Daughters of the Republic of Texas Library at the Alamo, San Antonio, Texas; (435) Thomas Rife’s Record, Early’s Company, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 1, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94
 [^83]: Dobie, *The Flavor of Texas,* 127  
@@ -250,14 +250,14 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^85]: Mrs. Viele, *Following the Drum: A Glimpse of Frontier Life,* (Austin: Steck-Vaughn Company, 1968), 228
 [^86]: Webb, *The Texas Rangers,* 94
 [^87]: Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* 127
-[^88]: Scott, *Old Rough and Ready on the Rio Grande,* 78; (559) Smith, *The War with Mexico,* 564
+[^88]: Scott, *Old Rough and Ready on the Rio Grande,* 78; Smith, *The War with Mexico,* 564
 [^89]: Smith, *The War with Mexico,* 583
 [^90]: Smith, *The War with Mexico,* 221
 [^91]: Smith, *The War with Mexico,* 235, 563
-[^92]: *San Antonio Light,* February 23, 1887; (435) Thomas Rife Record, Early’s Company, 1st Texas Mounted Rifles
+[^92]: *San Antonio Light,* February 23, 1887; Thomas Rife Record, Early’s Company, 1st Texas Mounted Rifles
 [^93]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 44
-[^94]: Thomas Rife Record, Early’s Company, 1st Texas Mounted Rifles; (76) Spurlin, *Texas Veterans in the Mexican War,* 23
-[^95]: Austin Genealogical Society, “Texas Volunteer Units in the Mexican War 1846-1848-Part 4, 1st Texas Mounted Rifles,” *Austin Genealogical Society Quarterly 20, No. 3,* (September 1979), 94; (89) Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 44
+[^94]: Thomas Rife Record, Early’s Company, 1st Texas Mounted Rifles; Spurlin, *Texas Veterans in the Mexican War,* 23
+[^95]: Austin Genealogical Society, “Texas Volunteer Units in the Mexican War 1846-1848-Part 4, 1st Texas Mounted Rifles,” *Austin Genealogical Society Quarterly 20, No. 3,* (September 1979), 94; Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 44
 [^96]: Samuel Ballowe, United States Eighth Census (1860), Brazoria, Texas, M653
 [^97]: Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* 32
 [^98]: Greer, *Colonel Jack Hays,* 128-9
@@ -265,43 +265,43 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^100]: Greer, *Texas Ranger, Jack Hays in the Frontier Southwest,* 33
 [^101]: Greer, *Colonel Jack Hays,* 129
 [^102]: Richardson, *Beyond the Mississippi,* 178
-[^103]: Webb, *The Texas Rangers,* 100; (638) Greer, *Colonel Jack Hays,* 137, 152
+[^103]: Webb, *The Texas Rangers,* 100; Greer, *Colonel Jack Hays,* 137, 152
 [^104]: Webb, *The Texas Rangers,* 98
 [^105]: Scott, *Old Rough and Ready on the Rio Grande,* 81, 164
 [^106]: Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque, NM: University of New Mexico Press, 2001), 222
-[^107]: James K. Greer, Editor, *Buck Barry Texas Ranger and Frontiersman,* (Lincoln, Nebraska: University of Nebraska Press, 1978), 33
+[^107]: James K. Greer, ed., *Buck Barry Texas Ranger and Frontiersman,* (Lincoln, NE: University of Nebraska Press, 1978), 33
 [^108]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 45
 [^109]: Greer, *Colonel Jack Hays,* 130
 [^110]: Scott, *Old Rough and Ready on the Rio Grande,* 82
 [^111]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 168
 [^112]: F. J. Dow & Co., Creator, *Complete History of the Late Mexican War by Eye-Witness,* (New York: F J Dow & Co, 1850), 169
-[^113]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; (434) Record of Events, 1st Texas Mounted Rifles; (436) Record of Events, Ballowe’s Company, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 1, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94
-[^114]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 172; (218) Scott, *Old Rough and Ready on the Rio Grande,* 82; (638) Greer, *Colonel Jack Hays,* 135
+[^113]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; Record of Events, 1st Texas Mounted Rifles; Record of Events, Ballowe’s Company, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 1, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94
+[^114]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 172; Scott, *Old Rough and Ready on the Rio Grande,* 82; (638) Greer, *Colonel Jack Hays,* 135
 [^115]: Samuel C. Reid Jr., *The Scouting Expeditions of McCulloch’s Texas Rangers or the Summer and Fall Campaign of the Army of the U.S.A. in Mexico-1846 etc.,* (Philadelphia: Pub G. B. Zieber and Co., 1847), 144
 [^116]: Greer, *Buck Barry Texas Ranger and Frontiersman,* 38
 [^117]: Reid Jr., *The Scouting Expeditions of McCulloch’s Texas Rangers,* 155
 [^118]: Greer, *Colonel Jack Hays,* 137
-[^119]: Reid Jr., *The Scouting Expeditions of McCulloch’s Texas Rangers,* 155; (638) Greer, *Colonel Jack Hays,* 138
+[^119]: Reid Jr., *The Scouting Expeditions of McCulloch’s Texas Rangers,* 155; Greer, *Colonel Jack Hays,* 138
 [^120]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 176
 [^121]: Greer, *Colonel Jack Hays,* 139
 [^122]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 182
 [^123]: Reid Jr., *The Scouting Expeditions of McCulloch’s Texas Rangers,* 181
-[^124]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 185; (638) Greer, *Colonel Jack Hays,* 143
-[^125]: Greer, *Buck Barry Texas Ranger and Frontiersman,* 37; (638) Greer, *Colonel Jack Hays,* 145
+[^124]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 185; Greer, *Colonel Jack Hays,* 143
+[^125]: Greer, *Buck Barry Texas Ranger and Frontiersman,* 37; Greer, *Colonel Jack Hays,* 145
 [^126]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 186
 [^127]: Dow, *Complete History of the Late Mexican War by Eye-Witness,* 41
-[^128]: Greer, *Buck Barry Texas Ranger and Frontiersman,* 38; (638) Greer, *Colonel Jack Hays,* 149
+[^128]: Greer, *Buck Barry Texas Ranger and Frontiersman,* 38; Greer, *Colonel Jack Hays,* 149
 [^129]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 189, 191
-[^130]: Webb, *The Texas Rangers,* 110; (80) Wharton, *Texas Under Many Flags,* 8; (156) Ivey, *The Texas Rangers,* 62
+[^130]: Webb, *The Texas Rangers,* 110; Wharton, *Texas Under Many Flags,* 8; (156) Ivey, *The Texas Rangers,* 62
 [^131]: Greer, *Colonel Jack Hays,* 153
-[^132]: Spurlin, *Texas Veterans in the Mexican War,* 25; (435) Thomas Rife’s Record, Early’s Company, 1st Texas Mounted Rifles
+[^132]: Spurlin, *Texas Veterans in the Mexican War,* 25; Thomas Rife’s Record, Early’s Company, 1st Texas Mounted Rifles
 [^133]: Thomas Rife Records, Ballowe’s Company, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 1, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94
 [^134]: James K. Holland, “Dairy of a Texan Volunteer in the Mexican War,” *Southwestern Historical Quarterly, Vol. 30,*  (July 1926): 33
 [^135]: Bryan, Jr., *More Zeal Than Discretion,* 59
-[^136]: Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Department of Veteran’s Affairs, RG 15; (89) Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45
-[^137]: Bryan, Jr.,*More Zeal Than Discretion,* 60; (156) Ivey, *The Texas Rangers,* 68; (76) Spurlin, *Texas Veterans in the Mexican War,* 151
-[^138]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; (439) Thomas Rife Record, Lane/Lewis’ Company, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 1, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94
-[^139]: Scott, Old Rough and Ready on the Rio Grande, 154  .
+[^136]: Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Department of Veteran’s Affairs, RG 15; Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45
+[^137]: Bryan, Jr.,*More Zeal Than Discretion,* 60; Ivey, *The Texas Rangers,* 68; (76) Spurlin, *Texas Veterans in the Mexican War,* 151
+[^138]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; Thomas Rife Record, Lane/Lewis’ Company, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 1, Records of the United States Army Adjutant General’s Office, 1780-1917, RG 94
+[^139]: Scott, *Old Rough and Ready on the Rio Grande,* 154  .
 [^140]: Webb, *The Texas Rangers,* 113
 [^141]: Ivey, *The Texas Rangers,* 63-4
 [^142]: Thomas Rife Record, Lane/Lewis’ Company, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 1, RG 94
@@ -312,44 +312,44 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^147]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas
 [^148]: Viele, *Following the Drum,* 209
 [^149]: Ivey, *The Texas Rangers,* 63
-[^150]: Bryan, Jr., *More Zeal Than Discretion,* 63-4; (473) Lane, *The Adventures and Recollections of General Walter P Lane,* 55
+[^150]: Bryan, Jr., *More Zeal Than Discretion,* 63-4; Lane, *The Adventures and Recollections of General Walter P Lane,* 55
 [^151]: Lane, *The Adventures and Recollections of General Walter P Lane,* 56
 [^152]: Bryan, Jr., *More Zeal Than Discretion*, 65
-[^153]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted [Rifles; (473) Lane, The Adventures and Recollections of General Walter P Lane, 57
+[^153]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted [Rifles; Lane, The Adventures and Recollections of General Walter P Lane, 57
 [^154]: Bryan, Jr., *More Zeal Than Discretion,* 66
-[^155]: Clayton Williams, *Never Again, Texas 1848-1861 Volume 3,* (San Antonio: The Naylor Co., 1969), 20-1; (638), Greer, *Colonel Jack Hays,* 237
+[^155]: Clayton Williams, *Never Again, Texas 1848-1861 Volume 3,* (San Antonio: The Naylor Co., 1969), 20-1; Greer, *Colonel Jack Hays,* 237
 [^156]: Lane, *The Adventures and Recollections of General Walter P Lane,* 59
 [^157]: Bryan, Jr.,*More Zeal Than Discretion,* 66
-[^158]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; (89) Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; (437) Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles; (438) W. P. Lane and G. K. Lewis Record, Chevallie’s Battalion, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 14
+[^158]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; (89) Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; (437) Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles; W. P. Lane and G. K. Lewis Record, Chevallie’s Battalion, 1st Texas Mounted Rifles, CMSR of Volunteer soldiers who served during the Mexican War in organizations from the State of Texas, 1845-1848, M278, Roll 14
 [^159]: Ivey, *The Texas Rangers,* 70
-[^160]: Wharton, *Texas Under Many Flags,* 13; (159) Oates, *Rip Ford’s Texas,* 61
-[^161]: Ivey, *The Texas Rangers,* 64; (44) Webb, *The Texas Rangers,* 114
+[^160]: Wharton, *Texas Under Many Flags,* 13; Oates, *Rip Ford’s Texas,* 61
+[^161]: Ivey, *The Texas Rangers,* 64; Webb, *The Texas Rangers,* 114
 [^162]: Ivey, *The Texas Rangers,* 71
-[^163]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles; (533) Bryan, Jr., *More Zeal Than Discretion,* 66-7
+[^163]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles; Bryan, Jr., *More Zeal Than Discretion,* 66-7
 [^164]: Utley, *Lone Star Justice,* 78
 [^165]: Bryan, Jr.,*More Zeal Than Discretion,* 67
-[^166]: Ivey, *The Texas Rangers,* 68; (438) W. P. Lane and G. K. Lewis Record, Chevallie’s Battalion, 1st Texas Mounted Rifles
+[^166]: Ivey, *The Texas Rangers,* 68; W. P. Lane and G. K. Lewis Record, Chevallie’s Battalion, 1st Texas Mounted Rifles
 [^167]: Spurlin, *Texas Veterans in the Mexican War,* 151
 [^168]: Webb, *The Texas Rangers,* 118
-[^169]: Wharton, *Texas Under Many Flags,* 13; (154) Brooks, *A Complete History of the Mexican War, 1846-1848,* 500
+[^169]: Wharton, *Texas Under Many Flags,* 13; Brooks, *A Complete History of the Mexican War, 1846-1848,* 500
 [^170]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles
 [^171]: Bryan, Jr.,*More Zeal Than Discretion,* 67-8
 [^172]: W. P. Lane and G. K. Lewis Record, Chevallie’s Battalion, 1st Texas Mounted Rifles
 [^173]: Webb, *The Texas Rangers,* 98, 110
 [^174]: Declaration of Survivor for Pension, Records of the Bureau of Pensions
-[^175]: *Democratic Telegraph and Texas Register* (Houston, Texas), December 30, 1847
+[^175]: *Democratic Telegraph and Texas Register* (Houston), December 30, 1847
 [^176]: Lane, *The Adventures and Recollections of General Walter P Lane,* 61- 2
-[^177]: *Democratic Telegraph and Texas Register* (Houston, Texas), December 30, 1847
+[^177]: *Democratic Telegraph and Texas Register* (Houston), December 30, 1847
 [^178]: Bryan, Jr., *More Zeal Than Discretion,* 70
 [^179]: Thomas Rife Record, Lane/Lewis’ Company, 1st Texas Mounted Rifles
 [^180]: Declaration of Survivor for Pension, Records of the Bureau of Pensions
-[^181]: Record of Events, 1st Texas Mounted Rifles; (451) The Northern Standard (Clarksville, Texas), February 12, 1848
+[^181]: Record of Events, 1st Texas Mounted Rifles; The Northern Standard (Clarksville, Texas), February 12, 1848
 [^182]: Bryan, Jr., *More Zeal Than Discretion,* 73
-[^183]: Webb, *The Texas Rangers,* 123; (156) Ivey, *The Texas Rangers,* 65
+[^183]: Webb, *The Texas Rangers,* 123; Ivey, *The Texas Rangers,* 65
 [^184]: Brooks, *A Complete History of the Mexican War, 1846-1848,* 523
 [^185]: Tamayo, *Geografia moderna de Mexico,* 160
 [^186]: Bryan, Jr., *More Zeal Than Discretion,* 71
-[^187]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; (89) Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; (438) W. P. Lane and G. K. Lewis Record, Chevallie’s Battalion, 1st Texas Mounted Rifles
+[^187]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 45; W. P. Lane and G. K. Lewis Record, Chevallie’s Battalion, 1st Texas Mounted Rifles
 [^188]: Record of Events, Chevallie’s Battalion, 1st Texas Mounted Rifles
 [^189]: Lane, *The Adventures and Recollections of General Walter P Lane,* 64
 [^190]: Lane, *The Adventures and Recollections of General Walter P Lane,* 66
@@ -357,10 +357,10 @@ On June 30, 1848, the army was disbanded at Camargo City[^198] and the men muste
 [^192]: Bryan, Jr., *More Zeal Than Discretion,* 73
 [^193]: *Galveston Daily News,* September 10, 1885
 [^194]: Bryan, Jr.,*More Zeal Than Discretion,* 176
-[^195]: Bryan, Jr., *More Zeal Than Discretion,* 73; (159) Oates, *Rip Ford’s Texas,* 262
+[^195]: Bryan, Jr., *More Zeal Than Discretion,* 73; Oates, *Rip Ford’s Texas,* 262
 [^196]: Lane, *The Adventures and Recollections of General Walter P Lane,* 69, 70
 [^197]: Lane, *The Adventures and Recollections of General Walter P Lane,* 72-3
-[^198]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 44; (569) Statement of Service, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Department of Veteran’s Affairs, RG 15
-[^199]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; (76) Spurlin, *Veterans in the Mexican War,* 151
+[^198]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 44; Statement of Service, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Department of Veteran’s Affairs, RG 15
+[^199]: Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas; Spurlin, *Veterans in the Mexican War,* 151
 [^200]: Bryan, Jr., *More Zeal Than Discretion,* 75
 [^201]: Lane, *The Adventures and Recollections of General Walter P Lane,* 74

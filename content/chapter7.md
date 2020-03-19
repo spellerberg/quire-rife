@@ -117,23 +117,23 @@ Freighters who hauled merchandise between San Antonio and the Rio Grande Valley 
 [^14]: Williams, *Texas’ Last Frontier*, 83
 [^15]: Raht, *Romance of Davis Mountains and Big Bend Country, A History*, 157
 [^16]: Albert D. Richardson, *Beyond the Mississippi: From the Great River to the Great Ocean, 1857-1867*, (American Publishing Company, Hartford, Conn 1867,) 228
-[^17]: Clayton W. Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895*, (College Station, TX: Texas A & M University Press, 1982), 68; *San Antonio Express*, (San Antonio, Tex.), October 15, 1867
+[^17]: Clayton W. Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895*, (College Station, TX: Texas A & M University Press, 1982), 68; *San Antonio Express*, October 15, 1867
 [^18]: Williams, *Texas’ Last Frontier*, 86
 [^19]: T. S. Dennis and Mrs. T. S. Dennis, *Life Of F. M. Buckelew, The Indian Captive As Related by Himself*, (Bandera, TX: Hunter’s Printing House, 1925), 78
 [^20]: Williams, *Texas’ Last Frontier*, 82
-[^21]: *San Antonio Express*, (San Antonio, Tex.), October 15, 1867
+[^21]: *San Antonio Express*, October 15, 1867
 [^22]: Austerman, *Sharps Rifles and Spanish Mules*, 211; *San Antonio Express*, (San Antonio, Tex.), October 21, 1867)
 [^23]: Williams, *Texas’ Last Frontier*, 90
 [^24]: Austerman, *Sharps Rifles and Spanish Mules*, 212
 [^25]: Williams, *Texas’ Last Frontier*, 104, 126
 [^26]: Austerman, *Sharps Rifles and Spanish Mules*, 213
 [^27]: Richardson, *Beyond the Mississippi*, 228
-[^28]: Thonhoff, San Antonio Stage Lines 1847-1881, fig. 30
+[^28]: Thonhoff, "San Antonio Stage Lines 1847-1881,"" fig. 30
 [^29]: Williams, *Texas’ Last Frontier*, 122; *San Antonio Express*, January 7, 1871
 [^30]: Austerman, *Sharps Rifles and Spanish Mules*, 273; Richardson, *Beyond the Mississippi*, 235
 [^31]: George Wythe Baylor, *Into the Far, Wild Country: True Tales of the Old Southwest*, (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 305
 [^32]: Austerman, *Sharps Rifles and Spanish Mules*, 14
-[^33]: Evelyn M. Carrington, editor, *Women in Early Texas*, (Austin: Jenkins Publishing Company, 1975), 68-9; James L. Rock and W. I. Smith, *Southern & Western Texas Guide for 1878*, (St. Louis, MO: A. H. Granger Publishers, 1878), 341-3
+[^33]: Evelyn M. Carrington, ed., *Women in Early Texas*, (Austin: Jenkins Publishing Company, 1975), 68-9; James L. Rock and W. I. Smith, *Southern & Western Texas Guide for 1878*, (St. Louis: A. H. Granger Publishers, 1878), 341-3
 [^34]: Vinton Lee James, *Frontier and Pioneer Recollections: Recollections of the Early Days in San Antonio and West Texas*, (San Antonio: Artes Graficas, 1938), 81
 [^35]: George G. Smith, *The Life and Times of George Foster Pierce, D.D., LL.D.*, (Sparta, GA: Hancock Publishing Co., 1888), 381
 [^36]: Thonhoff, *San Antonio Stage Lines 1847-1881*, fig. 25
@@ -142,10 +142,10 @@ Freighters who hauled merchandise between San Antonio and the Rio Grande Valley 
 [^39]: Richardson, *Beyond the Mississippi*, 234
 [^40]: Williams, *Texas’ Last Frontier*, 97
 [^41]: Richardson, *Beyond the Mississippi*, 233
-[^42]: Williams, *Texas’ Last Frontier*, 126; August Santleben, *A Texas Pioneer(), (New York and Washington: The Neale Publishing Co,* 1910), 145
+[^42]: Williams, *Texas’ Last Frontier*, 126; August Santleben, *A Texas Pioneer,* (New York and Washington: The Neale Publishing Co, 1910), 145
 [^43]: Thonhoff, *San Antonio Stage Lines 1847-1881*, fig. 30; Nunn, *Texas Under The Carpetbaggers*, 157
 [^44]: Thomas Rife Record, 36th Texas Cavalry Regiment, Compiled Service Records of Confederate Soldiers Who Served in Organizations from the State of Texas, M323, Roll 175, Records of Confederate Soldiers Who Served During the Civil War, RG109, National Archives and Records Administration
-[^45]: Florence Johnson Scott, *Old Rough and Ready on the Rio Grande*, (Waco, TX: Texian Press, 1969), 175; United States War Department, The War of the Rebellion: a compilation of the official records of the Union and Confederate armies, Series 1-Volume1: 578-80
+[^45]: Florence Johnson Scott, *Old Rough and Ready on the Rio Grande*, (Waco, TX: Texian Press, 1969), 175; United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1: 578-80
 [^46]: David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas*, (Denton, TX: Texas State Historical Association, 2010), 258
 [^47]: Richter, *The Army in Texas During Reconstruction*, 99; Nunn, *Texas Under The Carpetbaggers*, 21
 [^48]: Richter, *The Army in Texas During Reconstruction*, 185; McDonald, *Jose Antonio Navarro*, 261-2
@@ -184,7 +184,7 @@ Freighters who hauled merchandise between San Antonio and the Rio Grande Valley 
 [^81]: Eligibility for Public Office, Texas Constitution, Election Code, Title 9, Chapter 141, Subchapter A; Nunn, *Texas Under The Carpetbaggers*, 17
 [^82]: Nunn, *Texas Under The Carpetbaggers*, 26
 [^83]: Montejano, *Anglos and Mexicans in the Making of Texas*, 94
-[^84]: William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History*, (1890, repr. (San Antonio, TX: Graphics Arts, 1977), 166; Montejano, *Anglos and Mexicans in the Making of Texas*, 92-4
+[^84]: William Corner, comp. and ed., *San Antonio De Bexar: A Guide and History*, (1890, repr. (San Antonio, TX: Graphics Arts, 1977), 166; Montejano, *Anglos and Mexicans in the Making of Texas*, 92-4
 [^85]: Corner, *San Antonio De Bexar: A Guide and History*, 133
 [^86]: *San Antonio Express*, May 28,1939
 

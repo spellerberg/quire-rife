@@ -291,29 +291,29 @@ Hundreds of men who could not or would not sign the oath fled to Mexico and poin
 
 [^1]: Citizens of Bexar County to convene the legislature, Records of the Legislature: Constitutional Conventions, Secession Convention 1861, Memorials and Petitions (March 1861), Archives and Information Services-Texas State Library and Archives Commission
 [^2]: Records of the Legislature: Constitutional Conventions, Secession Convention 1861 (March 1861), ARIS-TSLAC
-[^3]: Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque, NM: University of New Mexico Press, 2001), 181; Mark Swanson, *Atlas of the Civil War Month by Month: Major Battles and Troop Movements,* (Athens & London: The University of Georgia Press, 2004), 10
+[^3]: Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque: University of New Mexico Press, 2001), 181; Mark Swanson, *Atlas of the Civil War Month by Month: Major Battles and Troop Movements,* (Athens & London: The University of Georgia Press, 2004), 10
 [^4]: Clarence R. Wharton, *Texas Under Many Flags,* (Chicago and New York: The American Historical Society, Inc., 1930), 85; Noah Smithwick, *The Evolution of a State or Recollections of Old Texas Days,* (Austin: Gammel Books Co., 1900), 331
 [^5]: Records of the Legislature: Constitutional Conventions, Secession Convention 1861 (March 1861), ARIS-TSLAC
 [^6]: J. W. Magoffin to EC (April 28, 1861), Records of Edward Clark, Texas Office of the Governor, ARIS-TSLAC
 [^7]: Wharton, *Texas Under Many Flags,* 89; Jerry Thompson, *From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick,* (El Paso: The University of Texas at El Paso, 1991), 6
 [^8]: David P. Smith, *Frontier Defense in Texas: 1861-1865,* (Denton, TX: North Texas State University, 1987), 55-7; Mrs. S. J. Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* (Austin: Morgan Printing, 1916), 89
-[^9]: Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War,* p. 182
+[^9]: Jerry Thompson, ed., *Texas and New Mexico on the Eve of the Civil War,* 182
 [^10]: Records of the Legislature: Constitutional Conventions, Secession Convention 1861 (March 1861), ARIS-TSLAC
 [^11]: Wharton, *Texas Under Many Flags,* 87
 [^12]: Wright, *San Antonio de Bexar,* 105
 [^13]: Records of the Legislature: Constitutional Conventions, Secession Convention 1961, ARIS-TSLAC
-[^14]: Clayton W. Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895,* (College Station, TX: Texas A&M University Press, 1982), 8; *The Daily Ledger and Texan* (San Antonio, Texas), April 2, 1861
-[^15]: Williams, *Texas’ Last Frontier,* 8-9; Clement A Evans, editor, *Confederate Military History,* (Thomas Yoseloff, New York, 1962,) Vol. XI: 46; United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate Armies,* (Washington, DC: Government Printing Office), Series 1-Volume 1: 627
+[^14]: Clayton W. Williams, *Texas’ Last Frontier: Fort Stockton and the Trans-Pecos, 1861-1895,* (College Station, TX: Texas A&M University Press, 1982), 8; *The Daily Ledger and Texan* (San Antonio), April 2, 1861
+[^15]: Williams, *Texas’ Last Frontier,* 8-9; Clement A Evans, ed., *Confederate Military History,* (Thomas Yoseloff, New York, 1962,) Vol. XI: 46; United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate Armies,* (Washington, DC: Government Printing Office), Series 1-Volume 1: 627
 [^16]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183; Mark Swanson, *Atlas of the Civil War Month by Month,* 14
 [^17]: Williams, *Texas’ Last Frontier,* 7
 [^18]: Thompson, *From Desert to Bayou,* 105, note 31; Wayne R. Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881,* (College Station, TX: Texas A & M University Press, 1985), 164
-[^19] United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 567-70
+[^19] United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1: 567-70
 [^20]: Thompson, *From Desert to Bayou,* 105
 [^21]: Swanson, *Atlas of the Civil War Month by Month,* 14
-[^22]: United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4; United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 567-70; United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 572-3
+[^22]: United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4; United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1: 567-70; United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1: 572-3
 [^23]: Frank S. Faulkner, Jr., *Historic Photos of San Antonio,* (Nashville and Paducah, KY: Turner Publishing Company, 2007), 15; Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183; Williams, *Texas’ Last Frontier,* 8
-[^24]: Williams, *Texas’ Last Frontier,* 43; Thompson, *From Desert to Bayou,* 11; (555, p. 105) Wright, *San Antonio de Bexar,* 105
-[^25]: Marsha Lea Daggett, Editor, *Pecos County History,* (Fort Stockton, TX: Pecos County Historical Commission, 1973-1983), 45
+[^24]: Williams, *Texas’ Last Frontier,* 43; Thompson, *From Desert to Bayou,* 11; Wright, *San Antonio de Bexar,* 105
+[^25]: Marsha Lea Daggett, ed., *Pecos County History,* (Fort Stockton, TX: Pecos County Historical Commission, 1973-1983), 45
 [^26]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 183
 [^27]: Williams, *Texas’ Last Frontier,* 8
 [^28]: Smith, *Frontier Defense in Texas,* 61; J. W. Magoffin to EC (April 28, 1861), Records of Edward Clark, Texas Office of the Governor. ARIS-TSLAC.
@@ -332,10 +332,10 @@ Hundreds of men who could not or would not sign the oath fled to Mexico and poin
 [^41]: Thompson, *From Desert to Bayou,* 23
 [^42]: Wayne R Austerman, “The San Antonio-El Paso Mail, CSA,” *West Texas Historical Association Year Book,* Vol. 58 (1980): 86
 [^43]: *The Daily Ledger and Texan*, May 8,1861
-[^44]: Smith, *Frontier Defense in Texas,* 106; United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1, 573-4
+[^44]: Smith, *Frontier Defense in Texas,* 106; United States War Department, *The War of the Rebellion: a compilation of the official records of the Union and Confederate armies,* Series 1-Volume 1: 573-4
 [^45]: Martin Hardwick Hall, *The Confederate Army of New Mexico,* (Austin: Presidial Press, 1978), 19
 [^46]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 15; Thompson, *From Desert to Bayou,* 24
-[^47]: Hammons,* A History of El Paso County, Texas, to 1900,* 43; Albert D Richardson, *Beyond the Mississippi: From the Great River to the Great Ocean, 1857-1867,* (American Publishing Company, Hartford, Conn 1867), 238
+[^47]: Hammons, *A History of El Paso County, Texas, to 1900,* 43; Albert D Richardson, *Beyond the Mississippi: From the Great River to the Great Ocean, 1857-1867,* (American Publishing Company, Hartford, Conn 1867), 238
 [^48]: Hammons, *A History of El Paso County, Texas, to 1900,* 46; Wayne R Austerman, “The San Antonio-El Paso Mail, CSA,” 86
 [^49]: Williams, *Texas’ Last Frontier,* 18
 [^50]: Hall, *The Confederate Army of New Mexico,* 21
@@ -349,19 +349,19 @@ Hundreds of men who could not or would not sign the oath fled to Mexico and poin
 [^58]: *The San Antonio Light,* February 23, 1887
 [^59]: Thompson, *From Desert to Bayou,* 19, 23
 [^60]: Kathryn Smith McMilllen, “A descriptive bibliography on the San Antonio-San Diego Mail Line,” *The Southwestern Historical Quarterly 59, No. 2,* (October 1955), 206-14; Austerman, “The San Antonio-El Paso Mail, CSA,” 85
-[^61]: Wayne R. Austerman, San Antonio-El Paso Mail by, *Handbook of Texas Online,* http://www.tshaonline.org/handbook/online/articles/eus01, accessed November 21, 2010
+[^61]: Wayne R. Austerman, "San Antonio-El Paso Mail,"" *Handbook of Texas Online,* http://www.tshaonline.org/handbook/online/articles/eus01, accessed November 21, 2010
 [^62]: Austerman, “The San Antonio-El Paso Mail, CSA,” 95
 [^63]: George Wythe Baylor, *Into the Far, Wild Country: True Tales of the Old Southwest,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 186; Hall, *The Confederate Army of New Mexico,* 21
-[^64]: Hammons, (A History of El Paso County, Texas, to 1900,* 48; Hall, *The Confederate Army of New Mexico,* 23
+[^64]: Hammons, *A History of El Paso County, Texas, to 1900,* 48; Hall, *The Confederate Army of New Mexico,* 23
 [^65]: Evans, *Confederate Military History,* Vol. XI, 55
-[^66]: Jay Wertz and Edwin C. Bearss, *Smithsonian’s Great Battles and Battlefields of the Civil War,* (New York: William Morrow and Company, Inc, 1997), 87; Jerry Thompson, Editor, *Civil War in the Southwest: Recollections of the Sibley Brigade,* (College Station, TX: Texas A&M University Press, 2001), 52
+[^66]: Jay Wertz and Edwin C. Bearss, *Smithsonian’s Great Battles and Battlefields of the Civil War,* (New York: William Morrow and Company, Inc, 1997), 87; Jerry Thompson, ed., *Civil War in the Southwest: Recollections of the Sibley Brigade,* (College Station, TX: Texas A&M University Press, 2001), 52
 [^67]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 89
 [^68]: Hall, *The Confederate Army of New Mexico,* 31; Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 89
 [^69]: Thompson, *Civil War in the Southwest,* xiv
 [^70]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 92
 [^71]: Thompson, *Civil War in the Southwest,* 85
 [^72]: Thompson, *Civil War in the Southwest,* xviii; Hall, *The Confederate Army of New Mexico,* 32
-[^73]: Hammons,*A History of El Paso County, Texas, to 1900,* 48
+[^73]: Hammons, *A History of El Paso County, Texas, to 1900,* 48
 [^74]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 94
 [^75]: Hall, *The Confederate Army of New Mexico,* 33
 [^76]: Thompson, *Civil War in the Southwest,* xix, 119
@@ -380,13 +380,13 @@ Hundreds of men who could not or would not sign the oath fled to Mexico and poin
 [^89]: Austerman, “The San Antonio-El Paso Mail, CSA,” 95
 [^90]: Williams, *Texas’ Last Frontier,* 49
 [^91]: Austerman, “The San Antonio-El Paso Mail, CSA,” 95
-[^92]: Stephen B. Oates, Editor, *Rip Ford’s Texas by John Salmon Ford,* (Austin: University of Texas Press, 1963), 349; Jackson, *The Rising and Setting of the Lone Star Republic,* 156
+[^92]: Stephen B. Oates, ed., *Rip Ford’s Texas by John Salmon Ford,* (Austin: University of Texas Press, 1963), 349; Jackson, *The Rising and Setting of the Lone Star Republic,* 156
 [^93]: William L. Richter, *The Army in Texas During Reconstruction: 1865-1870,* (College Station, TX: Texas A&M University Press, 1987), 13
 [^94]: Wertz, *Smithsonian’s Great Battles and Battlefields of the Civil War,* 84
 [^95]: Jerry D. Thompson, “Drama the Desert: The Hunt for Henry Skillman in the Trans-Pecos, 1862-1864”, *Password 37,* (Fall 1992): 110
 [^96]: Douglas B. Ball, *Financial Failure and Confederate Defeat,* (Urbana and Chicago: University of Illinois Press, 1991), 93; William L. Shea and Terrence J. Winschel, *Vicksburg Is the Key: The Struggle for the Mississippi River,* (Lincoln and London: University of Nebraska Press, 2003), 12, 39
-[^97]: Earl Schenck Miers, *The Web of Victory: Grant at Vicksburg,* (New York: Alfred A. Knopf, 1955),118; Shea, Vicksburg Is the Key, 60
-[^98]: Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton, Ohio: Morningside House, 1985), Vol. 1: 479
+[^97]: Earl Schenck Miers, *The Web of Victory: Grant at Vicksburg,* (New York: Alfred A. Knopf, 1955),118; Shea, *Vicksburg Is the Key,* 60
+[^98]: Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* (Dayton, OH: Morningside House, 1985), Vol. 1: 479
 [^99]: Edwin Cole Bearss, *The Campaign for Vicksburg: Vicksburg is the Key,* Vol. 1: 479
 [^100]: Wharton, *Texas Under Many Flags,* 90; Alex Sweet and J. A. Knox, *On a Mexican Mustang through Texas from the Gulf to the Rio Grande,* (Hartford, Conn: SS Scranton & Co, 1883), 590
 [^101]: Evans, *Confederate Military History,* Vol. XI: 65, 131
@@ -449,11 +449,11 @@ Hundreds of men who could not or would not sign the oath fled to Mexico and poin
 [^158]: Affidavit of Witness, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15
 [^159]: Samuel Lyte’s Record, 36th Texas Cavalry Regiment, M323, Roll 174, , RG 109, NARA
 [^160]: Thirty-Sixth Texas Cavalry; Woods, Peter Cavanaugh, *Handbook of Texas Online,* www.tshaonline.org/handbook/online/articles, accessed December 22, 2013
-[^161]: Janet B. Hewett, Editor, *The Roster of Confederate Soldiers, 1861-1865,* (Wilmington, NC: Broadfoot Publishing Company, 1996), Vol. XIII: 168
+[^161]: Janet B. Hewett, ed., *The Roster of Confederate Soldiers, 1861-1865,* (Wilmington, NC: Broadfoot Publishing Company, 1996), Vol. XIII: 168
 [^162]: Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
 [^163]: Thomas Rife Record, 36th Texas Cavalry Regiment
 [^164]: Austerman, *Sharps Rifles and Spanish Mules,* 180
-[^165]: William W. Mills, *Forty Years at El Paso, 1858-1898, Recollections of War, Politics, Adventure, Events, Narratives, Sketches, Etc.,* (El Paso, Texas, C. Hertzog, 1962), 39
+[^165]: William W. Mills, *Forty Years at El Paso, 1858-1898, Recollections of War, Politics, Adventure, Events, Narratives, Sketches, Etc.,* (El Paso, C. Hertzog, 1962), 39
 [^166]: Jack C. Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 1850-1861,” *West Texas Historical Association Year Book 47,* (1971), 121; *The Charleston Mercury* (Charleston, SC), January 16, 1862
 [^167]: Austerman, “The San Antonio-El Paso Mail, CSA,” 97
 [^168]: Hammons, *A History of El Paso County, Texas, to 1900,* 49,87
@@ -462,26 +462,26 @@ Hundreds of men who could not or would not sign the oath fled to Mexico and poin
 [^171]: *The Rocky Mountain News* (Denver, Co.), May 18, 1864
 [^172]: Austerman, “The San Antonio-El Paso Mail, CSA,” 97
 [^173]: Austerman, “The San Antonio-El Paso Mail, CSA,” 95
-[^174]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vols. 15, 605
+[^174]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vols: 15, 605
 [^175]: Thompson, “Drama in the Desert,” 111
-[^176]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vols. 15, 607		
+[^176]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vols: 15, 607		
 [^177]: Thompson, “Drama in the Desert,” 110
-[^178]: Thompson, “Drama the Desert,” 111; United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 607
-[^179]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 377
-[^180]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 15, 426
+[^178]: Thompson, “Drama the Desert,” 111; United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol: 15, 607
+[^179]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol: 15, 377
+[^180]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol: 15, 426
 [^181]: Thompson, “Drama in the Desert,” 113
 [^182]: Letter from Col. Joseph West (USA) to Henry Skillman, Unfiled  Papers and Slips Belonging in Confederate Service Records, M347, Roll 364, RG 109
-[^183]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol. 15, 426
+[^183]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1 Vol: 15, 426
 [^184]: Alexander Edwin Sweet, *Alex Sweet’s Texas: The Lighter Side of Lone Star History,* (Austin: University of Texas Press, 1986), 88
-[^185]: William L. Richter, The Army in Texas During Reconstruction, 1865-1870, (College Station, Texas, Texas A&M University Press, 1987), 24; Farber, Texas, C,S.A., 210
-[^186]: Richter, *The Army in Texas During Reconstruction,* 12; Farber, Texas, C.S.A., 114
-[^187]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 50, 62
+[^185]: William L. Richter, The Army in Texas During Reconstruction, 1865-1870, (College Station, Texas, Texas A&M University Press, 1987), 24; Farber, *Texas, C,S.A.,* 210
+[^186]: Richter, *The Army in Texas During Reconstruction,* 12; Farber, *Texas, C.S.A.,* 114
+[^187]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol: 50, 62
 [^188]: Wharton, *Texas Under Many Flags,* 95
 [^189]: Thomas Rife Record, 36th Texas Cavalry Regiment
 [^190]: Evans, *Confederate Military History,* Vol. XI, 120; Wharton, *Texas Under Many Flags,* 96
 [^191]: Evans, *Confederate Military History,* Vol. XI: 120
 [^192]: Evans, *Confederate Military History,* Vol. XI: 119
-[^193]: Farber, Texas, C.S.A., 250
+[^193]: Farber, *Texas, C.S.A.,* 250
 [^194]: Evans, *Confederate Military History,* Vol. XI: 65
 [^195]: Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
 [^196]: Farber, *Texas, C.S.A.,* 204
@@ -491,20 +491,20 @@ Hundreds of men who could not or would not sign the oath fled to Mexico and poin
 [^200]: Oates, *Rip Ford’s Texas by John Salmon Ford,* 342; August Santleben, *A Texas Pioneer,* (New York and Washington: The Neale Publishing Co, 1910), 22
 [^201]: Thomas Rife Record, 36th Texas Cavalry Regiment
 [^202]: Letter from Andrew G. Dickinson, Compiled Service Records of Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, Roll 75, RG 109, NARA
-[^203]: Journal of Arizona History, Vol. 33, No. 1, Spring 1992, 57
+[^203]: "Journal of Arizona History,"" Vol: 33, No. 1, Spring 1992, 57
 [^204]: Letter, to Col A G Dickinson, November 17, 1863, Combined Service Records Confederate General and Staff Officers, and Nonregimental Enlisted Men, M331, RG 109, NARA
 [^205]: United States War Department, Records of Confederate Soldiers who served during the Civil War, RG 109, Confederate Papers Relating to Citizens or Business Firms, 1861-65, M346, roll 941
 [^206]: Thompson, “Drama the Desert,” 109; United States War Department, The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies, Series 1 Vol. 15: 1033
 [^207]: Thomas Rife Record, 36th Texas Cavalry Regiment
 [^208]: Thomas Rife Record, 36th Texas Cavalry Regiment
 [^209]: Thomas Rife Record, 36th Texas Cavalry Regiment
-[^210]: San Antonio to El Paso Route, Map # 1004J, *Map Collection,* ARIS-TSLAC    
-[^211]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 15: 1033
+[^210]: "San Antonio to El Paso Route, Map  1004J,"" *Map Collection,* ARIS-TSLAC    
+[^211]: United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol: 15: 1033
 [^212]: Carlysle Graham Raht, *The Romance of Davis Mountains and Big Bend Country: A History,* (El Paso: The Rahtbooks Company, 1919), 151
 [^213]: Report of Capt. A.H. French to Brig. Gen. James H. Carleton, May 5,1864 Commander, Entry 3165, Letters Received, File 18F 1864, Records of the United States Army Continental Command, 1821-1920, RG 393, NARA
-[^214]: Roy L. Swift and Leavitt Corning Jr., *Three Roads to Chihuahua: The Great Wagon Roads that Opened the Southwest, 1823-1883,* (Austin: Eakin Press, 1988), 199-201; United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol. 34: 880
+[^214]: Roy L. Swift and Leavitt Corning Jr., *Three Roads to Chihuahua: The Great Wagon Roads that Opened the Southwest, 1823-1883,* (Austin: Eakin Press, 1988), 199-201; United States War Department, *The War of the Rebellion: a Compilation of the official Records of the Union and Confederate Armies,* Series 1, Vol: 34: 880
 [^215]: Capt. A.H. French to Brig. Gen. James H. Carleton, May 5,1864
-[^216]: The San Antonio Light, February 23, 1887
+[^216]: *The San Antonio Light,* February 23, 1887
 [^217]: *San Antonio Express,* August 11, 1881
 [^218]: Swift and Leavitt Corning Jr., *Three Roads to Chihuahua,* 356, note 60
 [^219]: Richter, *The Army in Texas During Reconstruction,* 13

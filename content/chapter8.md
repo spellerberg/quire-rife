@@ -138,12 +138,12 @@ In 1893 or 1894 Rife’s family moved again to a house at 1224 Cameron Street, a
 Rife did not recover and died[^117] at his home on Cameron Street on December 27, 1894.[^118] He had been ill for two months and died of “general debility.”[^119] The funeral was held on the following day at 10 o’clock am, as was customary.[^120] The funeral Mass was held at the San Fernando Cathedral and Rife was buried in San Antonio,[^121] almost certainly at the cemetery now called San Fernando, Number 1.[^122] “Father had such a poor funeral we had no money,” wrote daughter Annie to her sister Mary three days later.[^123] This must explain why there is no headstone today. Iron headstones were popular in the late 19th century but many were sold during the period when scrap iron was being collected for the war effort during World War II.
 
 
-[^1]: Frances R. Condra, “E. I. Coyle & Trouble at the Alamo”, *Our Heritage 34, No. 2, (Winter 1992-1993),* 21; Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, No. 3, (September 1995),* 46; Mexican War Pension Records, Thomas Rife file at Daughters of the Republic of Texas Library, Alamo, San Antonio, Texas.
-[^2]: Mexican War Pension Records, Thomas Rife file at DRT Library.
+[^1]: Frances R. Condra, “E. I. Coyle & Trouble at the Alamo”, *Our Heritage 34, No. 2, (Winter 1992-1993),* 21; Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, No. 3, (September 1995),* 46; Mexican War Pension Records, Thomas Rife file, Daughters of the Republic of Texas Library, Alamo, San Antonio.
+[^2]: Mexican War Pension Records, Thomas Rife file, DRT Library.
 [^3]: Witness’s Affidavits, Widow’s Application, U.S. Department of Veteran’s Affairs, Records of the Bureau of Pensions, Mexican War Pension Applications Files, 1887-1926, RG 15, National Archives and Records Administration
 [^4]: Colonel Nathaniel Alston Taylor, *The Coming Empire or Two Thousand Mile on Horseback* (Dallas, Turner Company, 1936), 97-9; Donald E. Everett, *San Antonio: The Flavor of it’s Past, 1845-1898,* (San Antonio: Trinity University Press, 1975), 3
 [^5]: Ophia D. Smith, “A Trip to Texas in 1855,” *Southwest Historical Quarterly, July 1955,* 36
-[^6]: “Fort Clark and the Rio Grande Frontier,” *Texas Beyond History*; *UT @ Austin College of Liberal Arts, www.texasbeyondhistory.net/forts/clark:accessed Dec 14, 2012*
+[^6]: “Fort Clark and the Rio Grande Frontier,” *Texas Beyond History*;* UT @ Austin College of Liberal Arts, www.texasbeyondhistory.net/forts/clark:accessed Dec 14, 2012
 [^7]: W.C. Nunn, *Texas Under the Carpetbaggers,* (Austin: University of Texas, 1962), 167
 [^8]: Charles Ramsdell, San Antonio: *A Historical and Pictorial Guide,* (Austin: University of Texas Press, 1959); James *Frontier and Pioneer Recollections,* 93
 [^9]: Taylor, *The Coming Empire or Two Thousand Mile on Horseback,* 97-9; Ramsdell, San Antonio, 48
@@ -156,32 +156,32 @@ Rife did not recover and died[^117] at his home on Cameron Street on December 27
 [^16]: Martin Hardwick Hall, *The Confederate Army in New Mexico,* (Austin: Presidial Press, 1978), 313
 [^17]: Shiffrin, *Echoes from Women of the Alamo,* 71
 [^18]: Anonymous, *Biographical and Historical Memoirs of Mississippi,* (Chicago: Goodspeed Brothers Publishing, 1891), 681
-[^19]: Baptismal Records, San Fernando, Vol. 7/8, p. 536, entry 3888, Chancery Archives, Archdiocese of San Antonio.
+[^19]: Baptismal Records, San Fernando, Vol: 7/8, p. 536, entry 3888, Chancery Archives, Archdiocese of San Antonio.
 [^20]: *San Antonio Express,* July 14, 1890.
 [^21]: *San Antonio Express,* August 16, 1883.
-[^22]: Mary H. Oglivie, “Neraz, Jean Claude,” *Handbook of Texas Online,” (www.tshaonline.org/handbook/online/articles/fne16), accessed March 05, 2011.*
-[^23]: Baptismal Records, San Fernando, Vol. 9, p. 26, entry 189
+[^22]: Mary H. Oglivie, “Neraz, Jean Claude,” *Handbook of Texas Online,* (www.tshaonline.org/handbook/online/articles/fne16), accessed March 05, 2011.
+[^23]: Baptismal Records, San Fernando, Vol: 9, p. 26, entry 189
 [^24]: Mary Jane Rife, Certificate of Death, Texas Department of Health, Bureau of Vital Statistics
-[^25]: Baptismal Records, San Fernando, Vol. 9, p. 155, entry 1414
+[^25]: Baptismal Records, San Fernando, Vol: 9, p. 155, entry 1414
 [^26]: Thomas Rife, United States Tenth Census (1880), T9. San Antonio, Bexar, Texas, 26; (1470) Death Records, 1875-1879, Municipal Archives and Records, San Antonio
 [^27]: Burial Records, San Fernando, p. 23, Chancery Archives, Archdiocese of San Antonio
-[^28]: Baptismal Records, San Fernando, Vol. 9, p. 155, entry 1414
+[^28]: Baptismal Records, San Fernando, Vol. 9: p. 155, entry 1414
 [^29]: *San Antonio Daily Express,* March 20, 1877
 [^30]: *San Antonio Daily Express,* June 30, 1877
 [^31]: Letter from J.C. Burrus to Mary Jane Burr, February 15, 1909, original owned by Susan Majewski
-[^32]: *San Antonio Express,* October 18, 1936; San Antonio Daily Express, July 17, 1877
-[^33]: Baptismal Records, San Fernando, Vol. 9, p. 144, entry 1304
+[^32]: *San Antonio Express,* October 18, 1936; *San Antonio Daily Express,* July 17, 1877
+[^33]: Baptismal Records, San Fernando, Vol: 9, p. 144, entry 1304
 [^34]: *Morrison & Fourmy’s General Directory of the City of San Antonio for 1879,* 144
 [^35]: *San Antonio Daily Express,* March 1, 1879
-[^36]: "History of the San Antonio Police Department, Police Department, City of San Antonio, TX,"" *(http://www.sanantonio.gov/SAPD/History.aspx) accessed Nov. 14, 2012* ; San Antonio City Council Minutes, 1870-79, Book D, 210
+[^36]: "History of the San Antonio Police Department, Police Department, City of San Antonio, TX," (http://www.sanantonio.gov/SAPD/History.aspx) accessed Nov. 14, 2012 ; San Antonio City Council Minutes, 1870-79, Book D, 210
 [^37]: "History of the San Antonio Police Department"
-[^38]: Baptismal Records, San Fernando, Vol. 9, p. 228, entry 2136; *Morrison & Fourmy’s General Directory of the City of San Antonio for 1879,* 212
+[^38]: Baptismal Records, San Fernando, Vol: 9, p. 228, entry 2136; *Morrison & Fourmy’s General Directory of the City of San Antonio for 1879,* 212
 [^39]: *San Antonio Express,* May 23, 1893
-[^40]: Charles Merritt Barnes, *Combats and Conquests of Immortal Heroes,* San Antonio: Guessaz & Ferlet Company, 1910), 245; "History of the San Antonio Police Department*; Sanborn Fire Insurance Map, 1885, sheet 2, Texas 1877-1922, (http://www.libutexas.edu/maps/sanborn/san_antonio_1885) accessed Nov 12, 2012.
+[^40]: Charles Merritt Barnes, *Combats and Conquests of Immortal Heroes,* San Antonio: Guessaz & Ferlet Company, 1910), 245; "History of the San Antonio Police Department"; Sanborn Fire Insurance Map, 1885, sheet 2, Texas 1877-1922, (http://www.libutexas.edu/maps/sanborn/san_antonio_1885) accessed Nov 12, 2012.
 [^41]: Ramsdell, *San Antonio,* 108
 [^42]: Robert S. Weddle and Robert H. Thonhoff, *Drama & Conflict: the Texas Saga of 1776,* (Austin: Madrona Press, Inc., 1976), 103
 [^43]: James, *Frontier and Pioneer Recollections,* 42
-[^44]: Thomas C. Rife, Application for Confederate Scrip Voucher 718, Texas General Land Office, Austin, TX; Confederate Scrip, Bexar County, Texas, Certificate # 718, GLO
+[^44]: Thomas C. Rife, Application for Confederate Scrip Voucher 718, Texas General Land Office, Austin, TX; Confederate Scrip, Bexar County, Texas, Certificate  718, GLO
 [^45]: Thomas L. Miller, “Texas Land Grants to Texas Veterans,” *Southwestern Historical Quarterly, July 1965,* 63
 [^46]: Miller, “Texas Land Grants to Texas Veterans,” 61
 [^47]: Nunn, *Texas Under the Carpetbaggers,* 14; Notarized Bill of Sale for Confederate Scrip, Number 718, Bexar County, Texas, file 40913
@@ -190,13 +190,13 @@ Rife did not recover and died[^117] at his home on Cameron Street on December 27
 [^50]: Steven B. Oates, ed. *John Salmon Ford, Rip Ford’s Texas,* (Austin: University of Texas Press, 1963), xliv
 [^51]: *Fort Worth Daily Gazette,* November 4, 1887
 [^52]: *San Antonio Daily Light,* August 28, 1891
-[^53]: Baptismal Records, San Fernando, Vol. 9, p. 258, entry 2454
+[^53]: Baptismal Records, San Fernando, Vol: 9, p. 258, entry 2454
 [^54]: United States Twelfth Census (1900), San Antonio, Bexar, Texas, Roll 1611
 [^55]: Fred Rife, Certificate of Death, Texas State Department of Health-Bureau of Vital Statistics, March 13, 1913
 [^56]: *Morrison & Fourmy’s General Directory of the City of San Antonio for 1881,* 233
 [^57]: *Morrison & Fourmy’s General Directory of the City of San Antonio for 1885,* 265
 [^58]: *San Antonio Light,* August 18, 1883
-[^59]: *San Antonio Light,* September 1,3,6,11 1883
+[^59]: *San Antonio Light,* September 1,3,6,11, 1883
 [^60]: *San Antonio Light,* October 10, 1883; *San Antonio Light,* September 8, 1883; San Antonio Light, March 17, 1884
 [^61]: *San Antonio Light,* March 14, 1884
 [^62]: *San Antonio Light,* March 12, 1884
@@ -206,12 +206,12 @@ Rife did not recover and died[^117] at his home on Cameron Street on December 27
 [^66]: *San Antonio Light,* June 8, 1885
 [^67]: *San Antonio Express,* June 6, 1885
 [^68]: Condra, “E. I. Coyle & Trouble at the Alamo”, 18; Randy Roberts and James S. Olson, *A Line in the Sand: The Alamo in Blood and Memory,* (New York, The Free Press, 2001) 202; William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* (1890, repr, San Antonio, TX: Graphics Arts, 1977), 144; *Galveston Daily News,* May 27, 1887
-[^69]: *The Plain Dealer (Cleveland, Ohio),* June 25, 1893
+[^69]: *The Plain Dealer* (Cleveland, OH), June 25, 1893
 [^70]: "History of the San Antonio Police Department"
 [^71]: Pryor, “Tom Rife-an Early Alamo Custodian,” *STIRPES 42, No. 2,* (June 2002), 28; *The Daily Light (San Antonio),* February 22, 1908; *San Antonio Light,* February 23, 1887; City Council Minutes, 1870-1879, Book E, p. 323
 [^72]: City Council Minutes, 1870-1879, Book E, p. 323
-[^73]: *Daily Light (San Antonio),* December 27, 1894
-[^74]: Baptismal Records, San Fernando, Vol. 9, p. 415, entry 3847
+[^73]: *Daily Light* (San Antonio), December 27, 1894
+[^74]: Baptismal Records, San Fernando, Vol. 9: p. 415, entry 3847
 [^75]: *Morrison & Fourmy’s General Directory of the City of San Antonio for 1885,* 148
 [^76]: Survivor’s Brief, Records of the Bureau of Pensions, Mexican War Pension Application files, 1887-1926
 [^77]: Bill of Sale, Historical Deed Records, County Clerks Office, Bexar County, Book 73, p. 311, San Antonio, TX.
@@ -219,21 +219,21 @@ Rife did not recover and died[^117] at his home on Cameron Street on December 27
 [^79]: *San Antonio Light,* April 10, 1888
 [^80]: *San Antonio Daily Light,* August 16, 1888
 [^81]: United States Thirteenth Census (1910), T624, Von Ormy, Bexar, 1533
-[^82]: Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 103; Frank S. Faulkner, Jr., *Historic Photos of San Antonio,* (Nashville, TN and Paducah, KY: Turner Publishing Company, 2007), 15
+[^82]: Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 103; Frank S. Faulkner, Jr., *Historic Photos of San Antonio,* (Nashville, and Paducah, KY: Turner Publishing Company, 2007), 15
 [^83]: *San Antonio Daily Light,* October 21, 1889
 [^84]: City Council Minutes, 1870-1879, Book E and Book F, City Clerks Office
 [^85]: *San Antonio Daily Light,* August 25, 1890.
 [^86]: *San Antonio Daily Light,* September 20, 1890
 [^87]: *Johnson & Chapman’s General Directory of the City of San Antonio, 1891,* 326
 [^88]: *Morrison & Fourmy’s General Directory of the City of San Antonio for 1887,* 279, 313
-[^89]: *Daily Light (San Antonio),* October 6, 1895
+[^89]: *Daily Light* (San Antonio), October 6, 1895
 [^90]: *San Antonio Free Press,* May 17, 1882
 [^91]: *Johnson & Chapman’s General Directory of the City of San Antonio, 1891,* 326; *San Antonio Daily Light,* March 31, 1891
 [^92]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 47
 [^93]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 47; Statement concerning marriage record of Thomas and Francisca Rife, Clerk of the El Paso County Court, NARA.
 [^94]: San Fernando Cathedral Record, Case Files of Mexican War Pension Applications, RG 15, NARA
 [^95]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo,” 47
-[^96]: Baptismal Records, San Fernando, Vol. 10, p. 377, entry 3025
+[^96]: Baptismal Records, San Fernando, Vol: 10, p. 377, entry 3025
 [^97]: Adoption Deed, Historical Deed Records, County Clerk Office, Bexar County, Book 187, pp. 459-60, San Antonio, TX
 [^98]: *San Antonio Daily Light,* July 20, 1891
 [^99]: *San Antonio Daily Light,* August 4, 1891
@@ -258,6 +258,6 @@ Rife did not recover and died[^117] at his home on Cameron Street on December 27
 [^118]: *Galveston Daily News,* December 28, 1894; *San Antonio Daily Light,* December 27, 1894.
 [^119]: Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, 46; Mexican War pension records, Thomas Rife File; City of San Antonio, Mortuary Certificate, San Antonio City Clerk, Case Files of Mexican War Pensions, RG 15, NARA.
 [^120]: David McDonald, *Jose Antonio Navarro, In Search of the American Dream in Nineteenth Century Texas,* (Denton, TX: Texas State Historical Association, 2010), 270; Letter from Annie Rife to OAV Burr, January 1, 1895, original owned by Susan Majewski
-[^121]: *Daily Light (San Antonio),* December 28, 1894
+[^121]: *Daily Light* (San Antonio), December 28, 1894
 [^122]: Death Record, 1875-1879, Municipal Archives and Records, San Antonio
 [^123]: Letter from Anna Rife to OAV Burr, January 1, 1895

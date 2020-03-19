@@ -219,7 +219,7 @@ Mrs. Applewhite served as custodian until 1921 when she retired for reasons of a
 By the time Mrs. Small died, the Alamo had a maintenance and library staff that included a full-time Grounds Superintendent, Mr. Herbert R. Newcomer.[^245] The number of visitors and the size of the Alamo staff continued to grow decade by decade. When Mr. Newcomer retired in 1961[^246] the person in charge of buildings of the Alamo was known as the Superintendent of Buildings and Grounds.[^247] The term “Custodian” or “Keeper” as it was used around the turn of the 19th Century had become an anachronism.
 
 [^1]: Adina De Zavala, *History and Legends of the Alamo and Other Missions in and around San Antonio,* (San Antonio: Standard Printing Co., December, 1917), 7; Robert S. Weddle and Robert H. Thonhoff, *Drama & Conflict: the Texas Saga of 1776,* (Austin: Madrona Press, Inc., 1976), 136
-[^2]: Adina De Zavala, *History and Legends of the Alamo,* 11; Weddle, Drama & Conflict, 136
+[^2]: Adina De Zavala, *History and Legends of the Alamo,* 11; Weddle, *Drama & Conflict,* 136
 [^3]: De Zavala, *History and Legends of the Alamo,* 18
 [^4]: De Zavala, *History and Legends of the Alamo,* 10; Charles Ramsdell, *San Antonio: A Historical and Pictorial Guide,* (Austin: University of Texas Press, 1959), 18; Weddle, *Drama & Conflict,* 135
 [^5]: Ramsdell, *San Antonio,* 18; Weddle, *Drama & Conflict,* 136
@@ -238,9 +238,9 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^18]: Ramsdell, *San Antonio,* 99
 [^19]: McDonald, *Jose Antonio Navarro,* 92
 [^20]: Shiffrin, *Echoes from Women of the Alamo,* 215
-[^21]: De Zavala, *History and Legends of the Alamo,* 18; Leonora Bennett, *Historical Sketch and Guide to the Alamo,* (1904, repr, San Antonio, TX: James T. Roney, 1904), 39
+[^21]: De Zavala, *History and Legends of the Alamo,* 18; Leonora Bennett, *Historical Sketch and Guide to the Alamo,* repr, (San Antonio, TX: James T. Roney, 1904), 39
 [^22]: McDonald, *Jose Antonio Navarro,* 114
-[^23]: De Zavala, *History and Legends of the Alamo,* 18; Rena Maverick Green, Editor, *Samuel Maverick, Texan: 1803-1870, A Collection of Letters, Journals and Memoirs,* (San Antonio: Privately Published, 1952), 54; De Zavala, The Alamo, 15
+[^23]: De Zavala, *History and Legends of the Alamo,* 18; Rena Maverick Green, Editor, *Samuel Maverick, Texan: 1803-1870, A Collection of Letters, Journals and Memoirs,* (San Antonio: Privately Published, 1952), 54; De Zavala, *The Alamo,* 15
 [^24]: De Zavala, *History and Legends of the Alamo,* 21
 [^25]: Bennett, *Historical Sketch and Guide to the Alamo,* 51
 [^26]: McDonald, *Jose Antonio Navarro,* 230; Bennett, *Historical Sketch and Guide to the Alamo,* 53
@@ -256,14 +256,14 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^36]: De Zavala, *History and Legends of the Alamo,* 38
 [^37]: De Zavala, *History and Legends of the Alamo,* 45, 55
 [^38]: Ramsdell, *San Antonio,* 149
-[^39]: Gerald S. Pierce, Editor, *Travels in the Republic of Texas, 1842 by Francis. S. Latham,* Austin, TX: Encino Press, 1979, 35; Ramsdell, San Antonio, 20
+[^39]: Gerald S. Pierce, ed., *Travels in the Republic of Texas, 1842 by Francis. S. Latham,* Austin, TX: Encino Press, 1979, 35; Ramsdell, *San Antonio,* 20
 [^40]: De Zavala, *History and Legends of the Alamo,* 20, 63; Donald E. Evertt, *San Antonio: The Flavor of its Past, 1845-1898,* (San Antonio: Trinity University Press, 1975), 18; Wright, *San Antonio de Bexar: An Epitome of Early Texas History,* 97
 [^41]: *San Antonio Light,* August 18, 1888; *San Antonio Daily Express,* August 19, 1888
 [^42]: McDonald, *Jose Antonio Navarro,* 34
 [^43]: De Zavala, *History and Legends of the Alamo,* 43
 [^44]: Ramsdell, *San Antonio,* 76
 [^45]: Ramsdell, *San Antonio,* 167
-[^46]: De Zavala,* History and Legends of the Alamo,* 44; Susan Prendergast Schoelwer, “The Artist’s Alamo: A Reappraisal of Pictorial Evidence, 1836-1850”, *The Southwestern Historical Quarterly 91, No. 4, (April, 1988),* 445, 448
+[^46]: De Zavala,*History and Legends of the Alamo,* 44; Susan Prendergast Schoelwer, “The Artist’s Alamo: A Reappraisal of Pictorial Evidence, 1836-1850”, *The Southwestern Historical Quarterly 91, No. 4, (April, 1988),* 445, 448
 [^47]: Green, *Samuel Maverick, Texan,* 323
 [^48]: Ramsdell, *San Antonio,* 76; Schoelwer, “The Artist’s Alamo: A Reappraisal of Pictorial Evidence, 1836-1850”, 451
 [^49]: De Zavala, *History and Legends of the Alamo,* 10; (468, Shiffrin, *Echoes from Women of the Alamo,* 216
@@ -271,35 +271,35 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^51]: Shiffrin, *Echoes from Women of the Alamo,* 216
 [^52]: *San Antonio Light,* March 29, 1887, 87
 [^53]: George Wythe Baylor, *Into the Far, Wild Country: True Tales of the Old Southwest,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 3
-[^54]: Wright, *San Antonio de Bexar,* 88; Evertt, San Antonio, 123; Frank S. Faulkner, Jr., *Historic Photos of San Antonio,* (Nashville and Paducah, KY: Turner Publishing Company, 2007), 2
-[^55]: Jerry Thompson, Editor, *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque, NM: University of New Mexico Press, 2001), 173
+[^54]: Wright, *San Antonio de Bexar,* 88; Evertt, *San Antonio,* 123; Frank S. Faulkner, Jr., *Historic Photos of San Antonio,* (Nashville and Paducah, KY: Turner Publishing Company, 2007), 2
+[^55]: Jerry Thompson, ed., *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861,* (Albuquerque: University of New Mexico Press, 2001), 173
 [^56]: Schoelwer, “The Artist’s Alamo: A Reappraisal of Pictorial Evidence, 1836-1850”, 445
 [^57]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 175
 [^58]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 176
 [^59]: Thompson, *Texas and New Mexico on the Eve of the Civil War,* 175
-[^60]: William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* (1890, repr, (San Antonio, TX: Graphics Arts, 1977), 137; Wright, *San Antonio de Bexar,* 113
+[^60]: William Corner, comp. and ed., *San Antonio De Bexar: A Guide and History,* (1890, repr, (San Antonio: Graphics Arts, 1977), 137; Wright, *San Antonio de Bexar,* 113
 [^61]: De Zavala, *History and Legends of the Alamo,* 44
-[^62]: William Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* (1890, repr, (San Antonio, TX: Graphics Arts, 1977), 161
+[^62]: William Corner, comp. and ed., *San Antonio De Bexar: A Guide and History,* ,161
 [^63]: Faulkner, Jr., *Historic Photos of San Antonio,* 45; De Zavala, *History and Legends of the Alamo,* 44
 [^64]: De Zavala, *History and Legends of the Alamo,* 57
 [^65]: Vinton Lee James, *Frontier and Pioneer Recollections,* (San Antonio: Artes Graficas, 1938), 46; Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 144
 [^66]: Ramsdell, *San Antonio,* 214; Wright, *San Antonio de Bexar,* 90
 [^67]: Ramsdell, *San Antonio,* 216
 [^68]: Shiffrin, *Echoes from Women of the Alamo,* 216
-[^69]: Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 163
+[^69]: Corner, comp. and ed., *San Antonio De Bexar: A Guide and History,* 163
 [^70]: Shiffrin, *Echoes from Women of the Alamo,* 116; De Zavala, *The Alamo,* 47
-[^71]: Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 158; De Zavala, *History and Legends of the Alamo,* 57
-[^72]: Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 143; Shiffrin, *Echoes from Women of the Alamo,* 219
+[^71]: Corner, comp. and ed., *San Antonio De Bexar: A Guide and History,* 158; De Zavala, *History and Legends of the Alamo,* 57
+[^72]: Corner, comp. and ed., *San Antonio De Bexar: A Guide and History,* 143; Shiffrin, *Echoes from Women of the Alamo,* 219
 [^73]: Faulkner, Jr., *Historic Photos of San Antonio,* 16; Alexander Edwin Sweet, *Alex Sweet’s Texas: The Lighter Side of Lone Star History,* (Austin: University of Texas Press, 1986), 11
 [^74]: Ramsdell, *San Antonio,* 77
 [^75]: Francis R. Pryor, “Tom Rife-an Early Alamo Custodian”, *STIRPES 42, No. 2,* (June 2002), 28; De Zavala, *The Alamo,* 47
 [^76]: Pryor, “Tom Rife-an Early Alamo Custodian,” 28; Bennett, *Historical Sketch and Guide to the Alamo,* 85
-[^77]: Hans Peter Mareus Neilsen Gammel, *The Laws of Texas, 1822-1897 Vol. 9, (1898,* repr, Clark, NJ: Lawbook Exchange, 2004), 126; Bennett, *Historical Sketch and Guide to the Alamo,* 76
-[^78]: City Council Minutes, 1884-6, Book F, p. 455, City Clerks Office, City of San Antonio, TX; Pryor, “Tom Rife-an Early Alamo Custodian”, 28
+[^77]: Hans Peter Mareus Neilsen Gammel, *The Laws of Texas, 1822-1897 Vol: 9, (1898,* repr, Clark, NJ: Lawbook Exchange, 2004), 126; Bennett, *Historical Sketch and Guide to the Alamo,* 76
+[^78]: City Council Minutes, 1884-6, Book F, p. 455, City Clerks Office, City of San Antonio; Pryor, “Tom Rife-an Early Alamo Custodian”, 28
 [^79]: City Council Minutes, 1884-6, Book F, p. 462
 [^80]: City Council Minutes, 1884-6, Book F, p. 683
 [^81]: *Galveston Daily News,* August 2, 1888
-[^82]: Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 8
+[^82]: Corner, comp. and ed., *San Antonio De Bexar: A Guide and History,* 8
 [^83]: Randy Roberts and James S. Olson, *A Line in the Sand: The Alamo in Blood and Memory,* (New York: The Free Press, 2001), 202
 [^84]: *Galveston Daily News,* February 14, 1890; *San Antonio Daily Express,* Aug. 9, 1889
 [^85]: Ramsdell, *San Antonio,* 20
@@ -309,17 +309,17 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^89]: Edward Tabor Linenthal, “A Reservoir of Spiritual Power: Patriotic Faith at the Alamo in the Twentieth Century”, *The Southwestern Historical Quarterly 91, (April 1988),* 513
 [^90]: *San Antonio Light,* April 14, 1886
 [^91]: *San Antonio Light,* August 18, 1888; *San Antonio Daily Express,* August 19; *New York Herald,* January 7, 1894
-[^92]: Mary Rutledge, Application for Membership, Daughters of the Republic of Texas, DRT Achieves, Austin; Pierce, *Travels in the Republic of Texas, 1842, Vol. II,* 36; T. R. Fehrenbach, *Seven Keys to Texas,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1983), 17
+[^92]: Mary Rutledge, Application for Membership, Daughters of the Republic of Texas, DRT Achieves, Austin; Pierce, *Travels in the Republic of Texas, 1842, Vol: II,* 36; T. R. Fehrenbach, *Seven Keys to Texas,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1983), 17
 [^93]: Bennett, *Historical Sketch and Guide to the Alamo*
 [^94]: Evertt, *San Antonio,* 19
-[^95]: Pryor, “Tom Rife-an Early Alamo Custodian,” 29; Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 8
+[^95]: Pryor, “Tom Rife-an Early Alamo Custodian,” 29; Corner, comp. and ed., *San Antonio De Bexar: A Guide and History,* 8
 [^96]: Alexander Edwin Sweet, *Alex Sweet’s Texas: The Lighter Side of Lone Star History,* (Austin: University of Texas Press, 1986), 7-13
 [^97]: David Montejano, *Anglos and Mexicans in the Making of Texas, 1836-1986,* (Austin: University of Texas Press, 1987), 223; Bennett, *Historical Sketch and Guide to the Alamo,* 69
 [^98]: Roberts, *A Line in the Sand,* 308; Montejano, *Anglos and Mexicans in the Making of Texas,* 305-7
 [^99]: *New York Herald,* January 7, 1894
 [^100]: *Daily Light,* (San Antonio), May 20, 1894
 [^101]: R. M. Potter, *The Fall of the Alamo,* reprinted from the Star and Watchtower (San Antonio), Western Texan (San Antonio), March 6, 1851; Francis Antonio Ruiz, “Fall of the Alamo, and Massacre of Travis and His Brave Associates”, *1860 Texas Almanac, Galveston News*
-[^102]: D. W. C. Bakers, compiler, *A Texas Scrap-Book made up of History, Biography and Miscellany of Texas and its People,* (New York, Chicago and New Orleans: A.S. Barnes & Company, 1875)
+[^102]: D. W. C. Bakers, comp., *A Texas Scrap-Book made up of History, Biography and Miscellany of Texas and its People,* (New York, Chicago and New Orleans: A.S. Barnes & Company, 1875)
 [^103]: H. Yoakum, Esq., *History of Texas from Its First Settlement in 1685 to Its Annexation to the United States in 1846,* (New York: Redfield, 1855)
 [^104]: Mrs. Percy V. Pennybacker/Anna J. Hardwicke Pennybacker, *A New History of Texas for Schools,* Tyler, Texas, 1888
 [^105]: John Henry Brown, *History of Texas: from 1685 to 1892,* L. E. Daniell, Publisher, Printed by Becktold & Co., St. Louis, 1892
@@ -339,7 +339,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^119]: *Daily Light,* (San Antonio), August 2, 1889
 [^120]: *Lockhart Register* (Texas),* August 9, 1889
 [^121]: *San Antonio Daily Express,()* March 14, 1888
-[^122]: Evertt, *San Antonio,* 126
+[^122]: Everett, *San Antonio,* 126
 [^123]: *San Antonio Light,* November 1, 1887; *Fort Worth Daily Gazette,* November 4, 1887
 [^124]: *San Antonio Light,* June 8, 1886; *San Antonio Daily Express,* August 1, 1886; (1466) *Galveston Daily News,* August 1, 1886
 [^125]: *The Daily Light,* (San Antonio), August 16 and 18, 1888
@@ -349,13 +349,13 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^129]: *Daily Light,* (San Antonio), February 22, 1908; *San Antonio Light,* February 23, 1887
 [^130]: *San Antonio Light,* February 28, 1887; J. Frank Dobie, “The Flavor of Texas,” *Port Arthur News,* April 19, 1936, 72
 [^131]: *Floresville Chronicle* (Texas), March 5, 1887
-[^132]: Roberts and Olson, *A Line in the Sand,* 202; Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 144; *Galveston Daily News,* May 27, 1887; *Daily Light,* (San Antonio), May 19, 1887
+[^132]: Roberts and Olson, *A Line in the Sand,* 202; Corner, comp. and ed., *San Antonio De Bexar: A Guide and History,* 144; *Galveston Daily News,* May 27, 1887; *Daily Light,* (San Antonio), May 19, 1887
 [^133]: *San Antonio Free Press,* February 28, 1888
 [^134]: Legislature Records, Mementos and Petitions, Alamo Monument Association for Relief of Madame Candelaria (February 12, 1891), ARIS-TSLAC; Edward King and J. Wells Champney, *Texas 1874: An eyewitness account of conditions in post-reconstruction Texas,* (Houston: Cordovan Press, 1974), 121
-[^135]: Pryor, “Tom Rife-an Early Alamo Custodian”, 29; Frances R. Pryor, editor, “Genealogical Gems”, *STIRPES 35, No. 4,* (December 1995), 19-20; James, *Frontier and Pioneer Recollections,* 150
+[^135]: Pryor, “Tom Rife-an Early Alamo Custodian”, 29; Frances R. Pryor, ed., “Genealogical Gems”, *STIRPES 35, No. 4,* (December 1995), 19-20; James, *Frontier and Pioneer Recollections,* 150
 [^136]: Legislative Records, Memorials and petitions, Candelaria, Madame, for Relief (March 28, 1889) ARIS-TSLAC
-[^137]: Walter B. Stevens, *Through Texas: A Series of Interesting Letters,* (St. Louis, MO: St. Louis Globe-Democrat, 1892), 77; Robert F. O’Connor, editor,*Texas Myths,* (College Station, Texas: Texas A&M University Press, 1986), 180; Shiffrin, *Echoes from Women of the Alamo,* 89
-[^138]: Bennett, *Historical Sketch and Guide to the Alamo,* 67, 84; (789, p. 183) Pennybacker, *A History of Texas for Schools,* 183
+[^137]: Walter B. Stevens, *Through Texas: A Series of Interesting Letters,* (St. Louis: St. Louis Globe-Democrat, 1892), 77; Robert F. O’Connor, ed.,*Texas Myths,* (College Station, Texas: Texas A&M University Press, 1986), 180; Shiffrin, *Echoes from Women of the Alamo,* 89
+[^138]: Bennett, *Historical Sketch and Guide to the Alamo,* 67, 84; Pennybacker, *A History of Texas for Schools,* 183
 [^139]: *San Antonio Daily Light,* April 22, 1893; May 1, 1894; June 30, 1894
 [^140]: *Daily Light* (San Antonio) June 30, 1894; *Daily Light* (San Antonio), May 1, 1894; Farber, *Texas, C.S.A.,* 68
 [^141]: *The Daily Light,* (San Antonio), August 16 and 18, 1888
@@ -385,7 +385,7 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^165]: *San Antonio Daily Light,* May 1, 1894
 [^166]:*New York Herald,* January 7, 1894; *Galveston Daily News,* September 10, 1885
 [^167]: Shiffrin,*Echoes from Women of the Alamo,* 221
-[^168]: Evertt, *San Antonio,* 122
+[^168]: Everett, *San Antonio,* 122
 [^169]: Corner, compiler and editor, *San Antonio De Bexar: A Guide and History,* 14; *San Antonio Express,* March 7, 1879; Herbert Bolton and Eugene Barker, *With the Makers of Texas: A Source Reader in Texas History,* (Austin: Gammel-Statesman Publishing Co, 1904), 169; Bennett, *Historical Sketch and Guide to the Alamo,* 76
 [^170]: *San Antonio Express,* April 19, 1884
 [^171]: *San Antonio Express,* January 8, 1893
@@ -397,12 +397,12 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^177]: De Zavala, *History and Legends of the Alamo,* 47
 [^178]: *San Antonio Daily Light,* February 7, 1894
 [^179]: *San Antonio Daily Light,* December 4, 1894
-[^180]: Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, No. 3,* (September 1995), 46; Mortuary Certificate, Mortuary Records, San Antonio City Clerks Office, San Antonio, TX, NARA: Pensioner Dropped, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15, NARA
-[^181]: *Galveston Daily News,* December 28, 1894; *San Antonio Daily Light,* December 27, 1894; *San Antonio Daily Light,* December 28, 1894; Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio, Texas
+[^180]: Frances R. Pryor, “Tom Rife, An 1890’s Custodian of the Alamo”, *STIRPES 35, No. 3,* (September 1995), 46; Mortuary Certificate, Mortuary Records, San Antonio City Clerks Office, San Antonio, NARA; Pensioner Dropped, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veteran’s Affairs, RG 15, NARA
+[^181]: *Galveston Daily News,* December 28, 1894; *San Antonio Daily Light,* December 27, 1894; *San Antonio Daily Light,* December 28, 1894; Mexican War pension records, Thomas Rife File, DRT Library at the Alamo, San Antonio
 [^182]: *San Antonio Light,* February 23, 1887
 [^183]: *Omaha World Herald,* Mortuary Notice, December 29, 1894
 [^184]: City View, A Subdivision of Original City Lot 1, R7 D7, Civil Engineer Survey Book 5, p. 111, San Antonio; *Morrison and Fourmy’s  San Antonio City Directory for 1889; San Antonio City Directory for 1890*
-[^185]: Mrs. Joseph Morris, editor, “List of 1st Class Certificates,” *STIRPES 16, No. 3,* (September 1976)
+[^185]: Mrs. Joseph Morris, ed., “List of 1st Class Certificates,” *STIRPES 16, No. 3,* (September 1976)
 [^186]: William McMaster, Public Debt Claim, Texas Comptroller’s Office claims records. ARIS-TSLAC
 [^187]: *San Antonio Light,* Thursday, May 9, 1907
 [^188]: William McMaster’s record, 13th Regiment of Texas Volunteers, Compiled Service Record of Confederate Soldiers Who Served in Organizations from the State of Texas, M323, Roll 367, Records of Confederate Soldiers Who Serviced During the Civil War, RG 109, NARA
@@ -434,13 +434,13 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^214]: Marriage Licenses, Bexar County Clerks Records, Book C, p. 118, (Oct. 14, 1853), San Antonio
 [^215]: A. J. Sowell, *Life of “Big Foot” Wallace: The Great Ranger Captain,* (Austin: State House Press, 1989), 119
 [^216]: *San Antonio Ledger,* September 29, 1855; *New York Times,* October 17, 1855
-[^217]: Helen Rugeley, editor, “Muster Rolls of Minute Men Found in Bexar Co. Courthouse,” *Austin Genealogical Society Quarterly 22, No. 1,* (March 1981), 22
-[^218]: *Daily Light* (San Antonio), January 16, 1900; Ellis A. Davis and Edwin H. Grobe, compilers, *New Encyclopedia of Texas Vol. III,* 2205
-[^219]: Anonymous, *A Twentieth Century History of Southwest Texas, Vol. 1,* (Chicago, New York and Los Angeles: The Lewis Publishing Co., 1907), 286
+[^217]: Helen Rugeley, ed., “Muster Rolls of Minute Men Found in Bexar Co. Courthouse,” *Austin Genealogical Society Quarterly 22, No. 1,* (March 1981), 22
+[^218]: *Daily Light* (San Antonio), January 16, 1900; Ellis A. Davis and Edwin H. Grobe, compilers, *New Encyclopedia of Texas Vol: III,* 2205
+[^219]: Anonymous, *A Twentieth Century History of Southwest Texas, Vol: 1,* (Chicago, New York and Los Angeles: The Lewis Publishing Co., 1907), 286
 [^220]: *Daily Light* (San Antonio), July 15, 1891.
 [^221]: *Daily Light* (San Antonio), April 16, 1894.
 [^222]: *Daily Light* (San Antonio), March 2, 1893.
-[^223]: *San Antonio Daily Light,* September 12, 1893; San Antonio Light, September 11, 1893
+[^223]: *San Antonio Daily Light,* September 12, 1893; *San Antonio Light,* September 11, 1893
 [^224]: *San Antonio Daily Light,* February 20, 1894
 [^225]: Robert L. Ables, “The Second Battle of the Alamo,” *Southwestern Historical Quarterly, Vol. 70, No. 3,* January 1967, 378
 [^226]: *San Antonio Sunday Light,* September 17, 1905.
@@ -456,11 +456,11 @@ By the time Mrs. Small died, the Alamo had a maintenance and library staff that 
 [^236]: *Rockdale Reporter* (Texas), June 20, 1907
 [^237]: *San Antonio Express and News,* March 26, 1967; "A Guide to the Sarah Eagar and Florence Eagar Roberts Alamo Papers, 1905-1913 and undated”, Doc 14408, DRT Research Library, San Antonio
 [^238]: "A Guide to the Riddle and Eagar Families Papers, 1840-1945," Collection 7426, www.lib.utexas.edu/taro/drtsa/00054, Accessed September 14, 2012
-[^239]: Eberle, Frank and Harry Van Denmark, editors, "The Texas Magazine," Vol. 7, November 1912 to April 1913, (Houston, Texas: Charles A. Newning, 1913), 312
+[^239]: Eberle, Frank and Harry Van Denmark, eds., "The Texas Magazine," Vol: 7, November 1912 to April 1913, (Houston, Texas: Charles A. Newning, 1913), 312
 [^240]: *San Antonio Express and News,* March 26, 1967
 [^241]: Ables, *The Second Battle of the Alamo,* 397
 [^242]: Walker, Beth and Mary Carmack, DRT: Alamo Mission Chapter, amc-drt.com/amc_history.pdf, accessed January 30, 2014
-[^243]: J. Marvin Hunter, Jr., “Lest We Forget,” *Frontier Times, Vol. 24, No 07,* April 1947
+[^243]: J. Marvin Hunter, Jr., “Lest We Forget,” *Frontier Times,* Vol: 24, No 07, April 1947
 [^244]: *Mexia Weekly Herald* (Texas), August 30, 1946
 [^245]: undated newspaper clipping, vertical file “Grounds,” DRT Research Library
 [^246]: *San Antonio Light,* March 19, 1961

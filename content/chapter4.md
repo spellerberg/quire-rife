@@ -163,12 +163,12 @@ William apparently died before 1900; Mary Ann was living in San Antonio with two
 
 
 [^1]: Wayne R. Austerman, *Sharps Rifles and Spanish Mules: The San Antonio-El Paso Mail, 1851-1881,* (College Station, TX: Texas A & M University Press, 1985), 20
-[^2]: Carlysle Graham Raht, *Romance of Davis Mountains and Big Bend Country, A History,* (El Paso, TX: The Rahtbooks Company, 1919), 150
+[^2]: Carlysle Graham Raht, *Romance of Davis Mountains and Big Bend Country, A History,* (El Paso: The Rahtbooks Company, 1919), 150
 [^3]: *The San Antonio Ledger* November 4, 1852
 [^4]: Raht, *Romance of Davis Mountains and Big Bend Country, A History,* 151
 [^5]: *San Antonio Ledger* February 10, 1853
 [^6]: Clayton Williams, *Never Again, Texas 1848-1861 Vol.* 3, (San Antonio: The Naylor Co., 1969), 21; Ralph P. Bieber, editor, *Exploring Southwestern Trails 1846-1854, Journal of William Henry Chase Whiting, 1849,* (Glendale, CA: The Arthur H. Clark Company, 1938), 339
-[^7]: Robert H. Thonhoff, *San Antonio Stage Lines: 1847-1881,* (El Paso, TX: Texas Western Press, 1971), 8, figure 3
+[^7]: Robert H. Thonhoff, *San Antonio Stage Lines: 1847-1881,* (El Paso: Texas Western Press, 1971), 8, figure 3
 [^8]: Robert H. Thonhoff, *San Antonio Stage Lines: 1847-1881,* 9
 [^9]: Jack C. Scannell, “A survey of the Stagecoach Mail in the Trans-Pecos, 1850-1861”, *West Texas Historical Association Year Book 47,* (1971), 117
 [^10]: Letter from General P. F. Smith, George H. Giddings vs. the United States. Comanche, Kiowa and Apache Indians, case 3873, Indian Depredation Case Records, 1891-1918, Records of the Court of Claims, 1835-1966, RG123, National Archives and Records Administration
@@ -213,7 +213,7 @@ William apparently died before 1900; Mary Ann was living in San Antonio with two
 [^49]: Raht, *Romance of Davis Mountains,* 191
 [^50]: *San Antonio Ledger and Texan,* June 16, 1853
 [^51]: *San Antonio Ledger and Texan,* June 16, 1853
-[^52]: *Weekly Herald,* (New York, NY), September 9, 1853
+[^52]: *Weekly Herald,* (New York), September 9, 1853
 [^53]: *San Antonio Ledger and Texan,* August 11, 1853; *San Antonio Ledger and Texan,* October 10, 1853; *San Antonio Ledger and Texan,* October 13, 1853
 [^54]: Austerman, *Sharps Rifles and Spanish Mules,* 43-4
 [^55]: *The Western Texan* (San Antonio), October 13, 1853; *San Antonio Ledger and Texan,* October 13, 1853
@@ -226,23 +226,23 @@ William apparently died before 1900; Mary Ann was living in San Antonio with two
 [^62]:  Frederick Law Olmsted, *A Journey Through Texas or a Saddle-Trip on the Southwestern Frontier,* (Austin: University of Texas Press, 1978), 299
 [^63]: Austerman, *Sharps Rifles and Spanish Mules,* 48
 [^64]: Jack Lowery, “Guarding the Westward Trail’, *Texas Highways Magazine 39, No. 9,* (September 1992), 46-7
-[^65]: *The Western Texan* (San Antonio, Texas), February 16, 1854; *Houston Telegraph,*  October 20, 1858
+[^65]: *The Western Texan* (San Antonio), February 16, 1854; *Houston Telegraph,*  October 20, 1858
 [^66]: *San Antonio Ledger and Texan,* March 30, 1854; *Texas State Gazette,* (Austin), April 29, 1854
 [^67]: Letter from Postmaster General to Senator Rusk, George H. Giddings vs. The United States.
-[^68]: Memorial of George Giddings, George H. Giddings vs. The United States; (M-13) Statement from Giddings, George H. Giddings vs. The United States.
+[^68]: Memorial of George Giddings, George H. Giddings vs. The United States; Statement from Giddings, George H. Giddings vs. The United States.
 [^69]: Letter from Isaac Lightner to James Magoffin, November 25, 1854, James Magoffin File, The Dolph Briscoe Center for American History, The University of Texas at Austin.
 [^70]: Letter from John Crosby to James Magoffin, August 6, 1855, James Magoffin File.
 [^71]: Letter from Isaac Lightner to James Magoffin, May 18, 1858, James Magoffin File.
 [^72]: Harold Schoen, “The Free Negro in the Republic of Texas,” *Southwestern Historical Quarterly 40, (July, 1937),* 95
-[^73]: Nolan Thompson, ”Arnold, Hendrick,” Handbook of Texas Online, (http://www.tshaonline.org/handbook/online/articles/far15, accessed November 07, 2011), Published by the Texas State Historical Association.
+[^73]: Nolan Thompson, ”Arnold, Hendrick,” *Handbook of Texas Online,* (http://www.tshaonline.org/handbook/online/articles/far15, accessed November 07, 2011), Published by the Texas State Historical Association.
 [^74]: Schoen, “The Free Negro in the Republic of Texas,” 95
 [^75]: Schoen, “The Free Negro in the Republic of Texas,” 98
-[^76]: Thompson, ”Arnold, Hendrick,” Handbook of Texas Online.
-[^77]: Jesus De La Teja, *San Antonio de Bexar: a community on New Spain’s Northern Frontier,* (Albuquerque, NM: University of New Mexico Press, 1996), 23
+[^76]: Thompson, ”Arnold, Hendrick,” *Handbook of Texas Online*
+[^77]: Jesus De La Teja, *San Antonio de Bexar: a community on New Spain’s Northern Frontier,* (Albuquerque: University of New Mexico Press, 1996), 23
 [^78]: Stephen L. Hardin, *Texian Iliad, A Military History of the Texas Revolution, 1835-1836,* (Austin: University of Texas Press, 1994), 79
-[^79]: ”Arnold, Hendrick”, Nolan Thompson, Handbook of Texas Online.
+[^79]: ”Arnold, Hendrick”, Nolan Thompson, *Handbook of Texas Online*
 [^80]: Rena Maverick Green, editor, *Samuel Maverick, Texan: 1803-1870, A Collection of Letters, Journals and Memoirs,* (San Antonio: Privately Published, 1952), 74; David McDonald, *Jose Antonio Navarro, In search of the American Dream in Nineteenth-Century Texas,* (Denton, TX: Texas State Historical Association, 2010), 126
-[^81]: John Brothers, Maryann Brothers, United States Seventh Census (1850), M432, Dwelling #38, Castroville, Medina County, Texas.
+[^81]: John Brothers, Maryann Brothers, United States Seventh Census (1850), M432, Dwelling 38, Castroville, Medina County, Texas.
 [^82]: Victor Bracht, *Texas in 1848,* (San Antonio: Naylor Printing Company, 1931), 72
 [^83]: John Brothers, Montgomery County Clerk Returns, August 1838, 2nd class certificate 78, GLO; John Brothers, Audited Republic claims, Texas Comptroller’s Office claims records. Archives and Information Services Division, Texas State Library and Archives Commission
 [^84]: Henry W. Barton, *Texas Volunteers In the Mexican War,* (Waco, TX:  Texian Press, 1970), 67
@@ -263,14 +263,14 @@ William apparently died before 1900; Mary Ann was living in San Antonio with two
 [^99]: *The San Antonio Ledger and Texan,* March 10, 1860
 [^100]: *The San Antonio Ledger and Texan,* March 10, 1860
 [^101]: *The Western Texan* (San Antonio), February 16, 1854
-[^102]: George Wythe Baylor, *Into the Far, Wild Country: True Tales of the Old Southwest,* (El Paso, TX: Texas Western Press, The University of Texas at El Paso, 1996), 93
+[^102]: George Wythe Baylor, *Into the Far, Wild Country: True Tales of the Old Southwest,* (El Paso: Texas Western Press, The University of Texas at El Paso, 1996), 93
 [^103]: Baylor, *Into the Far, Wild Country,* 107-17
 [^104]: Declaration of Survivor for Pension, Records of the Bureau of Pensions, Mexican War Pension Application Files, 1887-1926, Records of the Department of Veterans Affairs, RG15, NARA
 [^105]: *San Antonio Daily Light,* March 17, 1893
 [^106]: *Sacramento Union,* August 12-18, 1857
 [^107]: *Brazos Courier,* (Brazoria, TX), March 10, 1840; Bills of sale. Historical Records, County Clerks Office, Bexar County, Book 128, p. 169, Book O2, p. 144, and Book M2, p. 426
 [^108]: Bill of sale. Historical Records, County Clerks Office, Bexar County, Book M2, pp. 578-9
-[^109]: Mary Ann Rife vs. Thomas Rife. Bexar County Probate minutes (1851-1857), Vol. C, p. 439, Reel # 1019295, ARIS-TSLAC
+[^109]: Mary Ann Rife vs. Thomas Rife. Bexar County Probate minutes (1851-1857), Vol. C, p. 439, Reel 1019295, ARIS-TSLAC
 [^110]: Smith, *Fort Inge: Sharps, Spurs, and Sabers on the Texas Frontier,* 116
 [^111]: Thirty seventh District Court, Bexar County. Civil Minutes, (1860-1868), Vol. F, p. 4, Microfilm Reel 1019987, San Antonio; Court Record of District Court, Clerk of District Court, Bexar County, (Fall term, 1860), Vol. F, p. 5, San Antonio
 [^112]: William C. Adams (April 7, 1861), Texas Marriages, 1837-1973, https://familysearch.org/pal:MM9.1.1FXSJ-4NB: accessed 19 Oct 2012
