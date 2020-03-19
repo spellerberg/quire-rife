@@ -4,7 +4,6 @@ weight: 200
 type: essay
 
 ---
-# The Mexican War, 1846-1848
 
 *“In 1842, when Texas was last invaded, Tom Rife volunteered for her defense and he served two enlistments in the Mexican war, and was in the fray from beginning to the end. One of those enlistments was served under a man dear to Texas, Jack Hayes, the other under Walter P Lane. No one has yet risen to question his courage or service.” “Custodian of the Alamo,” San Antonio Light, (San Antonio, Texas), February 23, 1887*
 

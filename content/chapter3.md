@@ -3,8 +3,6 @@ title: Thomas Rife in West Texas, 1848 - 1851
 weight: 300
 type: essay
 ---
-# Thomas Rife in West Texas, 1848-1851
-
 ## Frontier Defense, 1848
 
 *“At the close of the Mexican war he was honorably discharged, but he did not seek rest, although he had nearly six years of service, for in 1848 he joined Ben Hill’s frontier company”, “Custodian of the Alamo,” San Antonio Light, February 23, 1887.*

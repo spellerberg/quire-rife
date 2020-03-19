@@ -3,7 +3,6 @@ title: Thomas and Francisca's  Life in San Antonio - 1872-1894
 weight: 800
 type: essay
 ---
-# Thomas and Francisca's Life in San Antonio - 1872-1894
 
 ## San Antonio Police, 1874-1885
 

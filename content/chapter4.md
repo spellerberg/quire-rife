@@ -3,7 +3,6 @@ title: Skillman's Mail Service, 1851 - 1854
 weight: 400
 type: essay
 ---
-# Skillman's Mail Service, 1851-1854
 
 ## Rife began a career as a stage conductor
 

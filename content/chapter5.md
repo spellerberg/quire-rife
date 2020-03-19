@@ -3,7 +3,6 @@ title: Giddings' Mail Service, 1854 - 1861
 weight: 500
 type: essay
 ---
-# Giddings' Mail Service, 1854-1861
 
 *“When his service was over he took a trip to California for business and pleasure...”Custodian of the Alamo, San Antonio Light, February 23, 1887.*
 
