@@ -236,9 +236,16 @@ $print-trim: $print-bleed * 2;
   .quire-splash {
     page: splash;
     background-color: $print-splash-color;
+    page-break-before: left;
+
     .quire-page__header.hero-image {
       page: splash-image;
     }
+
+    .quire-page__header {
+      page-break-after: right;
+    }
+
   }
 
   .quire-splash.quire-page--frontmatter {

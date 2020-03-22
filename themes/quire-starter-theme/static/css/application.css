@@ -11092,9 +11092,12 @@ body > div.mfp-bg.mfp-ready {
     page: no-footer; }
   .quire-splash {
     page: splash;
-    background-color: #EEF2F3; }
+    background-color: #EEF2F3;
+    page-break-before: left; }
     .quire-splash .quire-page__header.hero-image {
       page: splash-image; }
+    .quire-splash .quire-page__header {
+      page-break-after: right; }
   .quire-splash.quire-page--frontmatter {
     page: frontmatter-splash; }
   .quire-entry__image .quire-entry__image__group-container figure {
