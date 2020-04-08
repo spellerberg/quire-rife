@@ -5,6 +5,8 @@ type: essay
 class: page-one
 ---
 
+{{< q-figure id="0a" >}}
+
 Thomas Rife came to Texas from Mississippi when Texas was a Republic. Beginning in 1842, he was actively engaged in the fight against Texas’ enemies, whether they were Santa Ana’s Mexicans, Native Americans, Union soldiers, or citizens who broke the law. As the first “Alamo Keeper,” he was charged with protecting the Alamo from vandalism.
 
 He had been a soldier in the War with Mexico, a Texas Ranger, a Confederate Army scout, a San Antonio policeman. He was deemed to be brave and fearless in the face of danger and was for many years a conductor of mail coaches through the unsettled western region, one of the most dangerous jobs in Texas during the 1850s.
