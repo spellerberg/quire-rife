@@ -1,29 +1,101 @@
 figure_list:
-  - id: "2.1"
-    src: figures/2-1.jpg
+  - id: "0a"
+    src: figures/0a.jpg
+    caption: "Fig 0a. Caption TK."
+    credit: "Credit TK."
+  - id: "1a"
+    src: figures/1a.jpg
+    caption: "Fig 1a. Caption TK."
+    credit: "Credit TK."
+  - id: "1b"
+    src: figures/1b.jpg
+    caption: "Fig 1b. Caption TK."
+    credit: "Credit TK."
+  - id: "2a"
+    src: figures/2a.jpg
     caption: "On September 23, 1846, American troops entered Monterrey, Mexico and moved within one block of Main Plaza in house-to-house fighting. The streets leading to the plaza were raked with cannon fire do the soldiers punched holes in the walls of buildings and, using ladders and pick axes, moved from house to house toward the plaza."
     credit: "Illustration from General Taylor’s Rough and Ready Almanac, 1848 by David Young. Courtesy of the Texas State Library and Archives Commission, Austin, Texas"
-  - id: "3.1"
-    src: figures/3-1.jpg
+  - id: "3a"
+    src: figures/3a.jpg
     caption: "Caricature of a Texas Ranger. This Exaggerated, but mostly accurate, portrayal of an early Texas Ranger first appeared in Harper’s Weekly on July6. 1861."
     credit: "Courtesy of The Texas State Library and Archives Commission, Austin, Texas"
-  - id: "4.1"
-    src: figures/4-1.jpg
+  - id: "3b"
+    src: figures/3b.jpg
+    caption: "Fig 3b. Caption TK."
+    credit: "Credit TK."
+  - id: "3c"
+    src: figures/3c.jpg
+    caption: "Fig 3c. Caption TK."
+    credit: "Credit TK."
+  - id: "4a"
+    src: figures/4a.jpg
     caption: "Skillman’s mail and passenger service commenced with the first westbound coach’s departure from San Antonio to Santa Fe, New Mexico on November 1, 1851. Before January 1853 a coach left both San Antonio and Santa Fe every other month; after that date, service was changed to every month. The one-way trip took about three weeks to complete."
     credit: "San Antonio Western Texas, April 1, 1853"
-  - id: "5.1"
-    src: figures/5-1.jpg
+  - id: "4b"
+    src: figures/4b.jpg
+    caption: "Fig 4b. Caption TK."
+    credit: "Credit TK."
+  - id: "5a"
+    src: figures/5a.jpg
     caption: "Howard’s Well. This spring, now filled with gravel, was the only water source for 73 miles on the Lower Road. Consequently, there were many conflicts between Indians and travelers at this well.In dry years it was necessary to go down twelve feet with buckets to get water. George Giddings built a stage station here in June 1858."
     credit: "Photo by George Mullins"
-  - id: "6.1"
-    src: figures/6-1.jpg
+  - id: "5b"
+    src: figures/5b.jpg
+    caption: "Fig 5b. Caption TK."
+    credit: "Credit TK."
+  - id: "6a"
+    src: figures/6a.jpg
     caption: "“Overland Mail Party Sighting Indians in the Distance.” A confederate soldier, Morgan Wolfe Merrick, sketched Thomas Rife and the mail party on their way to El Paso on July 10, 1861. By that time Fort Bliss and El Paso were in the hands of the Confederacy. Rife played a role in securing the fort after Federal troops abandoned it. Shown are: Freman Thomas, J. Cook, Thomas Rife, George (Clown) Garner, J. Hettler and a passenger."
     credit: "Sketch from Notes and Sketches of Campaigns in New Mexico, Arizona, Texas, Louisiana and Arkansas by a Participant by Morgan Wolfe Merrick. Courtesy of the Daughters of the Republic of Texas Library, San Antonio, Texas"
-  - id: "7.1"
-    src: figures/7-1.jpg
+  - id: "6b"
+    src: figures/6b.jpg
+    caption: "Fig 6b. Caption TK."
+    credit: "Credit TK."
+  - id: "6c"
+    src: figures/6c.jpg
+    caption: "Fig 6c. Caption TK."
+    credit: "Credit TK."
+  - id: "6d"
+    src: figures/6d.jpg
+    caption: "Fig 6d. Caption TK."
+    credit: "Credit TK."
+  - id: "6e"
+    src: figures/6e.jpg
+    caption: "Fig 6e. Caption TK."
+    credit: "Credit TK."
+  - id: "7a"
+    src: figures/7a.jpg
     caption: "Concord Mail Coach. Made in Concord, New Hampshire by the Abbot-Downing Company, they were considered to be the best available passenger vehicle for severe service. They weighed 3,000 pounds and had a carrying capacity of two tons and costs about $1,500 each. Nine passengers could ride inside the coach on three seats and several more could be accommodated on top with the driver. There was ample room for baggage. Concords were constructed of New England’s best oak, ash, elm and basswood and featured heavy, wide-tired wheels set far apart for lateral stability."
     credit: "Photo from Abbot-Downing catalog."
-  - id: "9.1"
-    src: figures/9-1.jpg
+  - id: "7b"
+    src: figures/7b.jpg
+    caption: "Fig 7b. Caption TK."
+    credit: "Credit TK."
+  - id: "8a"
+    src: figures/8a.jpg
+    caption: "Fig 8a. Caption TK."
+    credit: "Credit TK."
+  - id: "9a"
+    src: figures/9a.jpg
     caption: "The Alamo as it appeared on September 3, 1894. Less than three months after this photo was taken, Tomas Rife died on December 28, 1894, after nine and one half years as the first custodian. A wood stove was set up for the comfort of the custodian and the stove pipe can be seen protruding out of the window on the lower right window."
     credit: "Photo courtesy of the Texas State Library and Archives Commission, Austin, Texas"
+  - id: "9b"
+    src: figures/9b.jpg
+    caption: "Fig 9b. Caption TK."
+    credit: "Credit TK."
+  - id: "9c"
+    src: figures/9c.jpg
+    caption: "Fig 9c. Caption TK."
+    credit: "Credit TK."
+  - id: "9d"
+    src: figures/9d.jpg
+    caption: "Fig 9d. Caption TK."
+    credit: "Credit TK."
+  - id: "9e"
+    src: figures/9e.jpg
+    caption: "Fig 9e. Caption TK."
+    credit: "Credit TK."
+  - id: "10a"
+    src: figures/10a.jpg
+    caption: "Fig 10a. Caption TK."
+    credit: "Credit TK."
