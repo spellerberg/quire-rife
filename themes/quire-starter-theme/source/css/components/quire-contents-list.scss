@@ -12,6 +12,7 @@
   background-color: transparent;
   @media print {
     background-color: transparent;
+    page-break-before: right;
   }
   .quire-page__content {
     .container {
@@ -345,7 +346,7 @@
     }
 
     .menu-list {
-      
+
       a {
         .arrow {
           @if $theme == classic {
@@ -573,7 +574,7 @@
       } @else {
         border-color: lighten($secondary-background-color, 15%);
       }
-      
+
       @media print {
         border-width: 0;
       }
@@ -582,7 +583,7 @@
       + .section-item {
         border-top-width: 0;
       }
-      
+
       &.no-landing {
         .list-header {
           font-size: 1.7em;

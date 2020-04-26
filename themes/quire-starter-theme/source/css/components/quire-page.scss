@@ -780,7 +780,7 @@ html {
       em {
         font-style: normal;
       }
-      
+
       // footnote numbers in blockquotes should be roman
       sup.footnote-ref {
         font-style: normal;
@@ -898,5 +898,32 @@ html {
         margin-top: 0;
       }
     }
+  }
+}
+
+// Marty's edits
+
+.quire-page--notitle {
+    @media print {
+      page-break-before: left;
+    }
+}
+
+.quire-page--notitle .quire-page__header {
+    display: none;
+}
+
+.quire-figure {
+    @media print {
+      height: 8in;
+      vertical-align: middle;
+      display: table-cell;
+      border-color: transparent !important;
+    }
+}
+
+.quire-page--suppressfigures .quire-figure {
+  @media print {
+    display: none;
   }
 }
