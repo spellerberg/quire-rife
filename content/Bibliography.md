@@ -57,41 +57,43 @@ type: essay
     Texas: Bexar Co. roll 2299; San Antonio, Bexar, roll 22989; Galveston, Galveston, roll 233
 - United States Fifteenth Census (1940), T627, Population Schedules,
     Texas: San Antonio, Bexar, roll 3987.
+
 **United States Department of the Interior, Bureau of Land  Management, RG 49**
-    Military Bounty Land Application Files
-    Federal Land Patents, State Volumes, Eastern States
-    Mississippi Pre-1908 Patents, Homesteads, Cash Entry, Choctaw Indian Scrip and Chickasaw Cession Lands
+- Military Bounty Land Application Files
+- Federal Land Patents, State Volumes, Eastern States
+- Mississippi Pre-1908 Patents, Homesteads, Cash Entry, Choctaw Indian Scrip and Chickasaw Cession Lands
 **United States Department of the Treasury, Internal Revenue Service, Record Group 58**
-    Tax Assessment Lists for Mississippi, 1865-66, M775, roll 2
-    Records of the Accounting Officers, RG 217
-    Muster Rolls, William Wallace’s Company, Texas Mounted Volunteers, 1850-1851, entry 517
+- Tax Assessment Lists for Mississippi, 1865-66, M775, roll 2
+- Records of the Accounting Officers, RG 217
+- Muster Rolls, William Wallace’s Company, Texas Mounted Volunteers, 1850-1851, entry 517
 **United States Army Adjutant General’s Office, 1780-1917, RG 94**
-    Combined Military Service Records of Volunteer Soldiers who served during the Mexican War in Organizations from the State of Texas, 1845-1848, microfilm no. 278, rolls 1,14,15,17
+- Combined Military Service Records of Volunteer Soldiers who served during the Mexican War in Organizations from the State of Texas, 1845-1848, microfilm no. 278, rolls 1,14,15,17
 **United States War Department, Collection of Revolutionary War Records, RG 93**
-    Revolutionary War Rolls, 1775-1783, M246, roll 89
-    Compiled Service Records of Soldiers Who Served in the American Army During the Revolutionary War, M881
-    War of 1812 Service Records, Index to Compiled Military Service Records for Volunteer Soldiers, M602, Roll 175
-    Records of Confederate Soldiers who served during the Civil War, RG 109
-    Compiled Service Records of Confederate Soldiers who served in Organizations from the State of Louisiana, M320, roll 26
-    Compiled Service Records of Confederate Soldiers who served in Organizations from the State of Texas, M323, rolls 119, 174, 175, 367, 425.
-    Compiled Service Records of Confederate General and Staff Officers and Nonregimental Enlisted Men, M331, roll 75
-    Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, roll 941, 865.
-    Unfiled Papers and Slips Belonging in Confederate Service Records, M347, roll 364
+- Revolutionary War Rolls, 1775-1783, M246, roll 89
+- Compiled Service Records of Soldiers Who Served in the American Army During the Revolutionary War, M881
+- War of 1812 Service Records, Index to Compiled Military Service Records for Volunteer Soldiers, M602, Roll 175
+- Records of Confederate Soldiers who served during the Civil War, RG 109
+- Compiled Service Records of Confederate Soldiers who served in Organizations from the State of Louisiana, M320, roll 26
+- Compiled Service Records of Confederate Soldiers who served in Organizations from the State of Texas, M323, rolls 119, 174, 175, 367, 425.
+- Compiled Service Records of Confederate General and Staff Officers and Nonregimental Enlisted Men, M331, roll 75
+- Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, roll 941, 865.
+- Unfiled Papers and Slips Belonging in Confederate Service Records, M347, roll 364
 **United States Court of Claims, Records of the Court of Claims, 1835-1966, RG 123**
-    Indian Depredation Case Records, 1891-1918, George H. Giddings vs. the United States, Comanche, Kiowa and Apache Indians, case 3873
+- Indian Depredation Case Records, 1891-1918, George H. Giddings vs. the United States, Comanche, Kiowa and Apache Indians, case 3873
 **United States Selective Service System, Records, 1940-1975, RG 147**
-    World War II Draft Registration cards for the State of Texas, Fourth Registration
-    Muster Roll Index Cards, Texas, 1838-1900, Archives and Information Services and Texas State Library and Archives Commission
-    Draft Registration Cards, WWI
-    Draft Registration Cards, (Old mans card), WWII
+- World War II Draft Registration cards for the State of Texas, Fourth Registration
+- Muster Roll Index Cards, Texas, 1838-1900, Archives and Information Services and Texas State Library and Archives Commission
+- Draft Registration Cards, WWI
+- Draft Registration Cards, (Old mans card), WWII
 **United States Army (Department of New Mexico), Records of the Army Continental Command, 1821-1920, RG 393**
-    Letters Received; Report of Captain A.H. French, May 5, 1864, entry 3165
+- Letters Received; Report of Captain A.H. French, May 5, 1864, entry 3165
 
 ### United States Congressional Records
 
-- 36th Congress, 2nd Session. Report of the Court of Claims in the case of Brevoort & Houghton vs. The United States, December 18, 1860. House of Representatives, Serial Set Vol. no. 1109
-- 36th Congress, 2nd Session. Report from the Committee on Post Offices and Post Roads of the House of Representatives for the Benefit of George H. Giddings, February 6, 1861. Senate Miscellaneous Documents, Washington, DC: George W. Bowman, printer, 1861
-  *The War of the Rebellion; a compilation of the Official Records of the Union and Confederate Armies.* 70 vols. (Washington, DC: Government Printing Office, 1880-1901)
+**36th Congress, 2nd Session.**
+- Report of the Court of Claims in the case of Brevoort & Houghton vs. The United States, December 18, 1860. House of Representatives, Serial Set Vol. no. 1109
+- Report from the Committee on Post Offices and Post Roads of the House of Representatives for the Benefit of George H. Giddings, February 6, 1861. Senate Miscellaneous Documents, Washington, DC: George W. Bowman, printer, 1861
+**The War of the Rebellion; a compilation of the Official Records of the Union and Confederate Armies.** 70 vols. (Washington, DC: Government Printing Office, 1880-1901)
 
 ## State Government Records
 
@@ -99,26 +101,24 @@ type: essay
 
 **Texas State Library and Archives Commission**
 - Texas Constitution
-    Election Code, Eligibility for Public Office
+- Election Code, Eligibility for Public Office
 - Office of the Governor,
-    Records of George T. Wood, August 11, 19, 1849
-    Records of P. Hansborough Bell, March 6, 23, June 1, 6, August 10, September 5, 1850; February 7, September 5, 1851
-    Records of Edward Clark, April 28, May 9, 10, 1861
-- Texas Secretary of State
-      Elections Division, Pecos County Election Returns, 1872, 1875
+- Records of George T. Wood, August 11, 19, 1849
+- Records of P. Hansborough Bell, March 6, 23, June 1, 6, August 10, September 5, 1850; February 7, September 5, 1851
+- Records of Edward Clark, April 28, May 9, 10, 1861
+**Texas Secretary of State**
+- Elections Division, Pecos County Election Returns, 1872, 1875
     Records of the Legislature
-	Petitions and Memorials, March 28, 1889, February 12, 1891
-	Constitutional Conventions, Secession Convention 1861, March 1861
-- Department of Criminal Justice
+- Petitions and Memorials, March 28, 1889, February 12, 1891
+- Constitutional Conventions, Secession Convention 1861, March 1861
+**Department of Criminal Justice**
 	Penitentiary Records, Record Ledgers, 1898-1902; Convict Registers, 1875-1945
 - Texas State Historical Committee, Washington County War Graves Records
-- Texas Parks and Wildlife Department
-    Preservation Plan and Program for Fort Leaton State Historic Site, Presidio County, February 1974
-- Map collection from Texas Archives
-	“Military Map of Southwest Texas,” 1881
-	“Best Route for the Movement of Troops from San Antonio to El Paso, Texas”, ca. 1865
-    *Military Map of Southwest Texas,* 1881
-    *Best Route for the Movement of Troops from San Antonio to El Paso, Texas”*, ca. 1865
+**Texas Parks and Wildlife Department**
+- Preservation Plan and Program for Fort Leaton State Historic Site, Presidio County, February 1974
+**Map collection from Texas Archives**
+- *“Military Map of Southwest Texas,”* 1881
+- *“Best Route for the Movement of Troops from San Antonio to El Paso, Texas”,* ca. 1865
 
 ### State of Mississippi
 - Mississippi Court Records, 1799-1835
@@ -135,10 +135,7 @@ type: essay
 - State of Texas election returns (county by county)
 - State election registers (a.k.a. appointment registers
 **Texas General Land Office**
-- County Clerk returns
-    Bexar County
-    Montgomery County
-    Washington County
+- County Clerk returns for Bexar County, Montgomery County, Washington County
 - Survey notes for headright 1st class certificates
 - Survey notes for 2nd class certificates
 - Survey notes for Donation Land
@@ -177,8 +174,7 @@ type: essay
 - Register of Brands
 - Probate Court Records, case # 320
 **Washington County Clerk’s Office**
-- County Deed Records
-    Deed Records, Books D, F, G and H
+- County Deed Records, Books D, F, G and H
 **Uvalde County**
 - Middle Rio Grande Development Council
 
