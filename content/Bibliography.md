@@ -7,193 +7,194 @@ type: essay
 
 ### National Archives and Record Service, Washington, DC
 
-**Department of Veterans Affairs, RG15**
-- Bureau of Pensions, Mexican War Pension Application Files, 1887-1926
-**United States Bureau of the Census, RG 29**
-- United States First Census (1790), M637, Population Schedules,
-    South Carolina: Orangeburg, roll 11; Richland, roll 11
-- United States Second Census (1800), M32, Population Schedules,
-    South Carolina: Orangeburg, roll 49
-- Mississippi Territorial Census (1805), V229
-    Jefferson
-- Mississippi Territorial Census (1808), V229
-    Jefferson, roll 2
-- Mississippi Territorial Census (1810), V229
-    Jefferson, roll 2
-- Mississippi Territorial Census (1816), V229
-    Jefferson, roll 2
-- United States Fourth Census (1820), M33, Population Schedules,
-    Mississippi: Jefferson, roll 58
-- United States Fifth Census (1830), M19, Population Schedules,
-    Louisiana: Ouachita, roll 44
-    Mississippi: Washington, roll 71
-- United States Sixth Census (1840), M707, Population schedules,
-    Mississippi: Jefferson, roll 214
-    South Carolina: Richland, roll 514
-- United States Seventh Census (1850), M432, Population Schedules,
-    Louisiana: Carroll Parish, roll 230
-    Mississippi: Jefferson, roll 374, roll 374 (slaves)
-	  South Carolina: Columbia, Richland, roll 858
-    Texas: San Antonio, Bexar, roll 908; West Side Leona R., Bexar, roll 908; Lavaca, Castroville, Medina, roll 912
-- United States Eighth Census (1860), M653, Population Schedules,
-    California: San Diego, San Diego, roll 64
-    Louisiana: Lake Providence, Carroll, roll 409
-	  Texas: Bexar, roll 1288; Columbia, Brazoria, roll 1289; Hallettsville, Lavaca, roll 1289
-    South Carolina: Columbia, Richland, roll 1227, (slave)
-- Mississippi State Census (1866), V229, Issaquena, roll 2
-    United States Ninth Census (1870), M593, Population Schedules,
-    Missouri: Jackson, roll 782
-    Texas: Brazoria, Brazoria, roll 1573; Kinney, San Felipe, roll 1594, Lavaca, roll? (slave)
-- United States Tenth Census (1880), T9, Population Schedules,
-    Texas: San Antonio, Bexar, roll 1291
-- United States Twelfth Census (1900), T623, Population Schedules,
-    Texas: San Antonio, Bexar, roll 1611, 1612, Edwards
-- United States Thirteenth Census (1910), T624, Population  Schedules
-    Texas: San Antonio, Bexar Co., roll 1611, 1612; Von Ormy,
-    Bexar, roll 1533; Hidalgo, roll 1127; Port Arthur, Jefferson, roll 1568
-- United States Fourteenth Census (1920), T625, Population Schedules
-    Texas: San Antonio, Bexar, roll 1170, roll 1779
-- United States Fifteenth Census (1930), T626, Population Schedules
-    Texas: Bexar Co. roll 2299; San Antonio, Bexar, roll 22989; Galveston, Galveston, roll 233
-- United States Fifteenth Census (1940), T627, Population Schedules,
-    Texas: San Antonio, Bexar, roll 3987.
-
-**United States Department of the Interior, Bureau of Land  Management, RG 49**
-- Military Bounty Land Application Files
-- Federal Land Patents, State Volumes, Eastern States
-- Mississippi Pre-1908 Patents, Homesteads, Cash Entry, Choctaw Indian Scrip and Chickasaw Cession Lands
-**United States Department of the Treasury, Internal Revenue Service, Record Group 58**
-- Tax Assessment Lists for Mississippi, 1865-66, M775, roll 2
-- Records of the Accounting Officers, RG 217
-- Muster Rolls, William Wallace’s Company, Texas Mounted Volunteers, 1850-1851, entry 517
-**United States Army Adjutant General’s Office, 1780-1917, RG 94**
-- Combined Military Service Records of Volunteer Soldiers who served during the Mexican War in Organizations from the State of Texas, 1845-1848, microfilm no. 278, rolls 1,14,15,17
-**United States War Department, Collection of Revolutionary War Records, RG 93**
-- Revolutionary War Rolls, 1775-1783, M246, roll 89
-- Compiled Service Records of Soldiers Who Served in the American Army During the Revolutionary War, M881
-- War of 1812 Service Records, Index to Compiled Military Service Records for Volunteer Soldiers, M602, Roll 175
-- Records of Confederate Soldiers who served during the Civil War, RG 109
-- Compiled Service Records of Confederate Soldiers who served in Organizations from the State of Louisiana, M320, roll 26
-- Compiled Service Records of Confederate Soldiers who served in Organizations from the State of Texas, M323, rolls 119, 174, 175, 367, 425.
-- Compiled Service Records of Confederate General and Staff Officers and Nonregimental Enlisted Men, M331, roll 75
-- Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, roll 941, 865.
-- Unfiled Papers and Slips Belonging in Confederate Service Records, M347, roll 364
-**United States Court of Claims, Records of the Court of Claims, 1835-1966, RG 123**
-- Indian Depredation Case Records, 1891-1918, George H. Giddings vs. the United States, Comanche, Kiowa and Apache Indians, case 3873
-**United States Selective Service System, Records, 1940-1975, RG 147**
-- World War II Draft Registration cards for the State of Texas, Fourth Registration
-- Muster Roll Index Cards, Texas, 1838-1900, Archives and Information Services and Texas State Library and Archives Commission
-- Draft Registration Cards, WWI
-- Draft Registration Cards, (Old mans card), WWII
-**United States Army (Department of New Mexico), Records of the Army Continental Command, 1821-1920, RG 393**
-- Letters Received; Report of Captain A.H. French, May 5, 1864, entry 3165
+**Department of Veterans Affairs** RG15
+* Bureau of Pensions, Mexican War Pension Application Files, 1887-1926
+**United States Bureau of the Census** RG 29
+* United States First Census (1790), M637, Population Schedules,
+    - South Carolina: Orangeburg, roll 11; Richland, roll 11
+* United States Second Census (1800), M32, Population Schedules,
+    - South Carolina: Orangeburg, roll 49
+* Mississippi Territorial Census (1805), V229
+    - Jefferson
+* Mississippi Territorial Census (1808), V229
+    - Jefferson, roll 2
+* Mississippi Territorial Census (1810), V229
+    - Jefferson, roll 2
+* Mississippi Territorial Census (1816), V229
+    - Jefferson, roll 2
+* United States Fourth Census (1820), M33, Population Schedules,
+    - Mississippi: Jefferson, roll 58
+* United States Fifth Census (1830), M19, Population Schedules,
+    - Louisiana: Ouachita, roll 44
+    - Mississippi: Washington, roll 71
+* United States Sixth Census (1840), M707, Population schedules,
+    - Mississippi: Jefferson, roll 214
+    - South Carolina: Richland, roll 514
+* United States Seventh Census (1850), M432, Population Schedules,
+    - Louisiana: Carroll Parish, roll 230
+    - Mississippi: Jefferson, roll 374, roll 374 (slaves)
+    - South Carolina: Columbia, Richland, roll 858
+    - Texas: San Antonio, Bexar, roll 908; West Side Leona R., Bexar, roll 908; Lavaca, Castroville, Medina, roll 912
+* United States Eighth Census (1860), M653, Population Schedules,
+    - California: San Diego, San Diego, roll 64
+    - Louisiana: Lake Providence, Carroll, roll 409
+    - Texas: Bexar, roll 1288; Columbia, Brazoria, roll 1289; Hallettsville, Lavaca, roll 1289
+    - South Carolina: Columbia, Richland, roll 1227, (slave)
+* Mississippi State Census (1866), V229, Issaquena, roll 2
+    - United States Ninth Census (1870), M593, Population Schedules,
+    - Missouri: Jackson, roll 782
+    - Texas: Brazoria, Brazoria, roll 1573; Kinney, San Felipe, roll 1594, Lavaca, roll? (slave)
+* United States Tenth Census (1880), T9, Population Schedules,
+    - Texas: San Antonio, Bexar, roll 1291
+* United States Twelfth Census (1900), T623, Population Schedules,
+    - Texas: San Antonio, Bexar, roll 1611, 1612, Edwards
+* United States Thirteenth Census (1910), T624, Population  Schedules
+    - Texas: San Antonio, Bexar Co., roll 1611, 1612; Von Ormy,
+    - Bexar, roll 1533; Hidalgo, roll 1127; Port Arthur, Jefferson, roll 1568
+* United States Fourteenth Census (1920), T625, Population Schedules
+    - Texas: San Antonio, Bexar, roll 1170, roll 1779
+* United States Fifteenth Census (1930), T626, Population Schedules
+    - Texas: Bexar Co. roll 2299; San Antonio, Bexar, roll 22989; Galveston, Galveston, roll 233
+* United States Fifteenth Census (1940), T627, Population Schedules,
+    - Texas: San Antonio, Bexar, roll 3987
+**United States Department of the Interior, Bureau of Land Management** RG 49
+* Military Bounty Land Application Files
+* Federal Land Patents, State Volumes, Eastern States
+* Mississippi Pre-1908 Patents, Homesteads, Cash Entry, Choctaw Indian Scrip and Chickasaw Cession Lands
+**United States Department of the Treasury, Internal Revenue Service** Record Group 58
+* Tax Assessment Lists for Mississippi, 1865-66, M775, roll 2
+* Records of the Accounting Officers, RG 217
+* Muster Rolls, William Wallace’s Company, Texas Mounted Volunteers, 1850-1851, entry 517
+**United States Army Adjutant General’s Office, 1780-1917** RG 94
+* Combined Military Service Records of Volunteer Soldiers who served during the Mexican War in Organizations from the State of Texas, 1845-1848, microfilm no. 278, rolls 1,14,15,17
+**United States War Department, Collection of Revolutionary War Records** RG 93
+* Revolutionary War Rolls, 1775-1783, M246, roll 89
+* Compiled Service Records of Soldiers Who Served in the American Army During the Revolutionary War, M881
+* War of 1812 Service Records, Index to Compiled Military Service Records for Volunteer Soldiers, M602, Roll 175
+* Records of Confederate Soldiers who served during the Civil War, RG 109
+* Compiled Service Records of Confederate Soldiers who served in Organizations from the State of Louisiana, M320, roll 26
+* Compiled Service Records of Confederate Soldiers who served in Organizations from the State of Texas, M323, rolls 119, 174, 175, 367, 425.
+* Compiled Service Records of Confederate General and Staff Officers and Nonregimental Enlisted Men, M331, roll 75
+* Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, roll 941, 865.
+* Unfiled Papers and Slips Belonging in Confederate Service Records, M347, roll 364
+**United States Court of Claims, Records of the Court of Claims, 1835-1966** RG 123
+* Indian Depredation Case Records, 1891-1918, George H. Giddings vs. the United States, Comanche, Kiowa and Apache Indians, case 3873
+**United States Selective Service System, Records, 1940-1975** RG 147
+* World War II Draft Registration cards for the State of Texas, Fourth Registration
+* Muster Roll Index Cards, Texas, 1838-1900, Archives and Information Services and Texas State Library and Archives Commission
+* Draft Registration Cards, WWI
+* Draft Registration Cards, (Old mans card), WWII
+**United States Army (Department of New Mexico), Records of the Army Continental Command, 1821-1920** RG 393
+* Letters Received; Report of Captain A.H. French, May 5, 1864, entry 3165
 
 ### United States Congressional Records
 
-**36th Congress, 2nd Session.**
-- Report of the Court of Claims in the case of Brevoort & Houghton vs. The United States, December 18, 1860. House of Representatives, Serial Set Vol. no. 1109
-- Report from the Committee on Post Offices and Post Roads of the House of Representatives for the Benefit of George H. Giddings, February 6, 1861. Senate Miscellaneous Documents, Washington, DC: George W. Bowman, printer, 1861
-**The War of the Rebellion; a compilation of the Official Records of the Union and Confederate Armies.** 70 vols. (Washington, DC: Government Printing Office, 1880-1901)
+**36th Congress, 2nd Session**
+* Report of the Court of Claims in the case of Brevoort & Houghton vs. The United States, December 18, 1860. House of Representatives, Serial Set Vol. no. 1109
+* Report from the Committee on Post Offices and Post Roads of the House of Representatives for the Benefit of George H. Giddings, February 6, 1861. Senate Miscellaneous Documents, Washington, DC: George W. Bowman, printer, 1861
+* *The War of the Rebellion; a compilation of the Official Records of the Union and Confederate Armies.* 70 vols. (Washington, DC: Government Printing Office, 1880-1901)
 
 ## State Government Records
 
 ### State of Texas
 
 **Texas State Library and Archives Commission**
-- Texas Constitution
-- Election Code, Eligibility for Public Office
-- Office of the Governor,
-- Records of George T. Wood, August 11, 19, 1849
-- Records of P. Hansborough Bell, March 6, 23, June 1, 6, August 10, September 5, 1850; February 7, September 5, 1851
-- Records of Edward Clark, April 28, May 9, 10, 1861
-**Texas Secretary of State**
-- Elections Division, Pecos County Election Returns, 1872, 1875
-    Records of the Legislature
-- Petitions and Memorials, March 28, 1889, February 12, 1891
-- Constitutional Conventions, Secession Convention 1861, March 1861
-**Department of Criminal Justice**
-	Penitentiary Records, Record Ledgers, 1898-1902; Convict Registers, 1875-1945
-- Texas State Historical Committee, Washington County War Graves Records
-**Texas Parks and Wildlife Department**
-- Preservation Plan and Program for Fort Leaton State Historic Site, Presidio County, February 1974
-**Map collection from Texas Archives**
-- *“Military Map of Southwest Texas,”* 1881
-- *“Best Route for the Movement of Troops from San Antonio to El Paso, Texas”,* ca. 1865
+* Texas Constitution
+    - Election Code, Eligibility for Public Office
+    - Office of the Governor
+    - Records of George T. Wood, August 11, 19, 1849
+    - Records of P. Hansborough Bell, March 6, 23, June 1, 6, August 10, September 5, 1850; February 7, September 5, 1851
+    - Records of Edward Clark, April 28, May 9, 10, 1861
+* Texas Secretary of State
+    - Elections Division, Pecos County Election Returns, 1872, 1875
+* Records of the Legislature
+    - Petitions and Memorials, March 28, 1889, February 12, 1891
+    - Constitutional Conventions, Secession Convention 1861, March 1861
+* Department of Criminal Justice
+    - Penitentiary Records, Record Ledgers, 1898-1902; Convict Registers, 1875-1945
+* Texas State Historical Committee, Washington County War Graves Records
+* Texas Parks and Wildlife Department
+    - Preservation Plan and Program for Fort Leaton State Historic Site, Presidio County, February 1974
+* Map collection from Texas Archives
+    - *“Military Map of Southwest Texas,”* 1881
+    - *“Best Route for the Movement of Troops from San Antonio to El Paso, Texas,”* ca. 1865
 
 ### State of Mississippi
-- Mississippi Court Records, 1799-1835
+* Mississippi Court Records, 1799-1835
 
 ## Texas Republic Records
 
 **Texas Comptroller’s Office**
-- Public Debt Claims
-- Audited Republic Claims
-- Republic Pension Files
+* Public Debt Claims
+* Audited Republic Claims
+* Republic Pension Files
 **Texas Adjutant General’s Office**
-- Republic of Texas Militia military rolls
+* Republic of Texas Militia military rolls
 **Texas Secretary of State**
-- State of Texas election returns (county by county)
-- State election registers (a.k.a. appointment registers
+* State of Texas election returns (county by county)
+* State election registers (a.k.a. appointment registers
 **Texas General Land Office**
-- County Clerk returns for Bexar County, Montgomery County, Washington County
-- Survey notes for headright 1st class certificates
-- Survey notes for 2nd class certificates
-- Survey notes for Donation Land
-- Confederate Scrip voucher
-- Bill of Sale of Confederate scrip voucher
-- Republic Donation Voucher
-- Unconditional headright certificates
-- 2nd class headright certificate
-- Abstracts of original Texas Land Titles
-- Maps from GLO collection, Bandera County, 1947, Zavala County, 1977
+* County Clerk returns for
+    - Bexar County
+    - Montgomery County
+    - Washington County
+* Survey notes for headright 1st class certificates
+* Survey notes for 2nd class certificates
+* Survey notes for Donation Land
+* Confederate Scrip voucher
+* Bill of Sale of Confederate scrip voucher
+* Republic Donation Voucher
+* Unconditional headright certificates
+* 2nd class headright certificate
+* Abstracts of original Texas Land Titles
+* Maps from GLO collection, Bandera County, 1947, Zavala County, 1977
 **Department of Health-Bureau of Vital Statistics, Certificates of death, 1876-2009**
-- Texas County Marriage Index, 1837-1973, http://familysearch.org: accessed 2012)
-- Texas Death Index, 1890-1976, (http://familysearch.org: accessed 2012)
-- Texas Death Index, 1964-1998, (http://familysearch.org: accessed 2012)
+**Texas County Marriage Index, 1837-1973,** http://familysearch.org: accessed 2012)
+**Texas Death Index, 1890-1976,** (http://familysearch.org: accessed 2012)
+**Texas Death Index, 1964-1998,** (http://familysearch.org: accessed 2012)
 
 ## County Records
 
 ### Counties of Texas
 
 **Bexar County Clerks Office**
-- Historical Deed Records
-- Bills of Sale, Books D2, G1, I1, K2, L1, M2, T1, 12, 73 and 128.
-- Warranty Deeds, Book 460
-- Deed of Adoption, Book 187
-- Revocation of Deed of Adoption, Book 1221
-- Marriage Licenses
-- 37th District Court Records, Vol. F
-- Probate Court Minutes, Vol. C
-- Statement from Office of State and County Tax Assessor
+* Historical Deed Records
+    - Bills of Sale, Books D2, G1, I1, K2, L1, M2, T1, 12, 73 and 128.
+    - Warranty Deeds, Book 460
+    - Deed of Adoption, Book 187
+    - Revocation of Deed of Adoption, Book 1221
+    - Marriage Licenses
+    - 37th District Court Records, Vol. F
+    - Probate Court Minutes, Vol. C
+    - Statement from Office of State and County Tax Assessor
 **El Paso County Clerks Office**
-- Affirmation of marriage record
+* Affirmation of marriage record
 **Lavaca County Clerks Office**
-- County Deed Records
-- Indentures, Books C, F and G
-- Bills of Sale, Books B, C and H
-- Register of Brands
-- Probate Court Records, case # 320
+* County Deed Records
+    - Indentures, Books C, F and G
+    - Bills of Sale, Books B, C and H
+    - Register of Brands
+    - Probate Court Records, case number 320
 **Washington County Clerk’s Office**
-- County Deed Records, Books D, F, G and H
+* County Deed Records, Books D, F, G and H
 **Uvalde County**
-- Middle Rio Grande Development Council
+* Middle Rio Grande Development Council
 
 ### Counties of Louisiana
 
 **East Carroll Parrish**
-- Secession Files, Drawer 55
-- Louisiana Marriages, 1718-1925, Book, East Carroll Parish
+* Secession Files, Drawer 55
+* Louisiana Marriages, 1718-1925, Book, East Carroll Parish
 
 ## City Records
 
 **City of San Antonio Clerk’s Office**
-- Mortuary Records
-- City Council Minutes, 1870-1879, Books C, D, E and F
-**Guadalupe Westside Community Plan**,(www.sanantonio.gov planning.pdf.Guadelupe_westside/01.pdf: accessed Nov. 14, 2012).
-**Civil Engineer Survey, Book 5**
-**San Antonio Police Department**
-- History of the San Antonio Police Department, (http://www.sanantonio.gov/SAPD/History.aspx: accessed Nov 14, 2012)
-**Municipal Archives and Records, Death Records, 1875-1879**
+* Mortuary Records
+* City Council Minutes, 1870-1879, Books C, D, E and F
+* *Guadalupe Westside Community Plan*,(www.sanantonio.gov planning.pdf.Guadelupe_westside/01.pdf: accessed Nov. 14, 2012).
+* Civil Engineer Survey, Book 5
+* San Antonio Police Department,History of the San Antonio Police Department, (http://www.sanantonio.gov/SAPD/History.aspx: accessed Nov 14, 2012)
+* Municipal Archives and Records, Death Records, 1875-1879
 
 ## Books
 

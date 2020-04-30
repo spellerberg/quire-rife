@@ -12,7 +12,11 @@ figure_list:
     caption: "Fig 1b. Caption TK."
     credit: "Credit TK."
   - id: "2a"
-    src: figures/2a.jpg
+  - src: figures/2a.jpg
+  - caption: future pre-Mexican war, still need image
+  - credit: "Credit TK"
+  - id: "2b"
+    src: figures/2b.jpg
     caption: "On September 23, 1846, American troops entered Monterrey, Mexico and moved within one block of Main Plaza in house-to-house fighting. The streets leading to the plaza were raked with cannon fire do the soldiers punched holes in the walls of buildings and, using ladders and pick axes, moved from house to house toward the plaza."
     credit: "Illustration from General Taylor’s Rough and Ready Almanac, 1848 by David Young. Courtesy of the Texas State Library and Archives Commission, Austin, Texas"
   - id: "3a"
@@ -21,56 +25,56 @@ figure_list:
     credit: "Courtesy of The Texas State Library and Archives Commission, Austin, Texas"
   - id: "3b"
     src: figures/3b.jpg
-    caption: "Fig 3b. Caption TK."
-    credit: "Credit TK."
+    caption: "Crossing the Pecos River on a Pontoon Bridge at Emigrants Crossing - 1860. By the time California was admitted as the 31st state of the Union on June 9, 1850, U.S. Army surveyors had located and improved the best routes for roads through the Trans-Pecos region of West Texas. The roads avoided the succession of high, broken mountains immediately north of the Rio Grande River and were suitable for use by loaded wagons. The Military or Lower Road was an all-season road over a natural surface and was free of snow in the winter. The location of river crossings and water sources were the major considerations in locating roads in all parts of Texas. "
+    credit: "Courtesy of the Texas State Library and Archives Commission, Austin, Texas."
   - id: "3c"
     src: figures/3c.jpg
-    caption: "Fig 3c. Caption TK."
-    credit: "Credit TK."
+    caption: "Texas Rangers in camp on the Leona River, ca. 1890. Thomas Rife enlisted in William (Big Foot) Wallace's Ranger Company on March 23, 1850.  The company was based across the Leona River from Fort Inge, just south of Uvalde, Texas.  They patrolled the Nueces strip.  Although the photo was taken 40 years later, camp life for the Rangers was essentially the same as in 1850."
+    credit: "Courtesy of Texan Cultures, the University of Texas at San Antonio"
   - id: "4a"
     src: figures/4a.jpg
     caption: "Skillman’s mail and passenger service commenced with the first westbound coach’s departure from San Antonio to Santa Fe, New Mexico on November 1, 1851. Before January 1853 a coach left both San Antonio and Santa Fe every other month; after that date, service was changed to every month. The one-way trip took about three weeks to complete."
     credit: "San Antonio Western Texas, April 1, 1853"
   - id: "4b"
     src: figures/4b.jpg
-    caption: "Fig 4b. Caption TK."
-    credit: "Credit TK."
+    caption: "Hendrick Arnold's Donation Land Certificate.  Certificate Number 711 for 640 acres was granted to Hendrick Arnold for his role in the Battle of Bexas in December, 1835.  He and Erastus (Deaf) Smith guided Ben Milam's Division into San Antonio in the predawn hours of December 5, 1835.  The Mexican army was expelled and the stage was set for the siege of the Alamo in the spring of 1836."
+    credit: "Courtesy of Texas Historical Foundation *Heritage* Magazine, Vol.2, Summer, 1985."
   - id: "5a"
     src: figures/5a.jpg
     caption: "Howard’s Well. This spring, now filled with gravel, was the only water source for 73 miles on the Lower Road. Consequently, there were many conflicts between Indians and travelers at this well.In dry years it was necessary to go down twelve feet with buckets to get water. George Giddings built a stage station here in June 1858."
     credit: "Photo by George Mullins"
   - id: "5b"
     src: figures/5b.jpg
-    caption: "Fig 5b. Caption TK."
-    credit: "Credit TK."
+    caption: "Advertisement in the Texas Almanac for 1860. George Giddings' mail service to San Diego, California stated on July 9, 1857, and ended on April 1, 1860."
+    credit: "Courtesy of the Texas State Historical Association."
   - id: "6a"
     src: figures/6a.jpg
     caption: "“Overland Mail Party Sighting Indians in the Distance.” A confederate soldier, Morgan Wolfe Merrick, sketched Thomas Rife and the mail party on their way to El Paso on July 10, 1861. By that time Fort Bliss and El Paso were in the hands of the Confederacy. Rife played a role in securing the fort after Federal troops abandoned it. Shown are: Freman Thomas, J. Cook, Thomas Rife, George (Clown) Garner, J. Hettler and a passenger."
     credit: "Sketch from Notes and Sketches of Campaigns in New Mexico, Arizona, Texas, Louisiana and Arkansas by a Participant by Morgan Wolfe Merrick. Courtesy of the Daughters of the Republic of Texas Library, San Antonio, Texas"
   - id: "6b"
     src: figures/6b.jpg
-    caption: "Fig 6b. Caption TK."
-    credit: "Credit TK."
+    caption: "La Mesilla, New Mexico. The town of La Mesilla was a major Confederate stronghold in the upper Rio Grande Valley and played a critical role in the Confederate invasion of New Mexico early in the Civil War."
+    credit: "Watercolor by Carl Schuchard, Courtesy of New Mexico University Library."
   - id: "6c"
     src: figures/6c.jpg
-    caption: "Fig 6c. Caption TK."
-    credit: "Credit TK."
+    caption: "Receipt for Goods and Services Provided to the CSA. Thomas Rife sold a wagon, three mules and four sets of harness to Waul's Legion of the Confederate Army at Holly Springs, Mississippi on October 25, 1862. Rife drove the wagon from Camp Waul in Washington, Texas to northern Mississippi as a civilian contractor."
+    credit: "Confederate Papers Relating to Citizens or Business Firms, 1861 - 1865. M346, Records of Confederate Soldiers Who Served During the Civil War, RG109, NARA."
   - id: "6d"
     src: figures/6d.jpg
-    caption: "Fig 6d. Caption TK."
-    credit: "Credit TK."
+    caption: "Thomas Rife's Confederate Scrip. The Texas Legislature granted in April, 1881, a writ for 1,280 acres of land to disabled Confederate veterans in lieu of a pension.  It was expensive to find and survey the land and most veterans, including Rife, sold their scrip to wealthy land investors.  He received $80 for his scrip in late 1881.  Rife was wounded while on detached service with Henry Skillman's Spy Company in 1864."
+    credit: "Courtesy of the Texas State General Land Office, Austin, Texas."
   - id: "6e"
     src: figures/6e.jpg
-    caption: "Fig 6e. Caption TK."
-    credit: "Credit TK."
+    caption: "Thomas Rife's Parole Certificate. Thomas Rife surrendered to the U.S. Army in San Antonio and received certificate Number 1 on August 22, 1865.  Paroled confederates were required to sign the Amnesty Oath, as follows: 'I do solemnly swear, in the presence of Almighty God, that I will henceforth faithfully support, protect and defend the Constitution of the United States and the Union of the States thereunder, and that I will, in like manner, abide by and faithfully support all lawas and proclamations which have been made during the existing rebellion with reference to the emancipation of slaves, So help me God.'"
+    credit: "Records of Confederate soldiers who served in the Civil War, RG 109, NARA."
   - id: "7a"
     src: figures/7a.jpg
     caption: "Concord Mail Coach. Made in Concord, New Hampshire by the Abbot-Downing Company, they were considered to be the best available passenger vehicle for severe service. They weighed 3,000 pounds and had a carrying capacity of two tons and costs about $1,500 each. Nine passengers could ride inside the coach on three seats and several more could be accommodated on top with the driver. There was ample room for baggage. Concords were constructed of New England’s best oak, ash, elm and basswood and featured heavy, wide-tired wheels set far apart for lateral stability."
     credit: "Photo from Abbot-Downing catalog."
   - id: "7b"
     src: figures/7b.jpg
-    caption: "Fig 7b. Caption TK."
-    credit: "Credit TK."
+    caption: "Election Returns of 1872, Pecos County, Texas. Thomas Rife was elected Justice of the Peace for precint number 3.  The organization of the county failed because there were only 45 registered voters and Rife did not serve."
+    credit: "Courtesy of the Texas State Library and Archives Commission."
   - id: "8a"
     src: figures/8a.jpg
     caption: "Fig 8a. Caption TK."
