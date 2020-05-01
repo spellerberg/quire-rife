@@ -8,8 +8,11 @@ type: essay
 ### National Archives and Record Service, Washington, DC
 
 **Department of Veterans Affairs** RG15
+
 * Bureau of Pensions, Mexican War Pension Application Files, 1887-1926
+
 **United States Bureau of the Census** RG 29
+
 * United States First Census (1790), M637, Population Schedules,
     - South Carolina: Orangeburg, roll 11; Richland, roll 11
 * United States Second Census (1800), M32, Population Schedules,
@@ -57,7 +60,9 @@ type: essay
     - Texas: Bexar Co. roll 2299; San Antonio, Bexar, roll 22989; Galveston, Galveston, roll 233
 * United States Fifteenth Census (1940), T627, Population Schedules,
     - Texas: San Antonio, Bexar, roll 3987
+
 **United States Department of the Interior, Bureau of Land Management** RG 49
+
 * Military Bounty Land Application Files
 * Federal Land Patents, State Volumes, Eastern States
 * Mississippi Pre-1908 Patents, Homesteads, Cash Entry, Choctaw Indian Scrip and Chickasaw Cession Lands
@@ -65,9 +70,13 @@ type: essay
 * Tax Assessment Lists for Mississippi, 1865-66, M775, roll 2
 * Records of the Accounting Officers, RG 217
 * Muster Rolls, William Wallace’s Company, Texas Mounted Volunteers, 1850-1851, entry 517
+
 **United States Army Adjutant General’s Office, 1780-1917** RG 94
+
 * Combined Military Service Records of Volunteer Soldiers who served during the Mexican War in Organizations from the State of Texas, 1845-1848, microfilm no. 278, rolls 1,14,15,17
+
 **United States War Department, Collection of Revolutionary War Records** RG 93
+
 * Revolutionary War Rolls, 1775-1783, M246, roll 89
 * Compiled Service Records of Soldiers Who Served in the American Army During the Revolutionary War, M881
 * War of 1812 Service Records, Index to Compiled Military Service Records for Volunteer Soldiers, M602, Roll 175
@@ -77,19 +86,26 @@ type: essay
 * Compiled Service Records of Confederate General and Staff Officers and Nonregimental Enlisted Men, M331, roll 75
 * Confederate Papers Relating to Citizens or Business Firms, 1861-1865, M346, roll 941, 865.
 * Unfiled Papers and Slips Belonging in Confederate Service Records, M347, roll 364
+
 **United States Court of Claims, Records of the Court of Claims, 1835-1966** RG 123
+
 * Indian Depredation Case Records, 1891-1918, George H. Giddings vs. the United States, Comanche, Kiowa and Apache Indians, case 3873
+
 **United States Selective Service System, Records, 1940-1975** RG 147
+
 * World War II Draft Registration cards for the State of Texas, Fourth Registration
 * Muster Roll Index Cards, Texas, 1838-1900, Archives and Information Services and Texas State Library and Archives Commission
 * Draft Registration Cards, WWI
 * Draft Registration Cards, (Old mans card), WWII
+
 **United States Army (Department of New Mexico), Records of the Army Continental Command, 1821-1920** RG 393
+
 * Letters Received; Report of Captain A.H. French, May 5, 1864, entry 3165
 
 ### United States Congressional Records
 
 **36th Congress, 2nd Session**
+
 * Report of the Court of Claims in the case of Brevoort & Houghton vs. The United States, December 18, 1860. House of Representatives, Serial Set Vol. no. 1109
 * Report from the Committee on Post Offices and Post Roads of the House of Representatives for the Benefit of George H. Giddings, February 6, 1861. Senate Miscellaneous Documents, Washington, DC: George W. Bowman, printer, 1861
 * *The War of the Rebellion; a compilation of the Official Records of the Union and Confederate Armies.* 70 vols. (Washington, DC: Government Printing Office, 1880-1901)
@@ -99,6 +115,7 @@ type: essay
 ### State of Texas
 
 **Texas State Library and Archives Commission**
+
 * Texas Constitution
     - Election Code, Eligibility for Public Office
     - Office of the Governor
@@ -120,20 +137,28 @@ type: essay
     - *“Best Route for the Movement of Troops from San Antonio to El Paso, Texas,”* ca. 1865
 
 ### State of Mississippi
+
 * Mississippi Court Records, 1799-1835
 
 ## Texas Republic Records
 
 **Texas Comptroller’s Office**
+
 * Public Debt Claims
 * Audited Republic Claims
 * Republic Pension Files
+
 **Texas Adjutant General’s Office**
+
 * Republic of Texas Militia military rolls
+
 **Texas Secretary of State**
+
 * State of Texas election returns (county by county)
 * State election registers (a.k.a. appointment registers
+
 **Texas General Land Office**
+
 * County Clerk returns for
     - Bexar County
     - Montgomery County
@@ -148,9 +173,13 @@ type: essay
 * 2nd class headright certificate
 * Abstracts of original Texas Land Titles
 * Maps from GLO collection, Bandera County, 1947, Zavala County, 1977
+
 **Department of Health-Bureau of Vital Statistics, Certificates of death, 1876-2009**
+
 **Texas County Marriage Index, 1837-1973,** http://familysearch.org: accessed 2012)
+
 **Texas Death Index, 1890-1976,** (http://familysearch.org: accessed 2012)
+
 **Texas Death Index, 1964-1998,** (http://familysearch.org: accessed 2012)
 
 ## County Records
@@ -158,6 +187,7 @@ type: essay
 ### Counties of Texas
 
 **Bexar County Clerks Office**
+
 * Historical Deed Records
     - Bills of Sale, Books D2, G1, I1, K2, L1, M2, T1, 12, 73 and 128.
     - Warranty Deeds, Book 460
@@ -168,27 +198,36 @@ type: essay
     - Probate Court Minutes, Vol. C
     - Statement from Office of State and County Tax Assessor
 **El Paso County Clerks Office**
+
 * Affirmation of marriage record
+
 **Lavaca County Clerks Office**
+
 * County Deed Records
     - Indentures, Books C, F and G
     - Bills of Sale, Books B, C and H
     - Register of Brands
     - Probate Court Records, case number 320
+
 **Washington County Clerk’s Office**
+
 * County Deed Records, Books D, F, G and H
+
 **Uvalde County**
+
 * Middle Rio Grande Development Council
 
 ### Counties of Louisiana
 
 **East Carroll Parrish**
+
 * Secession Files, Drawer 55
 * Louisiana Marriages, 1718-1925, Book, East Carroll Parish
 
 ## City Records
 
 **City of San Antonio Clerk’s Office**
+
 * Mortuary Records
 * City Council Minutes, 1870-1879, Books C, D, E and F
 * *Guadalupe Westside Community Plan*,(www.sanantonio.gov planning.pdf.Guadelupe_westside/01.pdf: accessed Nov. 14, 2012).
@@ -504,54 +543,71 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 - Wikipedia. “Vicksburg Campaign, Steeles Bayou Expedition.” *Wikipedia, the Free Encyclopedia* (http://en.wikipedia.org/wiki/Steele's_Bayou_Expedition: accessed October 07, 2012)
 - Wikipedia. “Colt Paterson.” *Wikipedia, the Free Encyclopedia* (www.en.wikipedia.org/Colt_Paterson:   accessed October 07, 2012)
 - Wikipedia “Walker Colt.” *Wikipedia, the Free Encyclopedia* (www.en.wikipedia.org/Colt_Walker: accessed October 07, 2012)
--Wikidot. “Silver Three Cents.” http://typesets.wikidot.com/silver-3-cents (accessed June 3, 2011)
+- Wikidot. “Silver Three Cents.” http://typesets.wikidot.com/silver-3-cents (accessed June 3, 2011)
 - Williams, Faye B. submitter. “Mystic Will of Bridget H. Ferguson, Carroll Parish, Louisiana, 1855.” *The Vicksburg Genealogical Society Quarterly, Mississippi River Routes, 7& (Fall 1999)
 - Williams, J.W. “The Butterfield Overland Mail Road Across Texas.” *The Southwestern Historical Quarterly, 56* (July 1957).
 
 ## City Directories:
 
 **General Directory for the City of San Antonio,** compiled and published by:
+
 - Mooney & Morrison, for the year 1877, 1879, 1881, 1883, 1885, 1887 and 1889.
 - Johnson & Chapman, for the year 1891.
 - Jules A. Appler, for the years 1892, 1895, 1897, 1899, 1901, 1903 and 1909.
 - Morrison & Fourmy’s General Directory of the City of San Antonio for 1879, 1881, 1885, 1887, 1889
+
 **San Antonio City Directory, 1890**
 
 ## Archives and Papers
 
 **Letters owned by Susan Majewski**
+
 - J.C. Burrus to Mary Jane Burr, February 15, 1909
 - Annie Rife to OAV Burr, January 1, 1895
+
 **Photo**
+
 - Mullins, George M., Graves of Lawrence and Mary Jane Wade, Bolivar, MS. (September 26, 2014)
 **Chancery Archives, Archdiocese of San Antonio, Texas.**
 - Baptismal Records of San Fernando Cathedral. Vols. 7/8. 9 and 10, for the years 1873-1897.
 - Burial Records of San Fernando Cathedral for the year 1879.
 - Mexico Catholic Church Records 1560-1950, Baptismal Records of San Jose, Hidalgo del Parral, Chihuahua, Mexico, 1854. http://familysearch.org: accessed 2012.
+
 **Daughters of the Republic of Texas Archives.**
+
 - Application for membership, Daughters of the Republic of Texas
 - Vertical Files of Unknown newspaper clippings, “Grounds”
 - A Guide to the Eager family papers, 1866-1966.
 - A Guide to the Sarah Eagar and Florence Eagar Roberts Alamo Papers, 1905-1913 and undated
 - Walker, Beth and Mary Carmack
 - Mexican War Pension Record
+
 **Bexar County, Texas Archives News.**
+
 - San Antonio Deaths, 1883. (http://files.usgwarchives.net/tx/bexar/newspapers/: accessed Dec 14, 2012.)
+
 **The Dolph Briscoe Center for American History,** University of Texas at Austin.
+
 - The James Magoffin File
 - Sanborn Fire Insurance Maps of Texas, 1877-1922. San Antonio, Texas, 1885, sheet 2)
 - Membership Registry Book, Texas Association of the Mexican War Veterans, 1874-1886.
+
 **Plantation Map of Carroll Parish,** Louisiana, 1848 by John Tourette.
+
 **Mississippi State Archives,** Jackson, MS
+
 - Territorial Tax Rolls, 1807, Various Records, 1820-1951
 - Territorial Tax Rolls, 1817,
+
 **South Carolina Department of Archives and History,** Columbia, SC
+
 - State Plats, (Columbia Series), Vol. 38
 - Schombert Memorial, Memorials Vol. 7
 
 ## Newspapers
 
 **Texas**
+
 - *The Texas Democrat* (Austin), 1848
 - *Texas Democratic-Statesman* (Austin), 1846-1849 and 1883
 - *Texas State Gazette* (Austin), 1849-1855
@@ -597,6 +653,7 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 - *Texas National Register* (Washington), 1845
 
 **Outside of Texas**
+
 - *Arizona Sentinel* (Phoenix), 1951
 - *Augusta Chronicle,* (GA), 1853
 - *Charleston Courier,* (SC), 1852
@@ -617,20 +674,11 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 - *San Francisco Bulletin,* 1857
 - *San Francisco Daily Globe,* 1857
 - *Evening Star* (Washington, DC), 1855
--*The Zanesville Courier* (OH), 1853
+- *The Zanesville Courier* (OH), 1853
 
 ## Miscellaneous
 
-- "William C. Adams, April 7, 1861, Texas Marriages, 1837-1973," https://familysearch.otg: accessed October 9, 2012
+- "William C. Adams, April 7, 1861, Texas Marriages, 1837-1973," https://familysearch.org: accessed October 9, 2012
 - "Thirty-Sixth Texas Calvary; Woods, Peter Cavanaugh," *Handbook of Texas* Online, www.tshaonline.org, accessed December 22, 2013
 - "San Antonio to El Paso Route, Map #1004J, Map Collection," Texas State Library and Archives, Austin
 - "Fort Clark and the Rio Grande Frontier." *Texas Beyond History.* UT Austin College of Liberal Arts, Dec 14, 2012
-
-
-
-
-
-
-
-
----------------------------------
