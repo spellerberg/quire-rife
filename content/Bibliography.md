@@ -41,7 +41,7 @@ type: essay
     - Texas: Bexar, roll 1288; Columbia, Brazoria, roll 1289; Hallettsville, Lavaca, roll 1289
     - South Carolina: Columbia, Richland, roll 1227, (slave)
 * Mississippi State Census (1866), V229, Issaquena, roll 2
-    - United States Ninth Census (1870), M593, Population Schedules,
+* United States Ninth Census (1870), M593, Population Schedules,
     - Missouri: Jackson, roll 782
     - Texas: Brazoria, Brazoria, roll 1573; Kinney, San Felipe, roll 1594, Lavaca, roll? (slave)
 * United States Tenth Census (1880), T9, Population Schedules,
@@ -240,7 +240,7 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Clifton, James “Jay.” *The Burrus Cemetery.* Benoit, MS: Dr. Keith Jones, Scoutmaster, Troop 1, July 22, 1981)
 - Conklin, Roscoe P. and Margaret B. *The Butterfield Overland Mail, 1857-1869, in two Volumes.* Glendale, CA: The Arthur H. Clark Co., 1947.				
 - Conner, Seymour V. *Adventures in Glory: The Sage of Texas, 1836-1849.* Austin: Steck-Vaughn, 1965.
-- Corner, William, Compiler and Editor. *San Antonio De Bexar, A Guide and History.* 1890, repr. San Antonio: Graphics Arts, 1977.				
+- Corner, William, comp and ed. *San Antonio De Bexar, A Guide and History.* 1890, repr. San Antonio: Graphics Arts, 1977.				
 - Cox, Mike. *The Texas Rangers, Vol. 1: Wearing the Cinco Peso, 1821-1900.* New York: Tom Doherty Associates, 2008.				
 - Crockett, David. *A Narrative of the Life of David Crockett, of the State of Tennessee, written by himself.* Philadelphia, PA: E.L. Cary and A. Hart, 1834.		
 - Culler, Daniel Marchant. *Orangeburgh District, 1768-1868: History and Records.* Spartanburg, SC: The Reprint Co., 1995.			
@@ -249,16 +249,16 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Davis, Ellis A. and Edwin H. Grobe. *New Encyclopedia of Texas, Vol. III.* Dallas: Texas Development Bureau, 1929.				
 - De La Teja, Jesus. *San Antonio de Bexar: a community on New Spain’s Northern Frontier.* Albuquerque, NM: University of New Mexico Press, 1996.
 - De Sheilds, James T. *Border Wars of Texas,* Waco, TX: Texian Press, 1976			
-- De Zavala, Adina. *History and Legends of the Alamo and Other Missions in and around San Antonio.*	San Antonio:Standard Printing Co., 1917
+- De Zavala, Adina. *History and Legends of the Alamo and Other Missions in and around San Antonio.*	San Antonio: Standard Printing Co., 1917
 - De Zavala, Adina. *The Alamo: Where the Last Man Died.* San Antonio: The Naylor Co., 1956.
 - Dearen, Patrick. *Devils River: Treacherous Twin to the Pecos, 1535-1900.* Ft. Worth: Texas Christian University Press, 2011.				
 - Dearen, Patrick. *Crossing Rio Pecos.* Ft. Worth: Texas Christian University Press, 1996.
 - Dennis, T.S. and Mrs. T.S. Dennis. *Life Of F. M. Buckelew: The Indian Captive As Related by Himself.* Bandera, TX: Hunter's Printing House, 1925.			
 - Divine, Robert A. et al. *America Past and Present.* New York:  Harper Collins College Publishers, 1995.
 - Dobie, J. Frank. *The Flavor of Texas.* Dallas: Dealey and Lowe, 1936.
-- Dobyns, Henry F. *The Mescalero Apache People.* Phoenix, AR: Indian Tribal Series, 1973.
+- Dobyns, Henry F. *The Mescalero Apache People.* Phoenix, AZ: Indian Tribal Series, 1973.
 - Dodd, Jordan R., eds. *Mississippi Marriages Early to 1825.* N. Salt Lake, UT: Heritage Quest, 2001.
-- Dow & Co., F. J., creator.  *Complete History of the Late Mexican War: By an Eyewitness.* New York: F. J. Dow &Co., 1850.
+- Dow & Co., F. J., creator.  *Complete History of the Late Mexican War: By an Eyewitness.* New York: F. J. Dow & Co., 1850.
 - Draine, Tony and John Skinner, compilers. *Revolutionary War Bounty Land Grants in South Carolina.* Columbia, SC: Congaree Publications, 1993.
 - Driscoll, Clara. *In the Shadow of the Alamo.* New York: Knickerbocker Press, 1906.
 - Duval, John C.  *Early Times in Texas, 1892,* repr, Austin: The Steck Co., 1935.
@@ -273,7 +273,7 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Everett, Donald E. *San Antonio Legacy.* San Antonio, TX:  Trinity University Press, 1979.
 - Farber, James. *Texas, C.S.A.: A Spotlight on Disaster.* New York: The Jackson Company, 1947.
 - Faulkner, Frank S. Jr. *Historic Photos of San Antonio.* Nashville, TN, Paducah, KY: Turner Publishing Co., 2007.
-- Fehrenback, T.R, *Comanches: The Destruction of a People.* (New York: Alfred A. Knopf, 1974)
+- Fehrenback, T.R, *Comanches: The Destruction of a People.* New York: Alfred A. Knopf, 1974.
 - Fehrenbach, T.R. *Seven Keys to Texas.* El Paso, TX: Texas Western Press, The University of Texas at El Paso, 1983.
 - Fenley, Florence. *Oldtimers: Their Own Stories.* Uvalde, TX: The Hornby Press, 1939.
 - Fenley, Florence. *Oldtimers, Their Own Stories.* Austin, TX: State House Press, 1991.		
@@ -300,7 +300,7 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Hasskarl, Robert and Capt. Leif R. Hasskarl. *Waul’s Texas Legion: 1862-1865.* Ada, OK: Self Published, 1985.
 - Hasskarl, Robert A. Jr. *Brenham, Texas, 1844-1958.* Brenham, TX: Banner-Press Publishing Co., 1958.
 - Hendricks, Rick and W.H. Timmons. *San Elizario: Spanish Presidio to Texas County Seat.* El Paso, TX: Texas Western Press, The University of Texas at El Paso, 1998.		
-- Hewett, Janet B., Ed. *The Roster of Confederate Soldiers, 1861-1865, Vol. XIII.* Wilmington, NC:  Broadfoot Publishing Co., 1996.				
+- Hewett, Janet B., ed. *The Roster of Confederate Soldiers, 1861-1865, Vol. XIII.* Wilmington, NC:  Broadfoot Publishing Co., 1996.				
 - Holcomb, Brent Howard. *Record of Deaths in Columbia, South Carolina and elsewhere as recorded by John Glass, 1859-1877.* Columbia, SC: SCMAR, 1986. 		
 - Hughes, Thomas, ed. *G T T Gone to Texas: Letters from Our Boys.* s.l.: The Book Club of Texas, 2000.
 - Ivey, Darren L. *The Texas Rangers: A Registry and History.* Jefferson, NC: McFarland and Co., Inc. 2010.
@@ -310,7 +310,7 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Jennings, N. A. *A Texas Ranger.* Dallas: Turner Co., 1930.			
 - Jones, Jack Moreland and Mary Bondurant Warren. *South Carolina Immigrants, 1760 to 1770.*	Danielsville, GA: Heritage Papers, 1988.			
 - King, Edward and J. Wells Champney. *Texas 1874: An eyewitness account of conditions in post-reconstruction Texas.* Houston: Cordovan Press, 1974.		
-- Kinney, John M., Comp. *Index to Applications for Texas Confederate Pensions.* Austin, TX: Archives Division, Texas State Library, 1977.			
+- Kinney, John M., comp. *Index to Applications for Texas Confederate Pensions.* Austin, TX: Archives Division, Texas State Library, 1977.			
 - Krueger, Max Amadeus Paulus. *Second Fatherland: The Life and Fortunes of a German Immigrant.* College Station, TX: Texas A&M University Press, 1976.		
 - Lane, Walter P. *The Adventures and Recollections of General Walter P Lane: A San Jacinto Veteran containing sketches of the Texan, Mexican and Late Wars.* Marshall, TX: News Messenger Pub. Co., 1928.
 - Latham, Francis S. *Travels in the Republic of Texas, 1842.* Austin: Encino Press, 1971.
@@ -323,7 +323,7 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Miller, Thomas Lloyd. *Bounty and Donation Land Grants of Texas, 1835-1888.* Austin: University of Texas Press, 1967.				
 - Mills, William W. *Forty Years at El Paso, 1858-1898: Recollections of War, Politics, Adventure, Events, Narratives, Sketches, Etc.* El Paso, TX: C. Hertzog, 1962.
 - Montejano, David. *Anglos and Mexicans in the Making of Texas, 1836-1986.* Austin: University of Texas Press, 1987.
-- Moore, Ike, Arranger. *The Life and Diary of Reading W Black: A History of Early Uvalde.* Uvalde, TX: The El Progreso Club, 1934.				
+- Moore, Ike, arranger. *The Life and Diary of Reading W Black: A History of Early Uvalde.* Uvalde, TX: The El Progreso Club, 1934.				
 - Morris, Mrs. Harry Joseph. *Founders and Patriots of the Republic of Texas, Vol. 1.* Austin: Daughters of the Republic of Texas, 1963.
 - Morphis, J.M. *History of Texas: From Its Discovery and Settlement.* New York: United States Publishing Co., 1874
 - Morris, Mrs. Harry Joseph. *Founders and Patriots of the Republic of Texas, Vol. 1.* Austin: Daughters of the Republic of Texas, 1963.
@@ -331,15 +331,15 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Moulton, Candy. *The Writer’s Guide to Everyday Life in the Wild West.* Cincinnati: Writer's Digest Books, 1999.
 - Muir, Andrew Forrest, ed. *Texas in 1837: An Anonymous, Contemporary Narrative.* Austin: The University of Texas Press, 1958
 - Mullins, Marion Day. *Republic of Texas: Poll Lists for 1846.* Baltimore: Genealogical Publishing Co., 1982.
-- Mullins, Philip. *The Ancestors of George and Hazel Mullins.* (Austin: Privately Published, 1994)
+- Mullins, Philip. *The Ancestors of George and Hazel Mullins.* Austin: Privately Published, 1994.
 - Murray, Joyce Martin. *Washington County, Texas Deed Abstracts, Vol. 1, Republic of Texas and the State of Coahuila and Texas (Mexico).* Dallas: JM Murray, 1986.		
 - Nance, Joseph Milton. *After San Jacinto: The Texas-Mexican Frontier, 1836-1841.* Austin: University of Texas Press, 1963.
-- Newcomb, Pearson. *The Alamo City.* (San Antonio: Standard Printing Company, 1926)		
+- Newcomb, Pearson. *The Alamo City.* San Antonio: Standard Printing Company, 1926.		
 - Nunn. W.C. *Texas Under The Carpetbaggers.* Austin: University of Texas Press, 1962.
 - O'Conner, Robert F., ed. *Texas Myths.* College Station, TX: Texas A&M University Press, 1986.
 - Oates, Stephen B., ed. *Rip Ford's Texas by John Salmon Ford.* Austin: University of Texas Press, 1963
 - Olmstead, Frederick Law. *A Journey Through Texas or a Saddle-Trip on the Southwestern Frontier.* Austin: University of Texas Press, 1978.			
-- Opler, Morris Edward. *Myths and Legends of the Lipan Apache Indians.* New York: American Folklore Soc., J.J. Augustin, publisher, 1940.				
+- Opler, Morris Edward. *Myths and Legends of the Lipan Apache Indians.* New York: American Folklore Soc., J.J. Augustin, pub., 1940.				
 - Pace, Robert F., ed. *Buffalo Days: Stories from J. Wright Mooar as told to James Winford Hunt.* Abilene, TX: State House Press, McMurray University, 2005
 - Park, L.G., Reviser. *Twenty-Seven Years on the Texas Frontier by Captain Wm Banta and J W Caldwell, Jr. 1893, Repr.* Council Hill, OK: L.G. Park, 1933.
 - Pease, Sewell W. *They Came to San Antonio, 1794-1865.* San Antonio, self published, 1973.
@@ -365,8 +365,8 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Schilz, Thomas F. *Lipan Apaches in Texas: Southwestern Studies, No. 83.* El Paso, TX: Texas Western Press, University of Texas at El Paso, 1987.			
 - Schmitz, Joseph William. *Thus They Lived: Social Life in the Republic of Texas.* San Antonio: The Naylor Co., 1936.
 - Schroeder-Lein. Glenna R. *Confederate Hospitals on the Move: Samuel H Stout and the Army of Tennessee.* Columbia, SC: University of South Carolina Press, 1994.
-- Scott, Florence Johnson. *Old Rough and Ready on the Rio Grande.* (Waco, TX: Texian Press, 1969)
-- Shea, William L. and Terrence J. Winchel. *Vicksburg Is the Key: The Struggle for the Mississippi River.* Lincoln, NB and London: University of Nebraska Press, 2003.
+- Scott, Florence Johnson. *Old Rough and Ready on the Rio Grande.* Waco, TX: Texian Press, 1969.
+- Shea, William L. and Terrence J. Winchel. *Vicksburg Is the Key: The Struggle for the Mississippi River.* Lincoln, NE and London: University of Nebraska Press, 2003.
 - Shiffrin, Gale Hamilton. *Echoes from Women of the Alamo.* San Antonio: AW Press, 1999.
 - Sillers, Florence Warfield. *History of Bolivar County, Mississippi.* Spartanburg, SC: Reprint Company Publishers, 1976.				
 - Smith, David P. *Frontier Defense in Texas: 1861-1865.* Denton, TX: North Texas State University, 1987.
@@ -379,8 +379,8 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Smithwick, Noah. *The Evolution of a State or Recollections of Old Texas Days. 1900, repr.* Austin: University of Texas Press, 1968 and 1983.				
 - Sowell A.J. *Early Settlers and Indian Fighters of Southwest Texas.* Abilene, TX: State House Press, McMurray University, 1896.				
 - Sowell, A.J.  *Life of “Big Foot” Wallace: The Great Ranger Captain.* Austin: State House Press, 1989.
-- Spurlin, Charles D., Comp. *Texas Veterans in the Mexican War.* Victoria, TX: C.D. Spurlin, 1984.
-- Spurlin, Charles D, Comp. *Texas Volunteers in the Mexican War.* Austin: Eakin Press, 1998
+- Spurlin, Charles D., comp. *Texas Veterans in the Mexican War.* Victoria, TX: C.D. Spurlin, 1984.
+- Spurlin, Charles D, comp. *Texas Volunteers in the Mexican War.* Austin: Eakin Press, 1998
 - Steck, Mrs. *Following the Drum: A Glimpse of Frontier Life by Mrs. Viele.* Austin: Steck-Vaughn Co., 1968.
 - Stevens, Walter B. *Through Texas: A Series of Interesting Letters.* St. Louis: St. Louis Globe Democrat, 1892
 - Sutherland, Anne H. *The Robertsons, The Sutherlands, and the Making of Texas.* College Station, TX: Texas A&M University Press, 2006.				
@@ -392,7 +392,7 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Taylor, Col. Nathaniel Alston. *The Coming Empire or Two Thousand Miles in Texas on Horseback.* 	Dallas: Turner Co., 1936.				
 - Taylor, Henry Ryder. *History of the Alamo and the Local Franciscan Missions.* San Antonio: N. Tengg, 1908.
 - Texas Historical Records Survey. *Inventory of the County Archives of Texas. No. 232, Uvalde County.* Uvalde, TX: Uvalde County, May 1941.				
-- Thompson, Jerry, Editor. *From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick.* El Paso, TX:  University of Texas at El Paso, 1991.
+- Thompson, Jerry, ed. *From Desert to Bayou: The Civil War Journal and Sketches of Morgan Wolfe Merrick.* El Paso, TX:  University of Texas at El Paso, 1991.
 - Thompson, Jerry, ed. *Civil War in the Southwest: Recollections of the Sibley Brigade.* College Station, TX:  Texas A&M University Press, 2001.			
 - Thompson, Jerry, ed. *Texas and New Mexico on the Eve of the Civil War: The Mansfield and Johnston Inspections, 1859-1861.* Albuquerque, NM: University of New Mexico Press, 2001.
 - Thonhoff, Robert H. *San Antonio Stage Lines: 1847-1881.* El Paso, TX: Texas Western Press, 1971.
@@ -411,7 +411,7 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Whisenhut, Donald W. *Chronology of Texas History.* Burnet, TX: Eakin Press, 1982.
 - White, Gifford. *1840 Citizens of Texas: Vol. 2.* St. Louis: Ingmire Publications, 1984.
 - White, Gifford. *First Settlers of Washington County, Texas.* St. Louis: G. White, 1986
-- White, Virgil D., Transcriber. *Index to Mexican War Pension Files.* Waynesboro, TN: National Historical Pub. Co., 1989.		
+- White, Virgil D., trans. *Index to Mexican War Pension Files.* Waynesboro, TN: National Historical Pub. Co., 1989.		
 - Wilbarger, J. W. *Indian Depredations in Texas: Reliable Accounts.* Austin: Hutchings Printing House, 1889.
 - Wilkens, Frederick. *Defending the Borders, The Texas Rangers, 1848-1861.* Austin: State House Press, 2001.
 - Wilkes, Maj. William Charles. *A Short History of Texas Military Forces.* Adjutant General's Department, 1946.
@@ -419,7 +419,7 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Williams, Clayton. *Never Again, Texas: 1848-1861.* San Antonio: The Naylor Co., 1969.
 - Williams, J. W. *Old Texas Trails.* Burnet, TX: Eakin Press, 1979.			
 - Winfield Mr. and Mrs., comps. *All Our Yesterdays: A Brief History of Chappell Hill.* Waco, TX: Texian Press, 1969.				
-- Wolfe, Barbara Schull, transcriber. *Index to Mexican War Pension Applications.* Indianapolis: Heritage House, 1985.				
+- Wolfe, Barbara Schull, trans. *Index to Mexican War Pension Applications.* Indianapolis: Heritage House, 1985.				
 - Woodley, Tom. *Wild West Frontier Town: A Walking Guide to Historic Downtown San Antonio.* San Antonio:  Blue House Press, 1991.			
 - Wooster, Robert. *Soldiers, Sutlers and Settlers: Garrison Life on the Texas Frontier.*  College Station, TX: Texas A&M Press, 1987.				
 - Wright, Mrs. S.J. *San Antonio de Bexar: An Epitome of Early Texas History.* Austin: Morgan Printing, 1916.
@@ -440,12 +440,12 @@ Clark, Murtie June, compiler. *The Pension Lists of 1792-1795 with other Revolut
 - Barnes, Donna A. “Farmer’s Alliance.” *The Texas State Historical Association, The New Handbook of Texas, 2* (1996).
 - Bell, James. “A Diary Kept on the Overland Trail in 1854.” *Frontier Times, 4* (June 1927).
 Bender, A.B. “Opening Routes Across West Texas, 1848-1850.” *Southwestern Historical Quarterly, 37* (October 1933).
-- Bryan, J.P., Ed. “Hendrick Arnold’s Republic of Texas Donation Land Certificate.” *Texas Historical Foundation, Heritage, 2* (Summer 1985).
-- Castellaw, C.D. and H., Eds. “Fort Inge, Uvalde County, Texas.” *Southwest Texas Genealogical Society, Branches and Acorns, 8* (June 1993).
+- Bryan, J.P., ed. “Hendrick Arnold’s Republic of Texas Donation Land Certificate.” *Texas Historical Foundation, Heritage, 2* (Summer 1985).
+- Castellaw, C.D. and H., eds. “Fort Inge, Uvalde County, Texas.” *Southwest Texas Genealogical Society, Branches and Acorns, 8* (June 1993).
 - Christian, Carole E. “Jacksonville, Texas (Washington County)” *The Texas State Historical Association, The New Handbook of Texas, 3* (1996).
-- Condra, Francis R. Ed. “E.I. Coyle & Trouble at the Alamo.” *San Antonio Genealogical & Historical Society, Our Heritage, 34* (Winter 1992-93).
-- Cooley, Mrs. Francis R. Ed. “A retrospect of San Antonio” *The Quarterly of the Texas State Historical Association, 4* (July 1900)
-- Crimmins, M.L., Ed “W.G.Freeman’s Report on the Eight Military Department.” *Southwestern Historical Quarterly, 53* (July 1949).
+- Condra, Francis R. ed. “E.I. Coyle & Trouble at the Alamo.” *San Antonio Genealogical & Historical Society, Our Heritage, 34* (Winter 1992-93).
+- Cooley, Mrs. Francis R. ed. “A retrospect of San Antonio” *The Quarterly of the Texas State Historical Association, 4* (July 1900)
+- Crimmins, M.L., ed. “W.G.Freeman’s Report on the Eight Military Department.” *Southwestern Historical Quarterly, 53* (July 1949).
 - Day, James M. “Big Foot Wallace in the Trans-Pecos Texas.” *West Texas Historical Association Year Book, 55* (1979).
 - Dobie, Frank J. “Wallace, William Alexander Anderson.” *The Texas State Historical Association, The New Handbook of Texas, 6* (1996).
 - Downing, Charles G. and Roy L. Swift “Howard, Richard Austin” *The Handbook of Texas Online,* (http://www.tshaonline.org/handbook/online/articles/fho90: accessed October 07, 2012.)
@@ -469,7 +469,7 @@ ________*Journal of Arizona History, Vol 33, No. 1* “Roy Bean,”
 - Lake, Stuart N. “Birch’s Overland Mail in San Diego County.” *San Diego Historical Society, The Journal of San Diego History Quarterly, 3* (April 1957).
 - Larson, Elizabeth. “The Concord Coach.” *OverlandTrailWebsite* (www.overland.com/ccoach.html.)
  Linenthal, Edward Tabor. “A Reservoir of Spiritual Power: Patriotic Faith at the Alamo in the Twentieth Century.” *The Southwestern Historical Quarterly, 91* (April 1988).
-- Lloyd, Helen, Ed. “Fort Inge.” *Southwest Texas Genealogical Society, Branches and Acorns, 12* (December 1996).
+- Lloyd, Helen, ed. “Fort Inge.” *Southwest Texas Genealogical Society, Branches and Acorns, 12* (December 1996).
 - Lowery, Jack. “Guarding the Westward Trail.” *Texas Highways Magazine, 39,* (September 1992)
 Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.” *Mississippi Historical Society, Mississippi Now* (www.mshistorynow.mdah.state.ms.us: accessed September 16, 2012)
 - McGuire, James Patrick. “Kuechler, Jacob.” *The Texas State Historical Association, The New Handbook of Texas, 3* (1996).
@@ -481,7 +481,7 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 - Morris, Mrs. Harry Joseph, ed. “A List of 1st Class Certificates.” *Texas State Genealogical Society, STIRPES Quarterly, 16* (September 1976). Online (www.tshonline.org/handbook/online/articles/fne16: accessed September 23, 2012).
 - Myers, Albert J., “Letters from Texas, 1854-1856,” *Southwest Historical Quarterly, Texas State Historical Association, Vol. 82:1*
 - Neilsen, Hans Peter Mareus, “The Laws of Texas, 1882-1897, Vol. 7, 1898,” http://texashistory.unt.edu/ark: accessed May 23, 2011
-- Oglivie, Mary H., “Neraz, Jean Claude,” *Handbook of Texas* Online,www.tshaonline.org/handbook/online/articles, accessed March 05, 2011
+- Oglivie, Mary H., “Neraz, Jean Claude,” *Handbook of Texas* Online, www.tshaonline.org/handbook/online/articles, accessed March 05, 2011
 - Pitcher, Mrs. Charlie H. submitter. “Centenary College of Louisiana Catalogue of the Officers and Students for the Academic Year 1852-1853.” *The Louisiana Genealogical Register, 15* (September 1968).
 - Pryor, Frances R. ed. “Genealogical Gems.” *Texas State Genealogical Society, STIRPES Quarterly, 35* (December 1995).
 - Pryor, Frances R. “Tom Rife, An Early Alamo Custodian.” *Texas State Genealogical Society, STRIPES, 42* (June 2002).
@@ -502,10 +502,10 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 - Weiss, Harold J. Jr. “The Texas Rangers Revisited: Ole Themes and New Viewpoints.” *The Southwestern Historical Quarterly, 97* (April 1994).
 - Whipple, Dick. “Fort Inge, A History: A Soldiers Life in Frontier Texas, The Fort Today.” *Southwest Texas Genealogical Society, Branches and Acorns, 18* (June 2003).
 - Wikipedia. “Vicksburg Campaign, Steeles Bayou Expedition.” *Wikipedia, the Free Encyclopedia* (http://en.wikipedia.org/wiki/Steele's_Bayou_Expedition: accessed October 07, 2012)
-- Wikipedia. “Colt Paterson.” *Wikipedia, the Free Encyclopedia* (www.en.wikipedia.org/Colt_Paterson:   accessed October 07, 2012)
+- Wikipedia. “Colt Paterson.” *Wikipedia, the Free Encyclopedia* (www.en.wikipedia.org/Colt_Paterson: accessed October 07, 2012)
 - Wikipedia “Walker Colt.” *Wikipedia, the Free Encyclopedia* (www.en.wikipedia.org/Colt_Walker: accessed October 07, 2012)
 -Wikidot. “Silver Three Cents.” http://typesets.wikidot.com/silver-3-cents (accessed June 3, 2011)
-- Williams, Faye B. submitter. “Mystic Will of Bridget H. Ferguson, Carroll Parish, Louisiana, 1855.” *The Vicksburg Genealogical Society Quarterly, Mississippi River Routes, 7& (Fall 1999)
+- Williams, Faye B. submitter. “Mystic Will of Bridget H. Ferguson, Carroll Parish, Louisiana, 1855.” *The Vicksburg Genealogical Society Quarterly, Mississippi River Routes, 7* (Fall 1999)
 - Williams, J.W. “The Butterfield Overland Mail Road Across Texas.” *The Southwestern Historical Quarterly, 56* (July 1957).
 
 ## City Directories:
@@ -541,7 +541,7 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 - The James Magoffin File
 - Sanborn Fire Insurance Maps of Texas, 1877-1922. San Antonio, Texas, 1885, sheet 2)
 - Membership Registry Book, Texas Association of the Mexican War Veterans, 1874-1886.
-**Plantation Map of Carroll Parish,** Louisiana, 1848 by John Tourette.
+**Plantation Map of Carroll Parish, Louisiana, 1848** by John Tourette.
 **Mississippi State Archives,** Jackson, MS
 - Territorial Tax Rolls, 1807, Various Records, 1820-1951
 - Territorial Tax Rolls, 1817,
@@ -573,7 +573,7 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 - *Galveston Journal,* 1853
 - *Galveston Weekly News,* 1858
 - *Civilian and Gazette* (Galveston), 1857
-- *The Gonzales Inquirer* (Texas), 1853
+- *The Gonzales Inquirer,* 1853
 - *Democratic Telegraph and Texas Register* (Houston), 1830-1849
 - *Telegraph and Texas Register* (Houston), 1838, 1851
 - *Houston Telegraph,* 1862
@@ -604,7 +604,7 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 - *Plain Dealer* (Cleveland, OH), 1893
 - *Rocky Mountain News* (Denver), 1864
 - *Boston Courier,* 1851
-- *Daily Missouri Republican (St. Louis), 1852
+- *Daily Missouri Republican* (St. Louis), 1852
 - *Natchez Courier,* (MS), 1833
 - *New Orleans Times-Picayune,* 1852-1861
 - *New York Herald, Weekly Herald,* 1853-1894
