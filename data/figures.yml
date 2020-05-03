@@ -23,6 +23,10 @@ figure_list:
   - src: figures/2a.jpg
     caption: "On September 23, 1846, American troops entered Monterrey, Mexico and moved within one block of Main Plaza in house-to-house fighting. The streets leading to the plaza were raked with cannon fire do the soldiers punched holes in the walls of buildings and, using ladders and pick axes, moved from house to house toward the plaza."
     credit: "Illustration from General Taylor’s Rough and Ready Almanac, 1848 by David Young. Courtesy of the Texas State Library and Archives Commission, Austin, Texas"
+  - id: "2b"
+  - src: figures/2b.jpg
+    caption: "Fig 2b. Facing (Pre-war)"
+    credit: ""
   - id: "3a"
     src: figures/3a.jpg
     caption: "Caricature of a Texas Ranger. This Exaggerated, but mostly accurate, portrayal of an early Texas Ranger first appeared in Harper’s Weekly on July6. 1861."
