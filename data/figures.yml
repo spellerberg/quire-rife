@@ -1,12 +1,12 @@
 figure_list:
   - id: "0a"
     src: figures/0a.jpg
-    caption: "Fig 0a. Caption TK."
-    credit: "Credit TK."
+    caption: "Thomas and Francisca Rife, San Antonio, circa 1880's. When Thomas was 50 years old, he married 17-year old Chihuahuan-born Francisca Eduarda Saenz and moved to San Antonio where they raised 12 children. "
+    credit: "Original photo owned by Susan Majewski."
   - id: "1a"
     src: figures/1a.jpg
-    caption: "Fig 1a. Caption TK."
-    credit: "Credit TK."
+    caption: Confederate government offers to hire slaves for the war effort.  In this September 1863 broadside, the office of the Chief Quartermaster in the Trans-Mississippi Department calls for Confederate slaveholders in Louisiana, Arkansas and Texas, to hire out 2000 to 3000 "able-bodied men" to the government, promising to compensate slaveholders for "any servants that may be killed by the enemy." "
+    credit: "George will find"
   - id: "1b"
     src: figures/1b.jpg
     caption: "Fig 1b. Caption TK."
@@ -77,16 +77,16 @@ figure_list:
     credit: "Courtesy of the Texas State Library and Archives Commission."
   - id: "8a"
     src: figures/8a.jpg
-    caption: "Fig 8a. Caption TK."
-    credit: "Credit TK."
+    caption: "Thomas Rife was Appointed Keeper of the Alamo. On May 16, 1883, the Bishop of San Antonio sold the ruins of the Alamo Mission Chapel to the Satate of Texas.  The State formally turned the Alamo over to the City of San Antonio. The city council authorized the mayor to "appoint some suitable person as custodian of the Alamo."  Mayor Bryan Callaghan, on July 27, 1885, appointed Thomas C. Rife, a recently retired poloicemena, as "Keeper of the Alamo" to "preserve it as a monumnet and prevent its desecration by vandals. Rife had the power and authority of a regular policeman and was paid $50 per month."
+    credit: "Courtesy of San Antonio City Council Minutes, Book E, p. 462, July 27, 1885."
   - id: "9a"
     src: figures/9a.jpg
-    caption: "The Alamo as it appeared on September 3, 1894. Less than three months after this photo was taken, Tomas Rife died on December 28, 1894, after nine and one half years as the first custodian. A wood stove was set up for the comfort of the custodian and the stove pipe can be seen protruding out of the window on the lower right window."
+    caption: "The Alamo as it appeared on September 3, 1894. Less than three months after this photo was taken, Thomas Rife died on December 28, 1894, after nine and one half years as the first custodian. A wood stove was set up for the comfort of the custodian and the stove pipe can be seen protruding out of the window on the lower right window."
     credit: "Photo courtesy of the Texas State Library and Archives Commission, Austin, Texas"
   - id: "9b"
     src: figures/9b.jpg
-    caption: "Fig 9b. Caption TK."
-    credit: "Credit TK."
+    caption: "Interior View of the Alamo in 1904. The Alamo interior as it appeared after 1894 and before the Daughters of the Republic of Texas assumed responsibility for the chapel in 1905. The U.S. Army built the gable roof in 1848 when the building was renovated for use as a supply depot."
+    credit: "Photo from *Historical Sketch and Guide to the Alamo* by Leonora Bennett, 1904."
   - id: "9c"
     src: figures/9c.jpg
     caption: "Fig 9c. Caption TK."
@@ -101,5 +101,5 @@ figure_list:
     credit: "Credit TK."
   - id: "10a"
     src: figures/10a.jpg
-    caption: "Fig 10a. Caption TK."
-    credit: "Credit TK."
+    caption: "Thomas Rife and Francisca Saenz'Church Wedding. They were married in San Fernando Church in San Antonio on March 17, 1891. The record of their civil marriage in Fort Stockton in 1872 was lost."
+    credit: "Mexican War Pension Application Files, 1887-1926, NARA."
