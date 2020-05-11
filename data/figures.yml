@@ -20,7 +20,7 @@ figure_list:
     caption: "Land Certificate for Nathaniel Chambliss.  Thomas Rife's unle, Nathaniel Chambliss, arrived in Washington County, Texas, before May 22, 1839 and qualified for a head-right of 640 acres of land under the Act of January 4, 1839. The act granted second class certificates to emigrants who arrived between October 1, 1837, and January 1, 1840. Nathaniel used his head-right to claim land in Erath County on the Edward's Plateau, 80 miles west of Waco.  Erath County was beyond the line of settlement in 1854 and Chambliss never lived on the land."
     credit: "Courtesy of the Texas State General Land Office, Austin, Texas."
   - id: "2a"
-  - src: figures/2a.jpg
+    src: figures/2a.jpg
     caption: "On September 23, 1846, American troops entered Monterrey, Mexico and moved within one block of Main Plaza in house-to-house fighting. The streets leading to the plaza were raked with cannon fire do the soldiers punched holes in the walls of buildings and, using ladders and pick axes, moved from house to house toward the plaza."
     credit: "Illustration from General Taylor’s Rough and Ready Almanac, 1848 by David Young. Courtesy of the Texas State Library and Archives Commission, Austin, Texas"
   - id: "2b"
@@ -29,15 +29,15 @@ figure_list:
     credit: ""
   - id: "3a"
     src: figures/3a.jpg
-    caption: "Caricature of a Texas Ranger. This Exaggerated, but mostly accurate, portrayal of an early Texas Ranger first appeared in Harper’s Weekly on July6. 1861."
+    caption: "**Caricature of a Texas Ranger.** This Exaggerated, but mostly accurate, portrayal of an early Texas Ranger first appeared in Harper’s Weekly on July6. 1861."
     credit: "Courtesy of The Texas State Library and Archives Commission, Austin, Texas"
   - id: "3b"
     src: figures/3b.jpg
-    caption: "Crossing the Pecos River on a Pontoon Bridge at Emigrants Crossing - 1860. By the time California was admitted as the 31st state of the Union on June 9, 1850, U.S. Army surveyors had located and improved the best routes for roads through the Trans-Pecos region of West Texas. The roads avoided the succession of high, broken mountains immediately north of the Rio Grande River and were suitable for use by loaded wagons. The Military or Lower Road was an all-season road over a natural surface and was free of snow in the winter. The location of river crossings and water sources were the major considerations in locating roads in all parts of Texas. "
+    caption: "**Crossing the Pecos River on a Pontoon Bridge at Emigrants Crossing - 1860.** By the time California was admitted as the 31st state of the Union on June 9, 1850, U.S. Army surveyors had located and improved the best routes for roads through the Trans-Pecos region of West Texas. The roads avoided the succession of high, broken mountains immediately north of the Rio Grande River and were suitable for use by loaded wagons. The Military or Lower Road was an all-season road over a natural surface and was free of snow in the winter. The location of river crossings and water sources were the major considerations in locating roads in all parts of Texas. "
     credit: "Courtesy of the Texas State Library and Archives Commission, Austin, Texas."
   - id: "3c"
     src: figures/3c.jpg
-    caption: "Texas Rangers in camp on the Leona River, ca. 1890. Thomas Rife enlisted in William (Big Foot) Wallace's Ranger Company on March 23, 1850.  The company was based across the Leona River from Fort Inge, just south of Uvalde, Texas.  They patrolled the Nueces strip.  Although the photo was taken 40 years later, camp life for the Rangers was essentially the same as in 1850."
+    caption: "**Texas Rangers in camp on the Leona River, ca. 1890.** Thomas Rife enlisted in William (Big Foot) Wallace's Ranger Company on March 23, 1850.  The company was based across the Leona River from Fort Inge, just south of Uvalde, Texas.  They patrolled the Nueces strip.  Although the photo was taken 40 years later, camp life for the Rangers was essentially the same as in 1850."
     credit: "Courtesy of Texan Cultures, the University of Texas at San Antonio"
   - id: "4a"
     src: figures/4a.jpg
@@ -45,7 +45,7 @@ figure_list:
     credit: "San Antonio Western Texas, April 1, 1853"
   - id: "4b"
     src: figures/4b.jpg
-    caption: "Hendrick Arnold's Donation Land Certificate.  Certificate Number 711 for 640 acres was granted to Hendrick Arnold for his role in the Battle of Bexas in December, 1835.  He and Erastus (Deaf) Smith guided Ben Milam's Division into San Antonio in the predawn hours of December 5, 1835.  The Mexican army was expelled and the stage was set for the siege of the Alamo in the spring of 1836."
+    caption: "**Hendrick Arnold's Donation Land Certificate.** Certificate Number 711 for 640 acres was granted to Hendrick Arnold for his role in the Battle of Bexas in December, 1835.  He and Erastus (Deaf) Smith guided Ben Milam's Division into San Antonio in the predawn hours of December 5, 1835.  The Mexican army was expelled and the stage was set for the siege of the Alamo in the spring of 1836."
     credit: "Courtesy of Texas Historical Foundation *Heritage* Magazine, Vol.2, Summer, 1985."
   - id: "5a"
     src: figures/5a.jpg
@@ -53,15 +53,15 @@ figure_list:
     credit: "Photo by George Mullins"
   - id: "5b"
     src: figures/5b.jpg
-    caption: "Advertisement in the Texas Almanac for 1860. George Giddings' mail service to San Diego, California stated on July 9, 1857, and ended on April 1, 1860."
+    caption: "**Advertisement in the Texas Almanac for 1860.** George Giddings' mail service to San Diego, California stated on July 9, 1857, and ended on April 1, 1860."
     credit: "Courtesy of the Texas State Historical Association."
   - id: "6a"
     src: figures/6a.jpg
-    caption: "“Overland Mail Party Sighting Indians in the Distance.” A confederate soldier, Morgan Wolfe Merrick, sketched Thomas Rife and the mail party on their way to El Paso on July 10, 1861. By that time Fort Bliss and El Paso were in the hands of the Confederacy. Rife played a role in securing the fort after Federal troops abandoned it. Shown are: Freman Thomas, J. Cook, Thomas Rife, George (Clown) Garner, J. Hettler and a passenger."
+    caption: "**Overland Mail Party Sighting Indians in the Distance.** A confederate soldier, Morgan Wolfe Merrick, sketched Thomas Rife and the mail party on their way to El Paso on July 10, 1861. By that time Fort Bliss and El Paso were in the hands of the Confederacy. Rife played a role in securing the fort after Federal troops abandoned it. Shown are: Freman Thomas, J. Cook, Thomas Rife, George (Clown) Garner, J. Hettler and a passenger."
     credit: "Sketch from Notes and Sketches of Campaigns in New Mexico, Arizona, Texas, Louisiana and Arkansas by a Participant by Morgan Wolfe Merrick. Courtesy of the Daughters of the Republic of Texas Library, San Antonio, Texas"
   - id: "6b"
     src: figures/6b.jpg
-    caption: "La Mesilla, New Mexico. The town of La Mesilla was a major Confederate stronghold in the upper Rio Grande Valley and played a critical role in the Confederate invasion of New Mexico early in the Civil War."
+    caption: "**La Mesilla, New Mexico.** The town of La Mesilla was a major Confederate stronghold in the upper Rio Grande Valley and played a critical role in the Confederate invasion of New Mexico early in the Civil War."
     credit: "Watercolor by Carl Schuchard, Courtesy of New Mexico University Library."
   - id: "6c"
     src: figures/6c.jpg
@@ -69,23 +69,23 @@ figure_list:
     credit: "Confederate Papers Relating to Citizens or Business Firms, 1861 - 1865. M346, Records of Confederate Soldiers Who Served During the Civil War, RG109, NARA."
   - id: "6d"
     src: figures/6d.jpg
-    caption: "Thomas Rife's Confederate Scrip. The Texas Legislature granted in April, 1881, a writ for 1,280 acres of land to disabled Confederate veterans in lieu of a pension.  It was expensive to find and survey the land and most veterans, including Rife, sold their scrip to wealthy land investors.  He received $80 for his scrip in late 1881.  Rife was wounded while on detached service with Henry Skillman's Spy Company in 1864."
+    caption: "**Thomas Rife’s Confederate Scrip.** The Texas Legislature granted in April, 1881, a writ for 1,280 acres of land to disabled Confederate veterans in lieu of a pension.  It was expensive to find and survey the land and most veterans, including Rife, sold their scrip to wealthy land investors.  He received $80 for his scrip in late 1881.  Rife was wounded while on detached service with Henry Skillman's Spy Company in 1864."
     credit: "Courtesy of the Texas State General Land Office, Austin, Texas."
   - id: "6e"
     src: figures/6e.jpg
-    caption: "Thomas Rife's Parole Certificate. Thomas Rife surrendered to the U.S. Army in San Antonio and received certificate Number 1 on August 22, 1865.  Paroled confederates were required to sign the Amnesty Oath, as follows: 'I do solemnly swear, in the presence of Almighty God, that I will henceforth faithfully support, protect and defend the Constitution of the United States and the Union of the States thereunder, and that I will, in like manner, abide by and faithfully support all lawas and proclamations which have been made during the existing rebellion with reference to the emancipation of slaves, So help me God.'"
+    caption: "**Thomas Rife’s Parole Certificate.** Thomas Rife surrendered to the U.S. Army in San Antonio and received certificate Number 1 on August 22, 1865.  Paroled confederates were required to sign the Amnesty Oath, as follows: 'I do solemnly swear, in the presence of Almighty God, that I will henceforth faithfully support, protect and defend the Constitution of the United States and the Union of the States thereunder, and that I will, in like manner, abide by and faithfully support all lawas and proclamations which have been made during the existing rebellion with reference to the emancipation of slaves, So help me God.'"
     credit: "Records of Confederate soldiers who served in the Civil War, RG 109, NARA."
   - id: "7a"
     src: figures/7a.jpg
-    caption: "Concord Mail Coach. Made in Concord, New Hampshire by the Abbot-Downing Company, they were considered to be the best available passenger vehicle for severe service. They weighed 3,000 pounds and had a carrying capacity of two tons and costs about $1,500 each. Nine passengers could ride inside the coach on three seats and several more could be accommodated on top with the driver. There was ample room for baggage. Concords were constructed of New England’s best oak, ash, elm and basswood and featured heavy, wide-tired wheels set far apart for lateral stability."
+    caption: "**Concord Mail Coach.** Made in Concord, New Hampshire by the Abbot-Downing Company, they were considered to be the best available passenger vehicle for severe service. They weighed 3,000 pounds and had a carrying capacity of two tons and costs about $1,500 each. Nine passengers could ride inside the coach on three seats and several more could be accommodated on top with the driver. There was ample room for baggage. Concords were constructed of New England’s best oak, ash, elm and basswood and featured heavy, wide-tired wheels set far apart for lateral stability."
     credit: "Photo from Abbot-Downing catalog."
   - id: "7b"
     src: figures/7b.jpg
-    caption: "Election Returns of 1872, Pecos County, Texas. Thomas Rife was elected Justice of the Peace for precint number 3.  The organization of the county failed because there were only 45 registered voters and Rife did not serve."
+    caption: "**Election Returns of 1872, Pecos County, Texas.** Thomas Rife was elected Justice of the Peace for precint number 3.  The organization of the county failed because there were only 45 registered voters and Rife did not serve."
     credit: "Courtesy of the Texas State Library and Archives Commission."
   - id: "8a"
     src: figures/8a.jpg
-    caption: "Thomas Rife was Appointed Keeper of the Alamo. On May 16, 1883, the Bishop of San Antonio sold the ruins of the Alamo Mission Chapel to the Satate of Texas.  The State formally turned the Alamo over to the City of San Antonio. The city council authorized the mayor to 'appoint some suitable person as custodian of the Alamo.'  Mayor Bryan Callaghan, on July 27, 1885, appointed Thomas C. Rife, a recently retired poloicemena, as 'Keeper of the Alamo' to 'preserve it as a monument and prevent its desecration by vandals. Rife had the power and authority of a regular policeman and was paid $50 per month."
+    caption: "**Thomas Rife was Appointed Keeper of the Alamo.** On May 16, 1883, the Bishop of San Antonio sold the ruins of the Alamo Mission Chapel to the Satate of Texas.  The State formally turned the Alamo over to the City of San Antonio. The city council authorized the mayor to 'appoint some suitable person as custodian of the Alamo.'  Mayor Bryan Callaghan, on July 27, 1885, appointed Thomas C. Rife, a recently retired poloicemena, as 'Keeper of the Alamo' to 'preserve it as a monument and prevent its desecration by vandals. Rife had the power and authority of a regular policeman and was paid $50 per month."
     credit: "Courtesy of San Antonio City Council Minutes, Book E, p. 462, July 27, 1885."
   - id: "8b"
     src: figures/8b.jpg
@@ -93,7 +93,7 @@ figure_list:
     credit: ""
   - id: "9b"
     src: figures/9b.jpg
-    caption: "Interior View of the Alamo in 1904. The Alamo interior as it appeared after 1894 and before the Daughters of the Republic of Texas assumed responsibility for the chapel in 1905. The U.S. Army built the gable roof in 1848 when the building was renovated for use as a supply depot."
+    caption: "**Interior View of the Alamo in 1904.** The Alamo interior as it appeared after 1894 and before the Daughters of the Republic of Texas assumed responsibility for the chapel in 1905. The U.S. Army built the gable roof in 1848 when the building was renovated for use as a supply depot."
     credit: "Photo from *Historical Sketch and Guide to the Alamo* by Leonora Bennett, 1904."
   - id: "9c"
     src: figures/9c.jpg
@@ -105,5 +105,5 @@ figure_list:
     credit: "Photo courtesy of the Texas State Library and Archives Commission, Austin, Texas."
   - id: "10a"
     src: figures/10a.jpg
-    caption: "Thomas Rife and Francisca Saenz'Church Wedding. They were married in San Fernando Church in San Antonio on March 17, 1891. The record of their civil marriage in Fort Stockton in 1872 was lost."
+    caption: "**Thomas Rife and Francisca Saenz’ Church Wedding.** They were married in San Fernando Church in San Antonio on March 17, 1891. The record of their civil marriage in Fort Stockton in 1872 was lost."
     credit: "Mexican War Pension Application Files, 1887-1926, NARA."
