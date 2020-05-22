@@ -18,11 +18,27 @@
 {{ end -}}
 {{- $imgDir := $.Scratch.Get "imageDir" -}}
 
+      {{- $pages := .Site.Pages -}}
+      {{- $pages := where $pages "Params.online" "!=" "false" }}
+      {{- $pages := where $pages ".Type" "!=" "data" -}}
+
+
 <div class="quire-navbar">
 
   <a href="#main" class="quire-navbar-skip-link" tabindex="1">
     Skip to Main Content
   </a>
+
+  <div class="quire-progress-bar">
+    {{ $len := len $pages }}
+    {{ range $index, $element := $pages }}
+      {{ if eq . $.Page }}
+        <div style="width: calc(100% * ({{ add $index 1 }} / {{ $len }}));">
+          <span>{{ add $index 1 }}/{{ $len }}</span>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
 
   <nav class="quire-navbar-controls">
     <div class="quire-navbar-controls__left">
@@ -44,9 +60,6 @@
     <div class="quire-navbar-controls__center">
       <ul class="quire-navbar-page-controls" role="navigation" aria-label="quick">
 
-      {{- $pages := .Site.Pages -}}
-      {{- $pages := where $pages "Params.online" "!=" "false" }}
-      {{- $pages := where $pages ".Type" "!=" "data" -}}
       
       {{- range $index, $element := $pages -}}
         {{- if eq $index  0 -}}
@@ -158,16 +171,5 @@
       </button>
     </div>
   </nav>
-
-  <div class="quire-progress-bar">
-    {{ $len := len $pages }}
-    {{ range $index, $element := $pages }}
-      {{ if eq . $.Page }}
-        <div style="width: calc(100% * ({{ add $index 1 }} / {{ $len }}));">
-          <span>{{ add $index 1 }}/{{ $len }}</span>
-        </div>
-      {{ end }}
-    {{ end }}
-  </div>
 
 </div>

@@ -7,18 +7,19 @@
 // .quire-cover
 // -----------------------------------------------------------------------------
 .quire-cover {
-  
-  
+
+
   @media print {
     $splash-page-width: $print-width + $print-bleed + $print-bleed;
     $splash-page-height: $print-height + $print-bleed + $print-bleed;
-    
+
     width: $splash-page-width;
     height: $splash-page-height;
     margin: -$print-bleed;
   }
 
   &__overlay {
+    box-shadow: 0 0.125em 0.25em 0 rgba(0, 0, 0, 0.4);
     position: absolute;
     top: 0;
     left: 0;
@@ -33,8 +34,6 @@
   }
 
   &__hero {
-    background-color: $quire-cover-color-1;
-    background-image: linear-gradient(90deg, $quire-cover-color-1, $quire-cover-color-2);
     position: relative;
     min-height: calc(95vh - #{$navbar-height}) !important;
     text-align: left;
@@ -44,7 +43,7 @@
     @media print {
       width: 100%;
       height: 100%;
-      
+
       .hero-body {
         height: auto;
         // title/author box
@@ -124,10 +123,8 @@
       margin: -25px auto 25px auto;
       text-align: center;
       svg {
-        height: 3.5rem;
-        width: 3.5rem;
-        margin-left: .25rem;
-        margin-top: .25rem;
+        height: 67px;
+        width: 67px;
         -webkit-transition: all .5s ease;
         transition: all .5s ease;
         fill: background-color-text($black);
@@ -170,7 +167,6 @@
       .content {
         padding-top: 2em !important;
         color: background-color-text-classic($secondary-background-color);
-        background-color: $secondary-background-color;
         p {
           line-height: 2em;
           font-family: $quire-primary-font;
@@ -206,7 +202,3 @@
   }
 
 }
-
-
-
-
