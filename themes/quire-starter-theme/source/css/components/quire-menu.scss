@@ -22,6 +22,7 @@
 // -----------------------------------------------------------------------------
 .quire-menu {
   font-family: $quire-primary-font;
+  font-weight: 500;
   line-height: 1.25;
 
   &__header {
@@ -56,8 +57,8 @@
     h1, h2, h3, h4, h5, h6 { color: $quire-menu-text-color; }
 
   }
-  
-  // Temporary until the headings/semantics of the menu can be reworked. Style matches backmatter h2 
+
+  // Temporary until the headings/semantics of the menu can be reworked. Style matches backmatter h2
   h6 {
     font-family: $quire-headings-font;
     @if $theme == classic {
@@ -159,7 +160,7 @@
     &.no-landing {
       .list-header {
         display: block;
-        padding: .5em .75em .5em 0;
+      //  padding: .5em .75em .5em 0;
       }
     }
   }
@@ -182,6 +183,8 @@
     li ul {
       border-left-width: 0;
     }
+
+    a { padding-top: 0; }
     .section-list {
       .section-list {
         .page-item:not(:first-child) {
@@ -201,4 +204,3 @@
     background-color: transparent;
   }
 }
-

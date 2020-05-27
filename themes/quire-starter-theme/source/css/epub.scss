@@ -250,7 +250,6 @@ figure {
 
 figcaption {
   font-size: 0.9375em;
-  line-height: 1.6;
   text-indent: 0;
 }
 
@@ -400,7 +399,7 @@ canvas, iframe, svg, video {
 
 // Paged Media CSS Setup for PrinceXML
 // -----------------------------------------------------------------------------
-// cover image 
+// cover image
 .epub-cover-image {
   display: none;
 }
@@ -499,10 +498,10 @@ a {
 
 // figures
 figure {
-  page-break-inside: avoid; 
+  page-break-inside: avoid;
   margin: 1em 0;
   @if $theme == classic {
-    
+
   } @else {
     border-top: 1px solid $accent-color;
     border-bottom: 1px solid $accent-color;
@@ -514,7 +513,7 @@ figure {
     margin: 0 auto;
     page-break-inside: avoid;
     object-fit: contain;
-  } 
+  }
   figcaption {
     display: block;
     margin-top: .5em;
@@ -522,7 +521,7 @@ figure {
   }
 }
 
-// tables 
+// tables
 table {
   width: 100%;
 }

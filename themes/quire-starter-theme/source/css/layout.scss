@@ -45,9 +45,9 @@
 
   // Styles used whether JS is enabled or not
   #main {
-    background-color: $secondary-background-color;
-    @media print {
-      background-color: transparent;
+    @media screen {
+      background: url("/img/texture.jpg") #F0EDE5;
+      background-size: 1024px 512px;
     }
   }
 

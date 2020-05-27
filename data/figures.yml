@@ -24,7 +24,7 @@ figure_list:
     caption: "**American troops entered Monterrey, Mexico** On September 23, 1846, the Americans moved within one block of Main Plaza in house-to-house fighting. The streets leading to the plaza were raked with cannon fire so the soldiers punched holes in the walls of buildings and, using ladders and pick axes, moved from house to house toward the plaza."
     credit: "Illustration from General Taylor’s Rough and Ready Almanac, 1848 by David Young. Courtesy of the Texas State Library and Archives Commission, Austin, Texas."
   - id: "2b"
-  - src: figures/2b.jpg
+    src: figures/2b.jpg
     caption: "**John Coffee Hays, 1857.** Hays commanded the Minutemen of Bexar County almost continuously from 1841 until the Mexican War. In 1842, Mexico invaded Texas. Hays led a body of volunteers to defeat Mexican General Woll at the Battle of Salado Creek and stopped the Mexican advance on Austin."
     credit: "Photo by Matthew Brady, Library of Congress, Wikimedia Commons, accessed May 12, 2020."
   - id: "3a"
