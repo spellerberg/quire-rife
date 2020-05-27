@@ -542,12 +542,15 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 **Letters owned by Susan Majewski**
 - J.C. Burrus to Mary Jane Burr, February 15, 1909
 - Annie Rife to OAV Burr, January 1, 1895
+
 **Photo**
 - Mullins, George M., Graves of Lawrence and Mary Jane Wade, Bolivar, MS. (September 26, 2014)
+
 **Chancery Archives, Archdiocese of San Antonio, Texas.**
 - Baptismal Records of San Fernando Cathedral. Vols. 7/8. 9 and 10, for the years 1873-1897.
 - Burial Records of San Fernando Cathedral for the year 1879.
 - Mexico Catholic Church Records 1560-1950, Baptismal Records of San Jose, Hidalgo del Parral, Chihuahua, Mexico, 1854. http://familysearch.org: accessed 2012.
+
 **Daughters of the Republic of Texas Archives.**
 - Application for membership, Daughters of the Republic of Texas
 - Vertical Files of Unknown newspaper clippings, “Grounds”
@@ -555,16 +558,21 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 - A Guide to the Sarah Eagar and Florence Eagar Roberts Alamo Papers, 1905-1913 and undated
 - Walker, Beth and Mary Carmack
 - Mexican War Pension Record
+
 **Bexar County, Texas Archives News.**
 - San Antonio Deaths, 1883. (http://files.usgwarchives.net/tx/bexar/newspapers/: accessed Dec 14, 2012.)
+
 **The Dolph Briscoe Center for American History,** University of Texas at Austin.
 - The James Magoffin File
 - Sanborn Fire Insurance Maps of Texas, 1877-1922. San Antonio, Texas, 1885, sheet 2)
 - Membership Registry Book, Texas Association of the Mexican War Veterans, 1874-1886.
+
 **Plantation Map of Carroll Parish, Louisiana, 1848** by John Tourette.
+
 **Mississippi State Archives,** Jackson, MS
 - Territorial Tax Rolls, 1807, Various Records, 1820-1951
 - Territorial Tax Rolls, 1817,
+
 **South Carolina Department of Archives and History,** Columbia, SC
 - State Plats, (Columbia Series), Vol. 38
 - Schombert Memorial, Memorials Vol. 7
