@@ -25,6 +25,10 @@
   font-weight: 500;
   line-height: 1.25;
 
+  ul { margin: 0; padding: 0; list-style: none; }
+  h4 { margin: 0; }
+  h6 { margin: 0; }
+
   &__header {
     margin: .25em 0 1em;
 
@@ -160,7 +164,6 @@
     &.no-landing {
       .list-header {
         display: block;
-      //  padding: .5em .75em .5em 0;
       }
     }
   }
@@ -175,7 +178,7 @@
   }
 
   .menu-list {
-    line-height: 1.5em;
+
     li > ul {
       margin-top: .25em;
       margin-bottom: .25em;

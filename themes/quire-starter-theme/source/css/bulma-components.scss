@@ -2,11 +2,12 @@
 
 // Individual imports for selective overrides
 @import "~bulma/sass/utilities/all";
-@import "~bulma/sass/base/all";
+@import "~bulma/sass/base/generic";
+@import "~bulma/sass/base/helpers";
 @import "~bulma/sass/elements/box.sass";
 @import "~bulma/sass/elements/button.sass";
 @import "components/container"; // custom container component
-@import "~bulma/sass/elements/content.sass";
+@import "components/content"; // custom content component
 @import "~bulma/sass/form/all";
 @import "~bulma/sass/elements/icon.sass";
 @import "~bulma/sass/elements/image.sass";

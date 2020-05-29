@@ -37,6 +37,8 @@
   box-shadow: none;
   background-color: transparent;
 
+  ul { margin: 0; padding: 0; list-style: none; }
+
   svg {
     height: calc(#{$navbar-height} * .65);
     width: calc(#{$navbar-height} * .65);

@@ -26,11 +26,6 @@
   margin-left: 0;
   margin-right: 0;
 
-  @if $theme == classic {
-    border: none;
-    padding: 0;
-  }
-
   .q-figure__wrapper {
     border: none;
     display: block;
