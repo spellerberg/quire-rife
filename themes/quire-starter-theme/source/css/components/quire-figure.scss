@@ -189,12 +189,13 @@
   .content figure &__caption {
     font-size: 0.75em;
     line-height: 1.5;
-    margin-top: 0.5rem;
+    margin-top: 1em;
     font-style: normal;
     text-align: left;
     color: background-color-text($content-background-color);
     @media print {
       color: $print-text-color;
+      margin-top: 2em;
     }
     user-select: text;
     a {

@@ -8,7 +8,6 @@
 // -----------------------------------------------------------------------------
 .quire-cover {
 
-
   @media print {
     $splash-page-width: $print-width + $print-bleed + $print-bleed;
     $splash-page-height: $print-height + $print-bleed + $print-bleed;
@@ -29,7 +28,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     @media print {
-      height: 100%;
+      display: none;
     }
   }
 
@@ -50,6 +49,7 @@
         .container {
           width: 75%;
           padding-left: .75in;
+          @media print { width: 100%; background-color: transparent; padding-left: 12em; }
         }
       }
     }
@@ -65,7 +65,7 @@
         font-size: 40pt;
         margin-top: 0;
         margin-bottom: 1em;
-        color: $quire-cover-text-color;
+        color: #000;
         page-break-before: right;
       }
     }
@@ -80,7 +80,7 @@
       @media print {
         font-size: 30pt;
         margin-top: .25em;
-        color: $quire-cover-text-color;
+        color: #000;
       }
     }
 
@@ -92,7 +92,7 @@
       color: $quire-cover-text-color;
       @media print {
         font-size: 18pt;
-        color: $quire-cover-text-color;
+        color: #000;
       }
     }
 
@@ -103,7 +103,7 @@
       color: $quire-cover-text-color;
       @media print {
         font-size: 18pt;
-        color: $quire-cover-text-color;
+        color: #000;
       }
     }
   }

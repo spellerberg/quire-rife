@@ -331,7 +331,7 @@ html {
           font-size: 0.875em;
           font-family: $quire-footnotes-font;
 
-          p { margin: .5em 0; }
+          p { margin: .25em 0; }
           hr { display: none; }
 
         }
@@ -818,6 +818,12 @@ html {
       display: table-cell;
       border-color: transparent !important;
     }
+}
+
+.quire-page--page-one .quire-figure {
+  @media print {
+    display: none;
+  }
 }
 
 .quire-page--suppressfigures .quire-figure {
