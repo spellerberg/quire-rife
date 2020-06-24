@@ -74,6 +74,8 @@ type: essay
 
 **United States War Department, Collection of Revolutionary War Records** RG 93
 * Revolutionary War Rolls, 1775-1783, M246, roll 89
+
+**United States War Department War Record of Confederate Soldiers Who Served During the Civil War** RG 109
 * Compiled Service Records of Soldiers Who Served in the American Army During the Revolutionary War, M881
 * War of 1812 Service Records, Index to Compiled Military Service Records for Volunteer Soldiers, M602, Roll 175
 * Records of Confederate Soldiers who served during the Civil War, RG 109
@@ -196,8 +198,8 @@ type: essay
 
 **Washington County Clerk’s Office**
 * County Deed Records, Books D, F, G and H
-**Uvalde County**
 
+**Uvalde County**
 * Middle Rio Grande Development Council
 
 ### Counties of Louisiana
