@@ -109,13 +109,9 @@
     }
 
     .section-item ul {
-      margin: .5em 0 .5em .75em;
+      margin: 0 0 .25em .75em;
       border-left-width: 0;
       font-size: .75em;
-
-      @media screen {
-        margin: .25em 0 1em .75em;
-      }
 
       .page-item {
         margin: .25em 0;
@@ -213,11 +209,11 @@
       font-family: $quire-primary-font;
     }
     li {
-      margin-bottom: .5em;
+      //margin-bottom: .5em;
     }
     li > ul {
-      margin-top: .5em;
-      margin-bottom: .5em;
+      //margin-top: .5em;
+      //margin-bottom: .5em;
       margin-right: 0;
     }
     .title {
@@ -294,8 +290,6 @@
       margin: 0;
     }
 
-
-
     .title {
       font-size: inherit;
       font-weight: inherit;
@@ -347,13 +341,7 @@
     .menu-list {
 
       a {
-        .arrow {
-          @if $theme == classic {
-            fill: background-color-text-classic($content-background-color) !important;
-          } @else {
-            fill: $accent-color;
-          }
-        }
+        .arrow { fill: $accent-color; }
         .card.no-image {
           .arrow {
             margin-top: 0;

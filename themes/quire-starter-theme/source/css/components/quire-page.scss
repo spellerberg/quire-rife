@@ -316,8 +316,7 @@ html {
           }
 
           p {
-            // font-size: 0.875em;
-            line-height: 1.6em !important;
+            line-height: 1.5em !important;
           }
           dl {
           }
@@ -328,8 +327,7 @@ html {
         }
 
         .footnotes {
-          font-size: 0.875em;
-          font-family: $quire-footnotes-font;
+          font-size: 0.9em;
 
           p { margin: .25em 0; }
           hr { display: none; }

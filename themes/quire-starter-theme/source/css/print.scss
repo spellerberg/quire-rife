@@ -10,10 +10,10 @@
 // -----------------------------------------------------------------------------
 $print-base-text-column-width: 4.75in;
 
-$print-bottom-margin: 0.875in;
-$print-top-margin: 0.75in;
-$print-outer-margin: 0.75in;
-$print-inner-margin: 1in;
+$print-bottom-margin: 0.775in;
+$print-top-margin: 0.65in;
+$print-outer-margin: 0.65in;
+$print-inner-margin: .9in;
 
 @if $print-width <= 7 {
   $print-inner-margin: $print-width - $print-base-text-column-width - $print-outer-margin;
@@ -24,7 +24,7 @@ $print-inner-margin: 1in;
 }
 
 $print-footer-font: $quire-headings-font;
-$print-footer-font-size: 8pt;
+$print-footer-font-size: 9pt;
 
 $print-trim: $print-bleed * 2;
 
