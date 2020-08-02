@@ -51,11 +51,11 @@ $quire-hover-color: $light-yellow;
 
 // Print/PDF stylesheet
 // -----------------------------------------------------------------------------
-$print-width: 7in;
-$print-height: 10in;
-$print-bleed: .125in;
+$print-width: 6.125in;
+$print-height: 9.25in;
+$print-bleed: 0;
 
-$print-base-font-size: 10pt;
+$print-base-font-size: 10.5pt;
 $print-text-color: $black;
 
 $print-splash-color: transparent;

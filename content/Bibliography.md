@@ -530,7 +530,7 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 - Williams, Faye B. submitter. “Mystic Will of Bridget H. Ferguson, Carroll Parish, Louisiana, 1855.” *The Vicksburg Genealogical Society Quarterly, Mississippi River Routes, 7* (Fall 1999)
 - Williams, J.W. “The Butterfield Overland Mail Road Across Texas.” *The Southwestern Historical Quarterly, 56* (July 1957).
 
-## City Directories:
+## City Directories
 
 **General Directory for the City of San Antonio,** compiled and published by:
 - Mooney & Morrison, for the year 1877, 1879, 1881, 1883, 1885, 1887 and 1889.
@@ -647,7 +647,7 @@ Lowery, Charles. “The Great Migration to the Mississippi Territory, 1798-1819.
 - *San Francisco Bulletin,* 1857
 - *San Francisco Daily Globe,* 1857
 - *Evening Star* (Washington, DC), 1855
--*The Zanesville Courier* (OH), 1853
+- *The Zanesville Courier* (OH), 1853
 
 ## Miscellaneous
 

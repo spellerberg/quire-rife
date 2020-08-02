@@ -71,8 +71,12 @@ html {
     margin: 0;
 
     @media print {
-      margin-top: 0.75in;
+      font-size: 1.5em;
+      margin-bottom: .5em;
+      font-weight: 700;
+      text-transform: uppercase;
     }
+
     @media screen and (max-width: $tablet) {
       font-size: 2.5em;
     }
@@ -81,6 +85,11 @@ html {
   h2 {
     font-size: 1.25rem;
     line-height: 1.15;
+
+    @media print {
+          font-size: 1rem;
+    }
+
   }
 
   h3 {
@@ -193,6 +202,9 @@ html {
           overflow: visible;
           text-align: center;
           margin: 3rem 0;
+          @media print {
+            margin: 2em 0;
+          }
           &:after {
             content: "◆\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0◆\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0◆";
             font-size: 0.875rem;
@@ -225,6 +237,7 @@ html {
 
         p {
             line-height: 1.5;
+            @media print {   line-height: 1.2; }
         }
 
         blockquote {
@@ -437,10 +450,10 @@ html {
   @media print {
     background-color: transparent;
     color: $print-text-color;
-    margin: 0 0.5in 1in;
-    @if $print-width <= 7 {
-      margin: 0 0 1in;
-    }
+    // margin: 0 0.5in 1in;
+    // @if $print-width <= 7 {
+    //   margin: 0 0 1in;
+    // }
   }
 
   &.hero__image {
@@ -626,13 +639,14 @@ html {
     a.footnote-ref {
       border-bottom-width: 0;
       font-weight: bold;
-      @media print {
-        font-weight: normal;
-        font-size: inherit;
-      }
-      font-size: 0.8rem;
       line-height: 0;
       margin-left: 0.1em;
+
+      @media print {
+        font-weight: normal;
+      }
+
+
       &:hover {
         color: link-hover-color($content-background-color) !important;
         border-bottom-width: 0 !important;
@@ -677,6 +691,12 @@ html {
       margin: 1em 0 1em 0;
       font-size: 1.5em;
 
+      @media print {
+        font-size: 1.25em;
+        margin-left: 0;
+        padding-left: 0;
+      }
+
       @media screen and (min-width: $tablet) {
         padding: 0 0 0 1.5em;
         margin: 1.5em 0;
@@ -685,7 +705,7 @@ html {
       background-color: transparent;
       font-style: italic;
 
-      p {        line-height:  1; }
+      p { line-height:  1; }
 
       em {
         font-style: normal;
@@ -811,11 +831,20 @@ html {
 
 .quire-figure {
     @media print {
-      height: 8in;
+      height: 7.75in;
+      overflow: hidden;
       vertical-align: middle;
       display: table-cell;
+//      border: 1px solid red;
       border-color: transparent !important;
     }
+}
+
+.quire-figure img {
+  @media print {
+    max-height: 6in;
+    object-fit: contain !important;
+  }
 }
 
 .quire-page--page-one .quire-figure {

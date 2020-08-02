@@ -8,26 +8,17 @@
 
 // Variables (others in the variables.scss file)
 // -----------------------------------------------------------------------------
-$print-base-text-column-width: 4.75in;
+$print-base-text-column-width: auto;
 
-$print-bottom-margin: 0.775in;
-$print-top-margin: 0.65in;
-$print-outer-margin: 0.65in;
-$print-inner-margin: .9in;
-
-@if $print-width <= 7 {
-  $print-inner-margin: $print-width - $print-base-text-column-width - $print-outer-margin;
-}
-
-@if $print-height <= 10 {
-  $print-top-margin: 0.5in;
-}
+$print-bottom-margin: 0.925in;
+$print-top-margin: 0.725in;
+$print-outer-margin: 0.825in;
+$print-inner-margin: 0.9in;
 
 $print-footer-font: $quire-headings-font;
 $print-footer-font-size: 9pt;
 
 $print-trim: $print-bleed * 2;
-
 
 @media print {
 
@@ -38,7 +29,7 @@ $print-trim: $print-bleed * 2;
     prince-bleed: $print-bleed;
     bleed: $print-bleed;
     prince-trim: $print-trim;
-    marks: crop;
+    //marks: crop;
     margin-top: $print-top-margin;
     margin-bottom: $print-bottom-margin;
     font-family: $print-footer-font;
