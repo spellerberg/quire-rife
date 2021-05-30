@@ -20,6 +20,12 @@ $content-table-foot-cell-color: $text-strong !default;
 .content {
   @extend %block;
 
+  strong {
+    @media print {
+      color: #000;
+    }
+  }
+
   // Block
   dl,
   ol,
@@ -41,12 +47,14 @@ $content-table-foot-cell-color: $text-strong !default;
     color: $content-heading-color;
     font-weight: $content-heading-weight;
     line-height: $content-heading-line-height;
+    @media print {
+      color: #000;
+    }
   }
 
   h1 {
     font-size: 2em;
     margin: 0.5em;
-
     &:not(:first-child) {
       margin-top: 1em;
     }
